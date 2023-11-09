@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gdb on Digital River</title>
+    <title>gdb on DigitalRiver</title>
     <link>https://DigitalRiver.blog/tags/gdb/</link>
-    <description>Recent content in gdb on Digital River</description>
+    <description>Recent content in gdb on DigitalRiver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Mar 2017 01:19:15 +0000</lastBuildDate><atom:link href="https://DigitalRiver.blog/tags/gdb/index.xml" rel="self" type="application/rss+xml" />

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PHP on Digital River</title>
+    <title>PHP on DigitalRiver</title>
     <link>https://DigitalRiver.blog/tags/php/</link>
-    <description>Recent content in PHP on Digital River</description>
+    <description>Recent content in PHP on DigitalRiver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Oct 2016 18:12:22 +0000</lastBuildDate><atom:link href="https://DigitalRiver.blog/tags/php/index.xml" rel="self" type="application/rss+xml" />
