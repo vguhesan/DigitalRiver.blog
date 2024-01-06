@@ -6,16 +6,14 @@
     <description>Recent content in intelliJ on DigitalRiver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Feb 2011 16:37:46 +0000</lastBuildDate><atom:link href="https://DigitalRiver.blog/categories/intellij/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Feb 2011 16:37:46 +0000</lastBuildDate>
+    <atom:link href="https://DigitalRiver.blog/categories/intellij/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IntelliJ - serialVersionUID - enabling</title>
       <link>https://DigitalRiver.blog/2011/02/18/intellij-serialversionuid-enabling/</link>
       <pubDate>Fri, 18 Feb 2011 16:37:46 +0000</pubDate>
-      
       <guid>https://DigitalRiver.blog/2011/02/18/intellij-serialversionuid-enabling/</guid>
-      <description>If you are wondering why when you make a POJO bean to implement Serializable, IntelliJ does not throw any warnings to create the serialVersionUID variable&amp;hellip; It&amp;rsquo;s because you need to enable it. Here&amp;rsquo;s how:
-Cheers!</description>
+      <description>If you are wondering why when you make a POJO bean to implement Serializable, IntelliJ does not throw any warnings to create the serialVersionUID variable&amp;hellip; It&amp;rsquo;s because you need to enable it. Here&amp;rsquo;s how:&#xA;Cheers!</description>
     </item>
-    
   </channel>
 </rss>

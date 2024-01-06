@@ -6,16 +6,14 @@
     <description>Recent content in Revel on DigitalRiver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jan 2016 01:05:42 +0000</lastBuildDate><atom:link href="https://DigitalRiver.blog/tags/revel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2016 01:05:42 +0000</lastBuildDate>
+    <atom:link href="https://DigitalRiver.blog/tags/revel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go lang - Revel Web Framework - .gitignore file starter sample</title>
       <link>https://DigitalRiver.blog/2016/01/26/go-lang-revel-web-framework-gitignore-file-starter-sample/</link>
       <pubDate>Tue, 26 Jan 2016 01:05:42 +0000</pubDate>
-      
       <guid>https://DigitalRiver.blog/2016/01/26/go-lang-revel-web-framework-gitignore-file-starter-sample/</guid>
-      <description>For those of you trying to create a new Go Language - Revel Web Framework based project, here is a sample .gitignore file.
-But before I provide you with the information, we need to discuss the project structure. If you visit the Revel site here, you will see their organization structure of a Revel project. In my case, their my_gocode/ folder is much deeper in what I store in my BitBucket account (or GitHub for that matter).</description>
+      <description>For those of you trying to create a new Go Language - Revel Web Framework based project, here is a sample .gitignore file.&#xA;But before I provide you with the information, we need to discuss the project structure. If you visit the Revel site here, you will see their organization structure of a Revel project. In my case, their my_gocode/ folder is much deeper in what I store in my BitBucket account (or GitHub for that matter).</description>
     </item>
-    
   </channel>
 </rss>

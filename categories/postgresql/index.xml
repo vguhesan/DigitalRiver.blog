@@ -6,16 +6,14 @@
     <description>Recent content in PostgreSQL on DigitalRiver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Sep 2019 21:04:14 -0400</lastBuildDate><atom:link href="https://DigitalRiver.blog/categories/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Sep 2019 21:04:14 -0400</lastBuildDate>
+    <atom:link href="https://DigitalRiver.blog/categories/postgresql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Handling PostgreSQL TimeScale Hyper-table Column Changes Efficiently</title>
       <link>https://DigitalRiver.blog/post/2019-09-05-handling-postgresql-timescale-hypertable-column-changes/</link>
       <pubDate>Thu, 05 Sep 2019 21:04:14 -0400</pubDate>
-      
       <guid>https://DigitalRiver.blog/post/2019-09-05-handling-postgresql-timescale-hypertable-column-changes/</guid>
-      <description>tl;dr This article shows you how to efficiently alter column data-types that leverages PostgreSQL TimeScale hyper-tables.
-Driving home from a long day of work, I see the beautiful sky and so I pull over to the side of the road to snap this picture. What a glorious sunset! But then you get back into your car and reality kicks in! :-) I was once again reminded of today&amp;rsquo;s challenges. (It&amp;rsquo;s funny how your mind works).</description>
+      <description>tl;dr This article shows you how to efficiently alter column data-types that leverages PostgreSQL TimeScale hyper-tables.&#xA;Driving home from a long day of work, I see the beautiful sky and so I pull over to the side of the road to snap this picture. What a glorious sunset! But then you get back into your car and reality kicks in! :-) I was once again reminded of today&amp;rsquo;s challenges. (It&amp;rsquo;s funny how your mind works).</description>
     </item>
-    
   </channel>
 </rss>

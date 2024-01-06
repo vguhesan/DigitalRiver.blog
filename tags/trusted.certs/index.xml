@@ -6,18 +6,14 @@
     <description>Recent content in trusted.certs on DigitalRiver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Nov 2016 19:15:50 +0000</lastBuildDate><atom:link href="https://DigitalRiver.blog/tags/trusted.certs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2016 19:15:50 +0000</lastBuildDate>
+    <atom:link href="https://DigitalRiver.blog/tags/trusted.certs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mac OS X iDRAC7 FileNotFoundException .java/deployment/security/trusted.certs</title>
       <link>https://DigitalRiver.blog/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</link>
       <pubDate>Thu, 17 Nov 2016 19:15:50 +0000</pubDate>
-      
       <guid>https://DigitalRiver.blog/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</guid>
-      <description>When you connect with a Dell iDRAC virtual console you may encounter the following exception on a Mac OS X
-FileNotFoundException ~/.java/deployment/security/trusted.certs
-Here is a simple fix for this:
-mkdir -p ~/.java/deployment/security cp ~/Library/Application\ Support/Oracle/Java/Deployment/security/trusted.certs ~/.java/deployment/security/ Cheers.</description>
+      <description>When you connect with a Dell iDRAC virtual console you may encounter the following exception on a Mac OS X&#xA;FileNotFoundException ~/.java/deployment/security/trusted.certs&#xA;Here is a simple fix for this:&#xA;mkdir -p ~/.java/deployment/security cp ~/Library/Application\ Support/Oracle/Java/Deployment/security/trusted.certs ~/.java/deployment/security/ Cheers.</description>
     </item>
-    
   </channel>
 </rss>

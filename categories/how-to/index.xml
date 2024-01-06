@@ -6,18 +6,14 @@
     <description>Recent content in How-To on DigitalRiver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 May 2017 23:39:48 +0000</lastBuildDate><atom:link href="https://DigitalRiver.blog/categories/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 May 2017 23:39:48 +0000</lastBuildDate>
+    <atom:link href="https://DigitalRiver.blog/categories/how-to/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux Routes - How to use them?</title>
       <link>https://DigitalRiver.blog/post/2017-05-11-how-to-add-route-in-linux/</link>
       <pubDate>Thu, 11 May 2017 23:39:48 +0000</pubDate>
-      
       <guid>https://DigitalRiver.blog/post/2017-05-11-how-to-add-route-in-linux/</guid>
-      <description>Examples of Route Command and it&amp;rsquo;s usage.
-Source: 7 Linux Route Command Examples (How to Add Route in Linux)
-To learn the fundamentals of Routing, please visit the link below:
-Fundamentals of Routing</description>
+      <description>Examples of Route Command and it&amp;rsquo;s usage.&#xA;Source: 7 Linux Route Command Examples (How to Add Route in Linux)&#xA;To learn the fundamentals of Routing, please visit the link below:&#xA;Fundamentals of Routing</description>
     </item>
-    
   </channel>
 </rss>

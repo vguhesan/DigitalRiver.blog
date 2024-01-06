@@ -6,16 +6,14 @@
     <description>Recent content in Coding As A Service on DigitalRiver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Mar 2017 18:38:39 +0000</lastBuildDate><atom:link href="https://DigitalRiver.blog/tags/coding-as-a-service/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Mar 2017 18:38:39 +0000</lastBuildDate>
+    <atom:link href="https://DigitalRiver.blog/tags/coding-as-a-service/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Future of Web Development: Coding as a Service</title>
       <link>https://DigitalRiver.blog/2017/03/12/the-future-of-web-development-coding-as-a-service/</link>
       <pubDate>Sun, 12 Mar 2017 18:38:39 +0000</pubDate>
-      
       <guid>https://DigitalRiver.blog/2017/03/12/the-future-of-web-development-coding-as-a-service/</guid>
-      <description>The article talks about the comoditization of web development as a service (Coding as a Service - CaaS).
-For the price of two Venti Iced Caramel Macchiatos per month you can run a respectable website with little to no technical experience... Artificial Intelligence will enable more complex combinations of code to be fit together through an automated process... The quantity and quality of customization with AI will be staggering. And for the end user this means it will be at once simpler and cheaper.</description>
+      <description>The article talks about the comoditization of web development as a service (Coding as a Service - CaaS).&#xA;For the price of two Venti Iced Caramel Macchiatos per month you can run a respectable website with little to no technical experience... Artificial Intelligence will enable more complex combinations of code to be fit together through an automated process... The quantity and quality of customization with AI will be staggering. And for the end user this means it will be at once simpler and cheaper.</description>
     </item>
-    
   </channel>
 </rss>
