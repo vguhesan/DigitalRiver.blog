@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://DigitalRiver.blog/tags/5g/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/bands/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://DigitalRiver.blog/categories/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/coverage/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/hm750a1000/</loc>
+    <loc>https://DigitalRiver.blog/tags/india/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/honeywell/</loc>
+    <loc>https://DigitalRiver.blog/categories/india-5g/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/humidifier/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/humidifier/</loc>
+    <loc>https://DigitalRiver.blog/tags/network/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/post/</loc>
@@ -29,7 +35,19 @@
     <loc>https://DigitalRiver.blog/post/2024-01-1/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://DigitalRiver.blog/tags/hm750a1000/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/honeywell/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://DigitalRiver.blog/post/2022-11-11/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/humidifier/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/humidifier/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/post/2022-11-08/</loc>
@@ -126,9 +144,6 @@
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/code-coverage/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/coverage/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/python/</loc>
