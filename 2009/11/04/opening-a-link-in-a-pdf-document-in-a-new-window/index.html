@@ -91,8 +91,8 @@ Sometimes you like to link out to other URL&rsquo;s or other PDF&rsquo;s from wi
 		<div class="logo">
 			<table>
 				<tr>
-					<td width="100"><a href="/"><img src="/img/logo/DigitalRiverBlog_logo.png" width="100"/></a></td>
-					<td align="top">
+					<td width="100"><a href="/"><img src="/img/logo/DigitalRiverBlog_logo.svg" width="100"/></a></td>
+					<td align="top" style="padding-left: 0px;">
 					<a class="logo__link" href="/" title="DigitalRiver" rel="home">
 						<div class="logo__title">DigitalRiver<sub>.blog</sub></div>
 						<div class="logo__tagline">Blog focused on software development, architecture and best practices for developing applications leveraging webassembly (WASM), Golang, Python, Rust - deployed using Podman, K8s, Docker images onto Google Cloud and AWS.</div>
@@ -141,13 +141,13 @@ Sometimes you like to link out to other URL&rsquo;s or other PDF&rsquo;s from wi
 			</p>
 			
 		</header><div class="content post__content clearfix">
-			<p><img src="http://mythinkpond.files.wordpress.com/2009/11/adobe_acrobat1.gif" alt="Adobe Acrobat"></p>
+			<p><img src="/img/2009/11/adobe_acrobat1.gif" alt="Adobe Acrobat"></p>
 <p><strong>Open Link In PDF In New Window</strong></p>
 <p>Sometimes you like to link out to other URL&rsquo;s or other PDF&rsquo;s from within a PDF document. And you will notice that this replaces the existing HTML frame (if you had served the original PDF from a website) or window with the new document making it hard to navigate. In these cases, you would prefer to open the link in the PDF onto it&rsquo;s own new window.</p>
 <p>Well here how you do it&hellip;</p>
 <p>So within Acrobat Professional (not Acrobat Reader), you will have options to add a URL or link. Instead, you can add a &ldquo;Javascript&rdquo; code as the action item on a link. And enter the following as the code that you use:
 [sourcecode language=&ldquo;jscript&rdquo;]</p>
-<p>app.launchURL(&ldquo;<a href="https://mythinkpond.wordpress.com/%22">https://mythinkpond.wordpress.com/&quot;</a>, true);</p>
+<p>app.launchURL(&quot;/&quot;, true);</p>
 <p>[/sourcecode]
 where the a &ldquo;true&rdquo; in the second attribute tells Acrobat reader to open the link in a new window and a &ldquo;false&rdquo; will open it up in the existing window.</p>
 <p>To learn more about the Javascript API supported in the Acrobat Reader try this link:

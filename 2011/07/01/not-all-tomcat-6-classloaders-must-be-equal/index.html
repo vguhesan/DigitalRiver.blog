@@ -97,8 +97,8 @@ Local Deployment Server" />
 		<div class="logo">
 			<table>
 				<tr>
-					<td width="100"><a href="/"><img src="/img/logo/DigitalRiverBlog_logo.png" width="100"/></a></td>
-					<td align="top">
+					<td width="100"><a href="/"><img src="/img/logo/DigitalRiverBlog_logo.svg" width="100"/></a></td>
+					<td align="top" style="padding-left: 0px;">
 					<a class="logo__link" href="/" title="DigitalRiver" rel="home">
 						<div class="logo__title">DigitalRiver<sub>.blog</sub></div>
 						<div class="logo__tagline">Blog focused on software development, architecture and best practices for developing applications leveraging webassembly (WASM), Golang, Python, Rust - deployed using Podman, K8s, Docker images onto Google Cloud and AWS.</div>
@@ -189,7 +189,7 @@ Java HotSpot(TM) Client VM (build 20.1-b02, mixed mode, sharing)</p>
 <p>This creates a war file. When deployed under the 64-bit Tomcat, no issues. But when deployed under the 32-bit Tomcat. I was getting the</p>
 <p>Jul 1, 2011 10:08:25 AM org.apache.catalina.core.StandardContext start
 SEVERE: Error listenerStart</p>
-<p>(See my <a href="http://mythinkpond.wordpress.com/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/">previous article</a> on how I enabled debugging to get to the root cause of the issue.)</p>
+<p>(See my <a href="/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/">previous article</a> on how I enabled debugging to get to the root cause of the issue.)</p>
 <p>But after some debugging, what it boiled down to was a &ldquo;Class Cannot Be Found&rdquo; error:</p>
 <p>[sourcecode language=&ldquo;jscript&rdquo;]</p>
 <p>Jul 1, 2011 11:29:25 AM org.apache.catalina.core.StandardContext listenerStart

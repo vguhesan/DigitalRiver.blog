@@ -11,7 +11,7 @@
 <meta property="og:description" content="In Grails using the templating (Sitemesh) if you were to include per-page JavaScript resources then it shows up much earlier in the layout content as part of the &lt;g:layoutBody&gt;
 Here is an example illustrating the problem:
 SamplePage.gsp [sourcecode language=&ldquo;html&rdquo;]
-&lt;!DOCTYPE html&gt; MyThinkPond.com Custom Page ... Some this page content [/sourcecode]
+&lt;!DOCTYPE html&gt; DigitalRiver.com Custom Page ... Some this page content [/sourcecode]
 and the layout page (layoutPage.gsp) [sourcecode language=&ldquo;html&rdquo;]
 &lt;!DOCTYPE html&gt; ... Some template (header) content [/sourcecode]
 results in the following page in browser [sourcecode language=&ldquo;html&rdquo;]" />
@@ -96,8 +96,8 @@ results in the following page in browser [sourcecode language=&ldquo;html&rdquo;
 		<div class="logo">
 			<table>
 				<tr>
-					<td width="100"><a href="/"><img src="/img/logo/DigitalRiverBlog_logo.png" width="100"/></a></td>
-					<td align="top">
+					<td width="100"><a href="/"><img src="/img/logo/DigitalRiverBlog_logo.svg" width="100"/></a></td>
+					<td align="top" style="padding-left: 0px;">
 					<a class="logo__link" href="/" title="DigitalRiver" rel="home">
 						<div class="logo__title">DigitalRiver<sub>.blog</sub></div>
 						<div class="logo__tagline">Blog focused on software development, architecture and best practices for developing applications leveraging webassembly (WASM), Golang, Python, Rust - deployed using Podman, K8s, Docker images onto Google Cloud and AWS.</div>
@@ -154,7 +154,7 @@ results in the following page in browser [sourcecode language=&ldquo;html&rdquo;
 <html>
 <head>
 <meta name="layout" content="layoutPage"/>
-<head>MyThinkPond.com Custom Page</head>
+<head>DigitalRiver.com Custom Page</head>
 ...
 </head>
 <body>
@@ -168,7 +168,7 @@ Some this page content
 <!DOCTYPE html>
 <html>
 <head>
-<title><g:layoutTitle default="MyThinkPond.com"/></title>
+<title><g:layoutTitle default="DigitalRiver.com"/></title>
 ...
 </head>
 <body>
@@ -188,7 +188,7 @@ Some template (header) content
 <!DOCTYPE html>
 <html>
 <head>
-<titleMyThinkPond.com Custom Page</title>
+<titleDigitalRiver.com Custom Page</title>
 ...
 </head>
 <body>
@@ -213,7 +213,7 @@ Some this page content
 <html>
 <head>
 <meta name="layout" content="layoutPage"/>
-<head>MyThinkPond.com Custom Page</head>
+<head>DigitalRiver.com Custom Page</head>
 ...
 </head>
 <body>
@@ -230,7 +230,7 @@ layoutPage.gsp
 <!DOCTYPE html>
 <html>
 <head>
-<title><g:layoutTitle default="MyThinkPond.com"/></title>
+<title><g:layoutTitle default="DigitalRiver.com"/></title>
 ...
 </head>
 <body>
@@ -252,7 +252,7 @@ Some template (header) content
 <!DOCTYPE html>
 <html>
 <head>
-<titleMyThinkPond.com Custom Page</title>
+<titleDigitalRiver.com Custom Page</title>
 ...
 </head>
 <body>

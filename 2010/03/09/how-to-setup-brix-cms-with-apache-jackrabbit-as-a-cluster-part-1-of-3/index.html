@@ -95,8 +95,8 @@ Intro into why we care about Brix and JCR." />
 		<div class="logo">
 			<table>
 				<tr>
-					<td width="100"><a href="/"><img src="/img/logo/DigitalRiverBlog_logo.png" width="100"/></a></td>
-					<td align="top">
+					<td width="100"><a href="/"><img src="/img/logo/DigitalRiverBlog_logo.svg" width="100"/></a></td>
+					<td align="top" style="padding-left: 0px;">
 					<a class="logo__link" href="/" title="DigitalRiver" rel="home">
 						<div class="logo__title">DigitalRiver<sub>.blog</sub></div>
 						<div class="logo__tagline">Blog focused on software development, architecture and best practices for developing applications leveraging webassembly (WASM), Golang, Python, Rust - deployed using Podman, K8s, Docker images onto Google Cloud and AWS.</div>
@@ -253,9 +253,9 @@ INFO  - WebApplication             - [WicketApplication] Started Wi
 </code></pre>
 <p>I&rsquo;ve highlighted some of the parts of application. When you point to the application at
 <a href="http://locahost:8080/brixdemo">http://locahost:8080/brixdemo</a> you get this:</p>
-<p><a href="http://mythinkpond.files.wordpress.com/2010/03/brix-defaultpage.jpg"><img src="http://mythinkpond.files.wordpress.com/2010/03/brix-defaultpage.jpg" alt=""></a></p>
+<p><a href="/img/2010/03/brix-defaultpage.jpg"><img src="/img/2010/03/brix-defaultpage.jpg" alt=""></a></p>
 <p>And when you click on the &ldquo;Admin&rdquo; link you get to the content manager portion of Brix-cms.</p>
-<p><a href="http://mythinkpond.files.wordpress.com/2010/03/brix-cmgr.jpg"><img src="http://mythinkpond.files.wordpress.com/2010/03/brix-cmgr.jpg" alt=""></a></p>
+<p><a href="/img/2010/03/brix-cmgr.jpg"><img src="/img/2010/03/brix-cmgr.jpg" alt=""></a></p>
 <p>Since our focus is to gain a better understanding on setting up and configuring Jackrabbit repository, lets move on. I will cover that in a later discussion. Now go ahead and edit the index.html and shutdown and restart Tomcat. What you should observe is that the change you had made is retained and that Brix has restored your changes. So let&rsquo;s see what happened on the back-end.</p>
 <p>Within brix-demo, when you fire up it creates a Jackrabbit repository and two workspaces (one called &lsquo;<strong>default</strong>&rsquo; and another with a UID - &lsquo;<strong>brix_ws_869e3fa0</strong> &hellip;&rsquo;) that&rsquo;s backed by a Java Derby database and this repository and workspace are persisted within Derby here &ldquo;C:\Apps\apache-tomcat-6.0.24\temp\brix.demo.repository&rdquo; defined by &ldquo;Using JCR repository url&rdquo; comment. And as long as this folder remains within the reach of Brix when you startup, your changes and content will be persistent across restarts.</p>
 <p>If you go to that folder on your file system, you will find the following structure:</p>

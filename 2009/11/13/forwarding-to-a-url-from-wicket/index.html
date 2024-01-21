@@ -92,8 +92,8 @@ Modify your web.xml to define your servlet as well as your Wicket application &l
 		<div class="logo">
 			<table>
 				<tr>
-					<td width="100"><a href="/"><img src="/img/logo/DigitalRiverBlog_logo.png" width="100"/></a></td>
-					<td align="top">
+					<td width="100"><a href="/"><img src="/img/logo/DigitalRiverBlog_logo.svg" width="100"/></a></td>
+					<td align="top" style="padding-left: 0px;">
 					<a class="logo__link" href="/" title="DigitalRiver" rel="home">
 						<div class="logo__title">DigitalRiver<sub>.blog</sub></div>
 						<div class="logo__tagline">Blog focused on software development, architecture and best practices for developing applications leveraging webassembly (WASM), Golang, Python, Rust - deployed using Podman, K8s, Docker images onto Google Cloud and AWS.</div>
@@ -202,7 +202,7 @@ getRequestCycle().setRequestTarget(new RedirectRequestTarget(url));
 [/sourcecode]</p>
 <p>Notice that the url field <strong>does not</strong> contain the &ldquo;ContextPath&rdquo;. Wicket takes care of that in the background. On the other hand, suppose you wanted to redirect to a URL ourside of your web context or to an external site then you would set the variable like this.</p>
 <p>[sourcecode language=&ldquo;Java&rdquo;]
-String url = &ldquo;<a href="http://mythinkpond.wordpress.com/2009/11/13/forwarding-to-a-url-from-wicket/%22;">http://mythinkpond.wordpress.com/2009/11/13/forwarding-to-a-url-from-wicket/&quot;;</a>  //or
+String url = &ldquo;/2009/11/13/forwarding-to-a-url-from-wicket/&rdquo;;  //or
 url = &ldquo;http://myserver:port/othercontext/someurl&rdquo;;<br>
 [/sourcecode]</p>
 <p>On some rare occasions, you might want to get the servlet Request Dispatcher to forward a request. For that it gets a little tricky.</p>

@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2016/06/05/two-static-website-generators-explored-hugo-jekyll/</link>
       <pubDate>Sun, 05 Jun 2016 20:58:17 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/06/05/two-static-website-generators-explored-hugo-jekyll/</guid>
-      <description>Today I had to quickly assemble a wiki/blog website for our family temple back in India. At first, I considered doing my traditional option to leverage Wordpress (this blog MyThinkPond.com uses Wordpress). Then I thought of all the complexities of setting up a MySQL database, creating and registering the site with WP Jetpack, etc. I wanted something quick, easy to maintain and something that I can hand over to someone else for maintaining.</description>
+      <description>Today I had to quickly assemble a wiki/blog website for our family temple back in India. At first, I considered doing my traditional option to leverage Wordpress (this blog DigitalRiver.com uses Wordpress). Then I thought of all the complexities of setting up a MySQL database, creating and registering the site with WP Jetpack, etc. I wanted something quick, easy to maintain and something that I can hand over to someone else for maintaining.</description>
     </item>
   </channel>
 </rss>

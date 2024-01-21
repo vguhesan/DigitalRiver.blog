@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2014/02/02/grails-adding-javascript-bottom-page/</link>
       <pubDate>Sun, 02 Feb 2014 17:10:04 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2014/02/02/grails-adding-javascript-bottom-page/</guid>
-      <description>In Grails using the templating (Sitemesh) if you were to include per-page JavaScript resources then it shows up much earlier in the layout content as part of the &amp;lt;g:layoutBody&amp;gt;&#xA;Here is an example illustrating the problem:&#xA;SamplePage.gsp [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; MyThinkPond.com Custom Page ... Some this page content [/sourcecode]&#xA;and the layout page (layoutPage.gsp) [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; ... Some template (header) content [/sourcecode]&#xA;results in the following page in browser [sourcecode language=&amp;ldquo;html&amp;rdquo;]</description>
+      <description>In Grails using the templating (Sitemesh) if you were to include per-page JavaScript resources then it shows up much earlier in the layout content as part of the &amp;lt;g:layoutBody&amp;gt;&#xA;Here is an example illustrating the problem:&#xA;SamplePage.gsp [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; DigitalRiver.com Custom Page ... Some this page content [/sourcecode]&#xA;and the layout page (layoutPage.gsp) [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; ... Some template (header) content [/sourcecode]&#xA;results in the following page in browser [sourcecode language=&amp;ldquo;html&amp;rdquo;]</description>
     </item>
   </channel>
 </rss>

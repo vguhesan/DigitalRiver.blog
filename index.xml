@@ -202,7 +202,7 @@
       <link>https://DigitalRiver.blog/post/2017-09-23-converting-wordpress-hosted-blog-to-hugo/</link>
       <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
       <guid>https://DigitalRiver.blog/post/2017-09-23-converting-wordpress-hosted-blog-to-hugo/</guid>
-      <description>Summary Thanks to Hugo Static Site generator written in GoLang and Mainroad Theme, I was able to port over my personal blog MyThinkPond as a static generated website.&#xA;Before and After Here is a screenshot of the belore site:&#xA;MyThinkPond under Wordpress hosting&#xA;Here is a screenshot of the belore site:&#xA;MyThinkPond under Wordpress hosting&#xA;I think it&amp;rsquo;s a move in the right direction. Putting me in complete control of the content, images and all artifacts that goes into bundling the site.</description>
+      <description>Summary Thanks to Hugo Static Site generator written in GoLang and Mainroad Theme, I was able to port over my personal blog DigitalRiver as a static generated website.&#xA;Before and After Here is a screenshot of the belore site:&#xA;DigitalRiver under Wordpress hosting&#xA;Here is a screenshot of the belore site:&#xA;DigitalRiver under Wordpress hosting&#xA;I think it&amp;rsquo;s a move in the right direction. Putting me in complete control of the content, images and all artifacts that goes into bundling the site.</description>
     </item>
     <item>
       <title>Mind Map: A Method To x100 Your Productivity | Robin Sharma</title>
@@ -965,7 +965,7 @@
       <link>https://DigitalRiver.blog/2016/06/05/two-static-website-generators-explored-hugo-jekyll/</link>
       <pubDate>Sun, 05 Jun 2016 20:58:17 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/06/05/two-static-website-generators-explored-hugo-jekyll/</guid>
-      <description>Today I had to quickly assemble a wiki/blog website for our family temple back in India. At first, I considered doing my traditional option to leverage Wordpress (this blog MyThinkPond.com uses Wordpress). Then I thought of all the complexities of setting up a MySQL database, creating and registering the site with WP Jetpack, etc. I wanted something quick, easy to maintain and something that I can hand over to someone else for maintaining.</description>
+      <description>Today I had to quickly assemble a wiki/blog website for our family temple back in India. At first, I considered doing my traditional option to leverage Wordpress (this blog DigitalRiver.com uses Wordpress). Then I thought of all the complexities of setting up a MySQL database, creating and registering the site with WP Jetpack, etc. I wanted something quick, easy to maintain and something that I can hand over to someone else for maintaining.</description>
     </item>
     <item>
       <title>Google’s fair use victory is good for open source | Ars Technica</title>
@@ -1189,7 +1189,7 @@
       <link>https://DigitalRiver.blog/2014/06/18/switching-back-to-wordpress-site/</link>
       <pubDate>Wed, 18 Jun 2014 02:33:46 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2014/06/18/switching-back-to-wordpress-site/</guid>
-      <description>For the past year, I&amp;rsquo;ve tried to use my own hosted Wordpress blog but I&amp;rsquo;ve noticed that my hits seems to be much higher on Wordpress hosted site than my personal site. So I&amp;rsquo;ve decided to make my switch back to the Wordpress hosted blog.&#xA;So starting today, both MyThinkPond.com and MyThinkPond.wordpress.com link back to the same blog site.</description>
+      <description>For the past year, I&amp;rsquo;ve tried to use my own hosted Wordpress blog but I&amp;rsquo;ve noticed that my hits seems to be much higher on Wordpress hosted site than my personal site. So I&amp;rsquo;ve decided to make my switch back to the Wordpress hosted blog.&#xA;So starting today, both DigitalRiver.com and DigitalRiver.wordpress.com link back to the same blog site.</description>
     </item>
     <item>
       <title>Grails 2.3.5 - grails stop-app - does not stop the app running via run-app</title>
@@ -1203,7 +1203,7 @@
       <link>https://DigitalRiver.blog/2014/02/02/grails-adding-javascript-bottom-page/</link>
       <pubDate>Sun, 02 Feb 2014 17:10:04 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2014/02/02/grails-adding-javascript-bottom-page/</guid>
-      <description>In Grails using the templating (Sitemesh) if you were to include per-page JavaScript resources then it shows up much earlier in the layout content as part of the &amp;lt;g:layoutBody&amp;gt;&#xA;Here is an example illustrating the problem:&#xA;SamplePage.gsp [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; MyThinkPond.com Custom Page ... Some this page content [/sourcecode]&#xA;and the layout page (layoutPage.gsp) [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; ... Some template (header) content [/sourcecode]&#xA;results in the following page in browser [sourcecode language=&amp;ldquo;html&amp;rdquo;]</description>
+      <description>In Grails using the templating (Sitemesh) if you were to include per-page JavaScript resources then it shows up much earlier in the layout content as part of the &amp;lt;g:layoutBody&amp;gt;&#xA;Here is an example illustrating the problem:&#xA;SamplePage.gsp [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; DigitalRiver.com Custom Page ... Some this page content [/sourcecode]&#xA;and the layout page (layoutPage.gsp) [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; ... Some template (header) content [/sourcecode]&#xA;results in the following page in browser [sourcecode language=&amp;ldquo;html&amp;rdquo;]</description>
     </item>
     <item>
       <title>Grails 2.X .gitignore file</title>
@@ -1231,7 +1231,7 @@
       <link>https://DigitalRiver.blog/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</link>
       <pubDate>Thu, 15 Nov 2012 23:31:21 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</guid>
-      <description>Article Getting started with vertx (vert.io) – an alternative to node.js - has been posted on the new website at:&#xA;http://www.mythinkpond.com/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</description>
+      <description>Article Getting started with vertx (vert.io) – an alternative to node.js - has been posted on the new website at:&#xA;/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</description>
     </item>
     <item>
       <title>Getting started with vertx (vert.io) - an alternative to node.js</title>
@@ -1255,18 +1255,18 @@
       <description>The traditional way to test for websockets is this:&#xA;[sourcecode] function WebSocketTest() { if (&amp;ldquo;WebSocket&amp;rdquo; in window) { alert(&amp;ldquo;Browser supports websocket&amp;rdquo;); } else { alert(&amp;ldquo;Browser does not support websocket&amp;rdquo;); } } &amp;hellip; Run WebSocket test [/sourcecode]&#xA;Although the above example will be technically correct for modern browsers it is important to consider some of the &amp;ldquo;experimental&amp;rdquo; implementation of this feature in earlier FireFox (Mozilla) browsers.&#xA;In FireFox (Mozilla), experimental features (until they graduate) gets added with a prefix of &amp;ldquo;Moz&amp;rdquo;.</description>
     </item>
     <item>
-      <title>Welcome to the new home... MyThinkPond.com</title>
-      <link>https://DigitalRiver.blog/2012/10/31/welcome-to-the-new-home-mythinkpond-com/</link>
+      <title>Welcome to the new home... DigitalRiver.com</title>
+      <link>https://DigitalRiver.blog/2012/10/31/welcome-to-the-new-home-digitalriver-com/</link>
       <pubDate>Wed, 31 Oct 2012 13:55:18 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2012/10/31/welcome-to-the-new-home-mythinkpond-com/</guid>
-      <description>Welcome to the new home of MyThinkPond.wordpress.com&#xA;www.MyThinkPond.com</description>
+      <guid>https://DigitalRiver.blog/2012/10/31/welcome-to-the-new-home-digitalriver-com/</guid>
+      <description>Welcome to the new home of DigitalRiver.wordpress.com&#xA;www.DigitalRiver.com</description>
     </item>
     <item>
-      <title>MyThinkPond has moved... www.MyThinkPond.com</title>
-      <link>https://DigitalRiver.blog/2012/10/31/mythinkpond-has-moved-www-mythinkpond-com/</link>
+      <title>DigitalRiver has moved... www.DigitalRiver.com</title>
+      <link>https://DigitalRiver.blog/2012/10/31/digitalriver-has-moved-www-digitalriver-com/</link>
       <pubDate>Wed, 31 Oct 2012 13:31:13 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2012/10/31/mythinkpond-has-moved-www-mythinkpond-com/</guid>
-      <description>MyThinkPond has moved&amp;hellip; www.MyThinkPond.com Dear Readers,&#xA;I felt that it was high-time to move the blog to it&amp;rsquo;s own domain. I will continue to focus on topics of interest on the new blog.&#xA;Please update your bookmarks (if needed) and I&amp;rsquo;ll see you at the new site&amp;hellip;&#xA;http://www.mythinkpond.com/&#xA;Venkatt</description>
+      <guid>https://DigitalRiver.blog/2012/10/31/digitalriver-has-moved-www-digitalriver-com/</guid>
+      <description>DigitalRiver has moved&amp;hellip; www.DigitalRiver.com Dear Readers,&#xA;I felt that it was high-time to move the blog to it&amp;rsquo;s own domain. I will continue to focus on topics of interest on the new blog.&#xA;Please update your bookmarks (if needed) and I&amp;rsquo;ll see you at the new site&amp;hellip;&#xA;http://DigitalRiver.blog/&#xA;Venkatt</description>
     </item>
     <item>
       <title>Wordpress Export Import Site Escaped Character Challenges - &#34; </title>
@@ -1301,7 +1301,7 @@
       <link>https://DigitalRiver.blog/2012/02/25/minimal-maintainable-html5-page-template-index-html/</link>
       <pubDate>Sat, 25 Feb 2012 18:36:56 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2012/02/25/minimal-maintainable-html5-page-template-index-html/</guid>
-      <description>Sometimes I keep searching for a starter HTML5 &amp;ldquo;hello-world&amp;rdquo; - index.html page. So I thought I&amp;rsquo;d blog about it so that others who need it can also take advantage of it.&#xA;&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=en&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=utf-8&amp;gt; &amp;lt;title&amp;gt;Sample HTML5 index.html from MyThinkPond&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Sample HTML5 index.html from MyThinkPond.wordpress.com&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Feel free to copy and use as needed.&#xA;At some point of time, you&amp;rsquo;re going to need something more than a &amp;lsquo;hello-world&amp;rsquo; and when you cross that road go download the &amp;ldquo;HTML5 Boilerplate&amp;rdquo;.</description>
+      <description>Sometimes I keep searching for a starter HTML5 &amp;ldquo;hello-world&amp;rdquo; - index.html page. So I thought I&amp;rsquo;d blog about it so that others who need it can also take advantage of it.&#xA;&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=en&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=utf-8&amp;gt; &amp;lt;title&amp;gt;Sample HTML5 index.html from DigitalRiver&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Sample HTML5 index.html from DigitalRiver.wordpress.com&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Feel free to copy and use as needed.&#xA;At some point of time, you&amp;rsquo;re going to need something more than a &amp;lsquo;hello-world&amp;rsquo; and when you cross that road go download the &amp;ldquo;HTML5 Boilerplate&amp;rdquo;.</description>
     </item>
     <item>
       <title>How-To Install mod_python and the compile error - apxs:Error: Command failed with rc=65536</title>
