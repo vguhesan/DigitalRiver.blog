@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/post/2024-03-17/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://DigitalRiver.blog/post/2024-03-17/</guid>
-      <description>What is this article about? These days it is typical for web pages to add &amp;ldquo;Content Security Policy&amp;rdquo; (CSP) meta tags to their website to further prevent malicious vulnerabilities. But at the same time, your website may leverage scripts from Open Source frameworks delivered via a Content Delivery Network (CDN) as part of your application or web page. This example walks you through a typical example where your Content Security Policy does not allow additional call backs that maybe essential for supporting a blob callbacks.</description>
+      <description>What is this article about? These days it is typical for web pages to add &amp;ldquo;Content Security Policy&amp;rdquo; (CSP) meta tags to their website to further prevent malicious vulnerabilities. But at the same time, your website may leverage scripts from Open Source frameworks delivered via a Content Delivery Network (CDN) as part of your application or web page.&#xA;This example walks you through a typical example where your Content Security Policy does not allow additional call backs that maybe essential for supporting a blob callbacks.</description>
     </item>
   </channel>
 </rss>

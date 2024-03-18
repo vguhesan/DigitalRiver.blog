@@ -260,16 +260,20 @@
 </figure>
 
 <h3 id="what-is-this-article-about">What is this article about?</h3>
-<p>These days it is typical for web pages to add &ldquo;Content Security Policy&rdquo; (CSP) meta tags to their website to further prevent malicious vulnerabilities. But at the same time, your website may leverage scripts from Open Source frameworks delivered via a Content Delivery Network (CDN) as part of your application or web page. This example walks you through a typical example where your Content Security Policy does not allow additional call backs that maybe essential for supporting a blob callbacks.</p>
+<p>These days it is typical for web pages to add &ldquo;Content Security Policy&rdquo; (CSP) meta tags to their website to further prevent malicious vulnerabilities. But at the same time, your website may leverage scripts from Open Source frameworks delivered via a Content Delivery Network (CDN) as part of your application or web page.</p>
+<p>This example walks you through a typical example where your Content Security Policy does not allow additional call backs that maybe essential for supporting a blob callbacks.</p>
 <h3 id="tldr">TLDR</h3>
-<p>When you see a &ldquo;blob: (blocked:csp)&rdquo; Error, you can fix it by modifying and adding an exclusion for a blob.</p>
-<p>You solution will look like this:</p>
+<p>When you see a &ldquo;blob: (blocked:csp)&rdquo; Error, you can fix it by modifying and adding an allowance for a blob URL callback.</p>
+<p>Your solution will look like this:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">meta</span> 
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">http-equiv</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Content-Security-Policy&#34;</span> 
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;script-src &#39;self&#39; &#39;unsafe-inline&#39; blob: https://cdn.jsdelivr.net;&#34;</span>/&gt;
 </span></span></code></pre></div><br/>
-<p>Notice the &ldquo;blob:&rdquo; in the Content-Security-Policy directive under &lsquo;script-src&quot;. It says allow the code delivered from the CDN &ldquo;jsdeliver.net&rdquo; to make calls for JavaScript and WebAssembly resources (script-src) including &ldquo;blob:&rdquo;.</p>
-<p>Now here is a typical more realistic example of other exceptions that are thrown into the mix:</p>
+<p>Notice the &ldquo;blob:&rdquo; in the Content-Security-Policy directive under &lsquo;script-src&quot;. You can read that directive (loosly) as this:</p>
+<blockquote>
+<p>Allow the code delivered from the CDN &lsquo;jsdeliver.net&rsquo; to make calls for JavaScript and WebAssembly resources (script-src) including &lsquo;blob:&rsquo;.</p>
+</blockquote>
+<p>Now here is a typical (more realistic example) of other allowances that are thrown into the mix:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">meta</span> 
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">http-equiv</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Content-Security-Policy&#34;</span> 
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;
@@ -281,10 +285,11 @@
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    img-src &#39;self&#39; data:*;
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">&#34;</span>/&gt;
 </span></span></code></pre></div><br/>
-<h3 id="now-for-the-long-story">Now for the long story&hellip;</h3>
-<h4 id="what-is-content-security-policy">What is Content Security Policy?</h4>
+<p>If you are interested in the details, stick around and read onwards&hellip;</p>
+<h3 id="detailed-analysis">Detailed Analysis</h3>
+<h4 id="what-is-a-content-security-policy">What is a Content Security Policy?</h4>
 <p>Content Security Policy (CSP) is a whitelisting mechanism that allows you to declare what behavior is allowed on a given page. This includes where assets are loaded from, where forms can send data, and most importantly, what JavaScript is allowed to execute on a page. CSP is an added layer of security that helps to detect and mitigate certain types of attacks, including Cross-Site Scripting (XSS) and data injection attacks. These attacks are used for everything from data theft, to site defacement, to malware distribution.</p>
-<p>You can learn more about CSP at these links:</p>
+<p>You can learn more about CSP at these resources:</p>
 <ul>
 <li><a
 
@@ -353,7 +358,7 @@
 
 </a></li>
 </ul>
-<h4 id="real-use-case-when-i-encountered-this-error">Real use-case when I encountered this error.</h4>
+<h4 id="recreating-this-error">Recreating this error</h4>
 <p>I was trying to integrate the <a
 
 	
@@ -375,12 +380,21 @@
 		Crayon
 	</span>
 
-</a> by &ldquo;Fresh Works&rdquo; which is a Web Component with a good, clean implementation with a good variety of UI components (all developed using Web Components as the basis).</p>
-<p>Here is an excert from their own words from their website:</p>
+</a> by &ldquo;Fresh Works&rdquo; into my application development I was working with. Crayon is a Web Component framework with a good, clean implementation with a good variety of UI components (all developed using Web Components as the basis).</p>
+<p>Here is an excert from their own words from the Crayon website:</p>
 <blockquote>
 <p>Freshworks Crayons is a library of UI components that are the building blocks to help create an intuitive and uniform user interface for all your apps. Crayons helps developers build apps that adhere to the UX standards set by the Freshworks Design System.</p>
 </blockquote>
-<p>There are several ways to integrate their web components into your website or application. One of the popular (easy to use) method involves <a
+<p><strong>What is a &ldquo;Design System&rdquo;?</strong></p>
+<blockquote>
+<p>A design system addresses how all of the properties around your apps and websites look, feel, sound, and act.  Implementing them involves developing a centralized library of UI Web Components that can be shared across teams and projects to simplify design and development and avoid duplication of effort, while ensuring consistent brand experiences, performance, and accessibility, all at scale.</p>
+</blockquote>
+<p><strong>What is the business value in developing a &ldquo;Design System&rdquo;?</strong></p>
+<blockquote>
+<p>When done right, implementing a design system means that developers no longer need to spend time thinking about how to build components or how to tackle repeat problems that are common to every app, such as application search, calendar widgets, or data table grids. Instead, a rich library of custom UI components shared across all projects allows developers to focus on what matters most: solving customer problems and delivering value.</p>
+</blockquote>
+<p>At this point, we are diverging from our intent of this article so let&rsquo;s come back to the main thread&hellip;</p>
+<p>There are several ways to integrate their Crayon web components into your website or application. One of the popular (easy to use) method involves <a
 
 	
 	
@@ -402,6 +416,7 @@
 	</span>
 
 </a> URL where the pre-built distributions are available.</p>
+<p>Why bring them all in (as project sources), when your application does not plan to levarage any front-end application-tier such as Angular, React or something along those lines. In my case, I&rsquo;m pairing up with HTMX + Alpine.js + Bootstrap + Crayon (front-end), Golang + Fiber (middle-tier), PostgreSQL (back-end) for this application I have in mind as a pet project. In this example, there is no need for a JavaScript/TypeScript &ldquo;package.json&rdquo; or any need for Parcel, Rollup or Webpack JavaScript minifier or package bundler. So in this example, it makes sense to simply bring it in from the CDN source directly. If this becomes an issue, then you can download the distribution files and serve it as part of the /static/** resources.</p>
 <p>When you integrate your web application to pull the Web Components from a CDN like <a
 
 	
@@ -423,17 +438,20 @@
 		JSDelivr.net
 	</span>
 
-</a> [Thank you &ldquo;JSdelivr&rdquo; for providing this excellent service to the development community 🫶🏻] you will see this issue.</p>
-<p>The <code>crayons.esm.js</code> file makes a &ldquo;blob:&rdquo; call to redirect and pull down the JavaScript generated binary-content. And that throws the &ldquo;blob: (blocked:csp) Error&rdquo;.</p>
+</a> you will see this issue.</p>
+<p>[Credit where credit is due&hellip; Thank you &ldquo;JSDelivr&rdquo; for providing this excellent service to the development community 🫶🏻]</p>
+<p>The <code>crayons.esm.js</code> file makes a &ldquo;blob:&rdquo; call to redirect and pull down the JavaScript generated binary-content. And that is where you see this &ldquo;blob: (blocked:csp) error&rdquo;.</p>
+<p>Your case may be similar in nature. If so the solution discussed up above in the TDLR (a varient of such a exception rule) should help solve this issue.</p>
+<p>This brings us to the last question in this inquiry&hellip;</p>
 <h4 id="what-is-a-blob-call-or-blob-url">What is a &ldquo;blob:&rdquo; call (or &ldquo;blob&rdquo; URL)?</h4>
 <blockquote>
-<p>A Blob, a concise term for Binary Large Object, is a datatype adept at housing binary data. A Blob URL, in turn, is a unique identifier assigned to a Blob object, serving as a powerful reference for developers to manipulate binary data flexibly and efficiently. It is utilized frequently in JavaScript to facilitate one of the following operations :</p>
+<p>A Blob, a concise term for Binary Large Object, is a datatype adapted to housing binary data. A Blob URL, in turn, is a unique identifier assigned to a Blob object, serving as a powerful reference for developers to manipulate binary data flexibly and efficiently. It is utilized frequently in JavaScript to facilitate a combination of the three operations:</p>
 </blockquote>
-<ul>
+<ol>
 <li>Optimized Data Transfer</li>
 <li>Client-Side File Handling</li>
 <li>Dynamic Data Storage</li>
-</ul>
+</ol>
 <p><a
 
 	
@@ -456,7 +474,7 @@
 	</span>
 
 </a></p>
-<h5 id="some-resources-on-blob">Some Resources on Blob:</h5>
+<h5 id="some-resources-on-blob-and-blob-url">Some Resources on Blob and Blob URL:</h5>
 <ul>
 <li><a
 
@@ -525,11 +543,13 @@
 
 </a></li>
 </ul>
-<p>Hopefully you got a good understanding of:</p>
+<p>Hopefully you got a good understanding of the following topics:</p>
 <ol>
-<li>What &ldquo;Content-Security-Policy&rdquo; is all about</li>
-<li>How &ldquo;blob&rdquo; URL are used.</li>
-<li>And how to prevent (or add exceptions to your web application that leverages Web Components delivered from CDNs).</li>
+<li>What is the nature of this &ldquo;blob: (blocked:csp)&rdquo; error, how and why it is thrown by the Browser?</li>
+<li>Typical use cases where this error us thrown (when you bring in source code from a CDN that needs to generate a blob)&hellip;</li>
+<li>What is a blob or a blob URL? How is it used in JavaScript?</li>
+<li>What &ldquo;Content-Security-Policy&rdquo;?</li>
+<li>How to add or extend your CSP META tag to allow/whitelist those exceptions and continue to leverage Web Components delivered from CDNs?</li>
 <li>How to address this particular issue when <a
 
 	
@@ -551,12 +571,14 @@
 		JSDelivr.net
 	</span>
 
-</a> is used for content delivery with follow-up JavaScript calls made to a &ldquo;blob:&rdquo; URL.</li>
+</a> is used for content delivery with follow-up JavaScript calls made to a &ldquo;blob:&rdquo; URL?</li>
+<li>How to avoid this issue when you you decide to use Freshworks Crayons into your web application via the JSDelivr CDN?</li>
 </ol>
-<p>That was a good solid weekend of debugging and discovery shared here in a nutshell. Hope this helps you in your quest.</p>
+<p>That was a good solid weekend of debugging and discovery shared here in a nutshell with some useful resources as follow up items to enhance your understanding.</p>
+<p>I hope this helps you in your quest.</p>
 <p>Cheers!</p>
 <hr>
-<p>If you would like to show your support then consider subscribing below and/or buy me a cup of joe:</p>
+<p>If you would like to show your support then consider subscribing below and/or buy me a cup of joe (I live on coffee and coffee makes me a better scribe):</p>
 <p><a href="https://www.buymeacoffee.com/vguhesan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
 <h3 id="todays-quote">Today&rsquo;s Quote</h3>
 <p><figure class="alignleft round-img-border imgframe-left-pad"><img src="/img/logo/thiruvalluvar.png" width="100"/>
