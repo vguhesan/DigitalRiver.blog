@@ -12,7 +12,7 @@
       <link>https://DigitalRiver.blog/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</link>
       <pubDate>Thu, 24 Sep 2015 19:10:17 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</guid>
-      <description>If you receive the following error when opening SourceTree or other applications installed in your Mac OS X, then here is how you can solve it. Sometimes people make things more cryptic than it needs to be.&#xA;Error encountered &amp;lsquo;git status&amp;rsquo; failed with code 69:&amp;rsquo;&#xA;Agreeing to the Xcode/iOS license requires admin privileges, please re-run as root via sudo.&#xA;and here is the example of the screenshot:&#xA;Solution:&#xA;What that message is telling you is that you need to open the application XCode on your Mac OS X and since it hasn&amp;rsquo;t run since the last update, you need to accept the new license EULA agreement that&amp;rsquo;s part of the updated XCode.</description>
+      <description>If you receive the following error when opening SourceTree or other applications installed in your Mac OS X, then here is how you can solve it. Sometimes people make things more cryptic than it needs to be.&#xA;Error encountered &amp;lsquo;git status&amp;rsquo; failed with code 69:&amp;rsquo;&#xA;Agreeing to the Xcode/iOS license requires admin privileges, please re-run as root via sudo.&#xA;and here is the example of the screenshot:&#xA;&amp;lt;img src=&amp;#34;/img/2015/09/2015-09-24_14-50-56.jpg&amp;#34; alt=&amp;#34;2015-09-24_14-50-56&amp;#34;&amp;gt; Solution:</description>
     </item>
   </channel>
 </rss>

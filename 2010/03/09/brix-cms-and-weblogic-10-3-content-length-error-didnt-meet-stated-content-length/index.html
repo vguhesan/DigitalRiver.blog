@@ -265,7 +265,28 @@ at weblogic.servlet.internal.ServletRequestImpl.run(ServletRequestImpl.java:1415
 at weblogic.work.ExecuteThread.execute(ExecuteThread.java:201)
 Truncated. see log file for complete stacktrace
 ></blockquote>
-<p>Details of the error are documented <a href="http://groups.google.com/group/brix-cms-discuss/browse_thread/thread/e5c20a2f03f07dd7?hl=en">here</a>.</p>
+<p>Details of the error are documented <a
+
+	
+	
+		href = "http://groups.google.com/group/brix-cms-discuss/browse_thread/thread/e5c20a2f03f07dd7?hl=en"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		here
+	</span>
+
+</a>.</p>
 <blockquote>
 <blockquote>
 <blockquote>
@@ -363,7 +384,28 @@ Cache-Control: max-age=0</p>
 |___ ../images/header.png
 |___ ../images/main-menu-bg.png</p>
 <p>and others.</p>
-<p>When we created a new page in the Brix content repository under the name &ldquo;index.do&rdquo; with no templates attached (the additional dependencies with the .css and .jpg and .png are no longer there) and fetched it via this: <a href="http://www.google.com/url?sa=D&amp;q=http://localhost/brixdemo/index.do&amp;usg=AFQjCNG5R31JDBynVnn_4U8JUjHENeBfYw">http://localhost/brixdemo/index.do</a></p>
+<p>When we created a new page in the Brix content repository under the name &ldquo;index.do&rdquo; with no templates attached (the additional dependencies with the .css and .jpg and .png are no longer there) and fetched it via this: <a
+
+	
+	
+		href = "http://www.google.com/url?sa=D&amp;q=http://localhost/brixdemo/index.do&amp;usg=AFQjCNG5R31JDBynVnn_4U8JUjHENeBfYw"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		http://localhost/brixdemo/index.do
+	</span>
+
+</a></p>
 <p>The page worked fine and when we did a F5 to refresh, there were NO ERRORS.</p>
 <p>Next we applied template &ldquo;/includes/template-with-right-menu.html&rdquo; to that same page and loaded up the page. And this time each of the request for resources such as the style1.css and .jpg&rsquo;s and .png&rsquo;s threw the same error upon refresh.</p>
 <p>So based on this behavior, Weblogic must somehow treat a consecutive request for the same content differently. And some where in where it treats each mime-type, it must treat the &ldquo;*.do&quot;s differently compared to a &ldquo;.css&rdquo; or a &ldquo;.html&rdquo;.</p>
@@ -414,11 +456,116 @@ Cache-Control: max-age=0</p>
 </blockquote>
 <p>Here&rsquo;s more of my findings:</p>
 <p>When deployed under Weblogic after a restart when I request this:</p>
-<p>Request-1: <a href="http://www.google.com/url?sa=D&amp;q=http://hv-vguhesan/brixdemo/images/header.png&amp;usg=AFQjCNEQtuS9nYdNDHpVzWK8ZBiEQLBmGw">http://localhost/brixdemo/images/header.png</a> &gt; works fine and I get the image
-Request-2: <a href="http://www.google.com/url?sa=D&amp;q=http://hv-vguhesan/brixdemo/images/header.png&amp;usg=AFQjCNEQtuS9nYdNDHpVzWK8ZBiEQLBmGw">http://localhost/brixdemo/images/header.png</a> &gt; (Refresh) Throws the error defined in my main email and I get zero bytes back.
-Request-3: <a href="http://www.google.com/url?sa=D&amp;q=http://hv-vguhesan/BPortal/images/header.png%3Ffoo%3Dbar&amp;usg=AFQjCNEWnB-D6tKZJldE3U2p4fSbk1NMPQ">http://localhost/BPortal/images/header.png?foo=bar</a> &gt; notice the additional parameters I&rsquo;m passing in - works once again
-Request-4: <a href="http://www.google.com/url?sa=D&amp;q=http://hv-vguhesan/BPortal/images/header.png%3Ffoo%3Dbar&amp;usg=AFQjCNEWnB-D6tKZJldE3U2p4fSbk1NMPQ">http://localhost/BPortal/images/header.png?foo=bar</a> &gt; (refresh) - once again, I get the error on Weblogic and zero bytes sent back.
-Request-5: <a href="http://www.google.com/url?sa=D&amp;q=http://hv-vguhesan/BPortal/images/header.png%3Ffoo%3Dbar2&amp;usg=AFQjCNF2VHsVjXSZYm9Fr-esG8BcGt7QgA">http://localhost/BPortal/images/header.png?foo=bar2</a> &gt; once again works.</p>
+<p>Request-1: <a
+
+	
+	
+		href = "http://www.google.com/url?sa=D&amp;q=http://hv-vguhesan/brixdemo/images/header.png&amp;usg=AFQjCNEQtuS9nYdNDHpVzWK8ZBiEQLBmGw"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		http://localhost/brixdemo/images/header.png
+	</span>
+
+</a> &gt; works fine and I get the image
+Request-2: <a
+
+	
+	
+		href = "http://www.google.com/url?sa=D&amp;q=http://hv-vguhesan/brixdemo/images/header.png&amp;usg=AFQjCNEQtuS9nYdNDHpVzWK8ZBiEQLBmGw"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		http://localhost/brixdemo/images/header.png
+	</span>
+
+</a> &gt; (Refresh) Throws the error defined in my main email and I get zero bytes back.
+Request-3: <a
+
+	
+	
+		href = "http://www.google.com/url?sa=D&amp;q=http://hv-vguhesan/BPortal/images/header.png%3Ffoo%3Dbar&amp;usg=AFQjCNEWnB-D6tKZJldE3U2p4fSbk1NMPQ"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		http://localhost/BPortal/images/header.png?foo=bar
+	</span>
+
+</a> &gt; notice the additional parameters I&rsquo;m passing in - works once again
+Request-4: <a
+
+	
+	
+		href = "http://www.google.com/url?sa=D&amp;q=http://hv-vguhesan/BPortal/images/header.png%3Ffoo%3Dbar&amp;usg=AFQjCNEWnB-D6tKZJldE3U2p4fSbk1NMPQ"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		http://localhost/BPortal/images/header.png?foo=bar
+	</span>
+
+</a> &gt; (refresh) - once again, I get the error on Weblogic and zero bytes sent back.
+Request-5: <a
+
+	
+	
+		href = "http://www.google.com/url?sa=D&amp;q=http://hv-vguhesan/BPortal/images/header.png%3Ffoo%3Dbar2&amp;usg=AFQjCNF2VHsVjXSZYm9Fr-esG8BcGt7QgA"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		http://localhost/BPortal/images/header.png?foo=bar2
+	</span>
+
+</a> &gt; once again works.</p>
 <p>So it seems that something different happens when deployed in Weblogic and a request for cached content is requested.</p>
 <p>Any help you can offer is greatly appreciated.</p>
 <blockquote>
@@ -460,7 +607,28 @@ Request-5: <a href="http://www.google.com/url?sa=D&amp;q=http://hv-vguhesan/BPor
 </blockquote>
 </blockquote>
 <p>And when you search in Google for &ldquo;Weblogic Didn&rsquo;t meet stated Content-Length&rdquo;, you will find tons of others who have encountered a similar issue.</p>
-<p><a href="http://osdir.com/ml/users-wicket.apache.org/2009-03/msg00560.html">http://osdir.com/ml/users-wicket.apache.org/2009-03/msg00560.html</a></p>
+<p><a
+
+	
+	
+		href = "http://osdir.com/ml/users-wicket.apache.org/2009-03/msg00560.html"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		http://osdir.com/ml/users-wicket.apache.org/2009-03/msg00560.html
+	</span>
+
+</a></p>
 <p>Well here&rsquo;s a fix that can help you get by without addressing the issue with Oracle Weblogic.</p>
 <h3 id="fix"><strong>Fix:</strong></h3>
 <p>Modify the following file: &lt;BRIX_HOME&gt;\brix-core\src\main\java\brix\plugin\site\resource\ResourceRequestTarget.java</p>
@@ -612,6 +780,7 @@ response.setContentLength(node.getContentLength());
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/post/2024-03-17/">How to resolve the blob: (blocked:csp) Error?</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2024-02-24/">Who is using port 7000 on my Mac OS X?</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2024-01-1/">Traveling Abroad? Troubleshooting 5G Challenges in India and Abroad</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2022-11-11/">How to change your humidifier canister for Honeywell HM750A1000?</a></li>
@@ -621,7 +790,6 @@ response.setContentLength(node.getContentLength());
 			<li class="widget__item"><a class="widget__link" href="/post/2022-01-1/">Managing your time - Time-Block Method with free Templates (revised)</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2020-12-03-golang-reader-writer-copyfile-using-bufio-library/">GoLang: Reader-Writer implemented via bufio library to copy file</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2020-06-14-devops-95-kubernetes-getting-started/">DevOps/GitOps: DevOps95 Columbia 2020 : Kubernetes : Getting Started</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2020-06-02-python-tips-on-unit-testing-and-code-coverage/">Python Tips: On Getting Started, Unit Testing and Code Coverage</a></li>
 		</ul>
 	</div>
 </div><div class="widget-blogroll widget">
@@ -996,6 +1164,9 @@ response.setContentLength(node.getContentLength());
 				<a class="widget__link" href="/categories/water-proof/">water-proof</a>
 			</li>
 			<li class="widget__item">
+				<a class="widget__link" href="/categories/web-components/">Web Components</a>
+			</li>
+			<li class="widget__item">
 				<a class="widget__link" href="/categories/web-development/">web development</a>
 			</li>
 			<li class="widget__item">
@@ -1134,6 +1305,7 @@ response.setContentLength(node.getContentLength());
 		<a class="widget-taglist__link widget__link btn" href="/tags/config/" title="config">config</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/configuration/" title="configuration">configuration</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/containers/" title="Containers">Containers</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/content-security-policy/" title="Content-Security-Policy">Content-Security-Policy</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/context/" title="Context">Context</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/context-path/" title="Context Path">Context Path</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/contextpath/" title="contextPath">contextPath</a>
@@ -1144,7 +1316,11 @@ response.setContentLength(node.getContentLength());
 		<a class="widget-taglist__link widget__link btn" href="/tags/cote/" title="Cote">Cote</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/coverage/" title="Coverage">Coverage</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/covid-19/" title="COVID-19">COVID-19</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/crayons/" title="Crayons">Crayons</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/crayons-integration/" title="Crayons Integration">Crayons Integration</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/crayons.freshworks.com/" title="crayons.freshworks.com">crayons.freshworks.com</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/create-load/" title="create load">create load</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/csp/" title="CSP">CSP</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/css/" title="css">css</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/cubieboard2/" title="Cubieboard2">Cubieboard2</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/cygwin/" title="cygwin">cygwin</a>
@@ -1199,6 +1375,7 @@ response.setContentLength(node.getContentLength());
 		<a class="widget-taglist__link widget__link btn" href="/tags/fonts/" title="fonts">fonts</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/foreign-aid/" title="foreign-aid">foreign-aid</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/freebsd/" title="FreeBSD">FreeBSD</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/freshworks/" title="Freshworks">Freshworks</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/ftrace/" title="ftrace">ftrace</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/gas/" title="gas">gas</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/gdb/" title="gdb">gdb</a>
@@ -1527,6 +1704,7 @@ response.setContentLength(node.getContentLength());
 		<a class="widget-taglist__link widget__link btn" href="/tags/water-proof/" title="water-proof">water-proof</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/water-states/" title="Water states">Water states</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/web/" title="web">web</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/web-components/" title="Web Components">Web Components</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/weblogic/" title="Weblogic">Weblogic</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/websockets/" title="websockets">websockets</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/where-are-the-network-tools/" title="where are the network tools?">where are the network tools?</a>

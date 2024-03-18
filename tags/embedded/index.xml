@@ -20,14 +20,14 @@
       <link>https://DigitalRiver.blog/2017/05/11/synthetic-sensors-is-a-sensor-that-could-soon-make-homes-scary-smart-wired/</link>
       <pubDate>Thu, 11 May 2017 23:31:56 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/05/11/synthetic-sensors-is-a-sensor-that-could-soon-make-homes-scary-smart-wired/</guid>
-      <description>**Synthetic Sensors** : a simple device that plugs into an electrical outlet and connects everything in the room. It can capture all of the the environmental data needed to transform a wide variety of ordinary household objects into smart devices. Plug the module into an electrical outlet and it becomes the eyes and ears of the room, its 10 embedded sensors logging information like sound, humidity, electromagnetic noise, motion, and light (the researchers excluded a camera for privacy reasons).</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2017/05/faucet-giphy-final.gif&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/img/2017/05/00_a_hardware_closeup-hp-660x330.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/img/2017/05/fireplace-giphy-final.gif&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; **Synthetic Sensors** : a simple device that plugs into an electrical outlet and connects everything in the room. It can capture all of the the environmental data needed to transform a wide variety of ordinary household objects into smart devices. Plug the module into an electrical outlet and it becomes the eyes and ears of the room, its 10 embedded sensors logging information like sound, humidity, electromagnetic noise, motion, and light (the researchers excluded a camera for privacy reasons).</description>
     </item>
     <item>
       <title>Node.js, Python, C/C&#43;&#43;, Ruby, PHP development from a tiny Linux embedded for about $10</title>
       <link>https://DigitalRiver.blog/2016/10/04/node-js-python-cc-ruby-php-development-from-a-tiny-linux-embedded-for-about-10/</link>
       <pubDate>Tue, 04 Oct 2016 18:12:22 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/10/04/node-js-python-cc-ruby-php-development-from-a-tiny-linux-embedded-for-about-10/</guid>
-      <description>Came across this tiny IoT embedded micro-controller/computer that runs BusyBox or FreeBSD Linux and can run code written in Node.js, Python, C/C++, Ruby and PHP all at a cost of $5 to $10 with WiFi, 2G/3G, Bluetooth, GPS add-ons for your cloud services. It also has enough GPIO pins to interface with external world and not to mention the I2C and I2S interfaces for talking to other devices and peripherals as well as interfacing for sounds (I2S).</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/10/onion_io.png&amp;#34; alt=&amp;#34;onion_io&amp;#34;&amp;gt; Came across this tiny IoT embedded micro-controller/computer that runs BusyBox or FreeBSD Linux and can run code written in Node.js, Python, C/C++, Ruby and PHP all at a cost of $5 to $10 with WiFi, 2G/3G, Bluetooth, GPS add-ons for your cloud services. It also has enough GPIO pins to interface with external world and not to mention the I2C and I2S interfaces for talking to other devices and peripherals as well as interfacing for sounds (I2S).</description>
     </item>
   </channel>
 </rss>

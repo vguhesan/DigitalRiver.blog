@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2017/03/13/angular-modules-vs-es6-modules-dzone-web-dev/</link>
       <pubDate>Mon, 13 Mar 2017 14:19:53 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/13/angular-modules-vs-es6-modules-dzone-web-dev/</guid>
-      <description>In this post, you&amp;rsquo;ll find a quick tutorial explaining the difference between Angular Module and ESG Modules, and how to best use each of these platforms.&#xA;Here is a quick summary:&#xA;ES6 Module Example:&#xA;import { sqrt } from &#39;math-utils&#39;; const addition = (val1, val2) =&amp;gt; val1 + val2; const subtraction = (val1, val2) =&amp;gt; val1 - val2; const multiplication = (val1, val2) =&amp;gt; val1 * val2; const calculateSquareRoot = (val) =&amp;gt; sqrt(val); export { addition, multiplication } Angular Module Example:</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2017/03/angularicon1.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; In this post, you&amp;rsquo;ll find a quick tutorial explaining the difference between Angular Module and ESG Modules, and how to best use each of these platforms.&#xA;Here is a quick summary:&#xA;ES6 Module Example:&#xA;import { sqrt } from &#39;math-utils&#39;; const addition = (val1, val2) =&amp;gt; val1 + val2; const subtraction = (val1, val2) =&amp;gt; val1 - val2; const multiplication = (val1, val2) =&amp;gt; val1 * val2; const calculateSquareRoot = (val) =&amp;gt; sqrt(val); export { addition, multiplication } Angular Module Example:</description>
     </item>
   </channel>
 </rss>

@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2016/12/09/centos7-missing-net-tools-package-and-why-you-should-not-install-it-moving-forward/</link>
       <pubDate>Fri, 09 Dec 2016 21:17:09 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/12/09/centos7-missing-net-tools-package-and-why-you-should-not-install-it-moving-forward/</guid>
-      <description>In CentOS 7, a lot of the command-line utilities for configuring and troubleshooting network properties like arp, ifconfig, iptunnel, iwconfig, nameif, netstat, route - are no longer there in the new CentOS 7 version. While still included in many Linux Distributions, (and you may be tempted to run - &amp;lsquo;yum install net-tools&amp;rsquo; - to get them back into your Linux footprint). But they are considered deprecated and therefore should be phased out in favor of more modern replacements.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/11/centos_logo.png&amp;#34; alt=&amp;#34;centos_logo&amp;#34;&amp;gt; In CentOS 7, a lot of the command-line utilities for configuring and troubleshooting network properties like arp, ifconfig, iptunnel, iwconfig, nameif, netstat, route - are no longer there in the new CentOS 7 version. While still included in many Linux Distributions, (and you may be tempted to run - &amp;lsquo;yum install net-tools&amp;rsquo; - to get them back into your Linux footprint). But they are considered deprecated and therefore should be phased out in favor of more modern replacements.</description>
     </item>
   </channel>
 </rss>

@@ -13,21 +13,21 @@
       <link>https://DigitalRiver.blog/2017/02/16/going-off-heap-to-improve-latency-and-reduce-aws-bill-plumbr/</link>
       <pubDate>Thu, 16 Feb 2017 16:21:23 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/02/16/going-off-heap-to-improve-latency-and-reduce-aws-bill-plumbr/</guid>
-      <description>Great read - shows you the power of Java and Chronicle Map.&#xA;Describing how going off-heap with the help of Chronicle Map helped us to get rid of the latency hiccups and cut our Amazon AWS bill in half.&#xA;Source: Going off-heap to improve latency and reduce AWS bill – Plumbr&#xA;Caution: Before you go diving into using the open source version of Chronicle Map, there are some gotchas to be aware of from a features point-of-view.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2017/02/java_logo_2b.png&amp;#34; alt=&amp;#34;java_logo_2b&amp;#34;&amp;gt; Great read - shows you the power of Java and Chronicle Map.&#xA;Describing how going off-heap with the help of Chronicle Map helped us to get rid of the latency hiccups and cut our Amazon AWS bill in half.&#xA;Source: Going off-heap to improve latency and reduce AWS bill – Plumbr Caution: Before you go diving into using the open source version of Chronicle Map, there are some gotchas to be aware of from a features point-of-view.</description>
     </item>
     <item>
       <title>Developing email applications on Windows, targeted for Linux environment - email, mailx, sendmail</title>
       <link>https://DigitalRiver.blog/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</link>
       <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</guid>
-      <description>If you&amp;rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.&#xA;Let us begin by understand the problem.&#xA;Problem If you are a Java/Spring developer, (developing in Java is platform independent - runs on any platform where a JVM is available) then you have two options in front of you for sending emails from a Java application:</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/12/linux_centos_logo.png&amp;#34; alt=&amp;#34;linux_centos_logo&amp;#34;&amp;gt; If you&amp;rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.&#xA;Let us begin by understand the problem.&#xA;Problem If you are a Java/Spring developer, (developing in Java is platform independent - runs on any platform where a JVM is available) then you have two options in front of you for sending emails from a Java application:</description>
     </item>
     <item>
       <title>Grails No profile found for name [web] illegalstateexception</title>
       <link>https://DigitalRiver.blog/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</link>
       <pubDate>Tue, 29 Nov 2016 13:42:47 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</guid>
-      <description>Most likely you&amp;rsquo;ve landed on this page because you&amp;rsquo;ve searched for the error in a search engine and it brought you here.&#xA;Symptom: When you run &amp;ldquo;grails&amp;rdquo; under an existing project that you previously had (either on a different PC or from a source-control like GIT or SVN and you&amp;rsquo;ve mistakenly included the &amp;ldquo;build&amp;rdquo; directory).&#xA;The associated error would have been one of the following:&#xA;Grails No profile found for name [web] or java.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2013/11/grails.png&amp;#34; alt=&amp;#34;Grails&amp;#34;&amp;gt; Most likely you&amp;rsquo;ve landed on this page because you&amp;rsquo;ve searched for the error in a search engine and it brought you here.&#xA;Symptom: When you run &amp;ldquo;grails&amp;rdquo; under an existing project that you previously had (either on a different PC or from a source-control like GIT or SVN and you&amp;rsquo;ve mistakenly included the &amp;ldquo;build&amp;rdquo; directory).&#xA;The associated error would have been one of the following:&#xA;Grails No profile found for name [web] or java.</description>
     </item>
     <item>
       <title>Grails 2.3.5 - grails stop-app - does not stop the app running via run-app</title>
@@ -48,14 +48,14 @@
       <link>https://DigitalRiver.blog/2013/11/17/grails-2-x-gitignore-file/</link>
       <pubDate>Sun, 17 Nov 2013 02:16:15 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2013/11/17/grails-2-x-gitignore-file/</guid>
-      <description>With a new Grails 2.X project you run into challenges on which folders to check-in into a GIT repository. You want to remove any non-essential files that Grails can rebuild at run-time. And if you are using either GITHub or BitBucket for your GIT repo&amp;rsquo;s the default .gitignore file created or provided by GITHub is setup for configured for a Grails 1.X project and not a Grails 2.X project.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2013/11/grails.png?w=150&amp;#34; alt=&amp;#34;Grails&amp;#34;&amp;gt; With a new Grails 2.X project you run into challenges on which folders to check-in into a GIT repository. You want to remove any non-essential files that Grails can rebuild at run-time. And if you are using either GITHub or BitBucket for your GIT repo&amp;rsquo;s the default .gitignore file created or provided by GITHub is setup for configured for a Grails 1.X project and not a Grails 2.</description>
     </item>
     <item>
       <title>Working with zeromq (0mq), Java, JZMQ on a CentOS platform</title>
       <link>https://DigitalRiver.blog/2013/06/25/working-with-zeromq-0mq-java-jzmq-on-a-centos-platform/</link>
       <pubDate>Tue, 25 Jun 2013 03:36:43 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2013/06/25/working-with-zeromq-0mq-java-jzmq-on-a-centos-platform/</guid>
-      <description>Recently I decided to port some of my development using ZeroMQ onto my CentOS development machine and I ran into some challenges. I&amp;rsquo;m documenting those challenges so that if someone else runs into the same pitfalls I did, they can avoid it.&#xA;In this example today, we will work with the first &amp;ldquo;HelloWorld&amp;rdquo; examples in the ZeroMQ guide found here. I added a few modifications to the sample such as a package name and a try-catch around the Thread and an exception.</description>
+      <description>Recently I decided to port some of my development using ZeroMQ onto my CentOS development machine and I ran into some challenges. I&amp;rsquo;m documenting those challenges so that if someone else runs into the same pitfalls I did, they can avoid it.&#xA;In this example today, we will work with the first &amp;ldquo;HelloWorld&amp;rdquo; examples in the ZeroMQ guide found here . I added a few modifications to the sample such as a package name and a try-catch around the Thread and an exception.</description>
     </item>
     <item>
       <title>Java Tools for Source Code Optimization and Analysis</title>
@@ -97,7 +97,7 @@
       <link>https://DigitalRiver.blog/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</link>
       <pubDate>Sat, 02 Oct 2010 18:28:00 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</guid>
-      <description>The answer is a lot simpler than you think. But before we explore the answer, I should warn you that this approach is not what is recommended by Maven. Maven builds upon consistency and structure and this process goes away from that methodology. In Maven, you can take each of your jars\libraries and add them to your local repository and then include them as needed in your projects. If you want to go the proper route here’s how you do it.</description>
+      <description>The answer is a lot simpler than you think. But before we explore the answer, I should warn you that this approach is not what is recommended by Maven. Maven builds upon consistency and structure and this process goes away from that methodology. In Maven, you can take each of your jars\libraries and add them to your local repository and then include them as needed in your projects. If you want to go the proper route here’s how you do it .</description>
     </item>
     <item>
       <title>Weblogic 10.3 Heap Size (does not allow 3072mb)</title>
@@ -146,7 +146,7 @@
       <link>https://DigitalRiver.blog/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</link>
       <pubDate>Mon, 19 Apr 2010 14:30:39 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</guid>
-      <description>Sometimes it&amp;rsquo;s good to look at the svn repository for the reference sample that Spring Framework provides.&#xA;Here&amp;rsquo;s a quick link for that URL:&#xA;https://src.springframework.org/svn/spring-samples/&#xA;You can traverse through it via a HTTP(s) browser or you can download the latest samples via tools like TortiseSVN.&#xA;Here is a list of some of the projects samples that are available today:&#xA;spring-samples - Revision 431: /&#xA;* configuration-basic/ * jpetstore/ * mvc-ajax/ * mvc-basic/ * petcare/ * petclinic/ * petclinic-groovy/ * spring-travel/ * task-basic/ * templates/ * tutorials/ Hopefully this article will be beneficial for someone who is trying to get familiar with Spring Framework.</description>
+      <description>Sometimes it&amp;rsquo;s good to look at the svn repository for the reference sample that Spring Framework provides.&#xA;Here&amp;rsquo;s a quick link for that URL:&#xA;https://src.springframework.org/svn/spring-samples/ You can traverse through it via a HTTP(s) browser or you can download the latest samples via tools like TortiseSVN.&#xA;Here is a list of some of the projects samples that are available today:&#xA;spring-samples - Revision 431: /&#xA;* configuration-basic/ * jpetstore/ * mvc-ajax/ * mvc-basic/ * petcare/ * petclinic/ * petclinic-groovy/ * spring-travel/ * task-basic/ * templates/ * tutorials/ Hopefully this article will be beneficial for someone who is trying to get familiar with Spring Framework.</description>
     </item>
     <item>
       <title>Java 6 Gems: Spash Screen for your application</title>

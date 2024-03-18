@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Digital River</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to resolve the blob: (blocked:csp) Error?</title>
+      <link>https://DigitalRiver.blog/post/2024-03-17/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://DigitalRiver.blog/post/2024-03-17/</guid>
+      <description>What is this article about? These days it is typical for web pages to add &amp;ldquo;Content Security Policy&amp;rdquo; (CSP) meta tags to their website to further prevent malicious vulnerabilities. But at the same time, your website may leverage scripts from Open Source frameworks delivered via a Content Delivery Network (CDN) as part of your application or web page. This example walks you through a typical example where your Content Security Policy does not allow additional call backs that maybe essential for supporting a blob callbacks.</description>
+    </item>
     <item>
       <title>Who is using port 7000 on my Mac OS X?</title>
       <link>https://DigitalRiver.blog/post/2024-02-24/</link>
@@ -139,7 +146,7 @@
       <link>https://DigitalRiver.blog/post/great-article-on-duck-typing-in-javascript/</link>
       <pubDate>Wed, 23 May 2018 14:37:18 +0000</pubDate>
       <guid>https://DigitalRiver.blog/post/great-article-on-duck-typing-in-javascript/</guid>
-      <description>Found a great article that explains what duck typing is and how it is used in JavaScript. Author makes it very simple to understand with examples.&#xA;A style of typing in which an object&amp;rsquo;s methods and properties determine the valid semantics, rather than it&amp;rsquo;s inheritance from a particular class or implementation of an explicit interface.&#xA;You can click on the link below to be redirected to that article.&#xA;Duck Typing in JavaScript</description>
+      <description> Found a great article that explains what duck typing is and how it is used in JavaScript. Author makes it very simple to understand with examples.&#xA;A style of typing in which an object&amp;rsquo;s methods and properties determine the valid semantics, rather than it&amp;rsquo;s inheritance from a particular class or implementation of an explicit interface.&#xA;You can click on the link below to be redirected to that article.&#xA;Duck Typing in JavaScript </description>
     </item>
     <item>
       <title>spring.schemas and spring.handlers when creating Uber-Jar</title>
@@ -153,7 +160,7 @@
       <link>https://DigitalRiver.blog/post/2018-01-10-mind-map-for-youtube-video-on-how-to-exercises-to-reduce-belly-fat/</link>
       <pubDate>Wed, 10 Jan 2018 16:47:34 -0500</pubDate>
       <guid>https://DigitalRiver.blog/post/2018-01-10-mind-map-for-youtube-video-on-how-to-exercises-to-reduce-belly-fat/</guid>
-      <description>Based on this YouTube video (in Tamil Language): https://youtu.be/t3_RqF9aCpo&#xA;On &amp;ldquo;Simple Exercises to Reduce Belly Fat in Weeks&amp;rdquo;.&#xA;When joting down notes from videos or reading, I usually end up with a mindmap on each and every topic and since I enjoyed this video and the exercises, I thought I&amp;rsquo;d clean up my mind map and share it with the world so that if there are others running into this video (author of the video speaks in the Tamil language) that are non-tamil speaking or English speaking folks, they can quickly get the synopsis of the video and benefit from the exercises.</description>
+      <description>Based on this YouTube video (in Tamil Language): https://youtu.be/t3_RqF9aCpo On &amp;ldquo;Simple Exercises to Reduce Belly Fat in Weeks&amp;rdquo;.&#xA;When joting down notes from videos or reading, I usually end up with a mindmap on each and every topic and since I enjoyed this video and the exercises, I thought I&amp;rsquo;d clean up my mind map and share it with the world so that if there are others running into this video (author of the video speaks in the Tamil language) that are non-tamil speaking or English speaking folks, they can quickly get the synopsis of the video and benefit from the exercises.</description>
     </item>
     <item>
       <title>How to reset the Volvo S60 Service Reminder Message?</title>
@@ -195,7 +202,7 @@
       <link>https://DigitalRiver.blog/post/2017-11-24-spring-framework-three-ways-to-application-context/</link>
       <pubDate>Fri, 24 Nov 2017 13:28:10 -0500</pubDate>
       <guid>https://DigitalRiver.blog/post/2017-11-24-spring-framework-three-ways-to-application-context/</guid>
-      <description>This article shows you three different ways how to get to the Spring Framework Application Context in your code.&#xA;Summary (This is a repost of an older article I wrote in 2010). In searching Google for &amp;ldquo;Spring ApplicationContextAware&amp;rdquo;, you will come across a lot of recommendations and I also see a lot of folks continuing to complain saying that their setApplicationContext method does not get invoked. So to help clarify, I&amp;rsquo;m blogging a few notes in hope that it helps clarify how the context works.</description>
+      <description>This article shows you three different ways how to get to the Spring Framework Application Context in your code.&#xA;Summary (This is a repost of an older article I wrote in 2010). In searching Google for &amp;ldquo;Spring ApplicationContextAware &amp;rdquo;, you will come across a lot of recommendations and I also see a lot of folks continuing to complain saying that their setApplicationContext method does not get invoked. So to help clarify, I&amp;rsquo;m blogging a few notes in hope that it helps clarify how the context works.</description>
     </item>
     <item>
       <title>Configure Jumbo Packets for all your devices including Windows/Linux/Mac OS X on your network</title>
@@ -216,7 +223,7 @@
       <link>https://DigitalRiver.blog/2017/09/20/mind-map-a-method-to-x100-your-productivity-robin-sharma/</link>
       <pubDate>Wed, 20 Sep 2017 22:21:11 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/09/20/mind-map-a-method-to-x100-your-productivity-robin-sharma/</guid>
-      <description>Based on this YouTube video: https://youtu.be/cshVfS2LXm0&#xA;By Robin Sharma on &amp;ldquo;A Method To x100 Your Productivity&amp;rdquo;.&#xA;Great video on how to improve your productivity by hundred fold. Mind map provided below for the busy folks.&#xA;Cheers!&#xA;Today&#39;s Inspirational Quote &amp;lt;img&#xA;src=&amp;quot;/img/2017/09/avvaiyar.jpg&amp;quot; alt=&amp;quot;avvaiyar&amp;quot; width=&amp;quot;50&amp;quot; align=&amp;quot;left&amp;quot; class=&amp;quot;imgframe&amp;quot; &amp;gt; ** Tamil **: கற்றது கைமண் அளவு, கட்காதது உலகளவு.&#xA;** English Pronounciation **: Katrathu Kaiman Alavu Kallathathu Ulagalavu&#xA;** English Translation **: Known is a drop, unknown is an ocean.</description>
+      <description>Based on this YouTube video: https://youtu.be/cshVfS2LXm0 By Robin Sharma on &amp;ldquo;A Method To x100 Your Productivity&amp;rdquo;.&#xA;Great video on how to improve your productivity by hundred fold. Mind map provided below for the busy folks.&#xA;Cheers!&#xA;Today&#39;s Inspirational Quote &amp;lt;img&#xA;src=&amp;quot;/img/2017/09/avvaiyar.jpg&amp;quot; alt=&amp;quot;avvaiyar&amp;quot; width=&amp;quot;50&amp;quot; align=&amp;quot;left&amp;quot; class=&amp;quot;imgframe&amp;quot; &amp;gt; ** Tamil **: கற்றது கைமண் அளவு, கட்காதது உலகளவு.&#xA;** English Pronounciation **: Katrathu Kaiman Alavu Kallathathu Ulagalavu&#xA;** English Translation **: Known is a drop, unknown is an ocean.</description>
     </item>
     <item>
       <title>Create MP4 video file from Quicktime Mov file on a Mac OS X</title>
@@ -244,35 +251,35 @@
       <link>https://DigitalRiver.blog/2017/08/29/youtube-has-a-new-look-and-for-the-first-time-a-new-logo-repost/</link>
       <pubDate>Tue, 29 Aug 2017 21:13:51 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/29/youtube-has-a-new-look-and-for-the-first-time-a-new-logo-repost/</guid>
-      <description>YouTube has a new look and, for the first time, a new logo (repost)&#xA;You get to see how Google works from a UI perspective https://www.theverge.com/2017/8/29/16216868/new-youtube-logo-redesign-font-color-app-design</description>
+      <description> YouTube has a new look and, for the first time, a new logo (repost)&#xA;You get to see how Google works from a UI perspective https://www.theverge.com/2017/8/29/16216868/new-youtube-logo-redesign-font-color-app-design </description>
     </item>
     <item>
       <title>Create versatile visualizations with D3 and Angular (repost) </title>
       <link>https://DigitalRiver.blog/2017/08/29/create-versatile-visualizations-with-d3-and-angular-repost/</link>
       <pubDate>Tue, 29 Aug 2017 21:05:58 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/29/create-versatile-visualizations-with-d3-and-angular-repost/</guid>
-      <description>Create versatile visualizations with D3 and Angular&#xA;Learn how to combine the D3 data visualization tool and the Angular cross-platform application development platform to create interactive visualizations. https://opensource.com/article/17/8/d3-angular</description>
+      <description>&#xA;Create versatile visualizations with D3 and Angular&#xA;Learn how to combine the D3 data visualization tool and the Angular cross-platform application development platform to create interactive visualizations. https://opensource.com/article/17/8/d3-angular </description>
     </item>
     <item>
       <title>Monitoring Linux performance with Grafana (repost) </title>
       <link>https://DigitalRiver.blog/2017/08/29/monitoring-linux-performance-with-grafana-repost/</link>
       <pubDate>Tue, 29 Aug 2017 21:03:32 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/29/monitoring-linux-performance-with-grafana-repost/</guid>
-      <description>Monitoring Linux performance with Grafana https://opensource.com/article/17/8/linux-grafana</description>
+      <description>&#xA;Monitoring Linux performance with Grafana https://opensource.com/article/17/8/linux-grafana </description>
     </item>
     <item>
       <title>IBM, Kroger, Walmart and others team up to improve food safety with blockchains – TechCrunch</title>
       <link>https://DigitalRiver.blog/2017/08/23/ibm-kroger-walmart-and-others-team-up-to-improve-food-safety-with-blockchains-techcrunch/</link>
       <pubDate>Wed, 23 Aug 2017 01:15:28 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/23/ibm-kroger-walmart-and-others-team-up-to-improve-food-safety-with-blockchains-techcrunch/</guid>
-      <description>Article on how companies including IBM, Kroger, Walmart are teaming up to improve food safety with Blockchains (article is from TechCruch)&#xA;https://techcrunch.com/2017/08/22/ibm-costco-walmart-and-others-team-up-to-improve-food-safety-with-blockchains/amp/</description>
+      <description>Article on how companies including IBM, Kroger, Walmart are teaming up to improve food safety with Blockchains (article is from TechCruch)&#xA;https://techcrunch.com/2017/08/22/ibm-costco-walmart-and-others-team-up-to-improve-food-safety-with-blockchains/amp/ </description>
     </item>
     <item>
       <title>Three shadows during the eclipse. Science behind it. </title>
       <link>https://DigitalRiver.blog/2017/08/19/three-shadows-during-the-eclipse-science-behind-it/</link>
       <pubDate>Sat, 19 Aug 2017 17:13:47 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/19/three-shadows-during-the-eclipse-science-behind-it/</guid>
-      <description>On their journey through space, the Earth and the Moon cast 3 different shadows causing different types of solar and lunar eclipses. Why are there 3 shadows? https://www.timeanddate.com/eclipse/shadows.html</description>
+      <description>&#xA;On their journey through space, the Earth and the Moon cast 3 different shadows causing different types of solar and lunar eclipses. Why are there 3 shadows? https://www.timeanddate.com/eclipse/shadows.html </description>
     </item>
     <item>
       <title>The origin of complex life (snowball earth) (repost) </title>
@@ -286,98 +293,98 @@
       <link>https://DigitalRiver.blog/2017/08/14/all-the-details-on-the-upcoming-eclipse-over-the-american-sub-continent-repost/</link>
       <pubDate>Mon, 14 Aug 2017 19:31:54 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/14/all-the-details-on-the-upcoming-eclipse-over-the-american-sub-continent-repost/</guid>
-      <description>All the details on the upcoming eclipse over the American sub-continent (repost)&#xA;https://www.forbes.com/sites/startswithabang/2017/07/27/the-sights-safety-and-science-of-the-great-american-eclipse/?c=0&amp;amp;s=trending#7057dd851365</description>
+      <description>&#xA;All the details on the upcoming eclipse over the American sub-continent (repost)&#xA;https://www.forbes.com/sites/startswithabang/2017/07/27/the-sights-safety-and-science-of-the-great-american-eclipse/?c=0&amp;amp;amp;s=trending#7057dd851365 </description>
     </item>
     <item>
       <title>Super-thin semiconductors delay the &#39;death&#39; of silicon</title>
       <link>https://DigitalRiver.blog/2017/08/13/super-thin-semiconductors-delay-the-death-of-silicon/</link>
       <pubDate>Sun, 13 Aug 2017 15:17:23 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/13/super-thin-semiconductors-delay-the-death-of-silicon/</guid>
-      <description>Super-thin semiconductors delay the &amp;lsquo;death&amp;rsquo; of silicon&#xA;https://www.engadget.com/2017/08/13/super-thin-semiconductors/</description>
+      <description>&#xA;Super-thin semiconductors delay the &amp;lsquo;death&amp;rsquo; of silicon&#xA;https://www.engadget.com/2017/08/13/super-thin-semiconductors/ </description>
     </item>
     <item>
       <title>Choosing the right DB for your various tiers of your application stack (repost) </title>
       <link>https://DigitalRiver.blog/2017/08/12/choosing-the-right-db-for-your-various-tiers-of-your-application-stack-repost/</link>
       <pubDate>Sat, 12 Aug 2017 04:14:52 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/12/choosing-the-right-db-for-your-various-tiers-of-your-application-stack-repost/</guid>
-      <description>Choosing the right DB for your various tiers of your application stack (repost)&#xA;http://sdtimes.com/choose-right-database-microservices/</description>
+      <description>&#xA;Choosing the right DB for your various tiers of your application stack (repost)&#xA;http://sdtimes.com/choose-right-database-microservices/ </description>
     </item>
     <item>
       <title>Comparison JAX-RS vs. Spring REST (repost) </title>
       <link>https://DigitalRiver.blog/2017/08/12/comparison-jax-rs-vs-spring-rest-repost/</link>
       <pubDate>Sat, 12 Aug 2017 04:12:11 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/12/comparison-jax-rs-vs-spring-rest-repost/</guid>
-      <description>Comparison JAX-RS vs. Spring REST (repost)&#xA;https://dzone.com/articles/lets-compare-jax-rs-vs-spring-for-rest-endpoints</description>
+      <description>&#xA;Comparison JAX-RS vs. Spring REST (repost)&#xA;https://dzone.com/articles/lets-compare-jax-rs-vs-spring-for-rest-endpoints </description>
     </item>
     <item>
       <title>Mint 18.2 best Linux alternative to Windows desktop (repost) </title>
       <link>https://DigitalRiver.blog/2017/08/12/mint-18-2-best-linux-alternative-to-windows-desktop-repost/</link>
       <pubDate>Sat, 12 Aug 2017 04:04:13 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/12/mint-18-2-best-linux-alternative-to-windows-desktop-repost/</guid>
-      <description>Do you want a better operating system than Windows 10? Want a great Linux desktop? Then Linux Mint 18.2 is for you.&#xA;http://www.zdnet.com/article/mint-18-2-still-the-best-linux-desktop/</description>
+      <description>&#xA;Do you want a better operating system than Windows 10? Want a great Linux desktop? Then Linux Mint 18.2 is for you.&#xA;http://www.zdnet.com/article/mint-18-2-still-the-best-linux-desktop/ </description>
     </item>
     <item>
       <title>Malicious DNA Code Infects Computer That Reads It (repost) </title>
       <link>https://DigitalRiver.blog/2017/08/11/malicious-dna-code-infects-computer-that-reads-it-repost/</link>
       <pubDate>Fri, 11 Aug 2017 02:14:48 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/11/malicious-dna-code-infects-computer-that-reads-it-repost/</guid>
-      <description>Malicious DNA Code Infects Computer That Reads It (repost)&#xA;https://techcrunch.com/2017/08/09/malicious-code-written-into-dna-infects-the-computer-that-reads-it/</description>
+      <description>&#xA;Malicious DNA Code Infects Computer That Reads It (repost)&#xA;https://techcrunch.com/2017/08/09/malicious-code-written-into-dna-infects-the-computer-that-reads-it/ </description>
     </item>
     <item>
       <title>Good balance of web frameworks in Python </title>
       <link>https://DigitalRiver.blog/2017/08/04/good-balance-of-web-frameworks-in-python/</link>
       <pubDate>Fri, 04 Aug 2017 10:56:39 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/04/good-balance-of-web-frameworks-in-python/</guid>
-      <description>http://www.business2community.com/brandviews/upwork/guide-python-web-frameworks-01893109</description>
+      <description>&#xA;http://www.business2community.com/brandviews/upwork/guide-python-web-frameworks-01893109 </description>
     </item>
     <item>
       <title>Measuring the spectrum of light</title>
       <link>https://DigitalRiver.blog/2017/08/04/1540/Measuring-the-spectrum-of-light/</link>
       <pubDate>Fri, 04 Aug 2017 10:21:43 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/04/1540/Measuring-the-spectrum-of-light/</guid>
-      <description>CERN researchers succeeded in their goal of measuring the spectrum of light emitted from hydrogen&amp;rsquo;s mirror particle, antihydrogen.&#xA;Now the researchers have detailed evidence of the structure of antihydrogen using spectroscopy&amp;hellip;&#xA;Learn more at the link below:&#xA;http://www.sciencealert.com/physicists-have-captured-the-first-spectral-fingerprints-of-antimatter</description>
+      <description>&#xA;CERN researchers succeeded in their goal of measuring the spectrum of light emitted from hydrogen&amp;rsquo;s mirror particle, antihydrogen.&#xA;Now the researchers have detailed evidence of the structure of antihydrogen using spectroscopy&amp;hellip;&#xA;Learn more at the link below:&#xA;http://www.sciencealert.com/physicists-have-captured-the-first-spectral-fingerprints-of-antimatter </description>
     </item>
     <item>
       <title>Node JS, NPM &#39;crossenv&#39; malware </title>
       <link>https://DigitalRiver.blog/2017/08/04/node-js-npm-crossenv-malware/</link>
       <pubDate>Fri, 04 Aug 2017 10:18:53 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/04/node-js-npm-crossenv-malware/</guid>
-      <description>NodeJS developers should be aware of the crossenv malware that&amp;rsquo;s infecting systems.&#xA;http://blog.npmjs.org/post/163723642530/crossenv-malware-on-the-npm-registry</description>
+      <description>&#xA;NodeJS developers should be aware of the crossenv malware that&amp;rsquo;s infecting systems.&#xA;http://blog.npmjs.org/post/163723642530/crossenv-malware-on-the-npm-registry </description>
     </item>
     <item>
       <title>A5/Angular 5 beta is out</title>
       <link>https://DigitalRiver.blog/2017/08/04/a5angular-5-beta-is-out/</link>
       <pubDate>Fri, 04 Aug 2017 10:16:33 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/04/a5angular-5-beta-is-out/</guid>
-      <description>http://www.infoworld.com/article/3213244/javascript/whats-new-in-angular-5-easier-progressive-web-apps.html</description>
+      <description>&#xA;http://www.infoworld.com/article/3213244/javascript/whats-new-in-angular-5-easier-progressive-web-apps.html </description>
     </item>
     <item>
       <title>Pattern: Micro Services - Mesh (repost) </title>
       <link>https://DigitalRiver.blog/2017/08/04/pattern-micro-services-mesh-repost/</link>
       <pubDate>Fri, 04 Aug 2017 05:22:44 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/04/pattern-micro-services-mesh-repost/</guid>
-      <description>http://philcalcado.com/2017/08/03/pattern_service_mesh.html</description>
+      <description> http://philcalcado.com/2017/08/03/pattern_service_mesh.html </description>
     </item>
     <item>
       <title>Million Websockets in Go (repost) </title>
       <link>https://DigitalRiver.blog/2017/08/03/million-websockets-in-go-repost/</link>
       <pubDate>Thu, 03 Aug 2017 17:42:15 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/03/million-websockets-in-go-repost/</guid>
-      <description>https://medium.com/@gobwas/million-websockets-and-go-cc58418460bb</description>
+      <description> https://medium.com/@gobwas/million-websockets-and-go-cc58418460bb </description>
     </item>
     <item>
       <title>Why Templates Are Dead - repost </title>
       <link>https://DigitalRiver.blog/2017/07/28/why-templates-are-dead-repost/</link>
       <pubDate>Fri, 28 Jul 2017 15:55:51 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/07/28/why-templates-are-dead-repost/</guid>
-      <description>https://medium.com/@daveford/80-of-my-coding-is-doing-this-or-why-templates-are-dead-b640fc149e22</description>
+      <description> https://medium.com/@daveford/80-of-my-coding-is-doing-this-or-why-templates-are-dead-b640fc149e22 </description>
     </item>
     <item>
       <title>REST in Peace APIs / Long Live Graphql - repost </title>
       <link>https://DigitalRiver.blog/2017/07/25/rest-in-peace-apis-long-live-graphql-repost/</link>
       <pubDate>Tue, 25 Jul 2017 22:15:25 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/07/25/rest-in-peace-apis-long-live-graphql-repost/</guid>
-      <description>https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4</description>
+      <description> https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4 </description>
     </item>
     <item>
       <title>Shubhendu Sharma: How to grow a forest in your backyard | TED Talk</title>
@@ -391,77 +398,77 @@
       <link>https://DigitalRiver.blog/2017/07/14/friday-jokes-in-case-of-fire/</link>
       <pubDate>Fri, 14 Jul 2017 17:04:35 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/07/14/friday-jokes-in-case-of-fire/</guid>
-      <description>https://plus.google.com/+ImprogrammerNetwork/posts/Efhaf6aSR7p?_utm_source=1-2-2</description>
+      <description> https://plus.google.com/&amp;#43;ImprogrammerNetwork/posts/Efhaf6aSR7p?_utm_source=1-2-2 </description>
     </item>
     <item>
       <title>Article: JavaScript spec gets strung out on padding</title>
       <link>https://DigitalRiver.blog/2017/07/12/article-javascript-spec-gets-strung-out-on-padding/</link>
       <pubDate>Wed, 12 Jul 2017 21:02:16 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/07/12/article-javascript-spec-gets-strung-out-on-padding/</guid>
-      <description>JavaScript spec gets strung out on padding&#xA;http://flip.it/oui..b</description>
+      <description>JavaScript spec gets strung out on padding&#xA;http://flip.it/oui..b </description>
     </item>
     <item>
       <title>Article: Google&#39;s Artificial Intelligence Destroyed the World&#39;s Best Go Player. Then He Gave This Extraordinary Response</title>
       <link>https://DigitalRiver.blog/2017/07/12/article-googles-artificial-intelligence-destroyed-the-worlds-best-go-player-then-he-gave-this-extraordinary-response/</link>
       <pubDate>Wed, 12 Jul 2017 20:58:51 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/07/12/article-googles-artificial-intelligence-destroyed-the-worlds-best-go-player-then-he-gave-this-extraordinary-response/</guid>
-      <description>Google&amp;rsquo;s Artificial Intelligence Destroyed the World&amp;rsquo;s Best Go Player. Then He Gave This Extraordinary Response&#xA;http://flip.it/bgZ8ED</description>
+      <description>Google&amp;rsquo;s Artificial Intelligence Destroyed the World&amp;rsquo;s Best Go Player. Then He Gave This Extraordinary Response&#xA;http://flip.it/bgZ8ED </description>
     </item>
     <item>
       <title>Cell Atlases Reveal Biology’s Frontiers | Quanta Magazine</title>
       <link>https://DigitalRiver.blog/2017/07/12/cell-atlases-reveal-biologys-frontiers-quanta-magazine/</link>
       <pubDate>Wed, 12 Jul 2017 19:18:22 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/07/12/cell-atlases-reveal-biologys-frontiers-quanta-magazine/</guid>
-      <description>https://www.quantamagazine.org/cell-atlases-reveal-biologys-frontiers-20170712/</description>
+      <description> https://www.quantamagazine.org/cell-atlases-reveal-biologys-frontiers-20170712/ </description>
     </item>
     <item>
       <title>Coming to a storage near you... Scientists Upload a Galloping Horse GIF Into Bacteria With Crispr</title>
       <link>https://DigitalRiver.blog/2017/07/12/coming-to-a-storage-near-you-scientists-upload-a-galloping-horse-gif-into-bacteria-with-crispr/</link>
       <pubDate>Wed, 12 Jul 2017 19:17:37 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/07/12/coming-to-a-storage-near-you-scientists-upload-a-galloping-horse-gif-into-bacteria-with-crispr/</guid>
-      <description>https://www.wired.com/story/scientists-upload-a-galloping-horse-gif-into-bacteria-with-crispr/</description>
+      <description> https://www.wired.com/story/scientists-upload-a-galloping-horse-gif-into-bacteria-with-crispr/ </description>
     </item>
     <item>
       <title>Two Students Just Broke a Quantum Computing World Record</title>
       <link>https://DigitalRiver.blog/2017/07/06/two-students-just-broke-a-quantum-computing-world-record/</link>
       <pubDate>Thu, 06 Jul 2017 01:21:39 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/07/06/two-students-just-broke-a-quantum-computing-world-record/</guid>
-      <description>https://futurism.com/two-students-just-broke-a-quantum-computing-world-record/</description>
+      <description> https://futurism.com/two-students-just-broke-a-quantum-computing-world-record/ </description>
     </item>
     <item>
       <title>New &#39;responsive&#39; Google Font can shapeshift to match any design</title>
       <link>https://DigitalRiver.blog/2017/07/04/new-responsive-google-font-can-shapeshift-to-match-any-design/</link>
       <pubDate>Tue, 04 Jul 2017 16:20:29 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/07/04/new-responsive-google-font-can-shapeshift-to-match-any-design/</guid>
-      <description>Google has added its very first &amp;lsquo;parametric&amp;rsquo; font that boasts a responsive design which you can easily tweak without almost any limitations.&#xA;Source: New &amp;lsquo;responsive&amp;rsquo; Google Font can shapeshift to match any design</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/07/google-spectral-796x378.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Google has added its very first &amp;lsquo;parametric&amp;rsquo; font that boasts a responsive design which you can easily tweak without almost any limitations.&#xA;Source: New &amp;amp;lsquo;responsive&amp;amp;rsquo; Google Font can shapeshift to match any design </description>
     </item>
     <item>
       <title>Linux Routes - How to use them?</title>
       <link>https://DigitalRiver.blog/post/2017-05-11-how-to-add-route-in-linux/</link>
       <pubDate>Thu, 11 May 2017 23:39:48 +0000</pubDate>
       <guid>https://DigitalRiver.blog/post/2017-05-11-how-to-add-route-in-linux/</guid>
-      <description>Examples of Route Command and it&amp;rsquo;s usage.&#xA;Source: 7 Linux Route Command Examples (How to Add Route in Linux)&#xA;To learn the fundamentals of Routing, please visit the link below:&#xA;Fundamentals of Routing</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/05/route-command.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Examples of Route Command and it&amp;rsquo;s usage.&#xA;Source: 7 Linux Route Command Examples (How to Add Route in Linux) To learn the fundamentals of Routing, please visit the link below:&#xA;Fundamentals of Routing </description>
     </item>
     <item>
       <title>Synthetic Sensors Is a Sensor That Could Soon Make Homes Scary-Smart | WIRED</title>
       <link>https://DigitalRiver.blog/2017/05/11/synthetic-sensors-is-a-sensor-that-could-soon-make-homes-scary-smart-wired/</link>
       <pubDate>Thu, 11 May 2017 23:31:56 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/05/11/synthetic-sensors-is-a-sensor-that-could-soon-make-homes-scary-smart-wired/</guid>
-      <description>**Synthetic Sensors** : a simple device that plugs into an electrical outlet and connects everything in the room. It can capture all of the the environmental data needed to transform a wide variety of ordinary household objects into smart devices. Plug the module into an electrical outlet and it becomes the eyes and ears of the room, its 10 embedded sensors logging information like sound, humidity, electromagnetic noise, motion, and light (the researchers excluded a camera for privacy reasons).</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2017/05/faucet-giphy-final.gif&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/img/2017/05/00_a_hardware_closeup-hp-660x330.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/img/2017/05/fireplace-giphy-final.gif&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; **Synthetic Sensors** : a simple device that plugs into an electrical outlet and connects everything in the room. It can capture all of the the environmental data needed to transform a wide variety of ordinary household objects into smart devices. Plug the module into an electrical outlet and it becomes the eyes and ears of the room, its 10 embedded sensors logging information like sound, humidity, electromagnetic noise, motion, and light (the researchers excluded a camera for privacy reasons).</description>
     </item>
     <item>
       <title>Ancient, giant viruses are being unearthed in Arctic ice that&#39;s at risk of melting</title>
       <link>https://DigitalRiver.blog/2017/05/11/ancient-giant-viruses-are-being-unearthed-in-arctic-ice-thats-at-risk-of-melting/</link>
       <pubDate>Thu, 11 May 2017 01:41:43 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/05/11/ancient-giant-viruses-are-being-unearthed-in-arctic-ice-thats-at-risk-of-melting/</guid>
-      <description>Scientists working in the Arctic circle over the past few decades have unearthed several massive viruses that some say could be re-awakened if the permafrost that imprisons them dissolves. Recently, some researchers have suggested that these enormous viruses could thaw out, escape, and make lots of people sick. It sounds like something out of a 1990s horror film. But you shouldn&amp;rsquo;t get too concerned — at least not yet.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2017/05/original.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Scientists working in the Arctic circle over the past few decades have unearthed several massive viruses that some say could be re-awakened if the permafrost that imprisons them dissolves. Recently, some researchers have suggested that these enormous viruses could thaw out, escape, and make lots of people sick. It sounds like something out of a 1990s horror film. But you shouldn&amp;rsquo;t get too concerned — at least not yet.</description>
     </item>
     <item>
       <title>Everything You Need to Know About Nuclear Physics</title>
       <link>https://DigitalRiver.blog/2017/05/11/everything-you-need-to-know-about-nuclear-physics/</link>
       <pubDate>Thu, 11 May 2017 01:37:03 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/05/11/everything-you-need-to-know-about-nuclear-physics/</guid>
-      <description>[embed]https://www.youtube.com/watch?v=lUhJL7o6_cA[/embed]&#xA;Shini from the YouTube series CrashCourse takes a dive into the world of Einstein and nuclear physics.&#xA;Source: Everything You Need to Know About Nuclear Physics</description>
+      <description>[embed]https://www.youtube.com/watch?v=lUhJL7o6_cA[/embed]&#xA;Shini from the YouTube series CrashCourse takes a dive into the world of Einstein and nuclear physics.&#xA;Source: Everything You Need to Know About Nuclear Physics </description>
     </item>
     <item>
       <title>Quantum Computing Demands a Whole New Kind of Programmer</title>
@@ -475,140 +482,140 @@
       <link>https://DigitalRiver.blog/2017/05/11/nanofridge-could-keep-quantum-computers-cool-enough-to-calculate/</link>
       <pubDate>Thu, 11 May 2017 01:31:47 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/05/11/nanofridge-could-keep-quantum-computers-cool-enough-to-calculate/</guid>
-      <description>Quantum computers need to be kept cool, just like regular computers, but an ordinary fan won’t cut it. A nanofridge that sorts electrons by temperature just might keep it cool enough to allow quantum compute.&#xA;Classical computers require built-in fans and other ways to dissipate heat, and quantum computers are no different. Instead of working with bits of information that can be either 0 or 1, as in a classical machine, a quantum computer relies on “qubits”, which can be in both states simultaneously – called a superposition – thanks to the quirks of quantum mechanics.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2017/05/lead_fig2.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Quantum computers need to be kept cool, just like regular computers, but an ordinary fan won’t cut it. A nanofridge that sorts electrons by temperature just might keep it cool enough to allow quantum compute.&#xA;Classical computers require built-in fans and other ways to dissipate heat, and quantum computers are no different. Instead of working with bits of information that can be either 0 or 1, as in a classical machine, a quantum computer relies on “qubits”, which can be in both states simultaneously – called a superposition – thanks to the quirks of quantum mechanics.</description>
     </item>
     <item>
       <title>MIT physicists have found a brand new way to unleash graphene&#39;s superconductive power</title>
       <link>https://DigitalRiver.blog/2017/05/11/mit-physicists-have-found-a-brand-new-way-to-unleash-graphenes-superconductive-power/</link>
       <pubDate>Thu, 11 May 2017 01:28:00 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/05/11/mit-physicists-have-found-a-brand-new-way-to-unleash-graphenes-superconductive-power/</guid>
-      <description>Physicists have found a new way to turn &#39;wonder material&#39; graphene into a ridiculously powerful superconductor, capable of shuttling electricity with zero resistance. That&amp;rsquo;s important, because if we could find a way to achieve superconductivity at room temperature, it would lead to vastly more efficient electronic devices, not to mention power lines. Right now, energy companies are losing about 7 percent of their energy as heat as a result of resistance in the grid.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2017/05/mit-graphene-semiconductors_0.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Physicists have found a new way to turn &#39;wonder material&#39; graphene into a ridiculously powerful superconductor, capable of shuttling electricity with zero resistance. That&amp;rsquo;s important, because if we could find a way to achieve superconductivity at room temperature, it would lead to vastly more efficient electronic devices, not to mention power lines. Right now, energy companies are losing about 7 percent of their energy as heat as a result of resistance in the grid.</description>
     </item>
     <item>
       <title>Stunning image of Jupiter from NASA&#39;s Juno spacecraft is simply out of this world — except it&#39;s not</title>
       <link>https://DigitalRiver.blog/2017/05/11/stunning-image-of-jupiter-from-nasas-juno-spacecraft-is-simply-out-of-this-world-except-its-not/</link>
       <pubDate>Thu, 11 May 2017 01:23:34 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/05/11/stunning-image-of-jupiter-from-nasas-juno-spacecraft-is-simply-out-of-this-world-except-its-not/</guid>
-      <description>The filagree of atmospheric patterns at Jupiter&amp;rsquo;s south pole bears an eerie resemblance to a phenomenon here on Earth&#xA;Source: This stunning image of Jupiter from NASA&amp;rsquo;s Juno spacecraft is simply out of this world — except it&amp;rsquo;s not</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/05/pia21390.jpeg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/img/2017/05/pia21030-300x300.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; The filagree of atmospheric patterns at Jupiter&amp;rsquo;s south pole bears an eerie resemblance to a phenomenon here on Earth&#xA;Source: This stunning image of Jupiter from NASA&amp;amp;rsquo;s Juno spacecraft is simply out of this world — except it&amp;amp;rsquo;s not </description>
     </item>
     <item>
       <title>Getting to Grips With Time Crystals. What is That Really?</title>
       <link>https://DigitalRiver.blog/2017/05/11/getting-to-grips-with-time-crystals-what-is-that-really/</link>
       <pubDate>Thu, 11 May 2017 01:20:13 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/05/11/getting-to-grips-with-time-crystals-what-is-that-really/</guid>
-      <description>You may or may not have heard that there’s a new phase of matter been discovered and it’s called a time crystal. A team of UC Berkley physicists made the discovery last year and since t…&#xA;Source: Getting to Grips With Time Crystals. What is That Really? | TrendinTech</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/05/quartz-structure.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; You may or may not have heard that there’s a new phase of matter been discovered and it’s called a time crystal. A team of UC Berkley physicists made the discovery last year and since t…&#xA;Source: Getting to Grips With Time Crystals. What is That Really? | TrendinTech </description>
     </item>
     <item>
       <title>Javascript: Embrace Arrow Functions</title>
       <link>https://DigitalRiver.blog/post/2017-05-03-javascript-embrace-arrow-functions/</link>
       <pubDate>Wed, 03 May 2017 19:23:37 +0000</pubDate>
       <guid>https://DigitalRiver.blog/post/2017-05-03-javascript-embrace-arrow-functions/</guid>
-      <description>Great article on JavaScript currying and arrow functions.&#xA;Here is an example of a function in Javascript:&#xA;const secret = function (msg) { return function () { return msg; }; }; The same function as currying or arrow function:&#xA;const secret = msg =&amp;gt; () =&amp;gt; msg; To learn more about the basics, visit the link below. Source: Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/05/es6icon1.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Great article on JavaScript currying and arrow functions.&#xA;Here is an example of a function in Javascript:&#xA;const secret = function (msg) { return function () { return msg; }; }; The same function as currying or arrow function:&#xA;const secret = msg =&amp;gt; () =&amp;gt; msg; To learn more about the basics, visit the link below. Source: Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions </description>
     </item>
     <item>
       <title>Elements of JavaScript Style – JavaScript Scene – Medium</title>
       <link>https://DigitalRiver.blog/post/2017-05-03-elements-of-javascript-style-javascript-scene-medium/</link>
       <pubDate>Wed, 03 May 2017 19:07:30 +0000</pubDate>
       <guid>https://DigitalRiver.blog/post/2017-05-03-elements-of-javascript-style-javascript-scene-medium/</guid>
-      <description>Great article focusing on Javascript style. Provides some good examples of JavaScript coding styles, practices, and things to avoid.&#xA;The examples includes:&#xA;Make the function the unit of composition. One job for each function. Omit needless code. Use active voice. Avoid a succession of loose statements. Keep related code together. Put statements and expressions in positive form. Use parallel code for parallel concepts. Source: Elements of JavaScript Style – JavaScript Scene – Medium</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/05/javascripticon.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Great article focusing on Javascript style. Provides some good examples of JavaScript coding styles, practices, and things to avoid.&#xA;The examples includes:&#xA;Make the function the unit of composition. One job for each function. Omit needless code. Use active voice. Avoid a succession of loose statements. Keep related code together. Put statements and expressions in positive form. Use parallel code for parallel concepts. Source: Elements of JavaScript Style – JavaScript Scene – Medium </description>
     </item>
     <item>
       <title>Scientists Found Cancer-Causing DNA in Stem Cells Given to Patients - Tonic</title>
       <link>https://DigitalRiver.blog/2017/04/28/scientists-found-cancer-causing-dna-in-stem-cells-given-to-patients-tonic/</link>
       <pubDate>Fri, 28 Apr 2017 21:39:10 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/04/28/scientists-found-cancer-causing-dna-in-stem-cells-given-to-patients-tonic/</guid>
-      <description>https://tonic.vice.com/en_us/article/scientists-found-cancer-causing-dna-in-stem-cells-given-to-patients</description>
+      <description> https://tonic.vice.com/en_us/article/scientists-found-cancer-causing-dna-in-stem-cells-given-to-patients </description>
     </item>
     <item>
       <title>What if we’re living in a computer simulation? | Technology | The Guardian</title>
       <link>https://DigitalRiver.blog/2017/04/24/what-if-were-living-in-a-computer-simulation-technology-the-guardian/</link>
       <pubDate>Mon, 24 Apr 2017 15:27:56 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/04/24/what-if-were-living-in-a-computer-simulation-technology-the-guardian/</guid>
-      <description>Virtual reality technology is making great advances, but it has also helped popularise a theory long debated by philosophers and now gaining supporters in Silicon Valley – that the outside world is itself a simulation&#xA;Source: What if we’re living in a computer simulation? | Technology | The Guardian</description>
+      <description> &amp;lt;img src=&amp;#34;https://i.guim.co.uk/img/media/6a7e7c19ac79a3b9be199f8c5798a813107a5b90/0_0_1930_1158/master/1930.jpg?w=300&amp;amp;amp;q=55&amp;amp;amp;auto=format&amp;amp;amp;usm=12&amp;amp;amp;fit=max&amp;amp;amp;s=85e6a8e12d37b3885dff8a5fd5ca19d2&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Virtual reality technology is making great advances, but it has also helped popularise a theory long debated by philosophers and now gaining supporters in Silicon Valley – that the outside world is itself a simulation&#xA;Source: What if we’re living in a computer simulation? | Technology | The Guardian </description>
     </item>
     <item>
       <title>Researchers Unearthed a New Copy of the Declaration of Independence</title>
       <link>https://DigitalRiver.blog/2017/04/22/researchers-unearthed-a-new-copy-of-the-declaration-of-independence/</link>
       <pubDate>Sat, 22 Apr 2017 22:53:21 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/04/22/researchers-unearthed-a-new-copy-of-the-declaration-of-independence/</guid>
-      <description>http://www.esquire.com/news-politics/news/a54689/new-declaration-of-independence/</description>
+      <description> http://www.esquire.com/news-politics/news/a54689/new-declaration-of-independence/ </description>
     </item>
     <item>
       <title>Article: Physicists observe &#39;negative mass&#39;</title>
       <link>https://DigitalRiver.blog/2017/04/20/article-physicists-observe-negative-mass/</link>
       <pubDate>Thu, 20 Apr 2017 16:06:31 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/04/20/article-physicists-observe-negative-mass/</guid>
-      <description>Physicists observe &amp;rsquo;negative mass&#39;&#xA;http://flip.it/zOX5Z5</description>
+      <description>Physicists observe &amp;rsquo;negative mass&#39;&#xA;http://flip.it/zOX5Z5 </description>
     </item>
     <item>
       <title>Article: Why Does The Proton Spin? Physics Holds A Surprising Answer</title>
       <link>https://DigitalRiver.blog/2017/04/20/article-why-does-the-proton-spin-physics-holds-a-surprising-answer/</link>
       <pubDate>Thu, 20 Apr 2017 16:04:10 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/04/20/article-why-does-the-proton-spin-physics-holds-a-surprising-answer/</guid>
-      <description>Why Does The Proton Spin? Physics Holds A Surprising Answer&#xA;http://flip.it/ZBiAfu</description>
+      <description>Why Does The Proton Spin? Physics Holds A Surprising Answer&#xA;http://flip.it/ZBiAfu </description>
     </item>
     <item>
       <title>How AI algorithms could help design new drugs? - Futurity</title>
       <link>https://DigitalRiver.blog/post/2017-04-06-how-ai-algorithms-could-help-design-new-drugs-futurity/</link>
       <pubDate>Thu, 06 Apr 2017 19:01:57 +0000</pubDate>
       <guid>https://DigitalRiver.blog/post/2017-04-06-how-ai-algorithms-could-help-design-new-drugs-futurity/</guid>
-      <description>A new kind of AI algorithm—designed to work with a small amount of data—may be able to assist in the early stages of drug development. Artificial intelligence doesn’t work all that well in situations where there is very little data, such as drug development. A new technique called one-shot learning, that requires only a small number of data points might be a solution to that low-data problem.&#xA;To make molecular information more digestible, the researchers first represented each molecule in terms of the connections between atoms (what a mathematician would call a graph).</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2017/04/ai.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; A new kind of AI algorithm—designed to work with a small amount of data—may be able to assist in the early stages of drug development. Artificial intelligence doesn’t work all that well in situations where there is very little data, such as drug development. A new technique called one-shot learning, that requires only a small number of data points might be a solution to that low-data problem.</description>
     </item>
     <item>
       <title>uvloop - Python replacement for asyncio event loop</title>
       <link>https://DigitalRiver.blog/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</link>
       <pubDate>Sat, 01 Apr 2017 16:26:27 +0000</pubDate>
       <guid>https://DigitalRiver.blog/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</guid>
-      <description>uvloop is a fast, drop-in replacement of the built-in asyncio event loop. uvloop is implemented in Cython and uses libuv under the hood.&#xA;Benefits: uvloop makes asyncio 2-4x faster.&#xA;Cons: uvloop is available from PyPI but it requires Python 3.5. (The reason for this is asyncio was introduced in Python 3.4 and above.) Unless your project is based on Python 3.4+ - you may not be able to leverage this library.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/09/python_logo.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; uvloop is a fast, drop-in replacement of the built-in asyncio event loop. uvloop is implemented in Cython and uses libuv under the hood.&#xA;Benefits: uvloop makes asyncio 2-4x faster.&#xA;Cons: uvloop is available from PyPI but it requires Python 3.5. (The reason for this is asyncio was introduced in Python 3.4 and above.) Unless your project is based on Python 3.4+ - you may not be able to leverage this library.</description>
     </item>
     <item>
       <title>Scientists Have Discovered a New Activity in Brain Cells</title>
       <link>https://DigitalRiver.blog/2017/03/28/scientists-have-discovered-a-new-activity-in-brain-cells/</link>
       <pubDate>Tue, 28 Mar 2017 00:33:52 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/28/scientists-have-discovered-a-new-activity-in-brain-cells/</guid>
-      <description>https://futurism.com/scientists-have-discovered-a-new-activity-in-brain-cells/</description>
+      <description> https://futurism.com/scientists-have-discovered-a-new-activity-in-brain-cells/ </description>
     </item>
     <item>
       <title>A Teenager Just &#34;Delighted&#34; NASA By Pointing Out a Significant Error in Their Data</title>
       <link>https://DigitalRiver.blog/2017/03/24/a-teenager-just-delighted-nasa-by-pointing-out-a-significant-error-in-their-data/</link>
       <pubDate>Fri, 24 Mar 2017 02:45:37 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/24/a-teenager-just-delighted-nasa-by-pointing-out-a-significant-error-in-their-data/</guid>
-      <description>https://futurism.com/a-teenager-just-delighted-nasa-by-pointing-out-a-significant-error-in-their-data/</description>
+      <description> https://futurism.com/a-teenager-just-delighted-nasa-by-pointing-out-a-significant-error-in-their-data/ </description>
     </item>
     <item>
       <title>Create a HiFi and audiophonic system using Raspberry pi</title>
       <link>https://DigitalRiver.blog/2017/03/24/create-a-hifi-and-audiophonic-system-using-raspberry-pi/</link>
       <pubDate>Fri, 24 Mar 2017 02:41:52 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/24/create-a-hifi-and-audiophonic-system-using-raspberry-pi/</guid>
-      <description>Create a HiFi and audiophonic system using Raspberry pi https://plus.google.com/+AudiophonicsFr-audio/posts/cbW5L9tkfRL?_utm_source=1-2-2</description>
+      <description>&#xA;Create a HiFi and audiophonic system using Raspberry pi https://plus.google.com/&amp;#43;AudiophonicsFr-audio/posts/cbW5L9tkfRL?_utm_source=1-2-2 </description>
     </item>
     <item>
       <title>Ink in Water, or a Star Going Supernova?</title>
       <link>https://DigitalRiver.blog/2017/03/17/ink-in-water-or-a-star-going-supernova/</link>
       <pubDate>Fri, 17 Mar 2017 23:39:40 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/17/ink-in-water-or-a-star-going-supernova/</guid>
-      <description>The artist recreates the supernova in an aquarium using some innovative techniques. Watch the film online at the link below :&#xA;https://creators.vice.com/en_us/article/star-going-supernova-ink-water-aquarium</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/03/27b26743463119-57f05beae94b6.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; The artist recreates the supernova in an aquarium using some innovative techniques. Watch the film online at the link below :&#xA;https://creators.vice.com/en_us/article/star-going-supernova-ink-water-aquarium </description>
     </item>
     <item>
       <title>Disk Space Monitoring – Predict When Full</title>
       <link>https://DigitalRiver.blog/2017/03/16/disk-space-monitoring-predict-when-full/</link>
       <pubDate>Thu, 16 Mar 2017 14:38:03 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/16/disk-space-monitoring-predict-when-full/</guid>
-      <description>Many disk and file administration management tools will let you set up alerts to inform you when a server or workstation drive is nearing its maximum capacity. Here are some options on how we can build visualization tools around this.&#xA;Source: Disk Space Monitoring – Predict When Full | Network Wrangler - Tech Blog</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/03/chalkboard-formula3.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/img/2017/03/storageicon2.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Many disk and file administration management tools will let you set up alerts to inform you when a server or workstation drive is nearing its maximum capacity. Here are some options on how we can build visualization tools around this.&#xA;Source: Disk Space Monitoring – Predict When Full | Network Wrangler - Tech Blog </description>
     </item>
     <item>
       <title>Kernel debugging with QEMU: An overview of tools available</title>
       <link>https://DigitalRiver.blog/2017/03/16/kernel-debugging-with-qemu-an-overview-of-tools-available/</link>
       <pubDate>Thu, 16 Mar 2017 01:19:15 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/16/kernel-debugging-with-qemu-an-overview-of-tools-available/</guid>
-      <description>Good article on leveraging tools such as kmemleak, gdb, printk, ftrace. http://dalleau.re/post/qemu_debugging/</description>
+      <description>&#xA;Good article on leveraging tools such as kmemleak, gdb, printk, ftrace. http://dalleau.re/post/qemu_debugging/ </description>
     </item>
     <item>
       <title>A URL Shortener Service using Go, Iris and Bolt – Medium</title>
       <link>https://DigitalRiver.blog/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</link>
       <pubDate>Thu, 16 Mar 2017 00:49:33 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</guid>
-      <description>Go (cross-platform language/compiler)&#xA;Iris (web framework in Go) + Bolt (embedded key-value DB) = one powerful combination Read more at&#xA;https://medium.com/@kataras/a-url-shortener-service-using-go-iris-and-bolt-4182f0b00ae7#.8ltduw3kf</description>
+      <description>&#xA;Go (cross-platform language/compiler)&#xA;Iris (web framework in Go) + Bolt (embedded key-value DB) = one powerful combination Read more at&#xA;https://medium.com/@kataras/a-url-shortener-service-using-go-iris-and-bolt-4182f0b00ae7#.8ltduw3kf </description>
     </item>
     <item>
       <title>Transmutation of the Storage Administrator : Scott&#39;s Blog</title>
@@ -622,112 +629,112 @@
       <link>https://DigitalRiver.blog/2017/03/14/spring-ldap-overview-baeldung/</link>
       <pubDate>Tue, 14 Mar 2017 02:26:09 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/14/spring-ldap-overview-baeldung/</guid>
-      <description>Learn how to use the Spring LDAP APIs to authenticate and search for users, as well as to create and modify users in the directory server.&#xA;Source: Spring LDAP Overview | Baeldung</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/03/springframework.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Learn how to use the Spring LDAP APIs to authenticate and search for users, as well as to create and modify users in the directory server.&#xA;Source: Spring LDAP Overview | Baeldung </description>
     </item>
     <item>
       <title>Set Up a TFTP Server on Linux | Linux.com</title>
       <link>https://DigitalRiver.blog/2017/03/13/set-up-a-tftp-server-on-linux-linux-com/</link>
       <pubDate>Mon, 13 Mar 2017 19:29:22 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/13/set-up-a-tftp-server-on-linux-linux-com/</guid>
-      <description>Most users are familiar with FTP, but if you want to kickstart Red Hat installs, PXE boot systems, auto-provision VoIP phones or unbrick a Linux-based router, you want a Trivial File Transfer Protocol (TFTP) server. Setting one up on Linux is easy, and a perfect project to take on over the weekend.&#xA;Source: Weekend Project: Set Up a TFTP Server on Linux | Linux.com | The source for Linux information</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/03/linuxlogo.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Most users are familiar with FTP, but if you want to kickstart Red Hat installs, PXE boot systems, auto-provision VoIP phones or unbrick a Linux-based router, you want a Trivial File Transfer Protocol (TFTP) server. Setting one up on Linux is easy, and a perfect project to take on over the weekend.&#xA;Source: Weekend Project: Set Up a TFTP Server on Linux | Linux.com | The source for Linux information </description>
     </item>
     <item>
       <title>How To Record Everything You Do In Terminal - OSTechNix</title>
       <link>https://DigitalRiver.blog/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</link>
       <pubDate>Mon, 13 Mar 2017 19:27:16 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</guid>
-      <description>Synopsis:&#xA;script -a my_history mkdir test cd test touch hello_world.txt echo &#39;Hello World&#39; &gt; ./hello_world.txt # This closes the &#34;script -a my_history&#34; file exit Source: How To Record Everything You Do In Terminal - OSTechNix</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/03/record-everything-you-do-in-terminal.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Synopsis:&#xA;script -a my_history mkdir test cd test touch hello_world.txt echo &#39;Hello World&#39; &gt; ./hello_world.txt # This closes the &#34;script -a my_history&#34; file exit Source: How To Record Everything You Do In Terminal - OSTechNix </description>
     </item>
     <item>
       <title>Where API Management Is Headed in 2017 - DZone Integration</title>
       <link>https://DigitalRiver.blog/2017/03/13/where-api-management-is-headed-in-2017-dzone-integration/</link>
       <pubDate>Mon, 13 Mar 2017 14:21:54 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/13/where-api-management-is-headed-in-2017-dzone-integration/</guid>
-      <description>In terms of API management in 2017, analysts are scrambling to catch up. Full lifecycle API management, security, and orchestration must be top considerations.&#xA;Source: Where API Management Is Headed in 2017 - DZone Integration</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/03/api-infinity-diagram-for-david-chiu-blog-1024x576.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; In terms of API management in 2017, analysts are scrambling to catch up. Full lifecycle API management, security, and orchestration must be top considerations.&#xA;Source: Where API Management Is Headed in 2017 - DZone Integration </description>
     </item>
     <item>
       <title>Angular Modules vs ES6 Modules - DZone Web Dev</title>
       <link>https://DigitalRiver.blog/2017/03/13/angular-modules-vs-es6-modules-dzone-web-dev/</link>
       <pubDate>Mon, 13 Mar 2017 14:19:53 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/13/angular-modules-vs-es6-modules-dzone-web-dev/</guid>
-      <description>In this post, you&amp;rsquo;ll find a quick tutorial explaining the difference between Angular Module and ESG Modules, and how to best use each of these platforms.&#xA;Here is a quick summary:&#xA;ES6 Module Example:&#xA;import { sqrt } from &#39;math-utils&#39;; const addition = (val1, val2) =&amp;gt; val1 + val2; const subtraction = (val1, val2) =&amp;gt; val1 - val2; const multiplication = (val1, val2) =&amp;gt; val1 * val2; const calculateSquareRoot = (val) =&amp;gt; sqrt(val); export { addition, multiplication } Angular Module Example:</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2017/03/angularicon1.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; In this post, you&amp;rsquo;ll find a quick tutorial explaining the difference between Angular Module and ESG Modules, and how to best use each of these platforms.&#xA;Here is a quick summary:&#xA;ES6 Module Example:&#xA;import { sqrt } from &#39;math-utils&#39;; const addition = (val1, val2) =&amp;gt; val1 + val2; const subtraction = (val1, val2) =&amp;gt; val1 - val2; const multiplication = (val1, val2) =&amp;gt; val1 * val2; const calculateSquareRoot = (val) =&amp;gt; sqrt(val); export { addition, multiplication } Angular Module Example:</description>
     </item>
     <item>
       <title>Your password is probably useless, says coding guru Jeff Atwood. Here&#39;s why | ZDNet</title>
       <link>https://DigitalRiver.blog/2017/03/13/your-password-is-probably-useless-says-coding-guru-jeff-atwood-heres-why-zdnet/</link>
       <pubDate>Mon, 13 Mar 2017 14:10:41 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/13/your-password-is-probably-useless-says-coding-guru-jeff-atwood-heres-why-zdnet/</guid>
-      <description>The best way to improve passwords is to think like the user and stop creating bad password-composition rules, Stack Overflow founder Jeff Atwood tells developers.&#xA;Source: Your password is probably useless, says coding guru Jeff Atwood. Here&amp;rsquo;s why | ZDNet</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/03/passwordicon1.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; The best way to improve passwords is to think like the user and stop creating bad password-composition rules, Stack Overflow founder Jeff Atwood tells developers.&#xA;Source: Your password is probably useless, says coding guru Jeff Atwood. Here&amp;amp;rsquo;s why | ZDNet </description>
     </item>
     <item>
       <title>An insecure mess: How flawed JavaScript is turning web into a hacker&#39;s playground | ZDNet</title>
       <link>https://DigitalRiver.blog/2017/03/13/an-insecure-mess-how-flawed-javascript-is-turning-web-into-a-hackers-playground-zdnet/</link>
       <pubDate>Mon, 13 Mar 2017 14:07:11 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/13/an-insecure-mess-how-flawed-javascript-is-turning-web-into-a-hackers-playground-zdnet/</guid>
-      <description>Researchers say tens of thousands of sites are using JavaScript libraries that are years old and contain publicly known vulnerabilities.&#xA;An analysis of over 133,000 websites has found that 37 percent of them have at least one JavaScript library with a known vulnerability. There are no reliable vulnerability databases, no security mailing lists maintained by library vendors, few or no details on security issues in release notes, and often, it is difficult to determine which versions of a library are affected by a specific reported vulnerability.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2017/03/hackericon1.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/img/2017/03/javascripticon.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Researchers say tens of thousands of sites are using JavaScript libraries that are years old and contain publicly known vulnerabilities.&#xA;An analysis of over 133,000 websites has found that 37 percent of them have at least one JavaScript library with a known vulnerability. There are no reliable vulnerability databases, no security mailing lists maintained by library vendors, few or no details on security issues in release notes, and often, it is difficult to determine which versions of a library are affected by a specific reported vulnerability.</description>
     </item>
     <item>
       <title>Lichee Pi Zero Is A Tiny Linux Computer That Costs Just $6</title>
       <link>https://DigitalRiver.blog/2017/03/12/lichee-pi-zero-is-a-tiny-linux-computer-that-costs-just-6/</link>
       <pubDate>Sun, 12 Mar 2017 18:39:38 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/12/lichee-pi-zero-is-a-tiny-linux-computer-that-costs-just-6/</guid>
-      <description>https://fossbytes.com/lichee-pi-zero-tiny-linux-computer-costs-just-6/</description>
+      <description> https://fossbytes.com/lichee-pi-zero-tiny-linux-computer-costs-just-6/ </description>
     </item>
     <item>
       <title>The Future of Web Development: Coding as a Service</title>
       <link>https://DigitalRiver.blog/2017/03/12/the-future-of-web-development-coding-as-a-service/</link>
       <pubDate>Sun, 12 Mar 2017 18:38:39 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/12/the-future-of-web-development-coding-as-a-service/</guid>
-      <description>The article talks about the comoditization of web development as a service (Coding as a Service - CaaS).&#xA;For the price of two Venti Iced Caramel Macchiatos per month you can run a respectable website with little to no technical experience... Artificial Intelligence will enable more complex combinations of code to be fit together through an automated process... The quantity and quality of customization with AI will be staggering. And for the end user this means it will be at once simpler and cheaper.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2017/03/webdevelopment2.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; The article talks about the comoditization of web development as a service (Coding as a Service - CaaS).&#xA;For the price of two Venti Iced Caramel Macchiatos per month you can run a respectable website with little to no technical experience... Artificial Intelligence will enable more complex combinations of code to be fit together through an automated process... The quantity and quality of customization with AI will be staggering.</description>
     </item>
     <item>
       <title>A new Volumio has been released for UDOO Dual, Quad and Neo - UDOO</title>
       <link>https://DigitalRiver.blog/2017/03/12/a-new-volumio-has-been-released-for-udoo-dual-quad-and-neo-udoo/</link>
       <pubDate>Sun, 12 Mar 2017 18:36:46 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/12/a-new-volumio-has-been-released-for-udoo-dual-quad-and-neo-udoo/</guid>
-      <description>http://www.udoo.org/new-volumio-released-udoo-dual-quad-neo/</description>
+      <description> http://www.udoo.org/new-volumio-released-udoo-dual-quad-neo/ </description>
     </item>
     <item>
       <title>The Raspberry Pi Zero W Is Your Key to the Hackable Future | WIRED</title>
       <link>https://DigitalRiver.blog/2017/03/12/the-raspberry-pi-zero-w-is-your-key-to-the-hackable-future-wired/</link>
       <pubDate>Sun, 12 Mar 2017 18:36:27 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/12/the-raspberry-pi-zero-w-is-your-key-to-the-hackable-future-wired/</guid>
-      <description>https://www.wired.com/2017/03/new-raspberry-pi-zero-w-key-hackable-future/</description>
+      <description> https://www.wired.com/2017/03/new-raspberry-pi-zero-w-key-hackable-future/ </description>
     </item>
     <item>
       <title>How to recover lost Python source code if it&#39;s still resident in-memory · GitHub</title>
       <link>https://DigitalRiver.blog/2017/03/12/how-to-recover-lost-python-source-code-if-its-still-resident-in-memory-c2b7-github/</link>
       <pubDate>Sun, 12 Mar 2017 18:35:51 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/12/how-to-recover-lost-python-source-code-if-its-still-resident-in-memory-c2b7-github/</guid>
-      <description>https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12</description>
+      <description> https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12 </description>
     </item>
     <item>
       <title>Bootstrapping API project with Phoenix 1.3 - Phoenix on Rails blog - Cloudless Studio</title>
       <link>https://DigitalRiver.blog/2017/03/12/bootstrapping-api-project-with-phoenix-1-3-phoenix-on-rails-blog-cloudless-studio/</link>
       <pubDate>Sun, 12 Mar 2017 18:34:22 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/12/bootstrapping-api-project-with-phoenix-1-3-phoenix-on-rails-blog-cloudless-studio/</guid>
-      <description>http://cloudless.studio/articles/45-bootstrapping-api-project-with-phoenix-1-3</description>
+      <description> http://cloudless.studio/articles/45-bootstrapping-api-project-with-phoenix-1-3 </description>
     </item>
     <item>
       <title>India&#39;s Isro launches 104 satellites in a single mission to create world record</title>
       <link>https://DigitalRiver.blog/2017/02/19/isro-launches-104-satellites-in-a-single-mission-to-create-world-record/</link>
       <pubDate>Sun, 19 Feb 2017 02:25:41 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/02/19/isro-launches-104-satellites-in-a-single-mission-to-create-world-record/</guid>
-      <description>India&amp;rsquo;s Isro’s [] PSLV-C37 in a single payload, included the Cartosat-2 series and 103 co-passenger satellites, together weighing over 650kg&#xA;Great achievement especially considering only three of the 103 satellites belonged to India making this mission one of the most business sense launch of this century! Kudos to India!&#xA;Read more about it at the link below.&#xA;Source: Isro launches 104 satellites in a single mission to create world record - Livemint</description>
+      <description>India&amp;rsquo;s Isro’s [] PSLV-C37 in a single payload, included the Cartosat-2 series and 103 co-passenger satellites, together weighing over 650kg&#xA;Great achievement especially considering only three of the 103 satellites belonged to India making this mission one of the most business sense launch of this century! Kudos to India!&#xA;Read more about it at the link below.&#xA;Source: Isro launches 104 satellites in a single mission to create world record - Livemint </description>
     </item>
     <item>
       <title>Materials science: How to keep cool without costing the Earth</title>
       <link>https://DigitalRiver.blog/2017/02/16/materials-science-how-to-keep-cool-without-costing-the-earth-the-economist/</link>
       <pubDate>Thu, 16 Feb 2017 18:49:41 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/02/16/materials-science-how-to-keep-cool-without-costing-the-earth-the-economist/</guid>
-      <description>The new film works by a process called radiative cooling. This takes advantage of that fact that Earth’s atmosphere allows certain wavelengths of heat-carrying infrared radiation to escape into space unimpeded. Convert unwanted heat into infrared of the correct wavelength, then, and you can dump it into the cosmos with no come back. &amp;hellip;their film, placed atop an average American house, would be enough to keep the internal temperature at 20°C on a day when it was 37°C outside.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2017/02/20170211_stp504.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; The new film works by a process called radiative cooling. This takes advantage of that fact that Earth’s atmosphere allows certain wavelengths of heat-carrying infrared radiation to escape into space unimpeded. Convert unwanted heat into infrared of the correct wavelength, then, and you can dump it into the cosmos with no come back. &amp;hellip;their film, placed atop an average American house, would be enough to keep the internal temperature at 20°C on a day when it was 37°C outside.</description>
     </item>
     <item>
       <title>Going off-heap to improve latency and reduce AWS bill</title>
       <link>https://DigitalRiver.blog/2017/02/16/going-off-heap-to-improve-latency-and-reduce-aws-bill-plumbr/</link>
       <pubDate>Thu, 16 Feb 2017 16:21:23 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/02/16/going-off-heap-to-improve-latency-and-reduce-aws-bill-plumbr/</guid>
-      <description>Great read - shows you the power of Java and Chronicle Map.&#xA;Describing how going off-heap with the help of Chronicle Map helped us to get rid of the latency hiccups and cut our Amazon AWS bill in half.&#xA;Source: Going off-heap to improve latency and reduce AWS bill – Plumbr&#xA;Caution: Before you go diving into using the open source version of Chronicle Map, there are some gotchas to be aware of from a features point-of-view.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2017/02/java_logo_2b.png&amp;#34; alt=&amp;#34;java_logo_2b&amp;#34;&amp;gt; Great read - shows you the power of Java and Chronicle Map.&#xA;Describing how going off-heap with the help of Chronicle Map helped us to get rid of the latency hiccups and cut our Amazon AWS bill in half.&#xA;Source: Going off-heap to improve latency and reduce AWS bill – Plumbr Caution: Before you go diving into using the open source version of Chronicle Map, there are some gotchas to be aware of from a features point-of-view.</description>
     </item>
     <item>
       <title>What is Blockchain Technology? A Step-by-Step Guide For Beginners</title>
@@ -741,70 +748,70 @@
       <link>https://DigitalRiver.blog/2017/01/01/happy-new-year-2017/</link>
       <pubDate>Sun, 01 Jan 2017 15:11:33 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/01/01/happy-new-year-2017/</guid>
-      <description>தங்களுக்கும், தங்கள் குடும்பததினொறுக்கும் எங்கள் புத்தாண்டு நள்வாழ்த்துக்கள். (Tamil)&#xA;Wishing you and your family a happy new year 2017.&#xA;Cheers!&#xA;_Today&#39;s inspirational quote:_ [![bust_of_marcusaurelius](/img/2016/11/bust_of_marcusaurelius.jpg)](/img/2016/11/bust_of_marcusaurelius.jpg) Take inventory of this past year. Realize what is up to us and what is not up to us.&#xA;We can control our emotions, our decisions, our perspectives, and our desires. We have a say in how these things go. These are things that are up to us.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2017/01/happynewyear2016.png&amp;#34; alt=&amp;#34;happynewyear2016&amp;#34;&amp;gt; தங்களுக்கும், தங்கள் குடும்பததினொறுக்கும் எங்கள் புத்தாண்டு நள்வாழ்த்துக்கள். ( Tamil )&#xA;Wishing you and your family a happy new year 2017.&#xA;Cheers!&#xA;_Today&#39;s inspirational quote:_ [![bust_of_marcusaurelius](/img/2016/11/bust_of_marcusaurelius.jpg)](/img/2016/11/bust_of_marcusaurelius.jpg) Take inventory of this past year. Realize what is up to us and what is not up to us.&#xA;We can control our emotions, our decisions, our perspectives, and our desires. We have a say in how these things go. These are things that are up to us.</description>
     </item>
     <item>
       <title>Developing email applications on Windows, targeted for Linux environment - email, mailx, sendmail</title>
       <link>https://DigitalRiver.blog/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</link>
       <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</guid>
-      <description>If you&amp;rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.&#xA;Let us begin by understand the problem.&#xA;Problem If you are a Java/Spring developer, (developing in Java is platform independent - runs on any platform where a JVM is available) then you have two options in front of you for sending emails from a Java application:</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/12/linux_centos_logo.png&amp;#34; alt=&amp;#34;linux_centos_logo&amp;#34;&amp;gt; If you&amp;rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.&#xA;Let us begin by understand the problem.&#xA;Problem If you are a Java/Spring developer, (developing in Java is platform independent - runs on any platform where a JVM is available) then you have two options in front of you for sending emails from a Java application:</description>
     </item>
     <item>
       <title>CentOS7 missing Net-Tools Package and why you should not install it moving forward</title>
       <link>https://DigitalRiver.blog/2016/12/09/centos7-missing-net-tools-package-and-why-you-should-not-install-it-moving-forward/</link>
       <pubDate>Fri, 09 Dec 2016 21:17:09 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/12/09/centos7-missing-net-tools-package-and-why-you-should-not-install-it-moving-forward/</guid>
-      <description>In CentOS 7, a lot of the command-line utilities for configuring and troubleshooting network properties like arp, ifconfig, iptunnel, iwconfig, nameif, netstat, route - are no longer there in the new CentOS 7 version. While still included in many Linux Distributions, (and you may be tempted to run - &amp;lsquo;yum install net-tools&amp;rsquo; - to get them back into your Linux footprint). But they are considered deprecated and therefore should be phased out in favor of more modern replacements.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/11/centos_logo.png&amp;#34; alt=&amp;#34;centos_logo&amp;#34;&amp;gt; In CentOS 7, a lot of the command-line utilities for configuring and troubleshooting network properties like arp, ifconfig, iptunnel, iwconfig, nameif, netstat, route - are no longer there in the new CentOS 7 version. While still included in many Linux Distributions, (and you may be tempted to run - &amp;lsquo;yum install net-tools&amp;rsquo; - to get them back into your Linux footprint). But they are considered deprecated and therefore should be phased out in favor of more modern replacements.</description>
     </item>
     <item>
       <title>Grails No profile found for name [web] illegalstateexception</title>
       <link>https://DigitalRiver.blog/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</link>
       <pubDate>Tue, 29 Nov 2016 13:42:47 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</guid>
-      <description>Most likely you&amp;rsquo;ve landed on this page because you&amp;rsquo;ve searched for the error in a search engine and it brought you here.&#xA;Symptom: When you run &amp;ldquo;grails&amp;rdquo; under an existing project that you previously had (either on a different PC or from a source-control like GIT or SVN and you&amp;rsquo;ve mistakenly included the &amp;ldquo;build&amp;rdquo; directory).&#xA;The associated error would have been one of the following:&#xA;Grails No profile found for name [web] or java.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2013/11/grails.png&amp;#34; alt=&amp;#34;Grails&amp;#34;&amp;gt; Most likely you&amp;rsquo;ve landed on this page because you&amp;rsquo;ve searched for the error in a search engine and it brought you here.&#xA;Symptom: When you run &amp;ldquo;grails&amp;rdquo; under an existing project that you previously had (either on a different PC or from a source-control like GIT or SVN and you&amp;rsquo;ve mistakenly included the &amp;ldquo;build&amp;rdquo; directory).&#xA;The associated error would have been one of the following:&#xA;Grails No profile found for name [web] or java.</description>
     </item>
     <item>
       <title>Mac OS X iDRAC7 FileNotFoundException .java/deployment/security/trusted.certs</title>
       <link>https://DigitalRiver.blog/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</link>
       <pubDate>Thu, 17 Nov 2016 19:15:50 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</guid>
-      <description>When you connect with a Dell iDRAC virtual console you may encounter the following exception on a Mac OS X&#xA;FileNotFoundException ~/.java/deployment/security/trusted.certs&#xA;Here is a simple fix for this:&#xA;mkdir -p ~/.java/deployment/security cp ~/Library/Application\ Support/Oracle/Java/Deployment/security/trusted.certs ~/.java/deployment/security/ Cheers.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/11/macosx_blogarticle_100px.png&amp;#34; alt=&amp;#34;macosx_blogarticle_100px&amp;#34;&amp;gt; When you connect with a Dell iDRAC virtual console you may encounter the following exception on a Mac OS X&#xA;FileNotFoundException ~/.java/deployment/security/trusted.certs&#xA;Here is a simple fix for this:&#xA;mkdir -p ~/.java/deployment/security cp ~/Library/Application\ Support/Oracle/Java/Deployment/security/trusted.certs ~/.java/deployment/security/ Cheers.</description>
     </item>
     <item>
       <title>CentOS 6.8 &amp; 7 - Change Timezone</title>
       <link>https://DigitalRiver.blog/2016/11/06/centos-6-8-7-change-timezone/</link>
       <pubDate>Sun, 06 Nov 2016 14:38:38 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/11/06/centos-6-8-7-change-timezone/</guid>
-      <description>Here is a cheat sheet on changing the timezone in a linux system (CentOS 6.8 or 7):&#xA;# Remove the current timezone file rm /etc/localtime # Create a symbolic link to the new timezone you want # ls -la /usr/share/zoneinfo/ # ls -la /usr/share/zoneinfo/US/ # For GMT ln -s /usr/share/zoneinfo/GMT /etc/localtime # For EST ln -s /usr/share/zoneinfo/EST /etc/localtime # For UTC ln -s /usr/share/zoneinfo/UTC /etc/localtime # For GMT ln -s /usr/share/zoneinfo/GMT /etc/localtime # For New York (Eastern) ln -s /usr/share/zoneinfo/US/Eastern /etc/localtime # For Central ln -s /usr/share/zoneinfo/US/Central /etc/localtime # For Mountain time ln -s /usr/share/zoneinfo/US/Mountain /etc/localtime # For Pacific time ln -s /usr/share/zoneinfo/US/Pacific /etc/localtime # Set Date and Time (as needed) # MMDDHHmmYYYY date 072522172010 hwclock --systohc # If you&#39;re using NTPD Service # CentOS 6.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/11/centos_logo.png&amp;#34; alt=&amp;#34;centos_logo&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/img/2016/11/timezones.png&amp;#34; alt=&amp;#34;timezones&amp;#34;&amp;gt; Here is a cheat sheet on changing the timezone in a linux system (CentOS 6.8 or 7):&#xA;# Remove the current timezone file rm /etc/localtime # Create a symbolic link to the new timezone you want # ls -la /usr/share/zoneinfo/ # ls -la /usr/share/zoneinfo/US/ # For GMT ln -s /usr/share/zoneinfo/GMT /etc/localtime # For EST ln -s /usr/share/zoneinfo/EST /etc/localtime # For UTC ln -s /usr/share/zoneinfo/UTC /etc/localtime # For GMT ln -s /usr/share/zoneinfo/GMT /etc/localtime # For New York (Eastern) ln -s /usr/share/zoneinfo/US/Eastern /etc/localtime # For Central ln -s /usr/share/zoneinfo/US/Central /etc/localtime # For Mountain time ln -s /usr/share/zoneinfo/US/Mountain /etc/localtime # For Pacific time ln -s /usr/share/zoneinfo/US/Pacific /etc/localtime # Set Date and Time (as needed) # MMDDHHmmYYYY date 072522172010 hwclock --systohc # If you&#39;re using NTPD Service # CentOS 6.</description>
     </item>
     <item>
       <title>How to sync your date when you restore a VirtualBox snapshot?</title>
       <link>https://DigitalRiver.blog/2016/11/05/how-to-sync-your-date-when-you-restore-a-virtualbox-snapshot/</link>
       <pubDate>Sat, 05 Nov 2016 16:45:30 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/11/05/how-to-sync-your-date-when-you-restore-a-virtualbox-snapshot/</guid>
-      <description>This article focuses on synchronizing/updating the clock in your guest linux VM after you restore a VirtualBox snapshot.&#xA;When you create a VirtualBox snapshot, it&amp;rsquo;s essentially a photo taken and frozen in time. All bits including the date and time are frozen to that instant. When you restore a snapshot, the Linux guest VM system is restored back to that snapshot including the date and time. This may not be desired all the time especially if the purpose is to restore the configuration and settings to an earlier time but your want to roll forward the clock on the VM to the present instance.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/11/hypervisor_logo1.png&amp;#34; alt=&amp;#34;hypervisor_logo&amp;#34;&amp;gt; This article focuses on synchronizing/updating the clock in your guest linux VM after you restore a VirtualBox snapshot.&#xA;When you create a VirtualBox snapshot, it&amp;rsquo;s essentially a photo taken and frozen in time. All bits including the date and time are frozen to that instant. When you restore a snapshot, the Linux guest VM system is restored back to that snapshot including the date and time. This may not be desired all the time especially if the purpose is to restore the configuration and settings to an earlier time but your want to roll forward the clock on the VM to the present instance.</description>
     </item>
     <item>
       <title>Repost: Mapping the End of Malaria</title>
       <link>https://DigitalRiver.blog/2016/11/05/republish-mapping-the-end-of-malaria/</link>
       <pubDate>Sat, 05 Nov 2016 14:46:31 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/11/05/republish-mapping-the-end-of-malaria/</guid>
-      <description>Mapping the End of Malaria by Bill Gates&#xA;The article discusses two important points:&#xA;How Malaria is putting mosquitoes as the #1 deadliest lifeform that kills humans? (Interestingly humans are the #2 lifeform that kills our own species) And what has/is being done to change this through the Gates Foundation in the developing countries. As well as the positive, measurable changes that can be seen from the last decade.&#xA;Addresses a underlying issue on foreign aid.</description>
+      <description>Mapping the End of Malaria by Bill Gates&#xA;&amp;lt;img src=&amp;#34;/img/2016/11/endmalariacampaign1.png&amp;#34; alt=&amp;#34;endmalariacampaign&amp;#34;&amp;gt; The article discusses two important points:&#xA;How Malaria is putting mosquitoes as the #1 deadliest lifeform that kills humans? (Interestingly humans are the #2 lifeform that kills our own species) And what has/is being done to change this through the Gates Foundation in the developing countries. As well as the positive, measurable changes that can be seen from the last decade.</description>
     </item>
     <item>
       <title>Gradle Spring Woes: Issues in creating single jar bundle with all dependency jars nested within</title>
       <link>https://DigitalRiver.blog/2016/11/03/gradle-spring-woes-issues-in-creating-single-jar-bundle-with-all-dependency-jars-nested-within/</link>
       <pubDate>Thu, 03 Nov 2016 20:47:00 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/11/03/gradle-spring-woes-issues-in-creating-single-jar-bundle-with-all-dependency-jars-nested-within/</guid>
-      <description>If you&amp;rsquo;re implementing any projects with Spring and Gradle (for build), as your project grows you may run into this issue. Or you&amp;rsquo;ve landed on this page by searching on Google for &amp;ldquo;Unable to locate Spring NamespaceHandler for XML schema namespace&amp;rdquo; (your actual XML that it&amp;rsquo;s error-ing out may vary).&#xA;Either way, you&amp;rsquo;re in luck! Most likely, you&amp;rsquo;re using the fatjar gradle plugin to create a single JAR for executing as &amp;ldquo;java -jar one-big-bundle.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/11/springframework.png&amp;#34; alt=&amp;#34;springframework&amp;#34;&amp;gt; If you&amp;rsquo;re implementing any projects with Spring and Gradle (for build), as your project grows you may run into this issue. Or you&amp;rsquo;ve landed on this page by searching on Google for &amp;ldquo;Unable to locate Spring NamespaceHandler for XML schema namespace&amp;rdquo; (your actual XML that it&amp;rsquo;s error-ing out may vary).&#xA;Either way, you&amp;rsquo;re in luck! Most likely, you&amp;rsquo;re using the fatjar gradle plugin to create a single JAR for executing as &amp;ldquo;java -jar one-big-bundle.</description>
     </item>
     <item>
       <title>Facebook&#39;s 100-gigabit switch design is out in the open and promises faster speed</title>
       <link>https://DigitalRiver.blog/2016/10/20/facebooks-100-gigabit-switch-design-is-out-in-the-open-and-promises-faster-speed/</link>
       <pubDate>Thu, 20 Oct 2016 22:49:54 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/10/20/facebooks-100-gigabit-switch-design-is-out-in-the-open-and-promises-faster-speed/</guid>
-      <description>Facebook&amp;rsquo;s 100-gigabit switch design is out in the open and promises faster speed&#xA;Wedge 100 specification has been accepted into OCP... upping the speeds to 100Gbps (bits per second). Link to FBOSS code is all open sourced and available on GitHub here.&#xA;You can learn more about it here.</description>
+      <description>Facebook&amp;rsquo;s 100-gigabit switch design is out in the open and promises faster speed&#xA;Wedge 100 specification has been accepted into OCP... upping the speeds to 100Gbps (bits per second). Link to FBOSS code is all open sourced and available on GitHub here .&#xA;You can learn more about it here .</description>
     </item>
     <item>
       <title>Will the Real Schrodinger’s Cat Please Stand Up | Hackaday</title>
@@ -818,63 +825,63 @@
       <link>https://DigitalRiver.blog/2016/10/20/systemd-progress-through-complexity-ocs-mag/</link>
       <pubDate>Thu, 20 Oct 2016 02:35:18 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/10/20/systemd-progress-through-complexity-ocs-mag/</guid>
-      <description>http://www.ocsmag.com/2016/10/19/systemd-progress-through-complexity/</description>
+      <description> http://www.ocsmag.com/2016/10/19/systemd-progress-through-complexity/ </description>
     </item>
     <item>
       <title>Programmer Levels - humor</title>
       <link>https://DigitalRiver.blog/2016/10/16/programmer-levels-humor/</link>
       <pubDate>Sun, 16 Oct 2016 18:37:43 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/10/16/programmer-levels-humor/</guid>
-      <description>Credit: http://turnoff.us/image/en/programmer-levels.png</description>
+      <description>&#xA;Credit: http://turnoff.us/image/en/programmer-levels.png </description>
     </item>
     <item>
       <title>Photos from the Basilica of the National Shrine of the Immaculate Conception</title>
       <link>https://DigitalRiver.blog/2016/10/14/photos-from-the-basilica-of-the-national-shrine-of-the-immaculate-conception/</link>
       <pubDate>Fri, 14 Oct 2016 20:54:33 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/10/14/photos-from-the-basilica-of-the-national-shrine-of-the-immaculate-conception/</guid>
-      <description>Recently visited the Basilica of the National Shrine and each time I visit this beautiful place I&amp;rsquo;m spellbound. It is one of the hidden gems to visit when you are visiting the capital. Here are some pictures from my recent visit.&#xA;Click here for the photos from the Basilica of the National Shrine of the Immaculate Conception in Michigan Avenue, Washington, DC. The beautiful murals are a work of art!</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/10/nationalshrine.png&amp;#34; alt=&amp;#34;nationalshrine&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/img/2016/10/nationalshrine1.png&amp;#34; alt=&amp;#34;nationalshrine&amp;#34;&amp;gt; Recently visited the Basilica of the National Shrine and each time I visit this beautiful place I&amp;rsquo;m spellbound. It is one of the hidden gems to visit when you are visiting the capital. Here are some pictures from my recent visit.&#xA;Click here for the photos from the Basilica of the National Shrine of the Immaculate Conception in Michigan Avenue, Washington, DC. The beautiful murals are a work of art!</description>
     </item>
     <item>
       <title>It&#39;s weekend!</title>
       <link>https://DigitalRiver.blog/2016/10/14/its-weekend/</link>
       <pubDate>Fri, 14 Oct 2016 19:52:19 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/10/14/its-weekend/</guid>
-      <description>To learn more about where the joke came from, click this link. </description>
+      <description> &amp;lt;img src=&amp;#34;/img/2016/10/friday_joke_vguhesan_20161014.png?w=1024&amp;#34; alt=&amp;#34;friday_joke_vguhesan_20161014&amp;#34;&amp;gt; To learn more about where the joke came from, click this link . </description>
     </item>
     <item>
       <title>How to package your node.js application for deploying it in an offline environment?</title>
       <link>https://DigitalRiver.blog/2016/10/14/how-to-package-your-node-js-application-for-deploying-it-in-an-offline-environment/</link>
       <pubDate>Fri, 14 Oct 2016 18:42:15 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/10/14/how-to-package-your-node-js-application-for-deploying-it-in-an-offline-environment/</guid>
-      <description>Personally speaking, I prefer to have a self-contained bundle with all the artifacts and modules that might be required to deploy an application (not just Node.js application) in Production. In that way, I know exactly the bits that were installed and nothing more and nothing less. It also eliminates the availability of the NPM modules and network connectivity issues, etc. The following procedure shows you how to create a simple &amp;ldquo;Hello World&amp;rdquo; Node.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/10/node2.png&amp;#34; alt=&amp;#34;node2&amp;#34;&amp;gt; Personally speaking, I prefer to have a self-contained bundle with all the artifacts and modules that might be required to deploy an application (not just Node.js application) in Production. In that way, I know exactly the bits that were installed and nothing more and nothing less. It also eliminates the availability of the NPM modules and network connectivity issues, etc. The following procedure shows you how to create a simple &amp;ldquo;Hello World&amp;rdquo; Node.</description>
     </item>
     <item>
       <title>Node.js, Python, C/C&#43;&#43;, Ruby, PHP development from a tiny Linux embedded for about $10</title>
       <link>https://DigitalRiver.blog/2016/10/04/node-js-python-cc-ruby-php-development-from-a-tiny-linux-embedded-for-about-10/</link>
       <pubDate>Tue, 04 Oct 2016 18:12:22 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/10/04/node-js-python-cc-ruby-php-development-from-a-tiny-linux-embedded-for-about-10/</guid>
-      <description>Came across this tiny IoT embedded micro-controller/computer that runs BusyBox or FreeBSD Linux and can run code written in Node.js, Python, C/C++, Ruby and PHP all at a cost of $5 to $10 with WiFi, 2G/3G, Bluetooth, GPS add-ons for your cloud services. It also has enough GPIO pins to interface with external world and not to mention the I2C and I2S interfaces for talking to other devices and peripherals as well as interfacing for sounds (I2S).</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/10/onion_io.png&amp;#34; alt=&amp;#34;onion_io&amp;#34;&amp;gt; Came across this tiny IoT embedded micro-controller/computer that runs BusyBox or FreeBSD Linux and can run code written in Node.js, Python, C/C++, Ruby and PHP all at a cost of $5 to $10 with WiFi, 2G/3G, Bluetooth, GPS add-ons for your cloud services. It also has enough GPIO pins to interface with external world and not to mention the I2C and I2S interfaces for talking to other devices and peripherals as well as interfacing for sounds (I2S).</description>
     </item>
     <item>
       <title>First baseball game ever at Yankees Stadium, Bronx - Yankees vs. Orioles</title>
       <link>https://DigitalRiver.blog/2016/10/03/first-baseball-game-ever-at-yankees-stadium-bronx-yankees-vs-orioles/</link>
       <pubDate>Mon, 03 Oct 2016 14:05:50 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/10/03/first-baseball-game-ever-at-yankees-stadium-bronx-yankees-vs-orioles/</guid>
-      <description>First baseball game ever! Pictures from the Yankees Stadium, Bronx - Yankees vs. Orioles. Unfortunately Orioles lost that game on Saturday. They won the game on Sunday 5-2.</description>
+      <description>First baseball game ever! Pictures from the Yankees Stadium, Bronx - Yankees vs. Orioles. Unfortunately Orioles lost that game on Saturday. They won the game on Sunday 5-2.&#xA;&amp;lt;img src=&amp;#34;/img/2016/10/img_20161001_164414.jpg?w=1024&amp;#34; alt=&amp;#34;img_20161001_164414&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/img/2016/10/img_20161001_164342.jpg?w=1024&amp;#34; alt=&amp;#34;img_20161001_164342&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/img/2016/10/img_20161001_164327.jpg?w=1024&amp;#34; alt=&amp;#34;img_20161001_164327&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/img/2016/10/img_20161001_163114.jpg?w=1024&amp;#34; alt=&amp;#34;img_20161001_163114&amp;#34;&amp;gt; </description>
     </item>
     <item>
       <title>Friday humor with languages</title>
       <link>https://DigitalRiver.blog/2016/09/30/friday-humor-with-languages/</link>
       <pubDate>Fri, 30 Sep 2016 18:25:16 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/09/30/friday-humor-with-languages/</guid>
-      <description>I found this on the internet made me laugh!</description>
+      <description>I found this on the internet made me laugh!&#xA;&amp;lt;img src=&amp;#34;/img/2016/09/programminglanguagecompared.jpg?w=398&amp;#34; alt=&amp;#34;programminglanguagecompared&amp;#34;&amp;gt; </description>
     </item>
     <item>
       <title>Uninstall python eggs that you installed using setup.py</title>
       <link>https://DigitalRiver.blog/2016/09/30/uninstall-python-eggs-that-you-installed-using-setup-py/</link>
       <pubDate>Fri, 30 Sep 2016 15:22:59 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/09/30/uninstall-python-eggs-that-you-installed-using-setup-py/</guid>
-      <description>In Python, most libraries are available using the pip install process. But for cases, where you are distributing code to be installed in customer sites where you may or may not have a internet connection to the pip libraries, you resort to the legacy setup.py process.&#xA;When you install using the setup.py process, the setup.py copies it&amp;rsquo;s collection of python files to the site-packages folder for your python virtual-environment. On a CentOS, this might be a location under (/usr/lib/python2.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/09/python_logo.png&amp;#34; alt=&amp;#34;python_logo&amp;#34;&amp;gt; In Python, most libraries are available using the pip install process. But for cases, where you are distributing code to be installed in customer sites where you may or may not have a internet connection to the pip libraries, you resort to the legacy setup.py process.&#xA;When you install using the setup.py process, the setup.py copies it&amp;rsquo;s collection of python files to the site-packages folder for your python virtual-environment.</description>
     </item>
     <item>
       <title>Forget Software—Now Hackers Are Exploiting Physics | WIRED</title>
@@ -895,14 +902,14 @@
       <link>https://DigitalRiver.blog/2016/08/07/horrific-floods-and-walk-up-walk-down-basement-drain-problem/</link>
       <pubDate>Sun, 07 Aug 2016 21:21:17 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/08/07/horrific-floods-and-walk-up-walk-down-basement-drain-problem/</guid>
-      <description>This past week, Ellicott City, Maryland had one of the worst floods in a long time. You can see some of the devastation that it has caused in this link. Fortunately, only my basement had a little bit of flooding. But interestingly, this has been the second flooding in over a month. This made me question the drain at the bottom of the walk-down/walk-up basement.&#xA;Here is a picture of the drain at the bottom of the stairwell.</description>
+      <description>This past week, Ellicott City, Maryland had one of the worst floods in a long time. You can see some of the devastation that it has caused in this link . Fortunately, only my basement had a little bit of flooding. But interestingly, this has been the second flooding in over a month. This made me question the drain at the bottom of the walk-down/walk-up basement.&#xA;Here is a picture of the drain at the bottom of the stairwell.</description>
     </item>
     <item>
       <title>Families Can Now Share All Their Google Play Purchases</title>
       <link>https://DigitalRiver.blog/2016/07/28/families-can-now-share-all-their-google-play-purchases/</link>
       <pubDate>Thu, 28 Jul 2016 02:16:46 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/07/28/families-can-now-share-all-their-google-play-purchases/</guid>
-      <description>http://fortune.com/2016/07/27/google-play-family-library/</description>
+      <description> http://fortune.com/2016/07/27/google-play-family-library/ </description>
     </item>
     <item>
       <title>Two useful links comparing CentOS 6.X&#39;s - SysV-Init vs CentOS 7.X - SystemD - init systems</title>
@@ -916,7 +923,7 @@
       <link>https://DigitalRiver.blog/2016/07/18/tiny-storage-device-writes-information-atom-by-atom/</link>
       <pubDate>Mon, 18 Jul 2016 23:28:55 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/07/18/tiny-storage-device-writes-information-atom-by-atom/</guid>
-      <description>Memory that writes atom-by-atom.&#xA;Approx. 500TB per square inch.&#xA;Entire library of Congress archives can be stored in .1mm square inches.&#xA;Write speed measured in minutes. Not yet ready for prime time but promising future.&#xA;http://www.bbc.co.uk/news/science-environment-36824902</description>
+      <description>Memory that writes atom-by-atom.&#xA;Approx. 500TB per square inch.&#xA;Entire library of Congress archives can be stored in .1mm square inches.&#xA;Write speed measured in minutes. Not yet ready for prime time but promising future.&#xA;http://www.bbc.co.uk/news/science-environment-36824902 </description>
     </item>
     <item>
       <title>WaitUntilPortOpens() - How to wait until process A runs and binds to a port before spawning process B?</title>
@@ -958,14 +965,14 @@
       <link>https://DigitalRiver.blog/2016/06/13/new-superman-crystals-can-store-data-for-billions-of-years/</link>
       <pubDate>Mon, 13 Jun 2016 14:54:00 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/06/13/new-superman-crystals-can-store-data-for-billions-of-years/</guid>
-      <description>New &amp;lsquo;Superman&amp;rsquo; crystals can store data for billions of years&#xA;http://money.cnn.com/2016/02/17/technology/5d-data-storage-memory-crystals/index.html?iid=surge-story-summary</description>
+      <description>New &amp;lsquo;Superman&amp;rsquo; crystals can store data for billions of years&#xA;http://money.cnn.com/2016/02/17/technology/5d-data-storage-memory-crystals/index.html?iid=surge-story-summary </description>
     </item>
     <item>
       <title>Intel&#39;s miracle chip could make your gadgets 1,000 times faster</title>
       <link>https://DigitalRiver.blog/2016/06/13/intels-miracle-chip-could-make-your-gadgets-1000-times-faster/</link>
       <pubDate>Mon, 13 Jun 2016 14:52:05 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/06/13/intels-miracle-chip-could-make-your-gadgets-1000-times-faster/</guid>
-      <description>Intel and Micron say they have a new computer chip that will make your gadgets significantly faster, more durable and able to store way more data.&#xA;http://money.cnn.com/2015/07/29/technology/intel-3d-xpoint-chip/index.html?iid=EL</description>
+      <description>Intel and Micron say they have a new computer chip that will make your gadgets significantly faster, more durable and able to store way more data.&#xA;http://money.cnn.com/2015/07/29/technology/intel-3d-xpoint-chip/index.html?iid=EL </description>
     </item>
     <item>
       <title>Two static website generators explored - Hugo &amp; Jekyll</title>
@@ -979,112 +986,112 @@
       <link>https://DigitalRiver.blog/2016/06/04/googles-fair-use-victory-is-good-for-open-source-ars-technica/</link>
       <pubDate>Sat, 04 Jun 2016 01:46:06 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/06/04/googles-fair-use-victory-is-good-for-open-source-ars-technica/</guid>
-      <description>[Google’s fair use victory is good for open source | Ars Technica] is good,have a look at it! http://arstechnica.com/tech-policy/2016/06/googles-fair-use-victory-is-good-for-open-source/</description>
+      <description>[Google’s fair use victory is good for open source | Ars Technica] is good,have a look at it! http://arstechnica.com/tech-policy/2016/06/googles-fair-use-victory-is-good-for-open-source/ </description>
     </item>
     <item>
       <title>A new &#34;bionic leaf&#34; system uses solar energy to produce liquid fuel.</title>
       <link>https://DigitalRiver.blog/2016/06/03/a-new-bionic-leaf-system-uses-solar-energy-to-produce-liquid-fuel/</link>
       <pubDate>Fri, 03 Jun 2016 01:58:47 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/06/03/a-new-bionic-leaf-system-uses-solar-energy-to-produce-liquid-fuel/</guid>
-      <description>http://3tags.org/article/a-new-bionic-leaf-system-uses-solar-energy-to-produce-liquid-fuel</description>
+      <description> http://3tags.org/article/a-new-bionic-leaf-system-uses-solar-energy-to-produce-liquid-fuel </description>
     </item>
     <item>
       <title>ZFS: Finding Its Way to a Linux Near You?</title>
       <link>https://DigitalRiver.blog/2016/06/02/zfs-finding-its-way-to-a-linux-near-you/</link>
       <pubDate>Thu, 02 Jun 2016 17:43:45 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/06/02/zfs-finding-its-way-to-a-linux-near-you/</guid>
-      <description>Article published on Linux Journal, June 2016&#xA;http://www.linuxjournal.com/content/zfs-finding-its-way-linux-near-you</description>
+      <description>Article published on Linux Journal, June 2016&#xA;http://www.linuxjournal.com/content/zfs-finding-its-way-linux-near-you </description>
     </item>
     <item>
       <title>Article: Beware, tech world: &#39;Easy growth is behind us,&#39; says Mary Meeker</title>
       <link>https://DigitalRiver.blog/2016/06/01/article-beware-tech-world-easy-growth-is-behind-us-says-mary-meeker/</link>
       <pubDate>Wed, 01 Jun 2016 20:47:12 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/06/01/article-beware-tech-world-easy-growth-is-behind-us-says-mary-meeker/</guid>
-      <description>Beware, tech world: &amp;lsquo;Easy growth is behind us,&amp;rsquo; says Mary Meeker&#xA;http://flip.it/ctPq-</description>
+      <description>Beware, tech world: &amp;lsquo;Easy growth is behind us,&amp;rsquo; says Mary Meeker&#xA;http://flip.it/ctPq- </description>
     </item>
     <item>
       <title>Scientists believe they have found a way to make a universal cancer vaccine</title>
       <link>https://DigitalRiver.blog/2016/06/01/scientists-believe-they-have-found-a-way-to-make-a-universal-cancer-vaccine/</link>
       <pubDate>Wed, 01 Jun 2016 18:33:16 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/06/01/scientists-believe-they-have-found-a-way-to-make-a-universal-cancer-vaccine/</guid>
-      <description>http://www.independent.co.uk/news/science/cancer-vaccine-immunotherapy-universal-immune-system-rna-nature-journal-a7060181.html</description>
+      <description> http://www.independent.co.uk/news/science/cancer-vaccine-immunotherapy-universal-immune-system-rna-nature-journal-a7060181.html </description>
     </item>
     <item>
       <title>Vista Equity Partners Is Acquiring Ping Identity</title>
       <link>https://DigitalRiver.blog/2016/06/01/vista-equity-partners-is-acquiring-ping-identity/</link>
       <pubDate>Wed, 01 Jun 2016 18:23:22 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/06/01/vista-equity-partners-is-acquiring-ping-identity/</guid>
-      <description>http://fortune.com/2016/06/01/vista-equity-partners-ping-identity-acquire/</description>
+      <description> http://fortune.com/2016/06/01/vista-equity-partners-ping-identity-acquire/ </description>
     </item>
     <item>
       <title>Egyptian History as we know today</title>
       <link>https://DigitalRiver.blog/2016/03/24/egyptian-history-as-we-know-today/</link>
       <pubDate>Thu, 24 Mar 2016 16:32:10 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/03/24/egyptian-history-as-we-know-today/</guid>
-      <description>Much of the Egyptian/Nubian history and culture we know today was a result of colonization by the European empires. In their thirst for expansion, they colonized much of the known world.&#xA;In India, the Dutch, the Portuguese then the British all came under the name of colonization and expansion. They came in search of new trade-routes to the orient and as history has it, the interests of trade slowly turned into colonization and expansion of the empire.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/03/pharoah_ramses_british_museum.jpg&amp;#34; alt=&amp;#34;Pharoah_Ramses_British_Museum&amp;#34;&amp;gt; Much of the Egyptian/Nubian history and culture we know today was a result of colonization by the European empires. In their thirst for expansion, they colonized much of the known world.&#xA;In India, the Dutch, the Portuguese then the British all came under the name of colonization and expansion. They came in search of new trade-routes to the orient and as history has it, the interests of trade slowly turned into colonization and expansion of the empire.</description>
     </item>
     <item>
       <title>merging bash ssh session history</title>
       <link>https://DigitalRiver.blog/2016/03/24/merging-bash-ssh-session-history/</link>
       <pubDate>Thu, 24 Mar 2016 14:56:03 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/03/24/merging-bash-ssh-session-history/</guid>
-      <description>You may have observed once in a while that when you SSH onto a server and you try to look up a command you ran earlier (maybe the previous day) in the &amp;ldquo;history&amp;rdquo; output but you do not see it. This is because of how a SSH session works! Each time you ssh into a server, it leverages a set of TTY screens to maintain an individual history for that session.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/11/linuxlogo.png&amp;#34; alt=&amp;#34;linuxlogo&amp;#34;&amp;gt; You may have observed once in a while that when you SSH onto a server and you try to look up a command you ran earlier (maybe the previous day) in the &amp;ldquo;history&amp;rdquo; output but you do not see it. This is because of how a SSH session works! Each time you ssh into a server, it leverages a set of TTY screens to maintain an individual history for that session.</description>
     </item>
     <item>
       <title>CentOS 7 - How to open ports in firewalld?</title>
       <link>https://DigitalRiver.blog/2016/03/23/centos-7-how-to-open-ports-in-firewalld/</link>
       <pubDate>Wed, 23 Mar 2016 15:42:15 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/03/23/centos-7-how-to-open-ports-in-firewalld/</guid>
-      <description>Prior to CentOS 7, &amp;ldquo;iptables&amp;rdquo; and &amp;ldquo;shorewall&amp;rdquo; were the two options avaiable. Since CentOS-7, the default firewall tool is &amp;ldquo;firewalld&amp;rdquo;.&#xA;Here is a short-guide on how to open two ports in the firewalld application:&#xA;firewall-cmd --get-active-zones # Lets open Jetty Web Server port firewall-cmd --zone=public --add-port=8080/tcp --permanent # Lets open some other port 4242 for TCP firewall-cmd --zone=public --add-port=4242/tcp --permanent # Commit changes firewall-cmd --reload firewall-cmd --list-all Cheers.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/11/centos_logo.png&amp;#34; alt=&amp;#34;centos_logo&amp;#34;&amp;gt; Prior to CentOS 7, &amp;ldquo;iptables&amp;rdquo; and &amp;ldquo;shorewall&amp;rdquo; were the two options avaiable. Since CentOS-7, the default firewall tool is &amp;ldquo;firewalld&amp;rdquo;.&#xA;Here is a short-guide on how to open two ports in the firewalld application:&#xA;firewall-cmd --get-active-zones # Lets open Jetty Web Server port firewall-cmd --zone=public --add-port=8080/tcp --permanent # Lets open some other port 4242 for TCP firewall-cmd --zone=public --add-port=4242/tcp --permanent # Commit changes firewall-cmd --reload firewall-cmd --list-all Cheers.</description>
     </item>
     <item>
       <title>How to configure OpenTSDB (or any process) as a systemd service in CentOS 7?</title>
       <link>https://DigitalRiver.blog/2016/03/23/how-to-configure-opentsdb-or-any-process-as-a-service-in-centos-7/</link>
       <pubDate>Wed, 23 Mar 2016 15:00:37 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/03/23/how-to-configure-opentsdb-or-any-process-as-a-service-in-centos-7/</guid>
-      <description>CentOS 7 uses Systemd for managing services (prior to CentOS 7 it was using upstart-init.d to manage the services).&#xA;Step-1: Create CentOS 7 Service file: vim /usr/lib/systemd/system/opentsdb.service&#xA;[Unit] Description=OpenTSDB Service After=network.target hbase.service [Service] Type=forking PrivateTmp=yes ExecStart=/usr/share/opentsdb/etc/init.d/opentsdb start ExecStop=/usr/share/opentsdb/etc/init.d/opentsdb stop Restart=on-abort [Install] WantedBy=multi-user.target Step-2: Let&amp;rsquo;s test the start and stop of this new OpenTSDB service&#xA;$ sudo systemctl start opentsdb # If it starts up good, you should see the website when you goto http://&amp;amp;amp;lt;servername&amp;amp;amp;gt;:4242/ ps -leaf | grep &amp;amp;amp;quot;tsdb&amp;amp;amp;quot; # shows you something similar then you can add it as a service to auto-start sudo systemctl enable opentsdb Step-3: (optional) Reboot node and make sure that the service starts up accordingly after a reboot.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/11/centos_logo.png&amp;#34; alt=&amp;#34;centos_logo&amp;#34;&amp;gt; CentOS 7 uses Systemd for managing services (prior to CentOS 7 it was using upstart-init.d to manage the services).&#xA;Step-1: Create CentOS 7 Service file: vim /usr/lib/systemd/system/opentsdb.service&#xA;[Unit] Description=OpenTSDB Service After=network.target hbase.service [Service] Type=forking PrivateTmp=yes ExecStart=/usr/share/opentsdb/etc/init.d/opentsdb start ExecStop=/usr/share/opentsdb/etc/init.d/opentsdb stop Restart=on-abort [Install] WantedBy=multi-user.target Step-2: Let&amp;rsquo;s test the start and stop of this new OpenTSDB service&#xA;$ sudo systemctl start opentsdb # If it starts up good, you should see the website when you goto http://&amp;amp;amp;lt;servername&amp;amp;amp;gt;:4242/ ps -leaf | grep &amp;amp;amp;quot;tsdb&amp;amp;amp;quot; # shows you something similar then you can add it as a service to auto-start sudo systemctl enable opentsdb Step-3: (optional) Reboot node and make sure that the service starts up accordingly after a reboot.</description>
     </item>
     <item>
       <title>My daughter found a four-leaf clover the day before Saint Patrick&#39;s Day</title>
       <link>https://DigitalRiver.blog/2016/03/16/my-daughter-found-a-four-leaf-clover-the-day-before-saint-patricks-day/</link>
       <pubDate>Wed, 16 Mar 2016 23:05:53 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/03/16/my-daughter-found-a-four-leaf-clover-the-day-before-saint-patricks-day/</guid>
-      <description>My daughter found a four-leaf clover the day before Saint Patrick&amp;rsquo;s Day! Talk about luck!&#xA;four-leaf clover&#xA;According to the Wikipedia article:&#xA;It has been estimated that there are approximately 10,000 three-leaf clovers for every one four-leaf clover She should have played the lottery!</description>
+      <description>My daughter found a four-leaf clover the day before Saint Patrick&amp;rsquo;s Day! Talk about luck!&#xA;four-leaf clover According to the Wikipedia article:&#xA;It has been estimated that there are approximately 10,000 three-leaf clovers for every one four-leaf clover &amp;lt;img src=&amp;#34;/img/2016/03/four-leaf-clover.jpg?w=1024&amp;#34; alt=&amp;#34;four-leaf-clover&amp;#34;&amp;gt; She should have played the lottery!</description>
     </item>
     <item>
       <title>Fixing vim editor for dark backgrounds so comments are not dark blue</title>
       <link>https://DigitalRiver.blog/2016/03/15/fixing-vim-editor-for-dark-backgrounds-so-comments-are-not-dark-blue/</link>
       <pubDate>Tue, 15 Mar 2016 14:45:14 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/03/15/fixing-vim-editor-for-dark-backgrounds-so-comments-are-not-dark-blue/</guid>
-      <description>Here is a simple command that can fix your vim editor for dark backgrounds so that your comments are not showing up in dark blue (unreadable).&#xA;Example screenshot:&#xA;The temporary fix is to run the following command in the vim editor:&#xA;:set background=dark instead of&#xA;:set background=light The permanent fix for this is to add the command inside $HOME/.vimrc file&#xA;set background=dark Please note that when you&amp;rsquo;re adding the property into the .</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/03/vim_logo.png&amp;#34; alt=&amp;#34;vim_logo&amp;#34;&amp;gt; Here is a simple command that can fix your vim editor for dark backgrounds so that your comments are not showing up in dark blue (unreadable).&#xA;Example screenshot:&#xA;&amp;lt;img src=&amp;#34;/img/2016/03/vim-example.png&amp;#34; alt=&amp;#34;vim-example&amp;#34;&amp;gt; The temporary fix is to run the following command in the vim editor:&#xA;:set background=dark instead of&#xA;:set background=light The permanent fix for this is to add the command inside $HOME/.vimrc file&#xA;set background=dark Please note that when you&amp;rsquo;re adding the property into the .</description>
     </item>
     <item>
       <title>Kairosdb - Cassandra - localhost:9160 - connection refused</title>
       <link>https://DigitalRiver.blog/2016/03/14/kairosdb-cassandra-localhost9160-connection-refused/</link>
       <pubDate>Mon, 14 Mar 2016 19:34:11 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/03/14/kairosdb-cassandra-localhost9160-connection-refused/</guid>
-      <description>If you install the latest KariosDB and Cassandra, when you try starting KariosDB pointing to the Cassandra storage, you will see the following exception:&#xA;03-14|14:24:42.331 [main] ERROR [HConnectionManager.java:71] - Could not start connection pool for host localhost(127.0.0.1):9160 03-14|14:24:42.331 [main] INFO [CassandraHostRetryService.java:68] - Host detected as down was added to retry queue: localhost(127.0.0.1):9160 03-14|14:24:42.332 [Hector.me.prettyprint.cassandra.connection.CassandraHostRetryService-1] DEBUG [HThriftClient.java:152] - Creating a new thrift connection to localhost(127.0.0.1):9160 03-14|14:24:42.334 [Hector.me.prettyprint.cassandra.connection.CassandraHostRetryService-1] DEBUG [HThriftClient.java:183] - Unable to open transport to localhost(127.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/03/kairosdb_cassandra.png&amp;#34; alt=&amp;#34;kairosdb_cassandra&amp;#34;&amp;gt; If you install the latest KariosDB and Cassandra, when you try starting KariosDB pointing to the Cassandra storage, you will see the following exception:&#xA;03-14|14:24:42.331 [main] ERROR [HConnectionManager.java:71] - Could not start connection pool for host localhost(127.0.0.1):9160 03-14|14:24:42.331 [main] INFO [CassandraHostRetryService.java:68] - Host detected as down was added to retry queue: localhost(127.0.0.1):9160 03-14|14:24:42.332 [Hector.me.prettyprint.cassandra.connection.CassandraHostRetryService-1] DEBUG [HThriftClient.java:152] - Creating a new thrift connection to localhost(127.0.0.1):9160 03-14|14:24:42.334 [Hector.me.prettyprint.cassandra.connection.CassandraHostRetryService-1] DEBUG [HThriftClient.</description>
     </item>
     <item>
       <title>Go lang - Revel Web Framework - .gitignore file starter sample</title>
       <link>https://DigitalRiver.blog/2016/01/26/go-lang-revel-web-framework-gitignore-file-starter-sample/</link>
       <pubDate>Tue, 26 Jan 2016 01:05:42 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/01/26/go-lang-revel-web-framework-gitignore-file-starter-sample/</guid>
-      <description>For those of you trying to create a new Go Language - Revel Web Framework based project, here is a sample .gitignore file.&#xA;But before I provide you with the information, we need to discuss the project structure. If you visit the Revel site here, you will see their organization structure of a Revel project. In my case, their my_gocode/ folder is much deeper in what I store in my BitBucket account (or GitHub for that matter).</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/01/gorevelframework.png&amp;#34; alt=&amp;#34;gorevelframework&amp;#34;&amp;gt; For those of you trying to create a new Go Language - Revel Web Framework based project, here is a sample .gitignore file.&#xA;But before I provide you with the information, we need to discuss the project structure. If you visit the Revel site here , you will see their organization structure of a Revel project. In my case, their my_gocode/ folder is much deeper in what I store in my BitBucket account (or GitHub for that matter).</description>
     </item>
     <item>
       <title>First Alert Carbon Monoxide Alarm - tear-down</title>
       <link>https://DigitalRiver.blog/2016/01/04/first-alert-carbon-monoxide-alarm-tear-down/</link>
       <pubDate>Mon, 04 Jan 2016 23:37:50 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/01/04/first-alert-carbon-monoxide-alarm-tear-down/</guid>
-      <description>One of my First Alert Carbon Monoxide Alarm&amp;rsquo;s expired. This gave me an opportunity to look inside and see what&amp;rsquo;s inside this little gadget.&#xA;Here is a picture of the tear-down for those who are interested:&#xA;First Alert - Single Station Carbon Monoxide Alarm - model #: CO614&#xA;The specification for the carbon-monoxide sensor used in this model can be found here.&#xA;Here is a list of alternative carbon-monoxide sensors from Figaro.</description>
+      <description>One of my First Alert Carbon Monoxide Alarm&amp;rsquo;s expired. This gave me an opportunity to look inside and see what&amp;rsquo;s inside this little gadget.&#xA;Here is a picture of the tear-down for those who are interested:&#xA;First Alert - Single Station Carbon Monoxide Alarm - model #: CO614&#xA;&amp;lt;img src=&amp;#34;/img/2016/01/img_20160103_184823.jpg?w=1024&amp;#34; alt=&amp;#34;IMG_20160103_184823&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/img/2016/01/img_20160103_184904.jpg?w=1024&amp;#34; alt=&amp;#34;IMG_20160103_184904&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/img/2016/01/img_20160103_184946.jpg?w=1024&amp;#34; alt=&amp;#34;IMG_20160103_184946&amp;#34;&amp;gt; The specification for the carbon-monoxide sensor used in this model can be found here .</description>
     </item>
     <item>
       <title>Wishing everyone a Happy New Year</title>
       <link>https://DigitalRiver.blog/2015/12/31/wishing-everyone-a-happy-new-year/</link>
       <pubDate>Thu, 31 Dec 2015 17:05:18 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2015/12/31/wishing-everyone-a-happy-new-year/</guid>
-      <description>Wishing everyone a Happy New Year. Please feel free to copy the banner and use it on your site or share with others!</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2015/12/happynewyear.png&amp;#34; alt=&amp;#34;HappyNewYear&amp;#34;&amp;gt; Wishing everyone a Happy New Year. Please feel free to copy the banner and use it on your site or share with others!</description>
     </item>
     <item>
       <title>Massive Floods in Chennai - 2 million people displaced - How can you help?</title>
@@ -1098,7 +1105,7 @@
       <link>https://DigitalRiver.blog/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</link>
       <pubDate>Thu, 24 Sep 2015 19:10:17 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</guid>
-      <description>If you receive the following error when opening SourceTree or other applications installed in your Mac OS X, then here is how you can solve it. Sometimes people make things more cryptic than it needs to be.&#xA;Error encountered &amp;lsquo;git status&amp;rsquo; failed with code 69:&amp;rsquo;&#xA;Agreeing to the Xcode/iOS license requires admin privileges, please re-run as root via sudo.&#xA;and here is the example of the screenshot:&#xA;Solution:&#xA;What that message is telling you is that you need to open the application XCode on your Mac OS X and since it hasn&amp;rsquo;t run since the last update, you need to accept the new license EULA agreement that&amp;rsquo;s part of the updated XCode.</description>
+      <description>If you receive the following error when opening SourceTree or other applications installed in your Mac OS X, then here is how you can solve it. Sometimes people make things more cryptic than it needs to be.&#xA;Error encountered &amp;lsquo;git status&amp;rsquo; failed with code 69:&amp;rsquo;&#xA;Agreeing to the Xcode/iOS license requires admin privileges, please re-run as root via sudo.&#xA;and here is the example of the screenshot:&#xA;&amp;lt;img src=&amp;#34;/img/2015/09/2015-09-24_14-50-56.jpg&amp;#34; alt=&amp;#34;2015-09-24_14-50-56&amp;#34;&amp;gt; Solution:</description>
     </item>
     <item>
       <title>Email sent to Harry&#39;s Shave Club today!</title>
@@ -1112,7 +1119,7 @@
       <link>https://DigitalRiver.blog/2015/09/07/how-to-install-and-configure-zeromq-libsodium-on-centos-6-7/</link>
       <pubDate>Mon, 07 Sep 2015 02:02:54 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2015/09/07/how-to-install-and-configure-zeromq-libsodium-on-centos-6-7/</guid>
-      <description>When getting started on ZeroMQ (version 4.2.0 or above) can be quite challenging especially with all the prerequisites. I&amp;rsquo;ve spent a good two days to get the process ironed out. So I&amp;rsquo;m sharing this so that others can avoid the same pitfalls and can have a good head-start with setting up their environment.&#xA;Pitfall #1: Develop for your platform. I&amp;rsquo;m accustomed to developing in Ubuntu 14.04.3 LTE but in this case my deployment environment happens to be CentOS 6.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2015/09/zeromq_logo.png&amp;#34; alt=&amp;#34;zeromq_logo&amp;#34;&amp;gt; When getting started on ZeroMQ (version 4.2.0 or above) can be quite challenging especially with all the prerequisites. I&amp;rsquo;ve spent a good two days to get the process ironed out. So I&amp;rsquo;m sharing this so that others can avoid the same pitfalls and can have a good head-start with setting up their environment.&#xA;Pitfall #1: Develop for your platform. I&amp;rsquo;m accustomed to developing in Ubuntu 14.04.3 LTE but in this case my deployment environment happens to be CentOS 6.</description>
     </item>
     <item>
       <title>[Solved] configure: error: cannot run C compiled programs.</title>
@@ -1126,35 +1133,35 @@
       <link>https://DigitalRiver.blog/2015/08/27/welcome-to-the-age-of-light-two-big-innovations-in-graphene-and-nano-technology-can-forge-a-new-future-for-mankind/</link>
       <pubDate>Thu, 27 Aug 2015 17:29:45 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2015/08/27/welcome-to-the-age-of-light-two-big-innovations-in-graphene-and-nano-technology-can-forge-a-new-future-for-mankind/</guid>
-      <description>#AgeOfLight&#xA;As I was reading today&amp;rsquo;s news (Science) breakthroughs, I came across two independent discovery/invention but combined makes a HUGE breakthrough and paves the way for a BIGHTER FUTURE!!!&#xA;If this peeks your interest read further.&#xA;[#1] Invention: Manufacturing Graphene using Tea-Extract&#xA;What problem does this solve? Today, manufacturing Graphene takes a lot of time and can only produce/grow small amounts of the material. It takes a lot of energy, raw-material and time - to produce the small quantities of the product.</description>
+      <description>#AgeOfLight&#xA;&amp;lt;img src=&amp;#34;/img/2015/08/ageoflight.jpg&amp;#34; alt=&amp;#34;AgeOfLight&amp;#34;&amp;gt; As I was reading today&amp;rsquo;s news (Science) breakthroughs, I came across two independent discovery/invention but combined makes a HUGE breakthrough and paves the way for a BIGHTER FUTURE!!!&#xA;If this peeks your interest read further.&#xA;[#1] Invention: Manufacturing Graphene using Tea-Extract&#xA;What problem does this solve? Today, manufacturing Graphene takes a lot of time and can only produce/grow small amounts of the material. It takes a lot of energy, raw-material and time - to produce the small quantities of the product.</description>
     </item>
     <item>
       <title>Hiking @ Centennial Park, Ellicott City, Maryland</title>
       <link>https://DigitalRiver.blog/2015/08/04/hiking-centennial-park-ellicott-city-maryland/</link>
       <pubDate>Tue, 04 Aug 2015 19:17:11 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2015/08/04/hiking-centennial-park-ellicott-city-maryland/</guid>
-      <description>Here are some great pictures I took from the hiking at the nearby Centennial Park in Ellicott City, Maryland&#xA;Click here for the complete link to the post</description>
+      <description>Here are some great pictures I took from the hiking at the nearby Centennial Park in Ellicott City, Maryland&#xA;Click here for the complete link to the post </description>
     </item>
     <item>
       <title>Interesting pics from our trip to India</title>
       <link>https://DigitalRiver.blog/2015/07/09/interesting-pics-from-our-trip-to-india/</link>
       <pubDate>Thu, 09 Jul 2015 15:50:51 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2015/07/09/interesting-pics-from-our-trip-to-india/</guid>
-      <description>Interesting pics from our trip to India&#xA;I took this shot from a higher elevation against the backdrop of the Gopura (vimana) of our ancestral family temple in Kaniyur, Tamil Nadu, India. Google photo animation stitched the pictures to create the animation.</description>
+      <description>Interesting pics from our trip to India&#xA;I took this shot from a higher elevation against the backdrop of the Gopura (vimana) of our ancestral family temple in Kaniyur, Tamil Nadu, India. Google photo animation stitched the pictures to create the animation.&#xA;&amp;lt;img src=&amp;#34;/img/2015/07/20150623_123205_001-animation.gif&amp;#34; alt=&amp;#34;20150623_123205_001-ANIMATION&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;/img/2015/07/20150623_123200.jpg?w=1024&amp;#34; alt=&amp;#34;20150623_123200&amp;#34;&amp;gt; </description>
     </item>
     <item>
       <title>Valley of Lugern, Switzerland - great place to wake up each and every morning!</title>
       <link>https://DigitalRiver.blog/2015/07/09/valley-of-lugern-switzerland-great-place-to-wake-up-each-and-every-morning/</link>
       <pubDate>Thu, 09 Jul 2015 15:36:46 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2015/07/09/valley-of-lugern-switzerland-great-place-to-wake-up-each-and-every-morning/</guid>
-      <description>Valley of Lugern, Switzerland - great place to wake up each and every morning!</description>
+      <description>Valley of Lugern, Switzerland - great place to wake up each and every morning!&#xA;&amp;lt;img src=&amp;#34;/img/2015/07/20150704_174234.jpg?w=1024&amp;#34; alt=&amp;#34;20150704_174234&amp;#34;&amp;gt; </description>
     </item>
     <item>
       <title>View from Mount Titlis, Switzerland</title>
       <link>https://DigitalRiver.blog/2015/07/08/view-from-mount-titlis-switzerland/</link>
       <pubDate>Wed, 08 Jul 2015 20:20:48 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2015/07/08/view-from-mount-titlis-switzerland/</guid>
-      <description>View from Mount Titlis, Switzerland</description>
+      <description>View from Mount Titlis, Switzerland&#xA;&amp;lt;img src=&amp;#34;/img/2015/07/20150705_120523.jpg?w=660&amp;#34; alt=&amp;#34;20150705_120523&amp;#34;&amp;gt; </description>
     </item>
     <item>
       <title>Philips SlimStyle 60W LED bulb teardown</title>
@@ -1168,7 +1175,7 @@
       <link>https://DigitalRiver.blog/2014/08/27/pictures-from-the-royal-palace-museum-in-piazza-san-marco-venice-italy/</link>
       <pubDate>Wed, 27 Aug 2014 02:08:08 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2014/08/27/pictures-from-the-royal-palace-museum-in-piazza-san-marco-venice-italy/</guid>
-      <description>Here are some pictures I took from the Royal Palace Museum in Piazza San Marco, Venice, Italy [map] Shows you some of the wonderful Christian relics and how the royal family in Venice, Italy was involved in exploration of the new world, seafaring and art.</description>
+      <description>Here are some pictures I took from the Royal Palace Museum in Piazza San Marco, Venice, Italy [ map ] Shows you some of the wonderful Christian relics and how the royal family in Venice, Italy was involved in exploration of the new world, seafaring and art.</description>
     </item>
     <item>
       <title>Photos from Venice, Italy</title>
@@ -1189,7 +1196,7 @@
       <link>https://DigitalRiver.blog/2014/06/18/hello-world-with-sparkcore/</link>
       <pubDate>Wed, 18 Jun 2014 02:51:11 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2014/06/18/hello-world-with-sparkcore/</guid>
-      <description>Finally got my SparkCore, an Arduino built with on-board WiFi (no need for a Arduino WiFi shield). This version is a different take on the &amp;ldquo;Internet of Things&amp;rdquo; and &amp;ldquo;Build internet-connected hardware&amp;rdquo;&#xA;Here&amp;rsquo;s a picture of the Spark connected to the WiFi running my first HelloWorld app downloaded directly from the Spark IDE to the core.&#xA;Looking forward to building some designs around it! To learn more about Arduino and SparkCore visit their corresponding sites.</description>
+      <description>Finally got my SparkCore , an Arduino built with on-board WiFi (no need for a Arduino WiFi shield). This version is a different take on the &amp;ldquo;Internet of Things&amp;rdquo; and &amp;ldquo;Build internet-connected hardware&amp;rdquo;&#xA;Here&amp;rsquo;s a picture of the Spark connected to the WiFi running my first HelloWorld app downloaded directly from the Spark IDE to the core.&#xA;&amp;lt;img src=&amp;#34;/img/2014/06/sparkcore1-updated.jpg&amp;#34; alt=&amp;#34;Spark Core&amp;#34;&amp;gt; Looking forward to building some designs around it! To learn more about Arduino and SparkCore visit their corresponding sites.</description>
     </item>
     <item>
       <title>Switching back to wordpress site</title>
@@ -1217,28 +1224,28 @@
       <link>https://DigitalRiver.blog/2013/11/17/grails-2-x-gitignore-file/</link>
       <pubDate>Sun, 17 Nov 2013 02:16:15 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2013/11/17/grails-2-x-gitignore-file/</guid>
-      <description>With a new Grails 2.X project you run into challenges on which folders to check-in into a GIT repository. You want to remove any non-essential files that Grails can rebuild at run-time. And if you are using either GITHub or BitBucket for your GIT repo&amp;rsquo;s the default .gitignore file created or provided by GITHub is setup for configured for a Grails 1.X project and not a Grails 2.X project.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2013/11/grails.png?w=150&amp;#34; alt=&amp;#34;Grails&amp;#34;&amp;gt; With a new Grails 2.X project you run into challenges on which folders to check-in into a GIT repository. You want to remove any non-essential files that Grails can rebuild at run-time. And if you are using either GITHub or BitBucket for your GIT repo&amp;rsquo;s the default .gitignore file created or provided by GITHub is setup for configured for a Grails 1.X project and not a Grails 2.</description>
     </item>
     <item>
       <title>Cubieboard2 with ARM AllWinner Processor - A20 finally arrived</title>
       <link>https://DigitalRiver.blog/2013/11/03/cubieboard2-arm-allwinner-processor-a20-finally-arrived/</link>
       <pubDate>Sun, 03 Nov 2013 20:43:57 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2013/11/03/cubieboard2-arm-allwinner-processor-a20-finally-arrived/</guid>
-      <description>Cubieboard2 with ARM AllWinner Processor - A20 finally arrived. Pretty excited about building my ARM Linux embedded system.&#xA;Learn more about Cubieboard here</description>
+      <description>Cubieboard2 with ARM AllWinner Processor - A20 finally arrived. Pretty excited about building my ARM Linux embedded system.&#xA;&amp;lt;img src=&amp;#34;/img/2013/11/imag0775.jpg&amp;#34; alt=&amp;#34;CubieTruck&amp;#34;&amp;gt; Learn more about Cubieboard here </description>
     </item>
     <item>
       <title>Working with zeromq (0mq), Java, JZMQ on a CentOS platform</title>
       <link>https://DigitalRiver.blog/2013/06/25/working-with-zeromq-0mq-java-jzmq-on-a-centos-platform/</link>
       <pubDate>Tue, 25 Jun 2013 03:36:43 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2013/06/25/working-with-zeromq-0mq-java-jzmq-on-a-centos-platform/</guid>
-      <description>Recently I decided to port some of my development using ZeroMQ onto my CentOS development machine and I ran into some challenges. I&amp;rsquo;m documenting those challenges so that if someone else runs into the same pitfalls I did, they can avoid it.&#xA;In this example today, we will work with the first &amp;ldquo;HelloWorld&amp;rdquo; examples in the ZeroMQ guide found here. I added a few modifications to the sample such as a package name and a try-catch around the Thread and an exception.</description>
+      <description>Recently I decided to port some of my development using ZeroMQ onto my CentOS development machine and I ran into some challenges. I&amp;rsquo;m documenting those challenges so that if someone else runs into the same pitfalls I did, they can avoid it.&#xA;In this example today, we will work with the first &amp;ldquo;HelloWorld&amp;rdquo; examples in the ZeroMQ guide found here . I added a few modifications to the sample such as a package name and a try-catch around the Thread and an exception.</description>
     </item>
     <item>
       <title>Getting started with vertx (vert.io) – an alternative to node.js</title>
       <link>https://DigitalRiver.blog/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</link>
       <pubDate>Thu, 15 Nov 2012 23:31:21 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</guid>
-      <description>Article Getting started with vertx (vert.io) – an alternative to node.js - has been posted on the new website at:&#xA;/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</description>
+      <description>Article Getting started with vertx (vert.io) – an alternative to node.js - has been posted on the new website at:&#xA;/getting-started-with-vertx-vert-io-an-alternative-to-node-js/ </description>
     </item>
     <item>
       <title>Getting started with vertx (vert.io) - an alternative to node.js</title>
@@ -1252,7 +1259,7 @@
       <link>https://DigitalRiver.blog/2012/11/14/simulating-load-on-a-file-system/</link>
       <pubDate>Wed, 14 Nov 2012 12:27:22 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2012/11/14/simulating-load-on-a-file-system/</guid>
-      <description>Sometimes you want an easy way to simulate load on a file-system that you are trying to test. Here&amp;rsquo;s a quick and easy way.&#xA;Suppose your mount point you want to perform this IO is &amp;ldquo;/myspecialmount&amp;rdquo;. (Assuming you have plenty of space to test)&#xA;Then the easiest way to load some IO is through the following bash-script:&#xA;[sourcecode language=&amp;ldquo;bash&amp;rdquo;] #!/bin/bash&#xA;while true do echo &amp;ldquo;=== Starting clean-up ====&amp;rdquo; rm -fr /myspecialmount/usr echo &amp;ldquo;=== Starting load ====&amp;rdquo; rsync -avp /usr /myspecialmount done [/sourcecode]</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2012/11/load.jpg&amp;#34; alt=&amp;#34;load&amp;#34;&amp;gt; Sometimes you want an easy way to simulate load on a file-system that you are trying to test. Here&amp;rsquo;s a quick and easy way.&#xA;Suppose your mount point you want to perform this IO is &amp;ldquo;/myspecialmount&amp;rdquo;. (Assuming you have plenty of space to test)&#xA;Then the easiest way to load some IO is through the following bash-script:&#xA;[sourcecode language=&amp;ldquo;bash&amp;rdquo;] #!/bin/bash&#xA;while true do echo &amp;ldquo;=== Starting clean-up ====&amp;rdquo; rm -fr /myspecialmount/usr echo &amp;ldquo;=== Starting load ====&amp;rdquo; rsync -avp /usr /myspecialmount done [/sourcecode]</description>
     </item>
     <item>
       <title>Cross-Browser Testing for WebSockets</title>
@@ -1266,14 +1273,14 @@
       <link>https://DigitalRiver.blog/2012/10/31/welcome-to-the-new-home-digitalriver-com/</link>
       <pubDate>Wed, 31 Oct 2012 13:55:18 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2012/10/31/welcome-to-the-new-home-digitalriver-com/</guid>
-      <description>Welcome to the new home of DigitalRiver.wordpress.com&#xA;www.DigitalRiver.com</description>
+      <description>Welcome to the new home of DigitalRiver.wordpress.com&#xA;www.DigitalRiver.com </description>
     </item>
     <item>
       <title>DigitalRiver has moved... www.DigitalRiver.com</title>
       <link>https://DigitalRiver.blog/2012/10/31/digitalriver-has-moved-www-digitalriver-com/</link>
       <pubDate>Wed, 31 Oct 2012 13:31:13 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2012/10/31/digitalriver-has-moved-www-digitalriver-com/</guid>
-      <description>DigitalRiver has moved&amp;hellip; www.DigitalRiver.com Dear Readers,&#xA;I felt that it was high-time to move the blog to it&amp;rsquo;s own domain. I will continue to focus on topics of interest on the new blog.&#xA;Please update your bookmarks (if needed) and I&amp;rsquo;ll see you at the new site&amp;hellip;&#xA;http://DigitalRiver.blog/&#xA;Venkatt</description>
+      <description>DigitalRiver has moved&amp;hellip; www.DigitalRiver.com Dear Readers,&#xA;I felt that it was high-time to move the blog to it&amp;rsquo;s own domain. I will continue to focus on topics of interest on the new blog.&#xA;Please update your bookmarks (if needed) and I&amp;rsquo;ll see you at the new site&amp;hellip;&#xA;http://DigitalRiver.blog/ Venkatt</description>
     </item>
     <item>
       <title>Wordpress Export Import Site Escaped Character Challenges - &#34; </title>
@@ -1287,35 +1294,35 @@
       <link>https://DigitalRiver.blog/2012/10/25/ingenious-idea-whitelines-iphone-great-wireframingdesign-tool-2/</link>
       <pubDate>Thu, 25 Oct 2012 20:49:10 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2012/10/25/ingenious-idea-whitelines-iphone-great-wireframingdesign-tool-2/</guid>
-      <description>I’m an Android user and today I’m wishing I owned a iPhone or iPad after seeing this idea…&#xA;It’s called Whitelines.&#xA;To create a printable paper that uses “white-lines” instead of the usual “solid-black/blue lines” and to take it a step further to add some scan marks such that a iPhone can take a digital picture of your notes and make it available online. The possibilities are endless.&#xA;Here how the process works:</description>
+      <description>I’m an Android user and today I’m wishing I owned a iPhone or iPad after seeing this idea…&#xA;It’s called Whitelines .&#xA;To create a printable paper that uses “white-lines” instead of the usual “solid-black/blue lines” and to take it a step further to add some scan marks such that a iPhone can take a digital picture of your notes and make it available online. The possibilities are endless.&#xA;Here how the process works:</description>
     </item>
     <item>
       <title>Python pycharm - configuring remote interpreters from Windows to Linux</title>
       <link>https://DigitalRiver.blog/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</link>
       <pubDate>Fri, 20 Apr 2012 19:32:53 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</guid>
-      <description>If you are an avid Python developer, you may all be excited about the new features available in the Pycharm 2.5 release, especially the remote interpreters, virtualenv and setup.py support. You can read more about the new exciting features here.&#xA;But as I started to tinker with the &amp;ldquo;remote interpreter&amp;rdquo; feature - I stumbled upon some challenges and I thought I&amp;rsquo;d document them for other PyCharm users who might benefit from this blog entry.</description>
+      <description>If you are an avid Python developer, you may all be excited about the new features available in the Pycharm 2.5 release, especially the remote interpreters, virtualenv and setup.py support. You can read more about the new exciting features here .&#xA;But as I started to tinker with the &amp;ldquo;remote interpreter&amp;rdquo; feature - I stumbled upon some challenges and I thought I&amp;rsquo;d document them for other PyCharm users who might benefit from this blog entry.</description>
     </item>
     <item>
       <title>Configure static resources in Django - Python</title>
       <link>https://DigitalRiver.blog/2012/03/01/configure-static-resources-in-django-python/</link>
       <pubDate>Thu, 01 Mar 2012 17:53:35 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2012/03/01/configure-static-resources-in-django-python/</guid>
-      <description>Working on a Django project, one of the first things that one would encounter is configuring Django for static resources such as &amp;ldquo;css&amp;rdquo;, &amp;ldquo;images&amp;rdquo;, &amp;ldquo;jpeg&amp;rdquo; and &amp;ldquo;js&amp;rdquo;. In looking at the &amp;ldquo;StaticResources&amp;rdquo; link that&amp;rsquo;s part of the Django documentation, it&amp;rsquo;s a bit cryptic for someone who&amp;rsquo;s starting out in Django and Python. So here&amp;rsquo;s a step-by-step on two ways to configure your static-resources in a Django project.&#xA;This method is described in the Django documentation and is probably the preferred approach.</description>
+      <description>Working on a Django project, one of the first things that one would encounter is configuring Django for static resources such as &amp;ldquo;css&amp;rdquo;, &amp;ldquo;images&amp;rdquo;, &amp;ldquo;jpeg&amp;rdquo; and &amp;ldquo;js&amp;rdquo;. In looking at the &amp;ldquo; StaticResources &amp;rdquo; link that&amp;rsquo;s part of the Django documentation, it&amp;rsquo;s a bit cryptic for someone who&amp;rsquo;s starting out in Django and Python. So here&amp;rsquo;s a step-by-step on two ways to configure your static-resources in a Django project.&#xA;This method is described in the Django documentation and is probably the preferred approach.</description>
     </item>
     <item>
       <title>Minimal Maintainable HTML5 Page - Template - index.html</title>
       <link>https://DigitalRiver.blog/2012/02/25/minimal-maintainable-html5-page-template-index-html/</link>
       <pubDate>Sat, 25 Feb 2012 18:36:56 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2012/02/25/minimal-maintainable-html5-page-template-index-html/</guid>
-      <description>Sometimes I keep searching for a starter HTML5 &amp;ldquo;hello-world&amp;rdquo; - index.html page. So I thought I&amp;rsquo;d blog about it so that others who need it can also take advantage of it.&#xA;&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=en&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=utf-8&amp;gt; &amp;lt;title&amp;gt;Sample HTML5 index.html from DigitalRiver&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Sample HTML5 index.html from DigitalRiver.wordpress.com&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Feel free to copy and use as needed.&#xA;At some point of time, you&amp;rsquo;re going to need something more than a &amp;lsquo;hello-world&amp;rsquo; and when you cross that road go download the &amp;ldquo;HTML5 Boilerplate&amp;rdquo;.</description>
+      <description>Sometimes I keep searching for a starter HTML5 &amp;ldquo;hello-world&amp;rdquo; - index.html page. So I thought I&amp;rsquo;d blog about it so that others who need it can also take advantage of it.&#xA;&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=en&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=utf-8&amp;gt; &amp;lt;title&amp;gt;Sample HTML5 index.html from DigitalRiver&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Sample HTML5 index.html from DigitalRiver.wordpress.com&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; Feel free to copy and use as needed.&#xA;At some point of time, you&amp;rsquo;re going to need something more than a &amp;lsquo;hello-world&amp;rsquo; and when you cross that road go download the &amp;ldquo; HTML5 Boilerplate &amp;rdquo;.</description>
     </item>
     <item>
       <title>How-To Install mod_python and the compile error - apxs:Error: Command failed with rc=65536</title>
       <link>https://DigitalRiver.blog/2011/12/29/installing-mod_python-compile-error-apxserror-command-failed-with-rc65536/</link>
       <pubDate>Thu, 29 Dec 2011 03:09:12 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2011/12/29/installing-mod_python-compile-error-apxserror-command-failed-with-rc65536/</guid>
-      <description>Below are my steps to installing mod_python under Apache HTTPD in CentOS 6.2.&#xA;Download mod_python-3.3.1.tgz or a later version of mod_python available here: http://archive.apache.org/dist/httpd/modpython/&#xA;[sourcecode] curl -O http://archive.apache.org/dist/httpd/modpython/mod_python-3.3.1.tgz tar zxvf mod_python-3.3.1.tgz cd mod_python-3.3.1 ./configure make [/sourcecode]&#xA;You may encounter the following error at this point: apxs:Error: Command failed with rc=65536&#xA;If so&amp;hellip; no worries&amp;hellip;&#xA;This bug has been addressed here: https://bugzilla.redhat.com/show_bug.cgi?id=465246&#xA;Download the patch and (if you can figure out how to patch like I did, I manually opened the file and examined the contents: ` diff -rNu mod_python-3.</description>
+      <description>Below are my steps to installing mod_python under Apache HTTPD in CentOS 6.2.&#xA;Download mod_python-3.3.1.tgz or a later version of mod_python available here: http://archive.apache.org/dist/httpd/modpython/ [sourcecode] curl -O http://archive.apache.org/dist/httpd/modpython/mod_python-3.3.1.tgz tar zxvf mod_python-3.3.1.tgz cd mod_python-3.3.1 ./configure make [/sourcecode]&#xA;You may encounter the following error at this point: apxs:Error: Command failed with rc=65536&#xA;If so&amp;hellip; no worries&amp;hellip;&#xA;This bug has been addressed here: https://bugzilla.redhat.com/show_bug.cgi?id=465246 Download the patch and (if you can figure out how to patch like I did, I manually opened the file and examined the contents: ` diff -rNu mod_python-3.</description>
     </item>
     <item>
       <title>How to upgrade to Python 2.7 on CentOS</title>
@@ -1336,7 +1343,7 @@
       <link>https://DigitalRiver.blog/2011/10/31/copy-to-clipboard-a-browser-agnostic-way-to-script-this-functionality/</link>
       <pubDate>Mon, 31 Oct 2011 23:52:28 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2011/10/31/copy-to-clipboard-a-browser-agnostic-way-to-script-this-functionality/</guid>
-      <description>Have you tried to present some code or sample content for the end-user that you wanted to allow them to easily copy to their clip-board?&#xA;If you use the JQuery Javascript library then you can use the plugin called zClip available here - zClip&#xA;Using zclip you can attach an event to a button or a text-area such that when the event occurs, the content is copied to the clipboard.</description>
+      <description>Have you tried to present some code or sample content for the end-user that you wanted to allow them to easily copy to their clip-board?&#xA;If you use the JQuery Javascript library then you can use the plugin called zClip available here - zClip Using zclip you can attach an event to a button or a text-area such that when the event occurs, the content is copied to the clipboard.</description>
     </item>
     <item>
       <title>Grails - Groovy - Alternative to HttpBuilder - adding headers to your HTTP request</title>
@@ -1413,7 +1420,7 @@
       <link>https://DigitalRiver.blog/2011/02/18/intellij-serialversionuid-enabling/</link>
       <pubDate>Fri, 18 Feb 2011 16:37:46 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2011/02/18/intellij-serialversionuid-enabling/</guid>
-      <description>If you are wondering why when you make a POJO bean to implement Serializable, IntelliJ does not throw any warnings to create the serialVersionUID variable&amp;hellip; It&amp;rsquo;s because you need to enable it. Here&amp;rsquo;s how:&#xA;Cheers!</description>
+      <description>If you are wondering why when you make a POJO bean to implement Serializable, IntelliJ does not throw any warnings to create the serialVersionUID variable&amp;hellip; It&amp;rsquo;s because you need to enable it. Here&amp;rsquo;s how:&#xA;&amp;lt;img src=&amp;#34;/img/2011/02/intellij-enablingserialization.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Cheers!</description>
     </item>
     <item>
       <title>How to extract public key from certificate?</title>
@@ -1441,14 +1448,14 @@
       <link>https://DigitalRiver.blog/2010/11/28/extract-all-images-in-pdf-file-in-a-directory-batch-extract-images/</link>
       <pubDate>Sun, 28 Nov 2010 23:08:37 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2010/11/28/extract-all-images-in-pdf-file-in-a-directory-batch-extract-images/</guid>
-      <description>Sometimes you need a way to extract all images in a PDF but then you have a directory of files and you need to extract them iteratively.&#xA;Prerequisites:&#xA;Install Cygwin or linux environment with Perl support.&#xA;Install ImageMagick.&#xA;Install GhostScript.&#xA;Afterward run the following script:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;#!/bin/perl&#xA;my $directory = $ARGV[0]; opendir (DIR, $directory) or die $!; while (my $file = readdir(DIR)) { if ($file =~ m/.pdf/) { my $newfile = $file; $newfile =~ s/.</description>
+      <description>Sometimes you need a way to extract all images in a PDF but then you have a directory of files and you need to extract them iteratively.&#xA;Prerequisites:&#xA;Install Cygwin or linux environment with Perl support.&#xA;Install ImageMagick .&#xA;Install GhostScript .&#xA;Afterward run the following script:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;#!/bin/perl&#xA;my $directory = $ARGV[0]; opendir (DIR, $directory) or die $!; while (my $file = readdir(DIR)) { if ($file =~ m/.pdf/) { my $newfile = $file; $newfile =~ s/.</description>
     </item>
     <item>
       <title>Add custom jars under &#34;\WEB-INF\lib&#34; in a Maven project</title>
       <link>https://DigitalRiver.blog/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</link>
       <pubDate>Sat, 02 Oct 2010 18:28:00 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</guid>
-      <description>The answer is a lot simpler than you think. But before we explore the answer, I should warn you that this approach is not what is recommended by Maven. Maven builds upon consistency and structure and this process goes away from that methodology. In Maven, you can take each of your jars\libraries and add them to your local repository and then include them as needed in your projects. If you want to go the proper route here’s how you do it.</description>
+      <description>The answer is a lot simpler than you think. But before we explore the answer, I should warn you that this approach is not what is recommended by Maven. Maven builds upon consistency and structure and this process goes away from that methodology. In Maven, you can take each of your jars\libraries and add them to your local repository and then include them as needed in your projects. If you want to go the proper route here’s how you do it .</description>
     </item>
     <item>
       <title>Weblogic 10.3 Heap Size (does not allow 3072mb)</title>
@@ -1525,14 +1532,14 @@
       <link>https://DigitalRiver.blog/2010/04/21/greasemonkey-to-the-rescue-fixing-apache-jackrabbit-site/</link>
       <pubDate>Wed, 21 Apr 2010 13:09:27 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2010/04/21/greasemonkey-to-the-rescue-fixing-apache-jackrabbit-site/</guid>
-      <description>Starting yesterday the Apache JackRabbit JCR website had an interesting problem. Someone must have made a change to the base template such that they had removed the SyntaxHighlighter code that needs to be appended to the header. I&amp;rsquo;ve opened an issue in their jira issue tracker.&#xA;Contents of JIRA Issue &amp;raquo;&amp;raquo;&amp;raquo;&amp;raquo; It started happening today. When I visit the website, for example: http://jackrabbit.apache.org/node-type-notation.html&#xA;All the artifacts that contain a &amp;ldquo;SCRIPT&amp;rdquo; of type syntaxhighlighter does not get displayed.</description>
+      <description>Starting yesterday the Apache JackRabbit JCR website had an interesting problem. Someone must have made a change to the base template such that they had removed the SyntaxHighlighter code that needs to be appended to the header. I&amp;rsquo;ve opened an issue in their jira issue tracker.&#xA;Contents of JIRA Issue &amp;raquo;&amp;raquo;&amp;raquo;&amp;raquo; It started happening today. When I visit the website, for example: http://jackrabbit.apache.org/node-type-notation.html All the artifacts that contain a &amp;ldquo;SCRIPT&amp;rdquo; of type syntaxhighlighter does not get displayed.</description>
     </item>
     <item>
       <title>Spring Framework Samples and Reference Implementations online in svn</title>
       <link>https://DigitalRiver.blog/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</link>
       <pubDate>Mon, 19 Apr 2010 14:30:39 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</guid>
-      <description>Sometimes it&amp;rsquo;s good to look at the svn repository for the reference sample that Spring Framework provides.&#xA;Here&amp;rsquo;s a quick link for that URL:&#xA;https://src.springframework.org/svn/spring-samples/&#xA;You can traverse through it via a HTTP(s) browser or you can download the latest samples via tools like TortiseSVN.&#xA;Here is a list of some of the projects samples that are available today:&#xA;spring-samples - Revision 431: /&#xA;* configuration-basic/ * jpetstore/ * mvc-ajax/ * mvc-basic/ * petcare/ * petclinic/ * petclinic-groovy/ * spring-travel/ * task-basic/ * templates/ * tutorials/ Hopefully this article will be beneficial for someone who is trying to get familiar with Spring Framework.</description>
+      <description>Sometimes it&amp;rsquo;s good to look at the svn repository for the reference sample that Spring Framework provides.&#xA;Here&amp;rsquo;s a quick link for that URL:&#xA;https://src.springframework.org/svn/spring-samples/ You can traverse through it via a HTTP(s) browser or you can download the latest samples via tools like TortiseSVN.&#xA;Here is a list of some of the projects samples that are available today:&#xA;spring-samples - Revision 431: /&#xA;* configuration-basic/ * jpetstore/ * mvc-ajax/ * mvc-basic/ * petcare/ * petclinic/ * petclinic-groovy/ * spring-travel/ * task-basic/ * templates/ * tutorials/ Hopefully this article will be beneficial for someone who is trying to get familiar with Spring Framework.</description>
     </item>
     <item>
       <title>Java 6 Gems: Spash Screen for your application</title>
@@ -1595,7 +1602,7 @@
       <link>https://DigitalRiver.blog/2010/02/24/humor-of-the-day-on-fourier-transform/</link>
       <pubDate>Wed, 24 Feb 2010 22:00:51 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2010/02/24/humor-of-the-day-on-fourier-transform/</guid>
-      <description>Here&amp;rsquo;s an IEEE joke. This one got me laughing for quite some time. http://xkcd.com/26/ http://imgs.xkcd.com/comics/fourier.jpg&#xA;Cheers</description>
+      <description>Here&amp;rsquo;s an IEEE joke. This one got me laughing for quite some time. http://xkcd.com/26/ http://imgs.xkcd.com/comics/fourier.jpg Cheers</description>
     </item>
     <item>
       <title>jQuery Accordian Internet Explorer 6 Issue</title>
@@ -1609,7 +1616,7 @@
       <link>https://DigitalRiver.blog/2009/11/25/neat-little-tool-for-your-browser-toolkit-grabnzip-com/</link>
       <pubDate>Wed, 25 Nov 2009 16:06:56 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2009/11/25/neat-little-tool-for-your-browser-toolkit-grabnzip-com/</guid>
-      <description>Found a neat little browser download helper tool. It&amp;rsquo;s one that I&amp;rsquo;ll be using and it&amp;rsquo;s definitely a tool to add to your browser toolkit bookmarks.&#xA;Ever been in a situation where you wanted to download a file at the office but the particular extension is not allowed at the company. Well, this tool might help you in those situations. It&amp;rsquo;s called Grab-N-Zip (http://www.GrabNZip.com)&#xA;You enter your URL to the file that you are trying to &amp;ldquo;grab&amp;rdquo; from the internet.</description>
+      <description>Found a neat little browser download helper tool. It&amp;rsquo;s one that I&amp;rsquo;ll be using and it&amp;rsquo;s definitely a tool to add to your browser toolkit bookmarks.&#xA;Ever been in a situation where you wanted to download a file at the office but the particular extension is not allowed at the company. Well, this tool might help you in those situations. It&amp;rsquo;s called Grab-N-Zip ( http://www.GrabNZip.com )&#xA;You enter your URL to the file that you are trying to &amp;ldquo;grab&amp;rdquo; from the internet.</description>
     </item>
     <item>
       <title>Scala compile message - Class file or Jar is broken</title>
@@ -1637,7 +1644,7 @@
       <link>https://DigitalRiver.blog/2009/11/04/first-date-with-intellij-community-edition-and-scala/</link>
       <pubDate>Wed, 04 Nov 2009 17:20:52 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2009/11/04/first-date-with-intellij-community-edition-and-scala/</guid>
-      <description>Downloaded the Community Edition of IntelliJ a few days ago. Although most J2EE features are not available in the community edition, one of the features that did like was the Scala Plugin.&#xA;After I downloaded it and added the scala plug-in, I was very impressed with the tool. I have been using Eclipse (a little Netbeans) for most of my Java development and although I have tried the scala plugin that&amp;rsquo;s available for Eclipse, I wasn&amp;rsquo;t all that impressed.</description>
+      <description>Downloaded the Community Edition of IntelliJ a few days ago. Although most J2EE features are not available in the community edition, one of the features that did like was the Scala Plugin .&#xA;After I downloaded it and added the scala plug-in, I was very impressed with the tool. I have been using Eclipse (a little Netbeans) for most of my Java development and although I have tried the scala plugin that&amp;rsquo;s available for Eclipse, I wasn&amp;rsquo;t all that impressed.</description>
     </item>
     <item>
       <title>Opening a link in a PDF document in a new window</title>

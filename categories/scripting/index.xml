@@ -13,21 +13,21 @@
       <link>https://DigitalRiver.blog/2017/03/13/set-up-a-tftp-server-on-linux-linux-com/</link>
       <pubDate>Mon, 13 Mar 2017 19:29:22 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/13/set-up-a-tftp-server-on-linux-linux-com/</guid>
-      <description>Most users are familiar with FTP, but if you want to kickstart Red Hat installs, PXE boot systems, auto-provision VoIP phones or unbrick a Linux-based router, you want a Trivial File Transfer Protocol (TFTP) server. Setting one up on Linux is easy, and a perfect project to take on over the weekend.&#xA;Source: Weekend Project: Set Up a TFTP Server on Linux | Linux.com | The source for Linux information</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/03/linuxlogo.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Most users are familiar with FTP, but if you want to kickstart Red Hat installs, PXE boot systems, auto-provision VoIP phones or unbrick a Linux-based router, you want a Trivial File Transfer Protocol (TFTP) server. Setting one up on Linux is easy, and a perfect project to take on over the weekend.&#xA;Source: Weekend Project: Set Up a TFTP Server on Linux | Linux.com | The source for Linux information </description>
     </item>
     <item>
       <title>How To Record Everything You Do In Terminal - OSTechNix</title>
       <link>https://DigitalRiver.blog/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</link>
       <pubDate>Mon, 13 Mar 2017 19:27:16 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</guid>
-      <description>Synopsis:&#xA;script -a my_history mkdir test cd test touch hello_world.txt echo &#39;Hello World&#39; &gt; ./hello_world.txt # This closes the &#34;script -a my_history&#34; file exit Source: How To Record Everything You Do In Terminal - OSTechNix</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/03/record-everything-you-do-in-terminal.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Synopsis:&#xA;script -a my_history mkdir test cd test touch hello_world.txt echo &#39;Hello World&#39; &gt; ./hello_world.txt # This closes the &#34;script -a my_history&#34; file exit Source: How To Record Everything You Do In Terminal - OSTechNix </description>
     </item>
     <item>
       <title>The Future of Web Development: Coding as a Service</title>
       <link>https://DigitalRiver.blog/2017/03/12/the-future-of-web-development-coding-as-a-service/</link>
       <pubDate>Sun, 12 Mar 2017 18:38:39 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/12/the-future-of-web-development-coding-as-a-service/</guid>
-      <description>The article talks about the comoditization of web development as a service (Coding as a Service - CaaS).&#xA;For the price of two Venti Iced Caramel Macchiatos per month you can run a respectable website with little to no technical experience... Artificial Intelligence will enable more complex combinations of code to be fit together through an automated process... The quantity and quality of customization with AI will be staggering. And for the end user this means it will be at once simpler and cheaper.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2017/03/webdevelopment2.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; The article talks about the comoditization of web development as a service (Coding as a Service - CaaS).&#xA;For the price of two Venti Iced Caramel Macchiatos per month you can run a respectable website with little to no technical experience... Artificial Intelligence will enable more complex combinations of code to be fit together through an automated process... The quantity and quality of customization with AI will be staggering.</description>
     </item>
     <item>
       <title>Tired of &#34;Terminate batch job (Y/N)?&#34;, try this</title>

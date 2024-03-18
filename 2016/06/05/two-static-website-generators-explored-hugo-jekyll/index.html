@@ -255,7 +255,70 @@
 			</p>
 			
 		</header><div class="content post__content clearfix">
-			<p>Today I had to quickly assemble a wiki/blog website for our family temple back in India. At first, I considered doing my traditional option to leverage Wordpress (this blog DigitalRiver.com uses Wordpress). Then I thought of all the complexities of setting up a MySQL database, creating and registering the site with WP Jetpack, etc. I wanted something quick, easy to maintain and something that I can hand over to someone else for maintaining. Most software developers are used to GIT for source-control and if there was a way to keep the source files in a GIT then this opens up the possibility of merely giving thee end-user the access to the GIT repo and they can then either maintain it in the long run or branch it into their own copy. Spending a bit of time researching my options, I came across a suit of tools that allows you to generate <a href="http://www.staticgen.com/">static-blogs and wiki</a>. Out of the dozen or so options, I decided to explore the one with the most traffic (namely <a href="https://jekyllrb.com/">Jekyll</a>) and one that is ranking fourth but built on GoLang (namely <a href="https://gohugo.io/">Hugo</a>).</p>
+			<p>Today I had to quickly assemble a wiki/blog website for our family temple back in India. At first, I considered doing my traditional option to leverage Wordpress (this blog DigitalRiver.com uses Wordpress). Then I thought of all the complexities of setting up a MySQL database, creating and registering the site with WP Jetpack, etc. I wanted something quick, easy to maintain and something that I can hand over to someone else for maintaining. Most software developers are used to GIT for source-control and if there was a way to keep the source files in a GIT then this opens up the possibility of merely giving thee end-user the access to the GIT repo and they can then either maintain it in the long run or branch it into their own copy. Spending a bit of time researching my options, I came across a suit of tools that allows you to generate <a
+
+	
+	
+		href = "http://www.staticgen.com/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		static-blogs and wiki
+	</span>
+
+</a>. Out of the dozen or so options, I decided to explore the one with the most traffic (namely <a
+
+	
+	
+		href = "https://jekyllrb.com/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		Jekyll
+	</span>
+
+</a>) and one that is ranking fourth but built on GoLang (namely <a
+
+	
+	
+		href = "https://gohugo.io/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		Hugo
+	</span>
+
+</a>).</p>
 <p>Both Jekyll and Hugo had similar features when it came to Content, Front-Matter, Templates, Taxonomies, Themes, Categories, Sections, support for static content besides blogs, ability to support Markdown syntax for editing. So I would highly recommend both Jekyll and Hugo. What made me opt for Hugo is the simplicity of setup/installation. With Hugo, I had to download one executable [since it was developed in GoLang (one of my <em>new</em> favorite languages), it allows for native compilation for many different architectures and operating systems including Windows, Linux, FreeBSD, NetBSD and OS X (Darwin) for x64, i386 and ARM architectures (essentially wherever the Go compiler tool chain can run). Once I unzipped the executable to a directory, all I had to do is to add it onto my $PATH either in Linux or in Windows. And that is all you need to do to get started. Whereas with Jekyll, I had to first install Ruby, then  Ruby Gems, then (gem install jekyll) then NodeJS and optionally Python 2.7 for Jekyll 2 or earlier. The installation steps for getting Jekyll was way too complex. Granted I had most of those tools already installed but for non-developers, this would be a pain-point.</p>
 <p>Once Hugo was available on my $path, then to create a blank site all I had to do is as follows:</p>
 <pre><code>
@@ -264,7 +327,49 @@ cd myproject
 hugo new site sivavishnu .
 # Creates a blank starter site with default theme
 </code></pre>
-<p>Now in my case, I am a big fan of <a href="http://getbootstrap.com/">Bootstrap</a>. So I googled for a themes built on Bootstrap for Hugo. I came across a few options, which led me to <a href="https://bootswatch.com/">BootsWatch</a>. I found that Nicholas Whittier had created a Hugo-Bootswatch (Thank you Nicholas) theme built on top of Bootswatch&gt;Bootstrap. So to integrate Hugo-Bootswatch to my site, I followed directions on Hugo as follows:</p>
+<p>Now in my case, I am a big fan of <a
+
+	
+	
+		href = "http://getbootstrap.com/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		Bootstrap
+	</span>
+
+</a>. So I googled for a themes built on Bootstrap for Hugo. I came across a few options, which led me to <a
+
+	
+	
+		href = "https://bootswatch.com/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		BootsWatch
+	</span>
+
+</a>. I found that Nicholas Whittier had created a Hugo-Bootswatch (Thank you Nicholas) theme built on top of Bootswatch&gt;Bootstrap. So to integrate Hugo-Bootswatch to my site, I followed directions on Hugo as follows:</p>
 <pre><code>
 cd myproject
 mkdir themes
@@ -278,7 +383,28 @@ hugo new post/first.md
 # This creates a markdown file under myproject/sivavishnu/content/post/first.md
 # You can now edit this file and using Markdown syntax for the headers and HTML for the body
 </code></pre>
-<p>Here is a link to <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">learning Markdown</a></p>
+<p>Here is a link to <a
+
+	
+	
+		href = "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		learning Markdown
+	</span>
+
+</a></p>
 <p>Now here are two options in Hugo to preview and to generate the site:</p>
 <pre><code>
 # To run a webserver with latest blog (including drafts):
@@ -291,30 +417,198 @@ all of this! :-)</p>
 <p>But here are two options that you will need to consider:</p>
 <ol>
 <li>
-<p>Since this is a static site (with no back-end server engine like PHP, NodeJS, Tomcat, etc), you will need a way to allow users to search your site. I chose to add <a href="https://cse.google.com/cse/all">Google Site Search</a> as an option. It&rsquo;s free but the catch is that until Google indexes your site the search option is not functional.</p>
+<p>Since this is a static site (with no back-end server engine like PHP, NodeJS, Tomcat, etc), you will need a way to allow users to search your site. I chose to add <a
+
+	
+	
+		href = "https://cse.google.com/cse/all"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		Google Site Search
+	</span>
+
+</a> as an option. It&rsquo;s free but the catch is that until Google indexes your site the search option is not functional.</p>
 </li>
 <li>
-<p>Analytics for your site to trach your hits. See the <a href="https://gohugo.io/extras/analytics/">link in Hugo document</a> for steps.</p>
+<p>Analytics for your site to trach your hits. See the <a
+
+	
+	
+		href = "https://gohugo.io/extras/analytics/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		link in Hugo document
+	</span>
+
+</a> for steps.</p>
 </li>
 <li>
-<p>Adding the ability under blog pages for external users to comment. Again Hugo gives you the option to integrate with <a href="https://disqus.com/">Disqus</a>. See link on Hugo document <a href="https://gohugo.io/extras/comments/">how-to integrate Hugo with Disqus</a>.</p>
+<p>Adding the ability under blog pages for external users to comment. Again Hugo gives you the option to integrate with <a
+
+	
+	
+		href = "https://disqus.com/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		Disqus
+	</span>
+
+</a>. See link on Hugo document <a
+
+	
+	
+		href = "https://gohugo.io/extras/comments/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		how-to integrate Hugo with Disqus
+	</span>
+
+</a>.</p>
 </li>
 </ol>
 <p>This way, all your site is doing is serve a static site. Did I mention that Hugo also generates your static site wicked fast?</p>
-<p>So as a last step, I generated the static website and uploaded it to my <a href="https://www.bluehost">BlueHost hosting</a> provider.</p>
+<p>So as a last step, I generated the static website and uploaded it to my <a
+
+	
+	
+		href = "https://www.bluehost"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		BlueHost hosting
+	</span>
+
+</a> provider.</p>
 <p>And don&rsquo;t forget to check in your code into a GIT repo of your choice. In my case, I&rsquo;ve checked in my code at BitBucket.org.</p>
 <p>Here are the links:</p>
 <ul>
 <li>
-<p><a href="http://sivavishnu.org/">SivaVishnu.org Site</a></p>
+<p><a
+
+	
+	
+		href = "http://sivavishnu.org/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		SivaVishnu.org Site
+	</span>
+
+</a></p>
 </li>
 <li>
-<p><a href="https://bitbucket.org/vguhesan/sivavishnu.org">Source code on BitBucket</a></p>
+<p><a
+
+	
+	
+		href = "https://bitbucket.org/vguhesan/sivavishnu.org"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		Source code on BitBucket
+	</span>
+
+</a></p>
 </li>
 </ul>
 <p>Hope you enjoyed reading this article. Consider subscribing and sharing!</p>
 <p>&ndash; update</p>
-<p>Few folks emailed me asking what those fonts were on the site. It&rsquo;s one of the oldest spoken languages that exists in Southern India called <a href="https://en.wikipedia.org/wiki/Tamil_language">Tamil</a>.</p>
+<p>Few folks emailed me asking what those fonts were on the site. It&rsquo;s one of the oldest spoken languages that exists in Southern India called <a
+
+	
+	
+		href = "https://en.wikipedia.org/wiki/Tamil_language"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		Tamil
+	</span>
+
+</a>.</p>
 <p>And now for today&rsquo;s inspirational quote:</p>
 <blockquote>When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me.
 - Erma Bombeck</blockquote>
@@ -478,6 +772,7 @@ all of this! :-)</p>
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/post/2024-03-17/">How to resolve the blob: (blocked:csp) Error?</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2024-02-24/">Who is using port 7000 on my Mac OS X?</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2024-01-1/">Traveling Abroad? Troubleshooting 5G Challenges in India and Abroad</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2022-11-11/">How to change your humidifier canister for Honeywell HM750A1000?</a></li>
@@ -487,7 +782,6 @@ all of this! :-)</p>
 			<li class="widget__item"><a class="widget__link" href="/post/2022-01-1/">Managing your time - Time-Block Method with free Templates (revised)</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2020-12-03-golang-reader-writer-copyfile-using-bufio-library/">GoLang: Reader-Writer implemented via bufio library to copy file</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2020-06-14-devops-95-kubernetes-getting-started/">DevOps/GitOps: DevOps95 Columbia 2020 : Kubernetes : Getting Started</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2020-06-02-python-tips-on-unit-testing-and-code-coverage/">Python Tips: On Getting Started, Unit Testing and Code Coverage</a></li>
 		</ul>
 	</div>
 </div><div class="widget-blogroll widget">
@@ -862,6 +1156,9 @@ all of this! :-)</p>
 				<a class="widget__link" href="/categories/water-proof/">water-proof</a>
 			</li>
 			<li class="widget__item">
+				<a class="widget__link" href="/categories/web-components/">Web Components</a>
+			</li>
+			<li class="widget__item">
 				<a class="widget__link" href="/categories/web-development/">web development</a>
 			</li>
 			<li class="widget__item">
@@ -1000,6 +1297,7 @@ all of this! :-)</p>
 		<a class="widget-taglist__link widget__link btn" href="/tags/config/" title="config">config</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/configuration/" title="configuration">configuration</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/containers/" title="Containers">Containers</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/content-security-policy/" title="Content-Security-Policy">Content-Security-Policy</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/context/" title="Context">Context</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/context-path/" title="Context Path">Context Path</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/contextpath/" title="contextPath">contextPath</a>
@@ -1010,7 +1308,11 @@ all of this! :-)</p>
 		<a class="widget-taglist__link widget__link btn" href="/tags/cote/" title="Cote">Cote</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/coverage/" title="Coverage">Coverage</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/covid-19/" title="COVID-19">COVID-19</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/crayons/" title="Crayons">Crayons</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/crayons-integration/" title="Crayons Integration">Crayons Integration</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/crayons.freshworks.com/" title="crayons.freshworks.com">crayons.freshworks.com</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/create-load/" title="create load">create load</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/csp/" title="CSP">CSP</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/css/" title="css">css</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/cubieboard2/" title="Cubieboard2">Cubieboard2</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/cygwin/" title="cygwin">cygwin</a>
@@ -1065,6 +1367,7 @@ all of this! :-)</p>
 		<a class="widget-taglist__link widget__link btn" href="/tags/fonts/" title="fonts">fonts</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/foreign-aid/" title="foreign-aid">foreign-aid</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/freebsd/" title="FreeBSD">FreeBSD</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/freshworks/" title="Freshworks">Freshworks</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/ftrace/" title="ftrace">ftrace</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/gas/" title="gas">gas</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/gdb/" title="gdb">gdb</a>
@@ -1393,6 +1696,7 @@ all of this! :-)</p>
 		<a class="widget-taglist__link widget__link btn" href="/tags/water-proof/" title="water-proof">water-proof</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/water-states/" title="Water states">Water states</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/web/" title="web">web</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/web-components/" title="Web Components">Web Components</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/weblogic/" title="Weblogic">Weblogic</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/websockets/" title="websockets">websockets</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/where-are-the-network-tools/" title="where are the network tools?">where are the network tools?</a>

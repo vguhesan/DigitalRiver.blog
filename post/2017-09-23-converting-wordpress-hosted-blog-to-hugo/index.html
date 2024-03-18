@@ -256,7 +256,70 @@
 			
 		</header><div class="content post__content clearfix">
 			<h2 id="summary">Summary</h2>
-<p>Thanks to <a href="https://gohugo.io/">Hugo</a> Static Site generator written in GoLang and <a href="https://github.com/Vimux/Mainroad/">Mainroad</a> Theme, I was able to port over my personal blog <a href="http://DigitalRiver.blog">DigitalRiver</a> as a static generated website.</p>
+<p>Thanks to <a
+
+	
+	
+		href = "https://gohugo.io/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		Hugo
+	</span>
+
+</a> Static Site generator written in GoLang and <a
+
+	
+	
+		href = "https://github.com/Vimux/Mainroad/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		Mainroad
+	</span>
+
+</a> Theme, I was able to port over my personal blog <a
+
+	
+	
+		href = "http://DigitalRiver.blog"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		DigitalRiver
+	</span>
+
+</a> as a static generated website.</p>
 <h2 id="before-and-after">Before and After</h2>
 <p>Here is a screenshot of the belore site:</p>
 <p><strong>DigitalRiver under Wordpress hosting</strong></p>
@@ -349,11 +412,69 @@
 <h2 id="why-hugo">Why Hugo?</h2>
 <p>Here are some things that attracted me to Hugo:</p>
 <ol>
-<li>See my earlier article <a href="/2016/06/05/two-static-website-generators-explored-hugo-jekyll/">Hugo and Jekyll Compared</a>. I have already done another website for a temple as a prototype using Hugo. See <a href="http://sivavishnu.org/">SivaVishnu.org</a></li>
+<li>See my earlier article <a
+
+	
+	
+		href = "/2016/06/05/two-static-website-generators-explored-hugo-jekyll/"
+
+		
+
+	
+
+	>
+	
+	<span>
+		Hugo and Jekyll Compared
+	</span>
+
+</a>. I have already done another website for a temple as a prototype using Hugo. See <a
+
+	
+	
+		href = "http://sivavishnu.org/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		SivaVishnu.org
+	</span>
+
+</a></li>
 <li>With Hugo, it is one executable that&rsquo;s platform agnostic (Mac, Windows, Linux - coverage) for content creation. Deployment is the same for both Hugo and Jekyll. They both generate static content hosted on any flavor of web-server.</li>
 <li>Felt comfortable working with Hugo written in GoLang than with Jekyll written in Ruby.</li>
 </ol>
-<p>But if you are considering switching you should look at this site - <a href="https://www.staticgen.com/">StaticGen</a>. You will see that Jekyll has more hits with respect to development, forks and fewer bug counts.</p>
+<p>But if you are considering switching you should look at this site - <a
+
+	
+	
+		href = "https://www.staticgen.com/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		StaticGen
+	</span>
+
+</a>. You will see that Jekyll has more hits with respect to development, forks and fewer bug counts.</p>
 <h2 id="tips-and-tricks">Tips and Tricks</h2>
 <h3 id="conversion-woes">Conversion Woes</h3>
 <p>Converting the Wordpress hosted site directly to Hugo was not easy. Here are the steps that I had to take:</p>
@@ -363,10 +484,94 @@
 <li>Download the media files using wget (while retaining the folder structure of the media files).</li>
 <li>Identify the missing Media files that was not linked in any Wordpress blog content. I had about 30 images that did not have a link. Added those 30+ images to a temporary blog page.</li>
 <li>Used a FireFox Media Downloader plugin to download those 30+ images (while retaining the folder path to the images).</li>
-<li>Use Jekyll&rsquo;s Wordpress XML to Jekyll converter utility (works with Python 2.7). <a href="https://github.com/thomasf/exitwp">ExitWP</a></li>
-<li>Generated Jekyll site contains all Media resources still pointing to <a href="https://DigitalRiver.blog/">https://DigitalRiver.blog/</a>. Converted the URLs to all relative static path within the /static/img/** directory.</li>
-<li>Then I used Hugo&rsquo;s Jekyll import command found at this location. <a href="https://gohugo.io/commands/hugo_import_jekyll/">hugo import jekyll</a>. This transformed my Jekyll site to Hugo based static site.</li>
-<li>Investigated the variety of Themes available under Hugo and settled on <a href="https://github.com/Vimux/Mainroad/">Mainroad</a>.</li>
+<li>Use Jekyll&rsquo;s Wordpress XML to Jekyll converter utility (works with Python 2.7). <a
+
+	
+	
+		href = "https://github.com/thomasf/exitwp"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		ExitWP
+	</span>
+
+</a></li>
+<li>Generated Jekyll site contains all Media resources still pointing to <a
+
+	
+	
+		href = "https://DigitalRiver.blog/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		https://DigitalRiver.blog/
+	</span>
+
+</a>. Converted the URLs to all relative static path within the /static/img/** directory.</li>
+<li>Then I used Hugo&rsquo;s Jekyll import command found at this location. <a
+
+	
+	
+		href = "https://gohugo.io/commands/hugo_import_jekyll/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		hugo import jekyll
+	</span>
+
+</a>. This transformed my Jekyll site to Hugo based static site.</li>
+<li>Investigated the variety of Themes available under Hugo and settled on <a
+
+	
+	
+		href = "https://github.com/Vimux/Mainroad/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		Mainroad
+	</span>
+
+</a>.</li>
 <li>Created some custom shortcodes to deal with IMG tags. Hugo does not provide a easy to use tag that can allow me to control the height and width of a img tag. The expectation is that it will be controlled via a style. With varying sizes for my images, it&rsquo;s hard to create many, many image style tags for each. So, I resorted to created a custom shortcode to deal with this.</li>
 <li>Enabled highlight.js for the Programming Code Syntax Highlighter functionality.</li>
 <li>Enabled Disqus for comments feature. (Although I cannot test it until it&rsquo;s live.)</li>
@@ -538,6 +743,7 @@
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/post/2024-03-17/">How to resolve the blob: (blocked:csp) Error?</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2024-02-24/">Who is using port 7000 on my Mac OS X?</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2024-01-1/">Traveling Abroad? Troubleshooting 5G Challenges in India and Abroad</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2022-11-11/">How to change your humidifier canister for Honeywell HM750A1000?</a></li>
@@ -547,7 +753,6 @@
 			<li class="widget__item"><a class="widget__link" href="/post/2022-01-1/">Managing your time - Time-Block Method with free Templates (revised)</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2020-12-03-golang-reader-writer-copyfile-using-bufio-library/">GoLang: Reader-Writer implemented via bufio library to copy file</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2020-06-14-devops-95-kubernetes-getting-started/">DevOps/GitOps: DevOps95 Columbia 2020 : Kubernetes : Getting Started</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2020-06-02-python-tips-on-unit-testing-and-code-coverage/">Python Tips: On Getting Started, Unit Testing and Code Coverage</a></li>
 		</ul>
 	</div>
 </div><div class="widget-blogroll widget">
@@ -922,6 +1127,9 @@
 				<a class="widget__link" href="/categories/water-proof/">water-proof</a>
 			</li>
 			<li class="widget__item">
+				<a class="widget__link" href="/categories/web-components/">Web Components</a>
+			</li>
+			<li class="widget__item">
 				<a class="widget__link" href="/categories/web-development/">web development</a>
 			</li>
 			<li class="widget__item">
@@ -1060,6 +1268,7 @@
 		<a class="widget-taglist__link widget__link btn" href="/tags/config/" title="config">config</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/configuration/" title="configuration">configuration</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/containers/" title="Containers">Containers</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/content-security-policy/" title="Content-Security-Policy">Content-Security-Policy</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/context/" title="Context">Context</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/context-path/" title="Context Path">Context Path</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/contextpath/" title="contextPath">contextPath</a>
@@ -1070,7 +1279,11 @@
 		<a class="widget-taglist__link widget__link btn" href="/tags/cote/" title="Cote">Cote</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/coverage/" title="Coverage">Coverage</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/covid-19/" title="COVID-19">COVID-19</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/crayons/" title="Crayons">Crayons</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/crayons-integration/" title="Crayons Integration">Crayons Integration</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/crayons.freshworks.com/" title="crayons.freshworks.com">crayons.freshworks.com</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/create-load/" title="create load">create load</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/csp/" title="CSP">CSP</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/css/" title="css">css</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/cubieboard2/" title="Cubieboard2">Cubieboard2</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/cygwin/" title="cygwin">cygwin</a>
@@ -1125,6 +1338,7 @@
 		<a class="widget-taglist__link widget__link btn" href="/tags/fonts/" title="fonts">fonts</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/foreign-aid/" title="foreign-aid">foreign-aid</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/freebsd/" title="FreeBSD">FreeBSD</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/freshworks/" title="Freshworks">Freshworks</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/ftrace/" title="ftrace">ftrace</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/gas/" title="gas">gas</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/gdb/" title="gdb">gdb</a>
@@ -1453,6 +1667,7 @@
 		<a class="widget-taglist__link widget__link btn" href="/tags/water-proof/" title="water-proof">water-proof</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/water-states/" title="Water states">Water states</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/web/" title="web">web</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/web-components/" title="Web Components">Web Components</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/weblogic/" title="Weblogic">Weblogic</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/websockets/" title="websockets">websockets</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/where-are-the-network-tools/" title="where are the network tools?">where are the network tools?</a>

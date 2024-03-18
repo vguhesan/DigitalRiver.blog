@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</link>
       <pubDate>Tue, 29 Nov 2016 13:42:47 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</guid>
-      <description>Most likely you&amp;rsquo;ve landed on this page because you&amp;rsquo;ve searched for the error in a search engine and it brought you here.&#xA;Symptom: When you run &amp;ldquo;grails&amp;rdquo; under an existing project that you previously had (either on a different PC or from a source-control like GIT or SVN and you&amp;rsquo;ve mistakenly included the &amp;ldquo;build&amp;rdquo; directory).&#xA;The associated error would have been one of the following:&#xA;Grails No profile found for name [web] or java.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2013/11/grails.png&amp;#34; alt=&amp;#34;Grails&amp;#34;&amp;gt; Most likely you&amp;rsquo;ve landed on this page because you&amp;rsquo;ve searched for the error in a search engine and it brought you here.&#xA;Symptom: When you run &amp;ldquo;grails&amp;rdquo; under an existing project that you previously had (either on a different PC or from a source-control like GIT or SVN and you&amp;rsquo;ve mistakenly included the &amp;ldquo;build&amp;rdquo; directory).&#xA;The associated error would have been one of the following:&#xA;Grails No profile found for name [web] or java.</description>
     </item>
   </channel>
 </rss>

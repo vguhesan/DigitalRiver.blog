@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</link>
       <pubDate>Mon, 13 Mar 2017 19:27:16 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</guid>
-      <description>Synopsis:&#xA;script -a my_history mkdir test cd test touch hello_world.txt echo &#39;Hello World&#39; &gt; ./hello_world.txt # This closes the &#34;script -a my_history&#34; file exit Source: How To Record Everything You Do In Terminal - OSTechNix</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/03/record-everything-you-do-in-terminal.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Synopsis:&#xA;script -a my_history mkdir test cd test touch hello_world.txt echo &#39;Hello World&#39; &gt; ./hello_world.txt # This closes the &#34;script -a my_history&#34; file exit Source: How To Record Everything You Do In Terminal - OSTechNix </description>
     </item>
   </channel>
 </rss>

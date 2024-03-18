@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2016/01/26/go-lang-revel-web-framework-gitignore-file-starter-sample/</link>
       <pubDate>Tue, 26 Jan 2016 01:05:42 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/01/26/go-lang-revel-web-framework-gitignore-file-starter-sample/</guid>
-      <description>For those of you trying to create a new Go Language - Revel Web Framework based project, here is a sample .gitignore file.&#xA;But before I provide you with the information, we need to discuss the project structure. If you visit the Revel site here, you will see their organization structure of a Revel project. In my case, their my_gocode/ folder is much deeper in what I store in my BitBucket account (or GitHub for that matter).</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/01/gorevelframework.png&amp;#34; alt=&amp;#34;gorevelframework&amp;#34;&amp;gt; For those of you trying to create a new Go Language - Revel Web Framework based project, here is a sample .gitignore file.&#xA;But before I provide you with the information, we need to discuss the project structure. If you visit the Revel site here , you will see their organization structure of a Revel project. In my case, their my_gocode/ folder is much deeper in what I store in my BitBucket account (or GitHub for that matter).</description>
     </item>
   </channel>
 </rss>

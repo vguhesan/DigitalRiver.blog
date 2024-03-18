@@ -13,14 +13,14 @@
       <link>https://DigitalRiver.blog/2017/03/13/set-up-a-tftp-server-on-linux-linux-com/</link>
       <pubDate>Mon, 13 Mar 2017 19:29:22 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/13/set-up-a-tftp-server-on-linux-linux-com/</guid>
-      <description>Most users are familiar with FTP, but if you want to kickstart Red Hat installs, PXE boot systems, auto-provision VoIP phones or unbrick a Linux-based router, you want a Trivial File Transfer Protocol (TFTP) server. Setting one up on Linux is easy, and a perfect project to take on over the weekend.&#xA;Source: Weekend Project: Set Up a TFTP Server on Linux | Linux.com | The source for Linux information</description>
+      <description> &amp;lt;img src=&amp;#34;/img/2017/03/linuxlogo.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Most users are familiar with FTP, but if you want to kickstart Red Hat installs, PXE boot systems, auto-provision VoIP phones or unbrick a Linux-based router, you want a Trivial File Transfer Protocol (TFTP) server. Setting one up on Linux is easy, and a perfect project to take on over the weekend.&#xA;Source: Weekend Project: Set Up a TFTP Server on Linux | Linux.com | The source for Linux information </description>
     </item>
     <item>
       <title>Developing email applications on Windows, targeted for Linux environment - email, mailx, sendmail</title>
       <link>https://DigitalRiver.blog/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</link>
       <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</guid>
-      <description>If you&amp;rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.&#xA;Let us begin by understand the problem.&#xA;Problem If you are a Java/Spring developer, (developing in Java is platform independent - runs on any platform where a JVM is available) then you have two options in front of you for sending emails from a Java application:</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/12/linux_centos_logo.png&amp;#34; alt=&amp;#34;linux_centos_logo&amp;#34;&amp;gt; If you&amp;rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.&#xA;Let us begin by understand the problem.&#xA;Problem If you are a Java/Spring developer, (developing in Java is platform independent - runs on any platform where a JVM is available) then you have two options in front of you for sending emails from a Java application:</description>
     </item>
     <item>
       <title>WaitUntilPortOpens() - How to wait until process A runs and binds to a port before spawning process B?</title>

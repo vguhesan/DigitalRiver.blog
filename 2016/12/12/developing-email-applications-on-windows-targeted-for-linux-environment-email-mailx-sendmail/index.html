@@ -10,7 +10,7 @@
     <meta name="description"
         content="">
     <meta property="og:title" content="Developing email applications on Windows, targeted for Linux environment - email, mailx, sendmail" />
-<meta property="og:description" content="If you&rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.
+<meta property="og:description" content="&lt;img src=&#34;/img/2016/12/linux_centos_logo.png&#34; alt=&#34;linux_centos_logo&#34;&gt; If you&rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.
 Let us begin by understand the problem.
 Problem If you are a Java/Spring developer, (developing in Java is platform independent - runs on any platform where a JVM is available) then you have two options in front of you for sending emails from a Java application:" />
 <meta property="og:type" content="article" />
@@ -257,12 +257,91 @@ Problem If you are a Java/Spring developer, (developing in Java is platform inde
 			</p>
 			
 		</header><div class="content post__content clearfix">
-			<p><a href="/img/2016/12/linux_centos_logo.png"><img src="/img/2016/12/linux_centos_logo.png" alt="linux_centos_logo"></a>If you&rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.</p>
+			<p><a
+
+	
+	
+		href = "/img/2016/12/linux_centos_logo.png"
+
+		
+
+	
+
+	>
+	
+	<span>
+		&lt;img src=&#34;/img/2016/12/linux_centos_logo.png&#34; alt=&#34;linux_centos_logo&#34;&gt;
+	</span>
+
+</a>If you&rsquo;re developing on a Windows platform for an application targeted for Linux or Unix that deals with email, then this article will be useful.</p>
 <p>Let us begin by  understand the problem.</p>
 <h2 id="problem">Problem</h2>
 <p>If you are a <strong>Java/Spring developer</strong>, (developing in Java is platform independent - runs on any platform where a JVM is available) then you have two options in front of you for sending emails from a Java application:</p>
 <p>Option #1: <strong>JavaMail API</strong></p>
-<p>Option #2: Linux **<a href="https://linux.die.net/man/8/sendmail.sendmail">sendmail </a>**or **<a href="https://linux.die.net/man/1/mailx">mailx </a>**invoked via <strong>Runtime.getRuntime().exec</strong>(invoke - linux - mail - command) [<a href="https://www.tutorialspoint.com/java/lang/runtime_exec_envp.htm">example here</a>]</p>
+<p>Option #2: Linux **<a
+
+	
+	
+		href = "https://linux.die.net/man/8/sendmail.sendmail"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		sendmail 
+	</span>
+
+</a>**or **<a
+
+	
+	
+		href = "https://linux.die.net/man/1/mailx"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		mailx 
+	</span>
+
+</a>**invoked via <strong>Runtime.getRuntime().exec</strong>(invoke - linux - mail - command) [<a
+
+	
+	
+		href = "https://www.tutorialspoint.com/java/lang/runtime_exec_envp.htm"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		example here
+	</span>
+
+</a>]</p>
 <p>If you are a PHP or Ruby or Bash or Python developer, you can do the same using a native library available within the language or invoke a native Linux execute-command to invoke either sendmail or mailx.</p>
 <p>What happens if you are developing a hybrid library that needs to send email both from Java and Python. Then most likely you want to leverage a common library accessible to all the various libraries. In this case, you&rsquo;re going to depend on either sendmail or mailx.   Now let us throw in a additional problem into this mix. Suppose you are developing on a Windows platform but the end application is targeted to run on Linux. This now creates a new additional problem. Sendmail or Mailx do not exist for Windows. Well, this article provides a way to develop on Windows by invoking execute mailx calls from your native code to the underlying emulation of Linux on Windows.</p>
 <p>Now that we have established the problem, let us walk through a solution.</p>
@@ -319,7 +398,23 @@ echo "Test from Cygwin in Windows under DOS command-prompt" | email -s "Testing 
 echo "Test from Cygwin in Windows under DOS command-prompt" | email -s "Tetsing Email" recipient_email_address@gmail.com -r smtp.gmail.com -p 587 -m login -u YOUR_TEST_GMAIL_ADDRESS@gmail.com -i YOUR_GMAIL_PASSWORD_GOES_HERE -tls
 ######################################################################################################
 </code></pre>
-<p><a href="/img/2016/12/ss1.jpg"><img src="/img/2016/12/ss1.jpg?w=1024" alt="ss1"></a></p>
+<p><a
+
+	
+	
+		href = "/img/2016/12/ss1.jpg"
+
+		
+
+	
+
+	>
+	
+	<span>
+		&lt;img src=&#34;/img/2016/12/ss1.jpg?w=1024&#34; alt=&#34;ss1&#34;&gt;
+	</span>
+
+</a></p>
 <p>Once you have confirmed a successful email then the next step is to create a mailx application.</p>
 <p><strong>Step-5</strong>: Create a mailx.exe (mailx) within Cygwin&rsquo;s bin directory.</p>
 <p>For emulating mailx from Cygwin&rsquo;s email.exe, you&rsquo;re in luck. The format for mailx is identical to the email.exe&rsquo;s arguments. All you are missing is mailx.exe. So simply copy email.exe under Cygwin&rsquo;s bin directory to mailx.exe under the same Cygwin&rsquo;s bin directory. And you&rsquo;re all set!</p>
@@ -338,7 +433,23 @@ cp email.exe mailx.exe
 echo "Test from Cygwin-mailx in Windows under DOS command-prompt" | mailx -s "Testing Email from Windows DOS" recipient_email_address@gmail.com 
 
 </code></pre>
-<p><a href="/img/2016/12/ss2.jpg"><img src="/img/2016/12/ss2.jpg?w=1024" alt="ss2"></a></p>
+<p><a
+
+	
+	
+		href = "/img/2016/12/ss2.jpg"
+
+		
+
+	
+
+	>
+	
+	<span>
+		&lt;img src=&#34;/img/2016/12/ss2.jpg?w=1024&#34; alt=&#34;ss2&#34;&gt;
+	</span>
+
+</a></p>
 <p>As a last step, now within your Java application, test Runtime.getRuntime().exec(&ldquo;mailx command&rdquo;);</p>
 <pre><code language="bash">
 Runtime.getRuntime().exec("echo 'Test from Cygwin-mailx in Windows under DOS command-prompt' | mailx -s 'Testing Email from Windows DOS' recipient_email_address@gmail.com");
@@ -518,6 +629,7 @@ Runtime.getRuntime().exec("echo 'Test from Cygwin-mailx in Windows under DOS com
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/post/2024-03-17/">How to resolve the blob: (blocked:csp) Error?</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2024-02-24/">Who is using port 7000 on my Mac OS X?</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2024-01-1/">Traveling Abroad? Troubleshooting 5G Challenges in India and Abroad</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2022-11-11/">How to change your humidifier canister for Honeywell HM750A1000?</a></li>
@@ -527,7 +639,6 @@ Runtime.getRuntime().exec("echo 'Test from Cygwin-mailx in Windows under DOS com
 			<li class="widget__item"><a class="widget__link" href="/post/2022-01-1/">Managing your time - Time-Block Method with free Templates (revised)</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2020-12-03-golang-reader-writer-copyfile-using-bufio-library/">GoLang: Reader-Writer implemented via bufio library to copy file</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2020-06-14-devops-95-kubernetes-getting-started/">DevOps/GitOps: DevOps95 Columbia 2020 : Kubernetes : Getting Started</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2020-06-02-python-tips-on-unit-testing-and-code-coverage/">Python Tips: On Getting Started, Unit Testing and Code Coverage</a></li>
 		</ul>
 	</div>
 </div><div class="widget-blogroll widget">
@@ -902,6 +1013,9 @@ Runtime.getRuntime().exec("echo 'Test from Cygwin-mailx in Windows under DOS com
 				<a class="widget__link" href="/categories/water-proof/">water-proof</a>
 			</li>
 			<li class="widget__item">
+				<a class="widget__link" href="/categories/web-components/">Web Components</a>
+			</li>
+			<li class="widget__item">
 				<a class="widget__link" href="/categories/web-development/">web development</a>
 			</li>
 			<li class="widget__item">
@@ -1040,6 +1154,7 @@ Runtime.getRuntime().exec("echo 'Test from Cygwin-mailx in Windows under DOS com
 		<a class="widget-taglist__link widget__link btn" href="/tags/config/" title="config">config</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/configuration/" title="configuration">configuration</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/containers/" title="Containers">Containers</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/content-security-policy/" title="Content-Security-Policy">Content-Security-Policy</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/context/" title="Context">Context</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/context-path/" title="Context Path">Context Path</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/contextpath/" title="contextPath">contextPath</a>
@@ -1050,7 +1165,11 @@ Runtime.getRuntime().exec("echo 'Test from Cygwin-mailx in Windows under DOS com
 		<a class="widget-taglist__link widget__link btn" href="/tags/cote/" title="Cote">Cote</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/coverage/" title="Coverage">Coverage</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/covid-19/" title="COVID-19">COVID-19</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/crayons/" title="Crayons">Crayons</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/crayons-integration/" title="Crayons Integration">Crayons Integration</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/crayons.freshworks.com/" title="crayons.freshworks.com">crayons.freshworks.com</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/create-load/" title="create load">create load</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/csp/" title="CSP">CSP</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/css/" title="css">css</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/cubieboard2/" title="Cubieboard2">Cubieboard2</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/cygwin/" title="cygwin">cygwin</a>
@@ -1105,6 +1224,7 @@ Runtime.getRuntime().exec("echo 'Test from Cygwin-mailx in Windows under DOS com
 		<a class="widget-taglist__link widget__link btn" href="/tags/fonts/" title="fonts">fonts</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/foreign-aid/" title="foreign-aid">foreign-aid</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/freebsd/" title="FreeBSD">FreeBSD</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/freshworks/" title="Freshworks">Freshworks</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/ftrace/" title="ftrace">ftrace</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/gas/" title="gas">gas</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/gdb/" title="gdb">gdb</a>
@@ -1433,6 +1553,7 @@ Runtime.getRuntime().exec("echo 'Test from Cygwin-mailx in Windows under DOS com
 		<a class="widget-taglist__link widget__link btn" href="/tags/water-proof/" title="water-proof">water-proof</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/water-states/" title="Water states">Water states</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/web/" title="web">web</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/web-components/" title="Web Components">Web Components</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/weblogic/" title="Weblogic">Weblogic</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/websockets/" title="websockets">websockets</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/where-are-the-network-tools/" title="where are the network tools?">where are the network tools?</a>

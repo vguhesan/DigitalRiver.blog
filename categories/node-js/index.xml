@@ -13,14 +13,14 @@
       <link>https://DigitalRiver.blog/2016/10/14/how-to-package-your-node-js-application-for-deploying-it-in-an-offline-environment/</link>
       <pubDate>Fri, 14 Oct 2016 18:42:15 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/10/14/how-to-package-your-node-js-application-for-deploying-it-in-an-offline-environment/</guid>
-      <description>Personally speaking, I prefer to have a self-contained bundle with all the artifacts and modules that might be required to deploy an application (not just Node.js application) in Production. In that way, I know exactly the bits that were installed and nothing more and nothing less. It also eliminates the availability of the NPM modules and network connectivity issues, etc. The following procedure shows you how to create a simple &amp;ldquo;Hello World&amp;rdquo; Node.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/10/node2.png&amp;#34; alt=&amp;#34;node2&amp;#34;&amp;gt; Personally speaking, I prefer to have a self-contained bundle with all the artifacts and modules that might be required to deploy an application (not just Node.js application) in Production. In that way, I know exactly the bits that were installed and nothing more and nothing less. It also eliminates the availability of the NPM modules and network connectivity issues, etc. The following procedure shows you how to create a simple &amp;ldquo;Hello World&amp;rdquo; Node.</description>
     </item>
     <item>
       <title>Getting started with vertx (vert.io) – an alternative to node.js</title>
       <link>https://DigitalRiver.blog/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</link>
       <pubDate>Thu, 15 Nov 2012 23:31:21 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</guid>
-      <description>Article Getting started with vertx (vert.io) – an alternative to node.js - has been posted on the new website at:&#xA;/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</description>
+      <description>Article Getting started with vertx (vert.io) – an alternative to node.js - has been posted on the new website at:&#xA;/getting-started-with-vertx-vert-io-an-alternative-to-node-js/ </description>
     </item>
     <item>
       <title>Getting started with vertx (vert.io) - an alternative to node.js</title>

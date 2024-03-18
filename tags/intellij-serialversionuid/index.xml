@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2011/02/18/intellij-serialversionuid-enabling/</link>
       <pubDate>Fri, 18 Feb 2011 16:37:46 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2011/02/18/intellij-serialversionuid-enabling/</guid>
-      <description>If you are wondering why when you make a POJO bean to implement Serializable, IntelliJ does not throw any warnings to create the serialVersionUID variable&amp;hellip; It&amp;rsquo;s because you need to enable it. Here&amp;rsquo;s how:&#xA;Cheers!</description>
+      <description>If you are wondering why when you make a POJO bean to implement Serializable, IntelliJ does not throw any warnings to create the serialVersionUID variable&amp;hellip; It&amp;rsquo;s because you need to enable it. Here&amp;rsquo;s how:&#xA;&amp;lt;img src=&amp;#34;/img/2011/02/intellij-enablingserialization.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Cheers!</description>
     </item>
   </channel>
 </rss>

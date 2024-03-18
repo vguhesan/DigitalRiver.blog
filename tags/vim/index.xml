@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2016/03/15/fixing-vim-editor-for-dark-backgrounds-so-comments-are-not-dark-blue/</link>
       <pubDate>Tue, 15 Mar 2016 14:45:14 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/03/15/fixing-vim-editor-for-dark-backgrounds-so-comments-are-not-dark-blue/</guid>
-      <description>Here is a simple command that can fix your vim editor for dark backgrounds so that your comments are not showing up in dark blue (unreadable).&#xA;Example screenshot:&#xA;The temporary fix is to run the following command in the vim editor:&#xA;:set background=dark instead of&#xA;:set background=light The permanent fix for this is to add the command inside $HOME/.vimrc file&#xA;set background=dark Please note that when you&amp;rsquo;re adding the property into the .</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/03/vim_logo.png&amp;#34; alt=&amp;#34;vim_logo&amp;#34;&amp;gt; Here is a simple command that can fix your vim editor for dark backgrounds so that your comments are not showing up in dark blue (unreadable).&#xA;Example screenshot:&#xA;&amp;lt;img src=&amp;#34;/img/2016/03/vim-example.png&amp;#34; alt=&amp;#34;vim-example&amp;#34;&amp;gt; The temporary fix is to run the following command in the vim editor:&#xA;:set background=dark instead of&#xA;:set background=light The permanent fix for this is to add the command inside $HOME/.vimrc file&#xA;set background=dark Please note that when you&amp;rsquo;re adding the property into the .</description>
     </item>
   </channel>
 </rss>

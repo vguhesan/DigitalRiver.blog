@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2017/03/16/kernel-debugging-with-qemu-an-overview-of-tools-available/</link>
       <pubDate>Thu, 16 Mar 2017 01:19:15 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/16/kernel-debugging-with-qemu-an-overview-of-tools-available/</guid>
-      <description>Good article on leveraging tools such as kmemleak, gdb, printk, ftrace. http://dalleau.re/post/qemu_debugging/</description>
+      <description>&#xA;Good article on leveraging tools such as kmemleak, gdb, printk, ftrace. http://dalleau.re/post/qemu_debugging/ </description>
     </item>
   </channel>
 </rss>

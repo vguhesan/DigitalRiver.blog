@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2016/09/30/uninstall-python-eggs-that-you-installed-using-setup-py/</link>
       <pubDate>Fri, 30 Sep 2016 15:22:59 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2016/09/30/uninstall-python-eggs-that-you-installed-using-setup-py/</guid>
-      <description>In Python, most libraries are available using the pip install process. But for cases, where you are distributing code to be installed in customer sites where you may or may not have a internet connection to the pip libraries, you resort to the legacy setup.py process.&#xA;When you install using the setup.py process, the setup.py copies it&amp;rsquo;s collection of python files to the site-packages folder for your python virtual-environment. On a CentOS, this might be a location under (/usr/lib/python2.</description>
+      <description>&amp;lt;img src=&amp;#34;/img/2016/09/python_logo.png&amp;#34; alt=&amp;#34;python_logo&amp;#34;&amp;gt; In Python, most libraries are available using the pip install process. But for cases, where you are distributing code to be installed in customer sites where you may or may not have a internet connection to the pip libraries, you resort to the legacy setup.py process.&#xA;When you install using the setup.py process, the setup.py copies it&amp;rsquo;s collection of python files to the site-packages folder for your python virtual-environment.</description>
     </item>
   </channel>
 </rss>

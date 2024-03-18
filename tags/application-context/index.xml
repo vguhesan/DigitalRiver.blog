@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/post/2017-11-24-spring-framework-three-ways-to-application-context/</link>
       <pubDate>Fri, 24 Nov 2017 13:28:10 -0500</pubDate>
       <guid>https://DigitalRiver.blog/post/2017-11-24-spring-framework-three-ways-to-application-context/</guid>
-      <description>This article shows you three different ways how to get to the Spring Framework Application Context in your code.&#xA;Summary (This is a repost of an older article I wrote in 2010). In searching Google for &amp;ldquo;Spring ApplicationContextAware&amp;rdquo;, you will come across a lot of recommendations and I also see a lot of folks continuing to complain saying that their setApplicationContext method does not get invoked. So to help clarify, I&amp;rsquo;m blogging a few notes in hope that it helps clarify how the context works.</description>
+      <description>This article shows you three different ways how to get to the Spring Framework Application Context in your code.&#xA;Summary (This is a repost of an older article I wrote in 2010). In searching Google for &amp;ldquo;Spring ApplicationContextAware &amp;rdquo;, you will come across a lot of recommendations and I also see a lot of folks continuing to complain saying that their setApplicationContext method does not get invoked. So to help clarify, I&amp;rsquo;m blogging a few notes in hope that it helps clarify how the context works.</description>
     </item>
     <item>
       <title>Spring Framework - Application Context - three ways to get to the application context</title>

@@ -10,7 +10,7 @@
     <meta name="description"
         content="">
     <meta property="og:title" content="Python pycharm - configuring remote interpreters from Windows to Linux" />
-<meta property="og:description" content="If you are an avid Python developer, you may all be excited about the new features available in the Pycharm 2.5 release, especially the remote interpreters, virtualenv and setup.py support. You can read more about the new exciting features here.
+<meta property="og:description" content="If you are an avid Python developer, you may all be excited about the new features available in the Pycharm 2.5 release, especially the remote interpreters, virtualenv and setup.py support. You can read more about the new exciting features here .
 But as I started to tinker with the &ldquo;remote interpreter&rdquo; feature - I stumbled upon some challenges and I thought I&rsquo;d document them for other PyCharm users who might benefit from this blog entry." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://DigitalRiver.blog/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/" /><meta property="article:section" content="post" />
@@ -256,7 +256,28 @@ But as I started to tinker with the &ldquo;remote interpreter&rdquo; feature - I
 			</p>
 			
 		</header><div class="content post__content clearfix">
-			<p>If you are an avid Python developer, you may all be excited about the new features available in the Pycharm 2.5 release, especially the remote interpreters, virtualenv and setup.py support. You can read more about the new exciting features <a href="http://www.jetbrains.com/pycharm/whatsnew/">here</a>.</p>
+			<p>If you are an avid Python developer, you may all be excited about the new features available in the Pycharm 2.5 release, especially the remote interpreters, virtualenv and setup.py support. You can read more about the new exciting features <a
+
+	
+	
+		href = "http://www.jetbrains.com/pycharm/whatsnew/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		here
+	</span>
+
+</a>.</p>
 <p>But as I started to tinker with the &ldquo;remote interpreter&rdquo; feature - I stumbled upon some challenges and I thought I&rsquo;d document them for other PyCharm users who might benefit from this blog entry.</p>
 <p>Let&rsquo;s get right into the issue:</p>
 <h2 id="my-setup">My Setup:</h2>
@@ -271,7 +292,23 @@ But as I started to tinker with the &ldquo;remote interpreter&rdquo; feature - I
 </li>
 <li>
 <p>Shared a &ldquo;Machine Folder&rdquo; to my Virtual machine. If you have a remote host, then either setup a GIT push scheme or a SFTP from your Windows to this remote server. See image below for illustration.
-<a href="/img/2012/04/ri-screen4.png"><img src="/img/2012/04/ri-screen4.png" alt="Virtual Box - Machine Target"></a></p>
+<a
+
+	
+	
+		href = "/img/2012/04/ri-screen4.png"
+
+		
+
+	
+
+	>
+	
+	<span>
+		&lt;img src=&#34;/img/2012/04/ri-screen4.png&#34; alt=&#34;Virtual Box - Machine Target&#34;&gt;
+	</span>
+
+</a></p>
 </li>
 <li>
 <p>At this time, My &ldquo;c:\projects&rdquo; folder is shared to the Linux environment as &ldquo;/media/sf_K_DRIVE/&rdquo; and &ldquo;auto-mounted&rdquo;. (I have also added my user-id to the &ldquo;vboxsf&rdquo; group because of permissions. But that&rsquo;s another blog&hellip;)</p>
@@ -280,16 +317,64 @@ But as I started to tinker with the &ldquo;remote interpreter&rdquo; feature - I
 <p>Now every modification of my Python files in my &ldquo;K:\MyProject&rdquo;, is exactly the same on the Linux virtual-box.</p>
 </li>
 <li>
-<p>The first setting to change is the &ldquo;Line Seperator&rdquo; (unless you want to execute Dos2Unix each time you run the file on Linux). This can be done under &ldquo;Code Style&rdquo; in PyCharm Settings. See image below:<a href="/img/2012/04/ri-screen1.png"><img src="/img/2012/04/ri-screen1.png" alt="PyCharm Settings Line Seperator"></a></p>
+<p>The first setting to change is the &ldquo;Line Seperator&rdquo; (unless you want to execute Dos2Unix each time you run the file on Linux). This can be done under &ldquo;Code Style&rdquo; in PyCharm Settings. See image below:<a
+
+	
+	
+		href = "/img/2012/04/ri-screen1.png"
+
+		
+
+	
+
+	>
+	
+	<span>
+		&lt;img src=&#34;/img/2012/04/ri-screen1.png&#34; alt=&#34;PyCharm Settings Line Seperator&#34;&gt;
+	</span>
+
+</a></p>
 </li>
 <li>
-<p>Next, configure the &ldquo;Remote Python Interpreter&rdquo;. See screenshot below:<a href="/img/2012/04/ri-screen2.png"><img src="/img/2012/04/ri-screen2.png" alt="PyCharm - Configure Remote Interpreter"></a></p>
+<p>Next, configure the &ldquo;Remote Python Interpreter&rdquo;. See screenshot below:<a
+
+	
+	
+		href = "/img/2012/04/ri-screen2.png"
+
+		
+
+	
+
+	>
+	
+	<span>
+		&lt;img src=&#34;/img/2012/04/ri-screen2.png&#34; alt=&#34;PyCharm - Configure Remote Interpreter&#34;&gt;
+	</span>
+
+</a></p>
 </li>
 <li>
 <p>In the previous step, when you choose a path on the Linux server for the &ldquo;PyCharm helpers&rdquo;, PyCharm pushes via SSH a set of libraries and software that helps with the remote debugging and scaffolding.</p>
 </li>
 <li>
-<p>The next step is to Run (or Debug) your code. See the screenshot below that shows the details of the &ldquo;Run/Debug Configuration&rdquo; screen. The important parts are &ldquo;Working Directory&rdquo; and &ldquo;Path Mappings&rdquo;. This is the trick that allows you to map your Windows Path to an equivalent Linux Path.<a href="/img/2012/04/ri-screen3c.png"><img src="/img/2012/04/ri-screen3c.png" alt="PyCharm - Run/Debug Configuration Screen"></a></p>
+<p>The next step is to Run (or Debug) your code. See the screenshot below that shows the details of the &ldquo;Run/Debug Configuration&rdquo; screen. The important parts are &ldquo;Working Directory&rdquo; and &ldquo;Path Mappings&rdquo;. This is the trick that allows you to map your Windows Path to an equivalent Linux Path.<a
+
+	
+	
+		href = "/img/2012/04/ri-screen3c.png"
+
+		
+
+	
+
+	>
+	
+	<span>
+		&lt;img src=&#34;/img/2012/04/ri-screen3c.png&#34; alt=&#34;PyCharm - Run/Debug Configuration Screen&#34;&gt;
+	</span>
+
+</a></p>
 </li>
 <li>
 <p>Now run (or debug) away your code as if it was running locally on your native Windows development platform.</p>
@@ -489,6 +574,7 @@ p1.close()</p>
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/post/2024-03-17/">How to resolve the blob: (blocked:csp) Error?</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2024-02-24/">Who is using port 7000 on my Mac OS X?</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2024-01-1/">Traveling Abroad? Troubleshooting 5G Challenges in India and Abroad</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2022-11-11/">How to change your humidifier canister for Honeywell HM750A1000?</a></li>
@@ -498,7 +584,6 @@ p1.close()</p>
 			<li class="widget__item"><a class="widget__link" href="/post/2022-01-1/">Managing your time - Time-Block Method with free Templates (revised)</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2020-12-03-golang-reader-writer-copyfile-using-bufio-library/">GoLang: Reader-Writer implemented via bufio library to copy file</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2020-06-14-devops-95-kubernetes-getting-started/">DevOps/GitOps: DevOps95 Columbia 2020 : Kubernetes : Getting Started</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2020-06-02-python-tips-on-unit-testing-and-code-coverage/">Python Tips: On Getting Started, Unit Testing and Code Coverage</a></li>
 		</ul>
 	</div>
 </div><div class="widget-blogroll widget">
@@ -873,6 +958,9 @@ p1.close()</p>
 				<a class="widget__link" href="/categories/water-proof/">water-proof</a>
 			</li>
 			<li class="widget__item">
+				<a class="widget__link" href="/categories/web-components/">Web Components</a>
+			</li>
+			<li class="widget__item">
 				<a class="widget__link" href="/categories/web-development/">web development</a>
 			</li>
 			<li class="widget__item">
@@ -1011,6 +1099,7 @@ p1.close()</p>
 		<a class="widget-taglist__link widget__link btn" href="/tags/config/" title="config">config</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/configuration/" title="configuration">configuration</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/containers/" title="Containers">Containers</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/content-security-policy/" title="Content-Security-Policy">Content-Security-Policy</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/context/" title="Context">Context</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/context-path/" title="Context Path">Context Path</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/contextpath/" title="contextPath">contextPath</a>
@@ -1021,7 +1110,11 @@ p1.close()</p>
 		<a class="widget-taglist__link widget__link btn" href="/tags/cote/" title="Cote">Cote</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/coverage/" title="Coverage">Coverage</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/covid-19/" title="COVID-19">COVID-19</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/crayons/" title="Crayons">Crayons</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/crayons-integration/" title="Crayons Integration">Crayons Integration</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/crayons.freshworks.com/" title="crayons.freshworks.com">crayons.freshworks.com</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/create-load/" title="create load">create load</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/csp/" title="CSP">CSP</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/css/" title="css">css</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/cubieboard2/" title="Cubieboard2">Cubieboard2</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/cygwin/" title="cygwin">cygwin</a>
@@ -1076,6 +1169,7 @@ p1.close()</p>
 		<a class="widget-taglist__link widget__link btn" href="/tags/fonts/" title="fonts">fonts</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/foreign-aid/" title="foreign-aid">foreign-aid</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/freebsd/" title="FreeBSD">FreeBSD</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/freshworks/" title="Freshworks">Freshworks</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/ftrace/" title="ftrace">ftrace</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/gas/" title="gas">gas</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/gdb/" title="gdb">gdb</a>
@@ -1404,6 +1498,7 @@ p1.close()</p>
 		<a class="widget-taglist__link widget__link btn" href="/tags/water-proof/" title="water-proof">water-proof</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/water-states/" title="Water states">Water states</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/web/" title="web">web</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/web-components/" title="Web Components">Web Components</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/weblogic/" title="Weblogic">Weblogic</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/websockets/" title="websockets">websockets</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/where-are-the-network-tools/" title="where are the network tools?">where are the network tools?</a>
