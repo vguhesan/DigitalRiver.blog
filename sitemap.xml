@@ -527,10 +527,10 @@
     <loc>https://DigitalRiver.blog/post/2017-11-28-15-year-old-invents-device-to-detect-heart-attack-6-hours-before-it-occurs/</loc>
     <lastmod>2017-11-28T18:22:13-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/in-the-news/</loc>
+    <loc>https://DigitalRiver.blog/tags/in-the-news/</loc>
     <lastmod>2017-11-28T18:22:13-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/in-the-news/</loc>
+    <loc>https://DigitalRiver.blog/categories/in-the-news/</loc>
     <lastmod>2017-11-28T18:22:13-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/innovation/</loc>
@@ -665,10 +665,10 @@
     <loc>https://DigitalRiver.blog/post/2017-09-23-converting-wordpress-hosted-blog-to-hugo/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/design/</loc>
+    <loc>https://DigitalRiver.blog/tags/design/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/design/</loc>
+    <loc>https://DigitalRiver.blog/categories/design/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/general/</loc>
@@ -1544,6 +1544,9 @@
     <loc>https://DigitalRiver.blog/tags/busybox/</loc>
     <lastmod>2016-10-04T18:12:22+00:00</lastmod>
   </url><url>
+    <loc>https://DigitalRiver.blog/tags/c/c&#43;&#43;/</loc>
+    <lastmod>2016-10-04T18:12:22+00:00</lastmod>
+  </url><url>
     <loc>https://DigitalRiver.blog/tags/freebsd/</loc>
     <lastmod>2016-10-04T18:12:22+00:00</lastmod>
   </url><url>
@@ -1904,22 +1907,22 @@
     <loc>https://DigitalRiver.blog/2015/12/31/wishing-everyone-a-happy-new-year/</loc>
     <lastmod>2015-12-31T17:05:18+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/#chennairains/</loc>
+    <loc>https://DigitalRiver.blog/tags/%23chennairains/</loc>
     <lastmod>2015-12-03T18:59:05+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/#chennairainshelp/</loc>
+    <loc>https://DigitalRiver.blog/tags/%23chennairainshelp/</loc>
     <lastmod>2015-12-03T18:59:05+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/#chennairescue/</loc>
+    <loc>https://DigitalRiver.blog/tags/%23chennairescue/</loc>
     <lastmod>2015-12-03T18:59:05+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/#chennaivolunteer/</loc>
+    <loc>https://DigitalRiver.blog/tags/%23chennaivolunteer/</loc>
     <lastmod>2015-12-03T18:59:05+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/#mealsforchennai/</loc>
+    <loc>https://DigitalRiver.blog/tags/%23mealsforchennai/</loc>
     <lastmod>2015-12-03T18:59:05+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/#ndtvfeverfmchennai/</loc>
+    <loc>https://DigitalRiver.blog/tags/%23ndtvfeverfmchennai/</loc>
     <lastmod>2015-12-03T18:59:05+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2015/12/03/massive-floods-in-chennai-2-million-people-displaced-how-can-you-help/</loc>
@@ -1928,7 +1931,10 @@
     <loc>https://DigitalRiver.blog/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</loc>
     <lastmod>2015-09-24T19:10:17+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/#freshbladefeeling/</loc>
+    <loc>https://DigitalRiver.blog/tags/xcode/ios-license/</loc>
+    <lastmod>2015-09-24T19:10:17+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/%23freshbladefeeling/</loc>
     <lastmod>2015-09-23T14:35:54+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2015/09/23/email-sent-to-harrys-shave-club-today/</loc>
@@ -1940,7 +1946,7 @@
     <loc>https://DigitalRiver.blog/tags/improving-the-world/</loc>
     <lastmod>2015-09-23T14:35:54+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/c-c&#43;&#43;-gcc-cpp/</loc>
+    <loc>https://DigitalRiver.blog/categories/c---c&#43;&#43;---gcc---cpp/</loc>
     <lastmod>2015-09-07T02:02:54+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2015/09/07/how-to-install-and-configure-zeromq-libsodium-on-centos-6-7/</loc>
@@ -1963,9 +1969,6 @@
   </url><url>
     <loc>https://DigitalRiver.blog/tags/cannot-run-c-compiled-programs/</loc>
     <lastmod>2015-09-07T01:11:46+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/#ageoflight/</loc>
-    <lastmod>2015-08-27T17:29:45+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/age-of-light/</loc>
     <lastmod>2015-08-27T17:29:45+00:00</lastmod>
@@ -2084,7 +2087,7 @@
     <loc>https://DigitalRiver.blog/tags/sparkcore/</loc>
     <lastmod>2014-06-18T02:51:11+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/sparkcore-arduino/</loc>
+    <loc>https://DigitalRiver.blog/categories/sparkcore---arduino/</loc>
     <lastmod>2014-06-18T02:51:11+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/wifi/</loc>
@@ -2111,7 +2114,7 @@
     <loc>https://DigitalRiver.blog/2013/11/17/grails-2-x-gitignore-file/</loc>
     <lastmod>2013-11-17T02:16:15+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/sourcecontrol-git/</loc>
+    <loc>https://DigitalRiver.blog/categories/sourcecontrol---git/</loc>
     <lastmod>2013-11-17T02:16:15+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/cubieboard2/</loc>
@@ -2420,6 +2423,9 @@
     <loc>https://DigitalRiver.blog/tags/scripting-tip/</loc>
     <lastmod>2011-06-25T03:56:13+00:00</lastmod>
   </url><url>
+    <loc>https://DigitalRiver.blog/tags/terminate-batch-job-y/n/</loc>
+    <lastmod>2011-06-25T03:56:13+00:00</lastmod>
+  </url><url>
     <loc>https://DigitalRiver.blog/2011/06/25/tired-of-terminate-batch-job-yn-try-this/</loc>
     <lastmod>2011-06-25T03:56:13+00:00</lastmod>
   </url><url>
@@ -2677,11 +2683,5 @@
   </url><url>
     <loc>https://DigitalRiver.blog/about/</loc>
     <lastmod>2009-05-21T14:54:32+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/c/c&#43;&#43;/</loc>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/terminate-batch-job-y/n/</loc>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/xcode/ios-license/</loc>
   </url>
 </urlset>

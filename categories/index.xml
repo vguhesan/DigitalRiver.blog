@@ -4,7 +4,7 @@
     <title>Categories on Digital River</title>
     <link>https://DigitalRiver.blog/categories/</link>
     <description>Recent content in Categories on Digital River</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -100,7 +100,7 @@
       <description></description>
     </item>
     <item>
-      <title>statistics</title>
+      <title>Statistics</title>
       <link>https://DigitalRiver.blog/categories/statistics/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/statistics/</guid>
@@ -142,7 +142,7 @@
       <description></description>
     </item>
     <item>
-      <title>embedded</title>
+      <title>Embedded</title>
       <link>https://DigitalRiver.blog/categories/embedded/</link>
       <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/embedded/</guid>
@@ -163,14 +163,14 @@
       <description></description>
     </item>
     <item>
-      <title>water-proof</title>
+      <title>Water-Proof</title>
       <link>https://DigitalRiver.blog/categories/water-proof/</link>
       <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/water-proof/</guid>
       <description></description>
     </item>
     <item>
-      <title>Javascript</title>
+      <title>JavaScript</title>
       <link>https://DigitalRiver.blog/categories/javascript/</link>
       <pubDate>Wed, 23 May 2018 14:37:18 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/javascript/</guid>
@@ -191,7 +191,7 @@
       <description></description>
     </item>
     <item>
-      <title>maven-shade-plugin</title>
+      <title>Maven-Shade-Plugin</title>
       <link>https://DigitalRiver.blog/categories/maven-shade-plugin/</link>
       <pubDate>Sun, 08 Apr 2018 16:55:46 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/maven-shade-plugin/</guid>
@@ -205,7 +205,7 @@
       <description></description>
     </item>
     <item>
-      <title>uber-jar</title>
+      <title>Uber-Jar</title>
       <link>https://DigitalRiver.blog/categories/uber-jar/</link>
       <pubDate>Sun, 08 Apr 2018 16:55:46 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/uber-jar/</guid>
@@ -233,7 +233,7 @@
       <description></description>
     </item>
     <item>
-      <title>In the News</title>
+      <title>In-the-News</title>
       <link>https://DigitalRiver.blog/categories/in-the-news/</link>
       <pubDate>Tue, 28 Nov 2017 18:22:13 -0500</pubDate>
       <guid>https://DigitalRiver.blog/categories/in-the-news/</guid>
@@ -268,28 +268,28 @@
       <description></description>
     </item>
     <item>
-      <title>firebase</title>
+      <title>Firebase</title>
       <link>https://DigitalRiver.blog/categories/firebase/</link>
       <pubDate>Fri, 24 Nov 2017 15:50:58 -0500</pubDate>
       <guid>https://DigitalRiver.blog/categories/firebase/</guid>
       <description></description>
     </item>
     <item>
-      <title>firebase-tools</title>
+      <title>Firebase-Tools</title>
       <link>https://DigitalRiver.blog/categories/firebase-tools/</link>
       <pubDate>Fri, 24 Nov 2017 15:50:58 -0500</pubDate>
       <guid>https://DigitalRiver.blog/categories/firebase-tools/</guid>
       <description></description>
     </item>
     <item>
-      <title>installation</title>
+      <title>Installation</title>
       <link>https://DigitalRiver.blog/categories/installation/</link>
       <pubDate>Fri, 24 Nov 2017 15:50:58 -0500</pubDate>
       <guid>https://DigitalRiver.blog/categories/installation/</guid>
       <description></description>
     </item>
     <item>
-      <title>npm</title>
+      <title>Npm</title>
       <link>https://DigitalRiver.blog/categories/npm/</link>
       <pubDate>Fri, 24 Nov 2017 15:50:58 -0500</pubDate>
       <guid>https://DigitalRiver.blog/categories/npm/</guid>
@@ -345,7 +345,7 @@
       <description></description>
     </item>
     <item>
-      <title>design</title>
+      <title>Design</title>
       <link>https://DigitalRiver.blog/categories/design/</link>
       <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/design/</guid>
@@ -359,7 +359,7 @@
       <description></description>
     </item>
     <item>
-      <title>WordPress</title>
+      <title>Wordpress</title>
       <link>https://DigitalRiver.blog/categories/wordpress/</link>
       <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/wordpress/</guid>
@@ -380,7 +380,7 @@
       <description></description>
     </item>
     <item>
-      <title>Charting &amp;amp; Visualization</title>
+      <title>Charting &amp;Amp; Visualization</title>
       <link>https://DigitalRiver.blog/categories/charting-amp-visualization/</link>
       <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/charting-amp-visualization/</guid>
@@ -394,14 +394,14 @@
       <description></description>
     </item>
     <item>
-      <title>blockchain</title>
+      <title>Blockchain</title>
       <link>https://DigitalRiver.blog/categories/blockchain/</link>
       <pubDate>Wed, 23 Aug 2017 01:15:28 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/blockchain/</guid>
       <description></description>
     </item>
     <item>
-      <title>history</title>
+      <title>History</title>
       <link>https://DigitalRiver.blog/categories/history/</link>
       <pubDate>Sat, 19 Aug 2017 17:13:47 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/history/</guid>
@@ -443,7 +443,7 @@
       <description></description>
     </item>
     <item>
-      <title>Outdoors &amp;amp; Nature</title>
+      <title>Outdoors &amp;Amp; Nature</title>
       <link>https://DigitalRiver.blog/categories/outdoors-amp-nature/</link>
       <pubDate>Thu, 11 May 2017 01:41:43 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/outdoors-amp-nature/</guid>
@@ -653,10 +653,10 @@
       <description></description>
     </item>
     <item>
-      <title>C - C&#43;&#43; - gcc - cpp</title>
-      <link>https://DigitalRiver.blog/categories/c-c&#43;&#43;-gcc-cpp/</link>
+      <title>C - C&#43;&#43; - Gcc - Cpp</title>
+      <link>https://DigitalRiver.blog/categories/c---c&#43;&#43;---gcc---cpp/</link>
       <pubDate>Mon, 07 Sep 2015 02:02:54 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/c-c&#43;&#43;-gcc-cpp/</guid>
+      <guid>https://DigitalRiver.blog/categories/c---c&#43;&#43;---gcc---cpp/</guid>
       <description></description>
     </item>
     <item>
@@ -668,20 +668,20 @@
     </item>
     <item>
       <title>SparkCore - Arduino</title>
-      <link>https://DigitalRiver.blog/categories/sparkcore-arduino/</link>
+      <link>https://DigitalRiver.blog/categories/sparkcore---arduino/</link>
       <pubDate>Wed, 18 Jun 2014 02:51:11 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/sparkcore-arduino/</guid>
+      <guid>https://DigitalRiver.blog/categories/sparkcore---arduino/</guid>
       <description></description>
     </item>
     <item>
       <title>SourceControl - GIT</title>
-      <link>https://DigitalRiver.blog/categories/sourcecontrol-git/</link>
+      <link>https://DigitalRiver.blog/categories/sourcecontrol---git/</link>
       <pubDate>Sun, 17 Nov 2013 02:16:15 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/sourcecontrol-git/</guid>
+      <guid>https://DigitalRiver.blog/categories/sourcecontrol---git/</guid>
       <description></description>
     </item>
     <item>
-      <title>CubieBoard2 &amp;amp; CubieTruck</title>
+      <title>CubieBoard2 &amp;Amp; CubieTruck</title>
       <link>https://DigitalRiver.blog/categories/cubieboard2-amp-cubietruck/</link>
       <pubDate>Sun, 03 Nov 2013 20:43:57 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/cubieboard2-amp-cubietruck/</guid>
@@ -723,7 +723,7 @@
       <description></description>
     </item>
     <item>
-      <title>mod_python</title>
+      <title>Mod_python</title>
       <link>https://DigitalRiver.blog/categories/mod_python/</link>
       <pubDate>Thu, 29 Dec 2011 03:09:12 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/mod_python/</guid>
@@ -758,7 +758,7 @@
       <description></description>
     </item>
     <item>
-      <title>web development</title>
+      <title>Web Development</title>
       <link>https://DigitalRiver.blog/categories/web-development/</link>
       <pubDate>Fri, 01 Jul 2011 17:34:46 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/web-development/</guid>
@@ -772,7 +772,7 @@
       <description></description>
     </item>
     <item>
-      <title>intelliJ</title>
+      <title>IntelliJ</title>
       <link>https://DigitalRiver.blog/categories/intellij/</link>
       <pubDate>Fri, 18 Feb 2011 16:37:46 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/intellij/</guid>
@@ -835,7 +835,7 @@
       <description></description>
     </item>
     <item>
-      <title>Brix-cms</title>
+      <title>Brix-Cms</title>
       <link>https://DigitalRiver.blog/categories/brix-cms/</link>
       <pubDate>Tue, 09 Mar 2010 20:02:55 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/brix-cms/</guid>

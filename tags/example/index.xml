@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>example on Digital River</title>
+    <title>Example on Digital River</title>
     <link>https://DigitalRiver.blog/tags/example/</link>
-    <description>Recent content in example on Digital River</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Example on Digital River</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Jun 2013 03:36:43 +0000</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/example/index.xml" rel="self" type="application/rss+xml" />

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mod_python on Digital River</title>
+    <title>Mod_python on Digital River</title>
     <link>https://DigitalRiver.blog/categories/mod_python/</link>
-    <description>Recent content in mod_python on Digital River</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Mod_python on Digital River</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Dec 2011 03:09:12 +0000</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/categories/mod_python/index.xml" rel="self" type="application/rss+xml" />

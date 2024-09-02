@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>missing on Digital River</title>
+    <title>Missing on Digital River</title>
     <link>https://DigitalRiver.blog/tags/missing/</link>
-    <description>Recent content in missing on Digital River</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Missing on Digital River</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Dec 2016 21:17:09 +0000</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/missing/index.xml" rel="self" type="application/rss+xml" />

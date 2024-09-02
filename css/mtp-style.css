@@ -308,3 +308,12 @@ div.widget-getnotified{
 	font-size: 10px;
 }
 
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: flow-root;
+}
+
+@media print {
+	aside {
+		display: none !important;
+	}
+}

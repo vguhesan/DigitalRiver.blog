@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rebuilding the world on Digital River</title>
+    <title>Rebuilding the World on Digital River</title>
     <link>https://DigitalRiver.blog/tags/rebuilding-the-world/</link>
-    <description>Recent content in rebuilding the world on Digital River</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Rebuilding the World on Digital River</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/rebuilding-the-world/index.xml" rel="self" type="application/rss+xml" />

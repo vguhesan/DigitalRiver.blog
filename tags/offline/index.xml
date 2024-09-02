@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>offline on Digital River</title>
+    <title>Offline on Digital River</title>
     <link>https://DigitalRiver.blog/tags/offline/</link>
-    <description>Recent content in offline on Digital River</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Offline on Digital River</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Oct 2016 18:42:15 +0000</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/offline/index.xml" rel="self" type="application/rss+xml" />

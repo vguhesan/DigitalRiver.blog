@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>class loader on Digital River</title>
+    <title>Class Loader on Digital River</title>
     <link>https://DigitalRiver.blog/tags/class-loader/</link>
-    <description>Recent content in class loader on Digital River</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Class Loader on Digital River</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jul 2011 17:34:46 +0000</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/class-loader/index.xml" rel="self" type="application/rss+xml" />

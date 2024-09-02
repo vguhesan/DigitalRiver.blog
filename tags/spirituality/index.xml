@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spirituality on Digital River</title>
+    <link>http://0.0.0.0:1313/tags/spirituality/</link>
+    <description>Recent content in Spirituality on Digital River</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://0.0.0.0:1313/tags/spirituality/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Practices and Guide To Work-life Balance</title>
+      <link>http://0.0.0.0:1313/post/2020-09-24-best-practices-guide/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://0.0.0.0:1313/post/2020-09-24-best-practices-guide/</guid>
+      <description>Using prismjs start = datetime.now() # Then call some long running code or function here end = datetime.now() diff = end - start print type(diff) print diff days = diff.days # Get Day hours,remainder = divmod(diff.seconds,3600) # Get Hour minutes,seconds = divmod(remainder,60) # Get Minute &amp; Second print(f&#39;Elapsed Time: {days} Days, {hours} Hours, {minutes} Minutes, {seconds} Seconds.&#39;) Section-1&#xA;Why am I doing this? My manager at work asked me to compile a list of tips and best practices that can be given to a fellow consultant to help guide them on the journey of successful consulting.</description>
+    </item>
+  </channel>
+</rss>

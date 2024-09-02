@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>application context on Digital River</title>
+    <title>Application Context on Digital River</title>
     <link>https://DigitalRiver.blog/tags/application-context/</link>
-    <description>Recent content in application context on Digital River</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Application Context on Digital River</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Nov 2017 13:28:10 -0500</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/application-context/index.xml" rel="self" type="application/rss+xml" />

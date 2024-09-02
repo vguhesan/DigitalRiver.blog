@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>load-testing on Digital River</title>
+    <title>Load-Testing on Digital River</title>
     <link>https://DigitalRiver.blog/tags/load-testing/</link>
-    <description>Recent content in load-testing on Digital River</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Load-Testing on Digital River</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Nov 2012 12:27:22 +0000</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/load-testing/index.xml" rel="self" type="application/rss+xml" />
