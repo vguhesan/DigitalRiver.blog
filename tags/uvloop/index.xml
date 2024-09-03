@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uvloop on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/uvloop/</link>
+    <link>http://0.0.0.0:1313/tags/uvloop/</link>
     <description>Recent content in Uvloop on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Apr 2017 16:26:27 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/uvloop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/uvloop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>uvloop - Python replacement for asyncio event loop</title>
-      <link>https://DigitalRiver.blog/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</link>
+      <link>http://0.0.0.0:1313/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</link>
       <pubDate>Sat, 01 Apr 2017 16:26:27 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</guid>
+      <guid>http://0.0.0.0:1313/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</guid>
       <description>&amp;lt;img src=&amp;#34;/img/2016/09/python_logo.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; uvloop is a fast, drop-in replacement of the built-in asyncio event loop. uvloop is implemented in Cython and uses libuv under the hood.&#xA;Benefits: uvloop makes asyncio 2-4x faster.&#xA;Cons: uvloop is available from PyPI but it requires Python 3.5. (The reason for this is asyncio was introduced in Python 3.4 and above.) Unless your project is based on Python 3.4+ - you may not be able to leverage this library.</description>
     </item>
   </channel>

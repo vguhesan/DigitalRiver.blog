@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javax.servlet on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/javax.servlet/</link>
+    <link>http://0.0.0.0:1313/tags/javax.servlet/</link>
     <description>Recent content in Javax.servlet on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 May 2010 15:40:45 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/javax.servlet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/javax.servlet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>where is the javax.servlet jar in Weblogic 10.3 and up?</title>
-      <link>https://DigitalRiver.blog/2010/05/20/where-is-the-javax-servlet-jar-in-weblogic-10-3-and-up/</link>
+      <link>http://0.0.0.0:1313/2010/05/20/where-is-the-javax-servlet-jar-in-weblogic-10-3-and-up/</link>
       <pubDate>Thu, 20 May 2010 15:40:45 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2010/05/20/where-is-the-javax-servlet-jar-in-weblogic-10-3-and-up/</guid>
+      <guid>http://0.0.0.0:1313/2010/05/20/where-is-the-javax-servlet-jar-in-weblogic-10-3-and-up/</guid>
       <description>With the 10.3 release, Weblogic has split the javax.servlet and others out of weblogic.jar. I&amp;rsquo;m blogging it in hopes that if others are looking for it, this entry would help them.&#xA;You can find javax.servlet and other jars under &amp;ldquo;&amp;lt;BEA_HOME&amp;gt;\modules&amp;quot; folder. In my specific build, I have the servlet jar file as &amp;ldquo;&amp;lt;BEA_HOME&amp;gt;\modules\javax.servlet_1.0.0.0_2-5.jar&amp;rdquo;.&#xA;So if you are looking for it that&amp;rsquo;s where it is and no need to go and download the servlet.</description>
     </item>
   </channel>

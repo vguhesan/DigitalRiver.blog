@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Async Programming on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/async-programming/</link>
+    <link>http://0.0.0.0:1313/tags/async-programming/</link>
     <description>Recent content in Async Programming on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Nov 2012 23:31:21 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/async-programming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/async-programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting started with vertx (vert.io) – an alternative to node.js</title>
-      <link>https://DigitalRiver.blog/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</link>
+      <link>http://0.0.0.0:1313/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</link>
       <pubDate>Thu, 15 Nov 2012 23:31:21 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</guid>
+      <guid>http://0.0.0.0:1313/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</guid>
       <description>Article Getting started with vertx (vert.io) – an alternative to node.js - has been posted on the new website at:&#xA;/getting-started-with-vertx-vert-io-an-alternative-to-node-js/ </description>
     </item>
   </channel>

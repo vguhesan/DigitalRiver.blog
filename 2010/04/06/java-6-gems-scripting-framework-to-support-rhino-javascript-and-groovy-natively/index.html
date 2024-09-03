@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Java 6 Gems: Scripting Framework to support Rhino Javascript and Groovy (natively) - Digital River</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
-		<meta property="og:url" content="https://DigitalRiver.blog/2010/04/06/java-6-gems-scripting-framework-to-support-rhino-javascript-and-groovy-natively/">
+		<meta property="og:url" content="http://0.0.0.0:1313/2010/04/06/java-6-gems-scripting-framework-to-support-rhino-javascript-and-groovy-natively/">
   <meta property="og:site_name" content="Digital River">
   <meta property="og:title" content="Java 6 Gems: Scripting Framework to support Rhino Javascript and Groovy (natively)">
   <meta property="og:description" content="What is it? With Java 6 there is a new addition (package: javax.script) that allows you to work with scripting languages like Javascript (using Rhino) and Groovy. Although there is built in support for adding scripting engines like Groovy, PHP, Perl, etc - what’s bundled in this release is Mozilla’s Rhino Javascript Engine.
@@ -38,31 +38,10 @@ Why embed a scripting language? Most scripting languages out there are dynamical
 
 	<link rel="shortcut icon" href="/favicon.ico">
 		
-		
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-DB3YV9JEG7"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-DB3YV9JEG7');
-        }
-      </script>
-    
-  
-
-
 
 
 	
-	<link rel="stylesheet" href="/css/mtp-style.css?rnd=76523127317">
+	<link rel="stylesheet" href="/css/mtp-style.css?rnd=46447567567">
 	
 	
 	<style>
@@ -277,6 +256,23 @@ Why embed a scripting language? Most scripting languages out there are dynamical
 			<h1 class="post__title">Java 6 Gems: Scripting Framework to support Rhino Javascript and Groovy (natively)</h1>
 			
 		</header>
+
+		
+		<div id="toggle_aside" class="content toggle_aside">
+			<a href="#" id="hideAside">Focus On Content</a>&nbsp;<span class="toggle_aside_help"> ~/ click me to toggle the navigation bar to the right</span>
+			<script type="text/javascript">
+				$(document).ready(function(){
+					$("#hideAside").on("click",function(){
+						$('aside').toggle("slide",function(){
+							var visibilityStatus=$('aside').attr("data-visible");
+							$('aside').attr('data-visible',visibilityStatus);
+						});
+					})
+				});
+			</script>
+		</div>
+		
+
 		<div class="content post__content clearfix">
 			<p><strong>What is it?</strong> With Java 6 there is a new addition (package: javax.script) that allows you to work with scripting languages like Javascript (using Rhino) and Groovy. Although there is built in support for adding scripting engines like Groovy, PHP, Perl, etc - what&rsquo;s bundled in this release is Mozilla&rsquo;s Rhino Javascript Engine.</p>
 <p><strong>Why embed a scripting language?</strong> Most scripting languages out there are dynamically typed. Meaning, your code does not need to know what type of value you will be storing in a particular field at compile time. So for example, using JavaScript as a scripting language, you can store &ldquo;John&rdquo; [var name = &ldquo;John&rdquo;;] or the numerical value of five (5) [var name = 5;] in a var. And since the variables are loosely typed, the language takes care of storing the data by guessing at what&rsquo;s being stored in that variable. Well why does this benefit us? Well, these technologies help us in prototyping quick, build applications faster, and for situations where you can execute commands repeatedly as well as in tying different technologies together. Developers usually agree that for processing\parsing, Perl has always had an upper hand. So imaging using the perl scripting engine to develop an application that can parse a file efficiently. The other situation where embedding a scripting language comes in handy is - when you are developing a Java FX or Java Swing based application. Now you can develop libraries that can work seamlessly whether they are deployed on a FireFox browser or on a custom Java application on your smart-phone. The third arena where this makes sense is in server-side processing. Imaging a back-end application that needs to perform some text manipulation. You can tie a perl or sed or awk script engine on the back-end via a command shell like bash or ksh to perform the operations right within the Java application and all along work with variables right in the Java memory space.</p>
@@ -461,28 +457,6 @@ ex.printStackTrace();
 </nav>
 
 
-<section class="comments">
-	<div id="disqus_thread"></div>
-<script>
-    window.disqus_config = function () {
-    
-    
-    
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "mythinkpond" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-</section>
 
 			</div>
 			<aside class="sidebar">
@@ -543,7 +517,7 @@ ex.printStackTrace();
 			<li class="widget__item"><a class="widget__link" href="/post/2022-01-3/">Remove .DS_Store and ._.DS_Store under Windows</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2022-01-2/">**fix** VirtualBox installer fails on Windows 11 (program compatibility issue)</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2022-01-1/">Managing your time - Time-Block Method with free Templates (revised)</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2020-12-03-golang-reader-writer-copyfile-using-bufio-library/">GoLang: Reader-Writer implemented via bufio library to copy file</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2020-09-24-best-practices-guide/">Best Practices and Guide To Work-life Balance</a></li>
 		</ul>
 	</div>
 </div><div class="widget-blogroll widget">
@@ -884,6 +858,7 @@ ex.printStackTrace();
 		<a class="widget-taglist__link widget__link btn" href="/tags/atomic-structure/" title="Atomic Structure">Atomic Structure</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/audiophonic/" title="Audiophonic">Audiophonic</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/background/" title="Background">Background</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/balance/" title="Balance">Balance</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/bands/" title="Bands">Bands</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/basement-walk-down-drain/" title="Basement Walk-Down Drain">Basement Walk-Down Drain</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/basement-walk-up-drain/" title="Basement Walk-Up Drain">Basement Walk-Up Drain</a>
@@ -1116,6 +1091,7 @@ ex.printStackTrace();
 		<a class="widget-taglist__link widget__link btn" href="/tags/led-driver-circuit/" title="LED Driver Circuit">LED Driver Circuit</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/libsodium/" title="Libsodium">Libsodium</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/license/" title="License">License</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/life/" title="Life">Life</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/life-in-third-world-country/" title="Life in Third World Country">Life in Third World Country</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/link/" title="Link">Link</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/linux/" title="Linux">Linux</a>
@@ -1267,6 +1243,7 @@ ex.printStackTrace();
 		<a class="widget-taglist__link widget__link btn" href="/tags/spark.io/" title="Spark.io">Spark.io</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/sparkcore/" title="SparkCore">SparkCore</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/spin/" title="Spin">Spin</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/spirituality/" title="Spirituality">Spirituality</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/spring/" title="Spring">Spring</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/spring-framework/" title="Spring Framework">Spring Framework</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/spring-boot/" title="Spring-Boot">Spring-Boot</a>
@@ -1359,6 +1336,7 @@ ex.printStackTrace();
 		<a class="widget-taglist__link widget__link btn" href="/tags/windows-11/" title="Windows 11">Windows 11</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/wordpress/" title="Wordpress">Wordpress</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/words-of-wisdom/" title="Words of Wisdom">Words of Wisdom</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/work/" title="Work">Work</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/work-directory/" title="Work Directory">Work Directory</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/xcode/ios-license/" title="Xcode/IOS License">Xcode/IOS License</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/yaml/" title="YAML">YAML</a>

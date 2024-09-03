@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Water-Proof on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/water-proof/</link>
+    <link>http://0.0.0.0:1313/tags/water-proof/</link>
     <description>Recent content in Water-Proof on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Jan 2019 17:23:34 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/water-proof/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/water-proof/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Waterproofing Blink Camera Sync Module for outdoors</title>
-      <link>https://DigitalRiver.blog/post/waterproofing-blink-camera-sync-module-for-outdoors/</link>
+      <link>http://0.0.0.0:1313/post/waterproofing-blink-camera-sync-module-for-outdoors/</link>
       <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/post/waterproofing-blink-camera-sync-module-for-outdoors/</guid>
+      <guid>http://0.0.0.0:1313/post/waterproofing-blink-camera-sync-module-for-outdoors/</guid>
       <description>I had a requirement where I had WiFi signal across a large farm/garden and I needed to place the Blink camera in various locations. And since the schedule is controlled by the Blink Sync Module, I had to create multiple zones each with it&amp;rsquo;s own Blink Sync module to define an independent schedule for a set of cameras for that zone. This meant that each of my Blink Sync modules needed to be accessible in those zones across the farm.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Disk on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/disk/</link>
+    <link>http://0.0.0.0:1313/tags/disk/</link>
     <description>Recent content in Disk on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jun 2016 14:52:05 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/disk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/disk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intel&#39;s miracle chip could make your gadgets 1,000 times faster</title>
-      <link>https://DigitalRiver.blog/2016/06/13/intels-miracle-chip-could-make-your-gadgets-1000-times-faster/</link>
+      <link>http://0.0.0.0:1313/2016/06/13/intels-miracle-chip-could-make-your-gadgets-1000-times-faster/</link>
       <pubDate>Mon, 13 Jun 2016 14:52:05 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2016/06/13/intels-miracle-chip-could-make-your-gadgets-1000-times-faster/</guid>
+      <guid>http://0.0.0.0:1313/2016/06/13/intels-miracle-chip-could-make-your-gadgets-1000-times-faster/</guid>
       <description>Intel and Micron say they have a new computer chip that will make your gadgets significantly faster, more durable and able to store way more data.&#xA;http://money.cnn.com/2015/07/29/technology/intel-3d-xpoint-chip/index.html?iid=EL </description>
     </item>
   </channel>

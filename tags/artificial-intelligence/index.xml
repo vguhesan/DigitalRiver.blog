@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artificial Intelligence on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/artificial-intelligence/</link>
+    <link>http://0.0.0.0:1313/tags/artificial-intelligence/</link>
     <description>Recent content in Artificial Intelligence on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Apr 2017 19:01:57 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How AI algorithms could help design new drugs? - Futurity</title>
-      <link>https://DigitalRiver.blog/post/2017-04-06-how-ai-algorithms-could-help-design-new-drugs-futurity/</link>
+      <link>http://0.0.0.0:1313/post/2017-04-06-how-ai-algorithms-could-help-design-new-drugs-futurity/</link>
       <pubDate>Thu, 06 Apr 2017 19:01:57 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/post/2017-04-06-how-ai-algorithms-could-help-design-new-drugs-futurity/</guid>
+      <guid>http://0.0.0.0:1313/post/2017-04-06-how-ai-algorithms-could-help-design-new-drugs-futurity/</guid>
       <description>&amp;lt;img src=&amp;#34;/img/2017/04/ai.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; A new kind of AI algorithm—designed to work with a small amount of data—may be able to assist in the early stages of drug development. Artificial intelligence doesn’t work all that well in situations where there is very little data, such as drug development. A new technique called one-shot learning, that requires only a small number of data points might be a solution to that low-data problem.</description>
     </item>
   </channel>

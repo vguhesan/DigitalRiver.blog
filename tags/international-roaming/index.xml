@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>International Roaming on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/international-roaming/</link>
+    <link>http://0.0.0.0:1313/tags/international-roaming/</link>
     <description>Recent content in International Roaming on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/international-roaming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/international-roaming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Airtel / International Roaming / Not receiving OTPs or SMS from India while abroad or in USA?</title>
-      <link>https://DigitalRiver.blog/post/2024-07-12/</link>
+      <link>http://0.0.0.0:1313/post/2024-07-12/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/post/2024-07-12/</guid>
+      <guid>http://0.0.0.0:1313/post/2024-07-12/</guid>
       <description>TLDR Level up on how to continue to receive OTPs and SMS notifications free of cost on your Airtel phones from India.&#xA;Why did I write this article? Recently, my mother, who frequently travels between India and the USA, was shocked to receive a Rs. 18,000 (approximately $230 USD) bill from Airtel for the month of July. This article summarizes my findings and insights into what went wrong and how we can avoid such costly bills in the future.</description>
     </item>
   </channel>

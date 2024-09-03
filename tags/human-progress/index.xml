@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Human Progress on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/human-progress/</link>
+    <link>http://0.0.0.0:1313/tags/human-progress/</link>
     <description>Recent content in Human Progress on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 14:46:31 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/human-progress/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/human-progress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Repost: Mapping the End of Malaria</title>
-      <link>https://DigitalRiver.blog/2016/11/05/republish-mapping-the-end-of-malaria/</link>
+      <link>http://0.0.0.0:1313/2016/11/05/republish-mapping-the-end-of-malaria/</link>
       <pubDate>Sat, 05 Nov 2016 14:46:31 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2016/11/05/republish-mapping-the-end-of-malaria/</guid>
+      <guid>http://0.0.0.0:1313/2016/11/05/republish-mapping-the-end-of-malaria/</guid>
       <description>Mapping the End of Malaria by Bill Gates&#xA;&amp;lt;img src=&amp;#34;/img/2016/11/endmalariacampaign1.png&amp;#34; alt=&amp;#34;endmalariacampaign&amp;#34;&amp;gt; The article discusses two important points:&#xA;How Malaria is putting mosquitoes as the #1 deadliest lifeform that kills humans? (Interestingly humans are the #2 lifeform that kills our own species) And what has/is being done to change this through the Gates Foundation in the developing countries. As well as the positive, measurable changes that can be seen from the last decade.</description>
     </item>
   </channel>

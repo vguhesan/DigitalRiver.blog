@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MACOS on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/macos/</link>
+    <link>http://0.0.0.0:1313/tags/macos/</link>
     <description>Recent content in MACOS on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/macos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who is using port 7000 on my Mac OS X?</title>
-      <link>https://DigitalRiver.blog/post/2024-02-24/</link>
+      <link>http://0.0.0.0:1313/post/2024-02-24/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/post/2024-02-24/</guid>
+      <guid>http://0.0.0.0:1313/post/2024-02-24/</guid>
       <description>What is this article about? After you upgrade your MacOS to 12.1 or above, you will notice that something is using port 7000. This will impact developers that start up local development instances that leverages port 7000. The same with people that use Docker Desktop.&#xA;TLDR Port 7000 is used by Mac Airplay Receiver.&#xA;On your Mac settings, simply goto:&#xA;System Settings -&amp;gt; General -&amp;gt; Airdrop &amp;amp; Handoff -&amp;gt; Airplay receiver # And turn it OFF / Or optionally choose a different port for your development application Troubleshoot the details # Run the following command to see what&amp;#39;s using port 7000 on your Mac: lsof -i TCP:7000 # Sample output, your details may vary COMMAND PID USER FD TYPE DEVICE SIZE/OFF NODE NAME ControlCe 617 me 6u IPv4 0x8ed.</description>
     </item>
   </channel>

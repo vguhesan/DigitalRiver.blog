@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keeping Cool on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/keeping-cool/</link>
+    <link>http://0.0.0.0:1313/tags/keeping-cool/</link>
     <description>Recent content in Keeping Cool on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 May 2017 01:31:47 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/keeping-cool/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/keeping-cool/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nanofridge could keep quantum computers cool enough to calculate</title>
-      <link>https://DigitalRiver.blog/2017/05/11/nanofridge-could-keep-quantum-computers-cool-enough-to-calculate/</link>
+      <link>http://0.0.0.0:1313/2017/05/11/nanofridge-could-keep-quantum-computers-cool-enough-to-calculate/</link>
       <pubDate>Thu, 11 May 2017 01:31:47 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2017/05/11/nanofridge-could-keep-quantum-computers-cool-enough-to-calculate/</guid>
+      <guid>http://0.0.0.0:1313/2017/05/11/nanofridge-could-keep-quantum-computers-cool-enough-to-calculate/</guid>
       <description>&amp;lt;img src=&amp;#34;/img/2017/05/lead_fig2.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Quantum computers need to be kept cool, just like regular computers, but an ordinary fan won’t cut it. A nanofridge that sorts electrons by temperature just might keep it cool enough to allow quantum compute.&#xA;Classical computers require built-in fans and other ways to dissipate heat, and quantum computers are no different. Instead of working with bits of information that can be either 0 or 1, as in a classical machine, a quantum computer relies on “qubits”, which can be in both states simultaneously – called a superposition – thanks to the quirks of quantum mechanics.</description>
     </item>
   </channel>

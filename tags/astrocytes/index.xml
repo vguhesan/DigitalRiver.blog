@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Astrocytes on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/astrocytes/</link>
+    <link>http://0.0.0.0:1313/tags/astrocytes/</link>
     <description>Recent content in Astrocytes on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Mar 2017 00:33:52 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/astrocytes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/astrocytes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scientists Have Discovered a New Activity in Brain Cells</title>
-      <link>https://DigitalRiver.blog/2017/03/28/scientists-have-discovered-a-new-activity-in-brain-cells/</link>
+      <link>http://0.0.0.0:1313/2017/03/28/scientists-have-discovered-a-new-activity-in-brain-cells/</link>
       <pubDate>Tue, 28 Mar 2017 00:33:52 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2017/03/28/scientists-have-discovered-a-new-activity-in-brain-cells/</guid>
+      <guid>http://0.0.0.0:1313/2017/03/28/scientists-have-discovered-a-new-activity-in-brain-cells/</guid>
       <description> https://futurism.com/scientists-have-discovered-a-new-activity-in-brain-cells/ </description>
     </item>
   </channel>

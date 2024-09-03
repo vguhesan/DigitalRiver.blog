@@ -316,6 +316,14 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 	aside {
 		display: none !important;
 	}
+
+	#toggle_aside {
+		display: none !important;
+	}
+
+	.menu {
+		display: none !important;
+	}
 }
 
 /* Google Search Style */
@@ -330,4 +338,15 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 .search-text-style {
 	background-color: #352678;
+}
+
+/* Toggle Aside / Focus on content */
+.toggle_aside {
+	margin-left: auto; 
+	margin-right: 0;
+}
+
+.toggle_aside_help {
+	color:slategray;
+	font-style: italic;
 }

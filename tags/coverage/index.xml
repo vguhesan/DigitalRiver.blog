@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coverage on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/coverage/</link>
+    <link>http://0.0.0.0:1313/tags/coverage/</link>
     <description>Recent content in Coverage on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/coverage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/coverage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Traveling Abroad? Troubleshooting 5G Challenges in India and Abroad</title>
-      <link>https://DigitalRiver.blog/post/2024-01-1/</link>
+      <link>http://0.0.0.0:1313/post/2024-01-1/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/post/2024-01-1/</guid>
+      <guid>http://0.0.0.0:1313/post/2024-01-1/</guid>
       <description>What is this article about? This article assumes that you plan to buy a phone in the US (UK, Europe or AU) to add an India SIM card from one of the popular three telecom providers - Bharati Airtel, Reliance Jio or Vodaphone. It covers the basics on how to ensure that the network bands supported on your phone are compatible with what is available in India.&#xA;What this article is NOT about?</description>
     </item>
     <item>
       <title>Python Tips: On Getting Started, Unit Testing and Code Coverage</title>
-      <link>https://DigitalRiver.blog/post/2020-06-02-python-tips-on-unit-testing-and-code-coverage/</link>
+      <link>http://0.0.0.0:1313/post/2020-06-02-python-tips-on-unit-testing-and-code-coverage/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/post/2020-06-02-python-tips-on-unit-testing-and-code-coverage/</guid>
+      <guid>http://0.0.0.0:1313/post/2020-06-02-python-tips-on-unit-testing-and-code-coverage/</guid>
       <description>tl;dr Here is a collection of useful Python tips, a starter &amp;ldquo;Hello World&amp;rdquo; Python template for both web (using Flask) and stand-alone script. And additional tips in writing effective Python code, getting started, Unit Tests and using the Coverage tool to improve code.&#xA;Photo by Fabian Grohs on Unsplash&#xA;Getting Started - Introducing &amp;ldquo;Python Hello World&amp;rdquo; Template Sometimes when we need to get started in Python, we need an easy &amp;ldquo;Hello World&amp;rdquo; template that gets us started with all the basics including unit test and coverage reports.</description>
     </item>
   </channel>

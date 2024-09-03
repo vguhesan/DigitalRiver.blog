@@ -44,7 +44,7 @@
 
 
 	
-	<link rel="stylesheet" href="/css/mtp-style.css?rnd=76523127317">
+	<link rel="stylesheet" href="/css/mtp-style.css?rnd=46447567567">
 	
 	
 	<style>
@@ -260,6 +260,23 @@
 			<p class="post__lead">Compiled lessons from my life&#39;s journey, reflections and finding your balance and harmony.</p>
 			
 		</header>
+
+		
+		<div id="toggle_aside" class="content toggle_aside">
+			<a href="#" id="hideAside">Focus On Content</a>&nbsp;<span class="toggle_aside_help"> ~/ click me to toggle the navigation bar to the right</span>
+			<script type="text/javascript">
+				$(document).ready(function(){
+					$("#hideAside").on("click",function(){
+						$('aside').toggle("slide",function(){
+							var visibilityStatus=$('aside').attr("data-visible");
+							$('aside').attr('data-visible',visibilityStatus);
+						});
+					})
+				});
+			</script>
+		</div>
+		
+
 		<div class="content post__content clearfix">
 			<h3 id="using-prismjs">Using prismjs</h3>
 <pre id="codeblk1" class="line-numbers" data-line="2,4-5"><code class="lang-shell-session">start = datetime.now()
