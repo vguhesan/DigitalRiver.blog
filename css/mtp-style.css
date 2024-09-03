@@ -317,3 +317,17 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 		display: none !important;
 	}
 }
+
+/* Google Search Style */
+.search-widget-style {
+	background-color: #58499c;
+}
+
+.search-input-style {
+	background-color: #FFFFFF;
+	font-size: large;
+}
+
+.search-text-style {
+	background-color: #352678;
+}
