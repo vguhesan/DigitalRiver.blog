@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vertx.io on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/vertx.io/</link>
+    <link>https://DigitalRiver.blog/tags/vertx.io/</link>
     <description>Recent content in Vertx.io on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Nov 2012 18:12:15 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/vertx.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/vertx.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting started with vertx (vert.io) - an alternative to node.js</title>
-      <link>http://0.0.0.0:1313/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js-2/</link>
+      <link>https://DigitalRiver.blog/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js-2/</link>
       <pubDate>Thu, 15 Nov 2012 18:12:15 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js-2/</guid>
+      <guid>https://DigitalRiver.blog/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js-2/</guid>
       <description>Lately there has been a lot of synergy and publicity around node.js (especially if you want to utilize the robust features of a JavaScript language on the server-side). If you are not familiar with this, I would suggest you look at the following link:&#xA;Node.js - Event-driven I/O server-side JavaScript environment based on V8.&#xA;If you are a Java developer and as you try out the examples, you will notice how this will be a great addition into your infrastructure.</description>
     </item>
   </channel>

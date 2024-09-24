@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uninstall on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/uninstall/</link>
+    <link>https://DigitalRiver.blog/tags/uninstall/</link>
     <description>Recent content in Uninstall on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Sep 2016 15:22:59 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/uninstall/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/uninstall/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uninstall python eggs that you installed using setup.py</title>
-      <link>http://0.0.0.0:1313/2016/09/30/uninstall-python-eggs-that-you-installed-using-setup-py/</link>
+      <link>https://DigitalRiver.blog/2016/09/30/uninstall-python-eggs-that-you-installed-using-setup-py/</link>
       <pubDate>Fri, 30 Sep 2016 15:22:59 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2016/09/30/uninstall-python-eggs-that-you-installed-using-setup-py/</guid>
+      <guid>https://DigitalRiver.blog/2016/09/30/uninstall-python-eggs-that-you-installed-using-setup-py/</guid>
       <description>&amp;lt;img src=&amp;#34;/img/2016/09/python_logo.png&amp;#34; alt=&amp;#34;python_logo&amp;#34;&amp;gt; In Python, most libraries are available using the pip install process. But for cases, where you are distributing code to be installed in customer sites where you may or may not have a internet connection to the pip libraries, you resort to the legacy setup.py process.&#xA;When you install using the setup.py process, the setup.py copies it&amp;rsquo;s collection of python files to the site-packages folder for your python virtual-environment.</description>
     </item>
   </channel>

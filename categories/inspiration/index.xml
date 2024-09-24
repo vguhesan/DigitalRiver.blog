@@ -2,24 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inspiration on Digital River</title>
-    <link>http://0.0.0.0:1313/categories/inspiration/</link>
+    <link>https://DigitalRiver.blog/categories/inspiration/</link>
     <description>Recent content in Inspiration on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/categories/inspiration/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Best Practices and Guide To Work-life Balance</title>
-      <link>http://0.0.0.0:1313/post/2020-09-24-best-practices-guide/</link>
-      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/post/2020-09-24-best-practices-guide/</guid>
-      <description>Using prismjs start = datetime.now() # Then call some long running code or function here end = datetime.now() diff = end - start print type(diff) print diff days = diff.days # Get Day hours,remainder = divmod(diff.seconds,3600) # Get Hour minutes,seconds = divmod(remainder,60) # Get Minute &amp; Second print(f&#39;Elapsed Time: {days} Days, {hours} Hours, {minutes} Minutes, {seconds} Seconds.&#39;) Section-1&#xA;Why am I doing this? My manager at work asked me to compile a list of tips and best practices that can be given to a fellow consultant to help guide them on the journey of successful consulting.</description>
-    </item>
+    <lastBuildDate>Tue, 28 Nov 2017 18:22:13 -0500</lastBuildDate>
+    <atom:link href="https://DigitalRiver.blog/categories/inspiration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>15 year old teen invents device to detect a silent heart attack six hours before it occurs</title>
-      <link>http://0.0.0.0:1313/post/2017-11-28-15-year-old-invents-device-to-detect-heart-attack-6-hours-before-it-occurs/</link>
+      <link>https://DigitalRiver.blog/post/2017-11-28-15-year-old-invents-device-to-detect-heart-attack-6-hours-before-it-occurs/</link>
       <pubDate>Tue, 28 Nov 2017 18:22:13 -0500</pubDate>
-      <guid>http://0.0.0.0:1313/post/2017-11-28-15-year-old-invents-device-to-detect-heart-attack-6-hours-before-it-occurs/</guid>
+      <guid>https://DigitalRiver.blog/post/2017-11-28-15-year-old-invents-device-to-detect-heart-attack-6-hours-before-it-occurs/</guid>
       <description>This article was compiled from various blog sites that discussed the invention and details of the invention developed by Akash Manoj - a fifteen year old child prodigy over a three to five year period. The objective of this blog article is to describe his achievement and to provide a scientific detail around his invention (which I found lacking in other articles on-line). I felt that by providing the foundation and a road-map on how he devised the solution will encourage others to follow their inner creativity and dreams to achieve their desires and goals.</description>
     </item>
   </channel>

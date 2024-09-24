@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simulation on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/simulation/</link>
+    <link>https://DigitalRiver.blog/tags/simulation/</link>
     <description>Recent content in Simulation on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Apr 2017 15:27:56 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What if we’re living in a computer simulation? | Technology | The Guardian</title>
-      <link>http://0.0.0.0:1313/2017/04/24/what-if-were-living-in-a-computer-simulation-technology-the-guardian/</link>
+      <link>https://DigitalRiver.blog/2017/04/24/what-if-were-living-in-a-computer-simulation-technology-the-guardian/</link>
       <pubDate>Mon, 24 Apr 2017 15:27:56 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2017/04/24/what-if-were-living-in-a-computer-simulation-technology-the-guardian/</guid>
+      <guid>https://DigitalRiver.blog/2017/04/24/what-if-were-living-in-a-computer-simulation-technology-the-guardian/</guid>
       <description> &amp;lt;img src=&amp;#34;https://i.guim.co.uk/img/media/6a7e7c19ac79a3b9be199f8c5798a813107a5b90/0_0_1930_1158/master/1930.jpg?w=300&amp;amp;amp;q=55&amp;amp;amp;auto=format&amp;amp;amp;usm=12&amp;amp;amp;fit=max&amp;amp;amp;s=85e6a8e12d37b3885dff8a5fd5ca19d2&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Virtual reality technology is making great advances, but it has also helped popularise a theory long debated by philosophers and now gaining supporters in Silicon Valley – that the outside world is itself a simulation&#xA;Source: What if we’re living in a computer simulation? | Technology | The Guardian </description>
     </item>
   </channel>

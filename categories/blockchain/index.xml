@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blockchain on Digital River</title>
-    <link>http://0.0.0.0:1313/categories/blockchain/</link>
+    <link>https://DigitalRiver.blog/categories/blockchain/</link>
     <description>Recent content in Blockchain on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Aug 2017 01:15:28 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IBM, Kroger, Walmart and others team up to improve food safety with blockchains – TechCrunch</title>
-      <link>http://0.0.0.0:1313/2017/08/23/ibm-kroger-walmart-and-others-team-up-to-improve-food-safety-with-blockchains-techcrunch/</link>
+      <link>https://DigitalRiver.blog/2017/08/23/ibm-kroger-walmart-and-others-team-up-to-improve-food-safety-with-blockchains-techcrunch/</link>
       <pubDate>Wed, 23 Aug 2017 01:15:28 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2017/08/23/ibm-kroger-walmart-and-others-team-up-to-improve-food-safety-with-blockchains-techcrunch/</guid>
+      <guid>https://DigitalRiver.blog/2017/08/23/ibm-kroger-walmart-and-others-team-up-to-improve-food-safety-with-blockchains-techcrunch/</guid>
       <description>Article on how companies including IBM, Kroger, Walmart are teaming up to improve food safety with Blockchains (article is from TechCruch)&#xA;https://techcrunch.com/2017/08/22/ibm-costco-walmart-and-others-team-up-to-improve-food-safety-with-blockchains/amp/ </description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZeroClipboard on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/zeroclipboard/</link>
+    <link>https://DigitalRiver.blog/tags/zeroclipboard/</link>
     <description>Recent content in ZeroClipboard on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Oct 2011 23:52:28 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/zeroclipboard/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/zeroclipboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Copy to Clipboard - a browser agnostic way to script this functionality</title>
-      <link>http://0.0.0.0:1313/2011/10/31/copy-to-clipboard-a-browser-agnostic-way-to-script-this-functionality/</link>
+      <link>https://DigitalRiver.blog/2011/10/31/copy-to-clipboard-a-browser-agnostic-way-to-script-this-functionality/</link>
       <pubDate>Mon, 31 Oct 2011 23:52:28 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2011/10/31/copy-to-clipboard-a-browser-agnostic-way-to-script-this-functionality/</guid>
+      <guid>https://DigitalRiver.blog/2011/10/31/copy-to-clipboard-a-browser-agnostic-way-to-script-this-functionality/</guid>
       <description>Have you tried to present some code or sample content for the end-user that you wanted to allow them to easily copy to their clip-board?&#xA;If you use the JQuery Javascript library then you can use the plugin called zClip available here - zClip Using zclip you can attach an event to a button or a text-area such that when the event occurs, the content is copied to the clipboard.</description>
     </item>
   </channel>

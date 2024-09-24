@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VirtualBox on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/virtualbox/</link>
+    <link>https://DigitalRiver.blog/tags/virtualbox/</link>
     <description>Recent content in VirtualBox on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/virtualbox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://DigitalRiver.blog/tags/virtualbox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing VirtualBox 7.1.0 on Mac OSx and installing a guest machine with Ubuntu 22.04.5 LTS</title>
+      <link>https://DigitalRiver.blog/post/2024-09-23/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://DigitalRiver.blog/post/2024-09-23/</guid>
+      <description>Developer Notes: Installing VirtualBox 7.1.0 on Mac OSx and installing a guest machine with Ubuntu 22.04.5 LTS Host: VirtualBox 7.1.0 on Mac OSx - Guest: Ubuntu 22.04.5 LTS - Notes Mac Silicon: uname -a ... arm64 # Macbook M2 is based on AARCH64 (which is now called ARM64) Ubuntu 22.04.5 LTS (Jammy Jellyfish) - Daily Build: https://cdimage.ubuntu.com/jammy/daily-live/current/ Use the one that says &amp;ldquo;64-bit ARM (ARMv8/AArch64) desktop image / For 64-bit ARMv8 processors and above.</description>
+    </item>
     <item>
       <title>**fix** VirtualBox installer fails on Windows 11 (program compatibility issue)</title>
-      <link>http://0.0.0.0:1313/post/2022-01-2/</link>
+      <link>https://DigitalRiver.blog/post/2022-01-2/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/post/2022-01-2/</guid>
+      <guid>https://DigitalRiver.blog/post/2022-01-2/</guid>
       <description>What is this article about? When you try to install VirtualBox v.6.1.30 on Windows 11, you will see the following error:&#xA;This app can&#39;t run on this device: This app can&amp;rsquo;t run because it causes security performance issue on Windows. A new version may be available. Check with your software provider for an updated version that runs on this version of Windows.&#xA;It will further prevent you from executing the installer.</description>
     </item>
     <item>
       <title>Python pycharm - configuring remote interpreters from Windows to Linux</title>
-      <link>http://0.0.0.0:1313/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</link>
+      <link>https://DigitalRiver.blog/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</link>
       <pubDate>Fri, 20 Apr 2012 19:32:53 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</guid>
+      <guid>https://DigitalRiver.blog/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</guid>
       <description>If you are an avid Python developer, you may all be excited about the new features available in the Pycharm 2.5 release, especially the remote interpreters, virtualenv and setup.py support. You can read more about the new exciting features here .&#xA;But as I started to tinker with the &amp;ldquo;remote interpreter&amp;rdquo; feature - I stumbled upon some challenges and I thought I&amp;rsquo;d document them for other PyCharm users who might benefit from this blog entry.</description>
     </item>
   </channel>

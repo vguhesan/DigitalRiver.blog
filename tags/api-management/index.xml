@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>API Management on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/api-management/</link>
+    <link>https://DigitalRiver.blog/tags/api-management/</link>
     <description>Recent content in API Management on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Mar 2017 14:21:54 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/api-management/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/api-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Where API Management Is Headed in 2017 - DZone Integration</title>
-      <link>http://0.0.0.0:1313/2017/03/13/where-api-management-is-headed-in-2017-dzone-integration/</link>
+      <link>https://DigitalRiver.blog/2017/03/13/where-api-management-is-headed-in-2017-dzone-integration/</link>
       <pubDate>Mon, 13 Mar 2017 14:21:54 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2017/03/13/where-api-management-is-headed-in-2017-dzone-integration/</guid>
+      <guid>https://DigitalRiver.blog/2017/03/13/where-api-management-is-headed-in-2017-dzone-integration/</guid>
       <description> &amp;lt;img src=&amp;#34;/img/2017/03/api-infinity-diagram-for-david-chiu-blog-1024x576.jpg&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; In terms of API management in 2017, analysts are scrambling to catch up. Full lifecycle API management, security, and orchestration must be top considerations.&#xA;Source: Where API Management Is Headed in 2017 - DZone Integration </description>
     </item>
   </channel>

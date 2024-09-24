@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>India on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/india/</link>
+    <link>https://DigitalRiver.blog/tags/india/</link>
     <description>Recent content in India on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/india/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/india/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Airtel / International Roaming / Not receiving OTPs or SMS from India while abroad or in USA?</title>
-      <link>http://0.0.0.0:1313/post/2024-07-12/</link>
+      <link>https://DigitalRiver.blog/post/2024-07-12/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/post/2024-07-12/</guid>
+      <guid>https://DigitalRiver.blog/post/2024-07-12/</guid>
       <description>TLDR Level up on how to continue to receive OTPs and SMS notifications free of cost on your Airtel phones from India.&#xA;Why did I write this article? Recently, my mother, who frequently travels between India and the USA, was shocked to receive a Rs. 18,000 (approximately $230 USD) bill from Airtel for the month of July. This article summarizes my findings and insights into what went wrong and how we can avoid such costly bills in the future.</description>
     </item>
     <item>
       <title>Traveling Abroad? Troubleshooting 5G Challenges in India and Abroad</title>
-      <link>http://0.0.0.0:1313/post/2024-01-1/</link>
+      <link>https://DigitalRiver.blog/post/2024-01-1/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/post/2024-01-1/</guid>
+      <guid>https://DigitalRiver.blog/post/2024-01-1/</guid>
       <description>What is this article about? This article assumes that you plan to buy a phone in the US (UK, Europe or AU) to add an India SIM card from one of the popular three telecom providers - Bharati Airtel, Reliance Jio or Vodaphone. It covers the basics on how to ensure that the network bands supported on your phone are compatible with what is available in India.&#xA;What this article is NOT about?</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Italy on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/italy/</link>
+    <link>https://DigitalRiver.blog/tags/italy/</link>
     <description>Recent content in Italy on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Aug 2014 22:14:56 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/italy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/italy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photos from Venice, Italy</title>
-      <link>http://0.0.0.0:1313/2014/08/21/photos-from-venice-italy/</link>
+      <link>https://DigitalRiver.blog/2014/08/21/photos-from-venice-italy/</link>
       <pubDate>Thu, 21 Aug 2014 22:14:56 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2014/08/21/photos-from-venice-italy/</guid>
+      <guid>https://DigitalRiver.blog/2014/08/21/photos-from-venice-italy/</guid>
       <description>Here are a few photos I took while in Venice, Italy.</description>
     </item>
   </channel>

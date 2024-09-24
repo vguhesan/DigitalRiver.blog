@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Node on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/node/</link>
+    <link>https://DigitalRiver.blog/tags/node/</link>
     <description>Recent content in Node on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Sep 2019 23:53:36 -0400</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/node/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/node/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Microservices</title>
-      <link>http://0.0.0.0:1313/post/2019-09-06-understanding_microservices/</link>
+      <link>https://DigitalRiver.blog/post/2019-09-06-understanding_microservices/</link>
       <pubDate>Fri, 06 Sep 2019 23:53:36 -0400</pubDate>
-      <guid>http://0.0.0.0:1313/post/2019-09-06-understanding_microservices/</guid>
+      <guid>https://DigitalRiver.blog/post/2019-09-06-understanding_microservices/</guid>
       <description>tl;dr Understanding how we got here and the problem that it solves will help understand what Microservices is all about.&#xA;A few months back, I gave a presentation at Leidos Cloud User Group on the topic of &amp;ldquo;Understanding Microservices&amp;rdquo;. To my astonishment, we had about 123 folks that attended the presentation. I felt that it&amp;rsquo;s best that I share this knowledge with the world. I have also created a short (and sweet) implementation of Microservices using JavaScript Cote.</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/programming/</link>
+    <link>https://DigitalRiver.blog/tags/programming/</link>
     <description>Recent content in Programming on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Apr 2017 16:26:27 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>uvloop - Python replacement for asyncio event loop</title>
-      <link>http://0.0.0.0:1313/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</link>
+      <link>https://DigitalRiver.blog/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</link>
       <pubDate>Sat, 01 Apr 2017 16:26:27 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</guid>
+      <guid>https://DigitalRiver.blog/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</guid>
       <description>&amp;lt;img src=&amp;#34;/img/2016/09/python_logo.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; uvloop is a fast, drop-in replacement of the built-in asyncio event loop. uvloop is implemented in Cython and uses libuv under the hood.&#xA;Benefits: uvloop makes asyncio 2-4x faster.&#xA;Cons: uvloop is available from PyPI but it requires Python 3.5. (The reason for this is asyncio was introduced in Python 3.4 and above.) Unless your project is based on Python 3.4+ - you may not be able to leverage this library.</description>
     </item>
     <item>
       <title>Your password is probably useless, says coding guru Jeff Atwood. Here&#39;s why | ZDNet</title>
-      <link>http://0.0.0.0:1313/2017/03/13/your-password-is-probably-useless-says-coding-guru-jeff-atwood-heres-why-zdnet/</link>
+      <link>https://DigitalRiver.blog/2017/03/13/your-password-is-probably-useless-says-coding-guru-jeff-atwood-heres-why-zdnet/</link>
       <pubDate>Mon, 13 Mar 2017 14:10:41 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2017/03/13/your-password-is-probably-useless-says-coding-guru-jeff-atwood-heres-why-zdnet/</guid>
+      <guid>https://DigitalRiver.blog/2017/03/13/your-password-is-probably-useless-says-coding-guru-jeff-atwood-heres-why-zdnet/</guid>
       <description> &amp;lt;img src=&amp;#34;/img/2017/03/passwordicon1.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; The best way to improve passwords is to think like the user and stop creating bad password-composition rules, Stack Overflow founder Jeff Atwood tells developers.&#xA;Source: Your password is probably useless, says coding guru Jeff Atwood. Here&amp;amp;rsquo;s why | ZDNet </description>
     </item>
   </channel>

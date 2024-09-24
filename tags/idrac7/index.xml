@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IDRAC7 on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/idrac7/</link>
+    <link>https://DigitalRiver.blog/tags/idrac7/</link>
     <description>Recent content in IDRAC7 on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Nov 2016 19:15:50 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/idrac7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/idrac7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mac OS X iDRAC7 FileNotFoundException .java/deployment/security/trusted.certs</title>
-      <link>http://0.0.0.0:1313/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</link>
+      <link>https://DigitalRiver.blog/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</link>
       <pubDate>Thu, 17 Nov 2016 19:15:50 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</guid>
+      <guid>https://DigitalRiver.blog/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</guid>
       <description>&amp;lt;img src=&amp;#34;/img/2016/11/macosx_blogarticle_100px.png&amp;#34; alt=&amp;#34;macosx_blogarticle_100px&amp;#34;&amp;gt; When you connect with a Dell iDRAC virtual console you may encounter the following exception on a Mac OS X&#xA;FileNotFoundException ~/.java/deployment/security/trusted.certs&#xA;Here is a simple fix for this:&#xA;mkdir -p ~/.java/deployment/security cp ~/Library/Application\ Support/Oracle/Java/Deployment/security/trusted.certs ~/.java/deployment/security/ Cheers.</description>
     </item>
   </channel>

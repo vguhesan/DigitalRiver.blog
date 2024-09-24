@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mac OS X on Digital River</title>
-    <link>http://0.0.0.0:1313/categories/mac-os-x/</link>
+    <link>https://DigitalRiver.blog/categories/mac-os-x/</link>
     <description>Recent content in Mac OS X on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/categories/mac-os-x/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/categories/mac-os-x/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who is using port 7000 on my Mac OS X?</title>
-      <link>http://0.0.0.0:1313/post/2024-02-24/</link>
+      <link>https://DigitalRiver.blog/post/2024-02-24/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/post/2024-02-24/</guid>
+      <guid>https://DigitalRiver.blog/post/2024-02-24/</guid>
       <description>What is this article about? After you upgrade your MacOS to 12.1 or above, you will notice that something is using port 7000. This will impact developers that start up local development instances that leverages port 7000. The same with people that use Docker Desktop.&#xA;TLDR Port 7000 is used by Mac Airplay Receiver.&#xA;On your Mac settings, simply goto:&#xA;System Settings -&amp;gt; General -&amp;gt; Airdrop &amp;amp; Handoff -&amp;gt; Airplay receiver # And turn it OFF / Or optionally choose a different port for your development application Troubleshoot the details # Run the following command to see what&amp;#39;s using port 7000 on your Mac: lsof -i TCP:7000 # Sample output, your details may vary COMMAND PID USER FD TYPE DEVICE SIZE/OFF NODE NAME ControlCe 617 me 6u IPv4 0x8ed.</description>
     </item>
     <item>
       <title>Create MP4 video file from Quicktime Mov file on a Mac OS X</title>
-      <link>http://0.0.0.0:1313/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/</link>
+      <link>https://DigitalRiver.blog/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/</link>
       <pubDate>Tue, 19 Sep 2017 02:06:43 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/</guid>
+      <guid>https://DigitalRiver.blog/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/</guid>
       <description>If you do a screen recording on a Mac, you are most likely using the free Quicktime player that comes with Mac OS X. If you are lucky enough to own a Quicktime Pro then you can simply do an Export &amp;gt; Save-As MP4. For those of you that do not have a Quicktime Pro, then you can use this option.&#xA;brew install ffmpeg # After installation, you can traverse into the directory where you have the .</description>
     </item>
     <item>
       <title>Mac OS X iDRAC7 FileNotFoundException .java/deployment/security/trusted.certs</title>
-      <link>http://0.0.0.0:1313/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</link>
+      <link>https://DigitalRiver.blog/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</link>
       <pubDate>Thu, 17 Nov 2016 19:15:50 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</guid>
+      <guid>https://DigitalRiver.blog/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</guid>
       <description>&amp;lt;img src=&amp;#34;/img/2016/11/macosx_blogarticle_100px.png&amp;#34; alt=&amp;#34;macosx_blogarticle_100px&amp;#34;&amp;gt; When you connect with a Dell iDRAC virtual console you may encounter the following exception on a Mac OS X&#xA;FileNotFoundException ~/.java/deployment/security/trusted.certs&#xA;Here is a simple fix for this:&#xA;mkdir -p ~/.java/deployment/security cp ~/Library/Application\ Support/Oracle/Java/Deployment/security/trusted.certs ~/.java/deployment/security/ Cheers.</description>
     </item>
     <item>
       <title>Solved: git status failed with code 69 error when opening SourceTree in Mac OS X</title>
-      <link>http://0.0.0.0:1313/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</link>
+      <link>https://DigitalRiver.blog/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</link>
       <pubDate>Thu, 24 Sep 2015 19:10:17 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</guid>
+      <guid>https://DigitalRiver.blog/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</guid>
       <description>If you receive the following error when opening SourceTree or other applications installed in your Mac OS X, then here is how you can solve it. Sometimes people make things more cryptic than it needs to be.&#xA;Error encountered &amp;lsquo;git status&amp;rsquo; failed with code 69:&amp;rsquo;&#xA;Agreeing to the Xcode/iOS license requires admin privileges, please re-run as root via sudo.&#xA;and here is the example of the screenshot:&#xA;&amp;lt;img src=&amp;#34;/img/2015/09/2015-09-24_14-50-56.jpg&amp;#34; alt=&amp;#34;2015-09-24_14-50-56&amp;#34;&amp;gt; Solution:</description>
     </item>
   </channel>

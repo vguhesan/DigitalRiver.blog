@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KairosDB on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/kairosdb/</link>
+    <link>https://DigitalRiver.blog/tags/kairosdb/</link>
     <description>Recent content in KairosDB on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Mar 2016 19:34:11 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/kairosdb/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/kairosdb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kairosdb - Cassandra - localhost:9160 - connection refused</title>
-      <link>http://0.0.0.0:1313/2016/03/14/kairosdb-cassandra-localhost9160-connection-refused/</link>
+      <link>https://DigitalRiver.blog/2016/03/14/kairosdb-cassandra-localhost9160-connection-refused/</link>
       <pubDate>Mon, 14 Mar 2016 19:34:11 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2016/03/14/kairosdb-cassandra-localhost9160-connection-refused/</guid>
+      <guid>https://DigitalRiver.blog/2016/03/14/kairosdb-cassandra-localhost9160-connection-refused/</guid>
       <description>&amp;lt;img src=&amp;#34;/img/2016/03/kairosdb_cassandra.png&amp;#34; alt=&amp;#34;kairosdb_cassandra&amp;#34;&amp;gt; If you install the latest KariosDB and Cassandra, when you try starting KariosDB pointing to the Cassandra storage, you will see the following exception:&#xA;03-14|14:24:42.331 [main] ERROR [HConnectionManager.java:71] - Could not start connection pool for host localhost(127.0.0.1):9160 03-14|14:24:42.331 [main] INFO [CassandraHostRetryService.java:68] - Host detected as down was added to retry queue: localhost(127.0.0.1):9160 03-14|14:24:42.332 [Hector.me.prettyprint.cassandra.connection.CassandraHostRetryService-1] DEBUG [HThriftClient.java:152] - Creating a new thrift connection to localhost(127.0.0.1):9160 03-14|14:24:42.334 [Hector.me.prettyprint.cassandra.connection.CassandraHostRetryService-1] DEBUG [HThriftClient.</description>
     </item>
   </channel>

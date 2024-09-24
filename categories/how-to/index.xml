@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How-To on Digital River</title>
-    <link>http://0.0.0.0:1313/categories/how-to/</link>
+    <link>https://DigitalRiver.blog/categories/how-to/</link>
     <description>Recent content in How-To on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 May 2017 23:39:48 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/categories/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/categories/how-to/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux Routes - How to use them?</title>
-      <link>http://0.0.0.0:1313/post/2017-05-11-how-to-add-route-in-linux/</link>
+      <link>https://DigitalRiver.blog/post/2017-05-11-how-to-add-route-in-linux/</link>
       <pubDate>Thu, 11 May 2017 23:39:48 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/post/2017-05-11-how-to-add-route-in-linux/</guid>
+      <guid>https://DigitalRiver.blog/post/2017-05-11-how-to-add-route-in-linux/</guid>
       <description> &amp;lt;img src=&amp;#34;/img/2017/05/route-command.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Examples of Route Command and it&amp;rsquo;s usage.&#xA;Source: 7 Linux Route Command Examples (How to Add Route in Linux) To learn the fundamentals of Routing, please visit the link below:&#xA;Fundamentals of Routing </description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Storage on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/storage/</link>
+    <link>https://DigitalRiver.blog/tags/storage/</link>
     <description>Recent content in Storage on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jun 2016 14:54:00 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/storage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/storage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New &#39;Superman&#39; crystals can store data for billions of years</title>
-      <link>http://0.0.0.0:1313/2016/06/13/new-superman-crystals-can-store-data-for-billions-of-years/</link>
+      <link>https://DigitalRiver.blog/2016/06/13/new-superman-crystals-can-store-data-for-billions-of-years/</link>
       <pubDate>Mon, 13 Jun 2016 14:54:00 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2016/06/13/new-superman-crystals-can-store-data-for-billions-of-years/</guid>
+      <guid>https://DigitalRiver.blog/2016/06/13/new-superman-crystals-can-store-data-for-billions-of-years/</guid>
       <description>New &amp;lsquo;Superman&amp;rsquo; crystals can store data for billions of years&#xA;http://money.cnn.com/2016/02/17/technology/5d-data-storage-memory-crystals/index.html?iid=surge-story-summary </description>
     </item>
     <item>
       <title>Intel&#39;s miracle chip could make your gadgets 1,000 times faster</title>
-      <link>http://0.0.0.0:1313/2016/06/13/intels-miracle-chip-could-make-your-gadgets-1000-times-faster/</link>
+      <link>https://DigitalRiver.blog/2016/06/13/intels-miracle-chip-could-make-your-gadgets-1000-times-faster/</link>
       <pubDate>Mon, 13 Jun 2016 14:52:05 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2016/06/13/intels-miracle-chip-could-make-your-gadgets-1000-times-faster/</guid>
+      <guid>https://DigitalRiver.blog/2016/06/13/intels-miracle-chip-could-make-your-gadgets-1000-times-faster/</guid>
       <description>Intel and Micron say they have a new computer chip that will make your gadgets significantly faster, more durable and able to store way more data.&#xA;http://money.cnn.com/2015/07/29/technology/intel-3d-xpoint-chip/index.html?iid=EL </description>
     </item>
   </channel>
