@@ -9,11 +9,11 @@
     <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/categories/ubuntu/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Installing VirtualBox 7.1.0 on Mac OSx and installing a guest machine with Ubuntu 22.04.5 LTS</title>
+      <title>Installing VirtualBox 7.1.0 on macOS and installing a Linux guest machine with Ubuntu 22.04.5 LTS</title>
       <link>https://DigitalRiver.blog/post/2024-09-23/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://DigitalRiver.blog/post/2024-09-23/</guid>
-      <description>Developer Notes: Installing VirtualBox 7.1.0 on Mac OSx and installing a guest machine with Ubuntu 22.04.5 LTS Host: VirtualBox 7.1.0 on Mac OSx - Guest: Ubuntu 22.04.5 LTS - Notes Mac Silicon: uname -a ... arm64 # Macbook M2 is based on AARCH64 (which is now called ARM64) Ubuntu 22.04.5 LTS (Jammy Jellyfish) - Daily Build: https://cdimage.ubuntu.com/jammy/daily-live/current/ Use the one that says &amp;ldquo;64-bit ARM (ARMv8/AArch64) desktop image / For 64-bit ARMv8 processors and above.</description>
+      <description>Gist: Developer Notes: Installing VirtualBox 7.1.0 on macOS and installing a Linux guest machine with Ubuntu 22.04.5 LTS&#xA;Host: macOS with M2 Silicon Download Mac Silicon (determine hardware): uname -a ... arm64 # Macbook M2 is based on AARCH64 (which is now called ARM64) Ubuntu 22.04.5 LTS (Jammy Jellyfish) - Daily Build: https://cdimage.ubuntu.com/jammy/daily-live/current/ Use the one that says &amp;ldquo;64-bit ARM (ARMv8/AArch64) desktop image / For 64-bit ARMv8 processors and above.</description>
     </item>
   </channel>
 </rss>
