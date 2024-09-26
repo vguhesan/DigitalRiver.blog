@@ -6,14 +6,14 @@
     <description>Recent content in VirtualBox on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/categories/virtualbox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing VirtualBox 7.1.0 on macOS and installing a Linux guest machine with Ubuntu 22.04.5 LTS</title>
       <link>https://DigitalRiver.blog/post/2024-09-23/</link>
-      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://DigitalRiver.blog/post/2024-09-23/</guid>
-      <description>Gist: Developer Notes: Installing VirtualBox 7.1.0 on macOS and installing a Linux guest machine with Ubuntu 22.04.5 LTS&#xA;Host: macOS with M2 Silicon Download Mac Silicon (determine hardware): uname -a ... arm64 # Macbook M2 is based on AARCH64 (which is now called ARM64) Ubuntu 22.04.5 LTS (Jammy Jellyfish) - Daily Build: https://cdimage.ubuntu.com/jammy/daily-live/current/ Use the one that says &amp;ldquo;64-bit ARM (ARMv8/AArch64) desktop image / For 64-bit ARMv8 processors and above.</description>
+      <description>Gist: Developer Notes: Installing VirtualBox 7.1.0 on macOS and installing a Linux guest machine with Ubuntu 22.04.5 LTS&#xA;Rather than cloning the changes in two different places, I&amp;rsquo;m linking the developer notes shared on my GitHub repository here: https://github.com/vguhesan/devnotes-virtualbox Presentation Slides: PowerPoint version | PDF version Cheers!&#xA;If you would like to show your support then consider subscribing below and/or buy me a cup of joe (I live on coffee and coffee makes me a better scribe):</description>
     </item>
   </channel>
 </rss>
