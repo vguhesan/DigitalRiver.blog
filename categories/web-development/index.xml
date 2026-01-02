@@ -6,35 +6,35 @@
     <description>Recent content in Web Development on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2011 17:34:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jul 2011 00:00:00 -0400</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/categories/web-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Not all Tomcat 6 classloaders must be equal</title>
       <link>https://DigitalRiver.blog/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</link>
-      <pubDate>Fri, 01 Jul 2011 17:34:46 +0000</pubDate>
+      <pubDate>Sat, 02 Jul 2011 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</guid>
-      <description>Today, while doing some Grails development I came across a peculiar issue that perplexed me and I&amp;rsquo;m documenting it for all others to benefit. (Also see my other blog from today for the issue that started this journey).&#xA;Here are my specifications:&#xA;Development Machine&#xA;Windows-7, 64-bit&#xA;java version &amp;ldquo;1.6.0_24&amp;rdquo; Java(TM) SE Runtime Environment (build 1.6.0_24-b07) Java HotSpot(TM) 64-Bit Server VM (build 19.1-b02, mixed mode)&#xA;Grails 1.4.0.M1&#xA;Tomcat - apache-tomcat64-6.0.32&#xA;Local Deployment Server</description>
+      <description>&lt;p&gt;Today, while doing some Grails development I came across a peculiar issue that perplexed me and I&amp;rsquo;m documenting it for all others to benefit. (Also see my other blog from today for the issue that started this journey).&lt;/p&gt;&#xA;&lt;p&gt;Here are my specifications:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Development Machine&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Windows-7, 64-bit&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;java version &amp;ldquo;1.6.0_24&amp;rdquo;&#xA;Java(TM) SE Runtime Environment (build 1.6.0_24-b07)&#xA;Java HotSpot(TM) &lt;strong&gt;64-Bit Server VM&lt;/strong&gt; (build 19.1-b02, mixed mode)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Grails 1.4.0.M1&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Tomcat - apache-tomcat64-6.0.32&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Local Deployment Server&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tomcat 6&#43;: Infamous &#34;SEVERE: Error listenerStart&#34; message - How-To debug this error?</title>
       <link>https://DigitalRiver.blog/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</link>
       <pubDate>Fri, 01 Jul 2011 17:10:55 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</guid>
-      <description>I&amp;rsquo;m sure if you have been developing with Java and Tomcat for sometime, you are likely to run into the infamous debug error.&#xA;SEVERE: Error listenerStart&#xA;You will most likely start Googling it trying to find out what the heck is going on. And in trying to see the extended logging on what that &amp;ldquo;listenerStart&amp;rdquo; error means. After some lucky searches, you will see links asking you to drop a &amp;ldquo;log4j.</description>
+      <description>&lt;p&gt;I&amp;rsquo;m sure if you have been developing with Java and Tomcat for sometime, you are likely to run into the infamous debug error.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;SEVERE: Error listenerStart&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;You will most likely start Googling it trying to find out what the heck is going on. And in trying to see the extended logging on what that &amp;ldquo;listenerStart&amp;rdquo; error means. After some lucky searches, you will see links asking you to drop a &amp;ldquo;log4j.properties&amp;rdquo; file under &amp;lsquo;/WEB-INF/classes&amp;rsquo; directory inside your WAR to help debug which one of the listeners is throwing this crazy error.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How-To: Turn off Firefox browser cache during development</title>
       <link>https://DigitalRiver.blog/2011/06/22/how-to-turn-off-firefox-browser-cache-during-development/</link>
       <pubDate>Wed, 22 Jun 2011 14:13:36 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2011/06/22/how-to-turn-off-firefox-browser-cache-during-development/</guid>
-      <description>Sometimes (when your are developing) you may want to force fetching all content fresh all the time including images, resources such as style sheet etc. To facilitate this you can do the following:&#xA;Open a new window or tab in Firefox.&#xA;Type about:config in the address bar.&#xA;Search for &amp;ldquo;cache&amp;rdquo; in the search bar and look for network.http.use-cache in the filtered results.&#xA;Double-click it will toggle it from &amp;ldquo;true&amp;rdquo; to &amp;ldquo;false&amp;rdquo;.</description>
+      <description>&lt;p&gt;Sometimes (when your are developing) you may want to force fetching all content fresh all the time including images, resources such as style sheet etc. To facilitate this you can do the following:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Open a new window or tab in Firefox.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Type &lt;code&gt;about:config &lt;/code&gt;in the address bar.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Search for &amp;ldquo;cache&amp;rdquo; in the search bar and look for &lt;code&gt;network.http.use-cache&lt;/code&gt; in the filtered results.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Double-click it will toggle it from &amp;ldquo;true&amp;rdquo; to &amp;ldquo;false&amp;rdquo;. Default should be &amp;ldquo;true&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Add custom jars under &#34;\WEB-INF\lib&#34; in a Maven project</title>
       <link>https://DigitalRiver.blog/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</link>
       <pubDate>Sat, 02 Oct 2010 18:28:00 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</guid>
-      <description>The answer is a lot simpler than you think. But before we explore the answer, I should warn you that this approach is not what is recommended by Maven. Maven builds upon consistency and structure and this process goes away from that methodology. In Maven, you can take each of your jars\libraries and add them to your local repository and then include them as needed in your projects. If you want to go the proper route here’s how you do it .</description>
+      <description>&lt;p&gt;The answer is a lot simpler than you think. But before we explore the answer, I should warn you that this approach is not what is recommended by Maven. Maven builds upon consistency and structure and this process goes away from that methodology. In Maven, you can take each of your jars\libraries and add them to your local repository and then include them as needed in your projects. If you want to go the proper route &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://maven.apache.org/general.html#importing-jars&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;here’s how you do it&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;. This keeps a consistent version in all your projects and can allow you to gracefully update the library as new versions become available.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

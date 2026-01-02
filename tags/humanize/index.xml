@@ -6,14 +6,14 @@
     <description>Recent content in Humanize on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 -0400</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/humanize/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python humanize time-interval without Arrow or Humanize libraries</title>
-      <link>https://DigitalRiver.blog/post/2020-05-26-python-humanize-time-interval-without-external-libraries/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/post/2020-05-26-python-humanize-time-interval-without-external-libraries/</guid>
-      <description>tl;dr Sometimes when we need to debug functions in Python, we need a way to write some quick timer code to capture the time-delta and to compute the time it took for the function to execute. This article shows you a quick and easy way to humanize a time-interval/time-delta without bringing in additional dependencies or libraries like Arrow or Humanize.&#xA;Elapsed Time: 2 Days, 5 Hours, 7 Minutes, 13 Seconds Yucel Moral (@yucelmoran) at Unsplash</description>
+      <link>https://DigitalRiver.blog/post/2020-05-26/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 -0400</pubDate>
+      <guid>https://DigitalRiver.blog/post/2020-05-26/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; Sometimes when we need to debug functions in Python, we need a way to write some quick timer code to capture the time-delta and to compute the time it took for the function to execute. This article shows you a quick and easy way to humanize a time-interval/time-delta without bringing in additional dependencies or libraries like Arrow or Humanize.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;Elapsed Time: 2 Days, 5 Hours, 7 Minutes, 13 Seconds &#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;figure class=&#34;aligncenter round-img-border imgframe-left-pad&#34;&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/2020/05/unsplash1.jpg&#34;&#xA;    alt=&#34;Yucel Moral (@yucelmoran) at Unsplash&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Yucel Moral (@yucelmoran) at Unsplash&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

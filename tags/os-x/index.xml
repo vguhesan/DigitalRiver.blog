@@ -13,14 +13,7 @@
       <link>https://DigitalRiver.blog/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/</link>
       <pubDate>Tue, 19 Sep 2017 02:06:43 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/</guid>
-      <description>If you do a screen recording on a Mac, you are most likely using the free Quicktime player that comes with Mac OS X. If you are lucky enough to own a Quicktime Pro then you can simply do an Export &amp;gt; Save-As MP4. For those of you that do not have a Quicktime Pro, then you can use this option.&#xA;brew install ffmpeg # After installation, you can traverse into the directory where you have the .</description>
-    </item>
-    <item>
-      <title>Mac OS X iDRAC7 FileNotFoundException .java/deployment/security/trusted.certs</title>
-      <link>https://DigitalRiver.blog/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</link>
-      <pubDate>Thu, 17 Nov 2016 19:15:50 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</guid>
-      <description>&amp;lt;img src=&amp;#34;/img/2016/11/macosx_blogarticle_100px.png&amp;#34; alt=&amp;#34;macosx_blogarticle_100px&amp;#34;&amp;gt; When you connect with a Dell iDRAC virtual console you may encounter the following exception on a Mac OS X&#xA;FileNotFoundException ~/.java/deployment/security/trusted.certs&#xA;Here is a simple fix for this:&#xA;mkdir -p ~/.java/deployment/security cp ~/Library/Application\ Support/Oracle/Java/Deployment/security/trusted.certs ~/.java/deployment/security/ Cheers.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/2016/11/macosx_blogarticle_100px.png&#34; alt=&#34;macosx_blogarticle_100px&#34;&gt;If you do a screen recording on a Mac, you are most likely using the free Quicktime player that comes with Mac OS X. If you are lucky enough to own a Quicktime Pro then you can simply do an Export &amp;gt; Save-As MP4. For those of you that do not have a Quicktime Pro, then you can use this option.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code class=&#34;language-bash line-numbers&#34;&gt;brew install ffmpeg&#xA;&#xA;# After installation, you can traverse into the directory where you have the .mov file and run the following&#xA;&#xA;ffmpeg -i input-file-name.mov output-file-name.mp4&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Not sure what Brew is? It&amp;rsquo;s the missing package package manager for Mac OS X.&#xA;Use the following link to learn more:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

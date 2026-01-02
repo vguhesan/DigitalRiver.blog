@@ -6,14 +6,14 @@
     <description>Recent content in Kubernetes on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 -0400</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DevOps/GitOps: DevOps95 Columbia 2020 : Kubernetes : Getting Started</title>
-      <link>https://DigitalRiver.blog/post/2020-06-14-devops-95-kubernetes-getting-started/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/post/2020-06-14-devops-95-kubernetes-getting-started/</guid>
-      <description>Design by - Venkatt Guhesan&#xA;DevOps/GitOps: DevOps95 / DevOps Columbia / 2020 DevOps Days (DevOpsDays.org) is a global phenomenon going on each year. This year due to COVID-19 lock down, the event was hosted online and in partnership with various meet-ups in the I-95 (interstate 95) corridor. The idea of a DevOps95 grew out of the series of towns and suburbs connecting on the interstate I-95 route on East-Coast. It is an one-day virtual meet-up (on Zoom) where industry leaders from GitOps and DevOps shared their knowledge with others.</description>
+      <link>https://DigitalRiver.blog/post/2020-06-14/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 -0400</pubDate>
+      <guid>https://DigitalRiver.blog/post/2020-06-14/</guid>
+      <description>&lt;figure class=&#34;aligncenter round-img-border imgframe-left-pad&#34;&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/2020/06/14/getting-started-with-kubernetes.jpg&#34;&#xA;    alt=&#34;Design by - Venkatt Guhesan&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Design by - Venkatt Guhesan&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;devopsgitops-devops95--devops-columbia--2020&#34;&gt;DevOps/GitOps: DevOps95 / DevOps Columbia / 2020&lt;/h2&gt;&#xA;&lt;figure class=&#34;alignleft round-img-border imgframe-left-pad&#34;&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/2020/06/14/devops95-logo.jpg&#34; width=&#34;120&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;DevOps Days (&lt;a href=&#39;https://devopsdays.org/&#39; target=&#39;_blank&#39;&gt;DevOpsDays.org&lt;/a&gt;) is a global phenomenon going on each year. This year due to COVID-19 lock down, the event was hosted online and in partnership with various meet-ups in the I-95 (&lt;a href=&#39;https://www.google.com/maps/dir/New+York,+NY/Virginia/@39.9146796,-83.2817915,6.65z/am=t/data=!4m13!4m12!1m5!1m1!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!2m2!1d-74.0059728!2d40.7127753!1m5!1m1!1s0x884cd670bdbcb2cd:0xc04e4149b746a695!2m2!1d-78.6568942!2d37.4315734&#39; target=&#39;_blank&#39;&gt;interstate 95&lt;/a&gt;) corridor. The idea of a &lt;a href=&#39;devops95.com&#39; target=&#39;_blank&#39;&gt;DevOps95&lt;/a&gt; grew out of the series of towns and suburbs connecting on the interstate I-95 route on East-Coast. It is an one-day virtual meet-up (on Zoom) where industry leaders from GitOps and DevOps shared their knowledge with others. This was my first DevOps meeting with the Columbia, Maryland DevOps group (Burak T. - Thanks for sharing this event with me). It was a very educational event. The complete event lasted over 12+ hours with various presenters. You can view the complete 12-hour event &lt;a href=&#39;https://www.youtube.com/watch?v=A3le3CSv9xQ&#39; target=&#39;_blank&#39;&gt;here&lt;/a&gt; on YouTube.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

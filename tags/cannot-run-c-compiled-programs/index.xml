@@ -6,14 +6,14 @@
     <description>Recent content in Cannot Run C Compiled Programs on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2015 01:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2015 00:00:00 -0400</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/cannot-run-c-compiled-programs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Solved] configure: error: cannot run C compiled programs.</title>
-      <link>https://DigitalRiver.blog/2015/09/07/solved-configure-error-cannot-run-c-compiled-programs/</link>
-      <pubDate>Mon, 07 Sep 2015 01:11:46 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2015/09/07/solved-configure-error-cannot-run-c-compiled-programs/</guid>
-      <description>Common error when you run configure before make &amp;amp;&amp;amp; make install:&#xA;checking whether the C compiler works&amp;hellip; configure: error: in /root/downloads/libzmq-master&#39;: configure: error: cannot run C compiled programs. If you meant to cross compile, use &amp;ndash;host&#39;.&#xA;Add the following into your /root/.bashrc or /home/{username}/.bashrc&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;export CPATH=/usr/local/include export LIBRARY_PATH=/usr/local/lib export LD_LIBRARY_PATH=/usr/local/lib export LD_RUN_PATH=/usr/local/lib&#xA;[/sourcecode]&#xA;Logout and login to reinitialize .bashrc or do the following:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;source /root/.bashrc&#xA;or source /home/{username}/.</description>
+      <link>https://DigitalRiver.blog/2015/09/08/solved-configure-error-cannot-run-c-compiled-programs/</link>
+      <pubDate>Tue, 08 Sep 2015 00:00:00 -0400</pubDate>
+      <guid>https://DigitalRiver.blog/2015/09/08/solved-configure-error-cannot-run-c-compiled-programs/</guid>
+      <description>&lt;p&gt;Common error when you run configure before make &amp;amp;&amp;amp; make install:&lt;/p&gt;&#xA;&lt;p&gt;checking whether the C compiler works&amp;hellip; configure: error: in &lt;code&gt;/root/downloads/libzmq-master&#39;: configure: error: cannot run C compiled programs. If you meant to cross compile, use &lt;/code&gt;&amp;ndash;host&#39;.&lt;/p&gt;&#xA;&lt;p&gt;Add the following into your /root/.bashrc or /home/{username}/.bashrc&lt;/p&gt;&#xA;&lt;p&gt;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&lt;/p&gt;&#xA;&lt;p&gt;export CPATH=/usr/local/include&#xA;export LIBRARY_PATH=/usr/local/lib&#xA;export LD_LIBRARY_PATH=/usr/local/lib&#xA;export LD_RUN_PATH=/usr/local/lib&lt;/p&gt;&#xA;&lt;p&gt;[/sourcecode]&lt;/p&gt;&#xA;&lt;p&gt;Logout and login to reinitialize .bashrc or do the following:&lt;/p&gt;&#xA;&lt;p&gt;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&lt;/p&gt;&#xA;&lt;p&gt;source /root/.bashrc&lt;/p&gt;&#xA;&lt;h1 id=&#34;or&#34;&gt;or&lt;/h1&gt;&#xA;&lt;p&gt;source /home/{username}/.bashrc&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

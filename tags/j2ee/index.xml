@@ -10,10 +10,10 @@
     <atom:link href="https://DigitalRiver.blog/tags/j2ee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Microservices</title>
-      <link>https://DigitalRiver.blog/post/2019-09-06-understanding_microservices/</link>
+      <link>https://DigitalRiver.blog/post/2019-09-06/</link>
       <pubDate>Fri, 06 Sep 2019 23:53:36 -0400</pubDate>
-      <guid>https://DigitalRiver.blog/post/2019-09-06-understanding_microservices/</guid>
-      <description>tl;dr Understanding how we got here and the problem that it solves will help understand what Microservices is all about.&#xA;A few months back, I gave a presentation at Leidos Cloud User Group on the topic of &amp;ldquo;Understanding Microservices&amp;rdquo;. To my astonishment, we had about 123 folks that attended the presentation. I felt that it&amp;rsquo;s best that I share this knowledge with the world. I have also created a short (and sweet) implementation of Microservices using JavaScript Cote.</description>
+      <guid>https://DigitalRiver.blog/post/2019-09-06/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; Understanding how we got here and the problem that it solves will help understand what Microservices is all about.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&#xA;&lt;img &#xA;    &#xA;        src=&#34;https://DigitalRiver.blog/img/logo/microservices.png&#34; &#xA;    &#xA;    &#xA;        alt=&#34;Understanding Microservices&#34;&#xA;    &#xA;     &#xA;        width=&#34;150&#34; &#xA;    &#xA;    &#xA;     &#xA;        align=&#34;left&#34; &#xA;    &#xA;    &#xA;        class=&#34;imgframe&#34; &#xA;    &#xA;    &gt;&#xA;&lt;p&gt;A few months back, I gave a presentation at Leidos Cloud User Group on the topic of &amp;ldquo;Understanding Microservices&amp;rdquo;. To my astonishment, we had about 123 folks that attended the presentation. I felt that it&amp;rsquo;s best that I share this knowledge with the world. I have also created a short (and sweet) implementation of Microservices using JavaScript Cote.js library.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -6,21 +6,14 @@
     <description>Recent content in GIT on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jan 2016 01:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2013 02:16:15 +0000</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/git/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Go lang - Revel Web Framework - .gitignore file starter sample</title>
-      <link>https://DigitalRiver.blog/2016/01/26/go-lang-revel-web-framework-gitignore-file-starter-sample/</link>
-      <pubDate>Tue, 26 Jan 2016 01:05:42 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2016/01/26/go-lang-revel-web-framework-gitignore-file-starter-sample/</guid>
-      <description>&amp;lt;img src=&amp;#34;/img/2016/01/gorevelframework.png&amp;#34; alt=&amp;#34;gorevelframework&amp;#34;&amp;gt; For those of you trying to create a new Go Language - Revel Web Framework based project, here is a sample .gitignore file.&#xA;But before I provide you with the information, we need to discuss the project structure. If you visit the Revel site here , you will see their organization structure of a Revel project. In my case, their my_gocode/ folder is much deeper in what I store in my BitBucket account (or GitHub for that matter).</description>
-    </item>
     <item>
       <title>Grails 2.X .gitignore file</title>
       <link>https://DigitalRiver.blog/2013/11/17/grails-2-x-gitignore-file/</link>
       <pubDate>Sun, 17 Nov 2013 02:16:15 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2013/11/17/grails-2-x-gitignore-file/</guid>
-      <description>&amp;lt;img src=&amp;#34;/img/2013/11/grails.png?w=150&amp;#34; alt=&amp;#34;Grails&amp;#34;&amp;gt; With a new Grails 2.X project you run into challenges on which folders to check-in into a GIT repository. You want to remove any non-essential files that Grails can rebuild at run-time. And if you are using either GITHub or BitBucket for your GIT repo&amp;rsquo;s the default .gitignore file created or provided by GITHub is setup for configured for a Grails 1.X project and not a Grails 2.</description>
+      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2013/11/grails.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2013/11/grails.png?w=150&#34; alt=&#34;Grails&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;With a new Grails 2.X project you run into challenges on which folders to check-in into a GIT repository. You want to remove any non-essential files that Grails can rebuild at run-time. And if you are using either GITHub or BitBucket for your GIT repo&amp;rsquo;s the default .gitignore file created or provided by GITHub is setup for configured for a Grails 1.X project and not a Grails 2.X project.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

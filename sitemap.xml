@@ -2,337 +2,367 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://DigitalRiver.blog/categories/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://DigitalRiver.blog/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-01T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2024-09-23/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/flyonui/</loc>
+    <lastmod>2026-01-01T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/macosx/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/frontend-dashboards/</loc>
+    <lastmod>2026-01-01T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/macosx/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/post/2026-01-01/</loc>
+    <lastmod>2026-01-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/post/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-01T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/ubuntu/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/tailwindcss/</loc>
+    <lastmod>2026-01-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/</loc>
+    <lastmod>2024-09-26T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/post/2024-09-23/</loc>
+    <lastmod>2024-09-26T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/macosx/</loc>
+    <lastmod>2024-09-26T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/macosx/</loc>
+    <lastmod>2024-09-26T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/ubuntu/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-26T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/virtualbox/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/ubuntu/</loc>
+    <lastmod>2024-09-26T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/virtualbox/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-26T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/virtualbox/</loc>
+    <lastmod>2024-09-26T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/airtel/</loc>
-    <lastmod>2024-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/post/2024-07-12/</loc>
-    <lastmod>2024-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/india/</loc>
-    <lastmod>2024-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/india-5g/</loc>
-    <lastmod>2024-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/internaltional-travel/</loc>
-    <lastmod>2024-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/international-roaming/</loc>
-    <lastmod>2024-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/ir-pack/</loc>
-    <lastmod>2024-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/notifications/</loc>
-    <lastmod>2024-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/otp/</loc>
-    <lastmod>2024-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/roaming-packs/</loc>
-    <lastmod>2024-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/sms/</loc>
-    <lastmod>2024-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/travel/</loc>
-    <lastmod>2024-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/usa/</loc>
-    <lastmod>2024-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/content-security-policy/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-17T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/crayons/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-17T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/crayons-integration/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-17T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/crayons.freshworks.com/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-17T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/csp/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-17T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/freshworks/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-17T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/post/2024-03-17/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/web-components/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-17T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/web-components/</loc>
-    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-17T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/web-components/</loc>
+    <lastmod>2024-03-17T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/7000/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-24T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/mac/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-24T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/mac-os-x/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-24T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/macos/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-24T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/osx/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-24T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/port-7000/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-24T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/post/2024-02-24/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-24T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/5g/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-05T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/bands/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-05T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/coverage/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-05T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/network/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-05T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/post/2024-01-1/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-05T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/hm750a1000/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-11T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/honeywell/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-11T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/post/2022-11-11/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/humidifier/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-11T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/humidifier/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-11T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/humidifier/</loc>
+    <lastmod>2022-11-11T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/post/2022-11-08/</loc>
-    <lastmod>2022-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-08T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/json/</loc>
-    <lastmod>2022-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/yaml/</loc>
-    <lastmod>2022-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-08T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/yaml/</loc>
-    <lastmod>2022-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-08T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/yaml/</loc>
+    <lastmod>2022-11-08T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/cygwin/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-16T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/post/2022-01-3/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/windows/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-16T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/windows/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-16T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/windows/</loc>
+    <lastmod>2022-01-16T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/post/2022-01-2/</loc>
-    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-09T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/hyper-v/</loc>
-    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-09T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/windows-11/</loc>
-    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-09T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/post/2022-01-1/</loc>
-    <lastmod>2022-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-07T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/time/</loc>
-    <lastmod>2022-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-07T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/time-management/</loc>
-    <lastmod>2022-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-07T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/time-mgt/</loc>
-    <lastmod>2022-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-07T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/balance/</loc>
+    <lastmod>2020-09-24T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/post/2020-09-24/</loc>
+    <lastmod>2020-09-24T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/copy-file/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/golang/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-24T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/golang/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-24T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2020-12-03-golang-reader-writer-copyfile-using-bufio-library/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/golang/</loc>
+    <lastmod>2020-09-24T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/post/2020-12-03/</loc>
+    <lastmod>2020-09-24T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/inspiration/</loc>
+    <lastmod>2020-09-24T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/life/</loc>
+    <lastmod>2020-09-24T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/spirituality/</loc>
+    <lastmod>2020-09-24T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/work/</loc>
+    <lastmod>2020-09-24T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/containers/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/devops/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-14T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/devops/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-14T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2020-06-14-devops-95-kubernetes-getting-started/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/devops/</loc>
+    <lastmod>2020-06-14T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/post/2020-06-14/</loc>
+    <lastmod>2020-06-14T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/docker/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/gitops/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-14T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/gitops/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-14T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/kubernetes/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/gitops/</loc>
+    <lastmod>2020-06-14T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/kubernetes/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-14T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/kubernetes/</loc>
+    <lastmod>2020-06-14T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/minikube/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-14T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/openkube/</loc>
-    <lastmod>2020-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-14T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/code-coverage/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/python/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-02T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/python/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-02T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2020-06-02-python-tips-on-unit-testing-and-code-coverage/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/python/</loc>
+    <lastmod>2020-06-02T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/post/2020-06-02/</loc>
+    <lastmod>2020-06-02T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/unit-testing/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-02T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/unittesting/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-02T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/arrow/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-26T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/datetime/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-26T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/humanize/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-26T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/interval/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-26T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2020-05-26-python-humanize-time-interval-without-external-libraries/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/post/2020-05-26/</loc>
+    <lastmod>2020-05-26T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/time-difference/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-26T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/timedelta/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-26T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2020-04-19-finding-your-windows-10-product-key/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/post/2020-04-19/</loc>
+    <lastmod>2020-04-19T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/license/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-19T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/product-key/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-19T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/system-support/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-19T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/upgrade/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/windows-10/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-19T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/windows-10/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-19T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/windows-10/</loc>
+    <lastmod>2020-04-19T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/windows-10-product-key/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-19T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2020-04-10-rebuilding-america-and-the-world-after-covid19-starts-with-you/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/post/2020-04-10/</loc>
+    <lastmod>2020-04-10T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/covid-19/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-10T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/jump-start-america/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-10T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/jump-start-the-world/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-10T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/rebuilding-america/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-10T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/rebuilding-the-world/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-10T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/recovery/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-10T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/statistics/</loc>
-    <lastmod>2020-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-10T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/book/</loc>
     <lastmod>2019-09-07T23:33:31-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2019-09-07-book-the-cartoon-guide-to-statistics/</loc>
+    <loc>https://DigitalRiver.blog/post/2019-09-07/</loc>
     <lastmod>2019-09-07T23:33:31-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/cartoon/</loc>
@@ -353,10 +383,10 @@
     <loc>https://DigitalRiver.blog/tags/java/</loc>
     <lastmod>2019-09-06T23:53:36-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/microservices/</loc>
+    <loc>https://DigitalRiver.blog/categories/microservices/</loc>
     <lastmod>2019-09-06T23:53:36-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/microservices/</loc>
+    <loc>https://DigitalRiver.blog/tags/microservices/</loc>
     <lastmod>2019-09-06T23:53:36-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/molecular.js/</loc>
@@ -368,22 +398,22 @@
     <loc>https://DigitalRiver.blog/tags/spring-boot/</loc>
     <lastmod>2019-09-06T23:53:36-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2019-09-06-understanding_microservices/</loc>
+    <loc>https://DigitalRiver.blog/post/2019-09-06/</loc>
     <lastmod>2019-09-06T23:53:36-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/alter/</loc>
     <lastmod>2019-09-05T21:04:14-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2019-09-05-handling-postgresql-timescale-hypertable-column-changes/</loc>
+    <loc>https://DigitalRiver.blog/post/2019-09-05/</loc>
     <lastmod>2019-09-05T21:04:14-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/hypertable/</loc>
     <lastmod>2019-09-05T21:04:14-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/postgresql/</loc>
+    <loc>https://DigitalRiver.blog/categories/postgresql/</loc>
     <lastmod>2019-09-05T21:04:14-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/postgresql/</loc>
+    <loc>https://DigitalRiver.blog/tags/postgresql/</loc>
     <lastmod>2019-09-05T21:04:14-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/time-series/</loc>
@@ -392,88 +422,25 @@
     <loc>https://DigitalRiver.blog/tags/timescale/</loc>
     <lastmod>2019-09-05T21:04:14-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/blink/</loc>
-    <lastmod>2019-01-29T17:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/blink/</loc>
-    <lastmod>2019-01-29T17:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/blink-sync/</loc>
-    <lastmod>2019-01-29T17:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/blink-sync/</loc>
-    <lastmod>2019-01-29T17:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/camera/</loc>
-    <lastmod>2019-01-29T17:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/camera/</loc>
-    <lastmod>2019-01-29T17:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/embedded/</loc>
-    <lastmod>2019-01-29T17:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/embedded/</loc>
-    <lastmod>2019-01-29T17:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/hardware/</loc>
-    <lastmod>2019-01-29T17:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/hardware/</loc>
-    <lastmod>2019-01-29T17:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/sync/</loc>
-    <lastmod>2019-01-29T17:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/sync/</loc>
-    <lastmod>2019-01-29T17:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/water-proof/</loc>
-    <lastmod>2019-01-29T17:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/water-proof/</loc>
-    <lastmod>2019-01-29T17:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/post/waterproofing-blink-camera-sync-module-for-outdoors/</loc>
-    <lastmod>2019-01-29T17:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/post/components-within-components/</loc>
-    <lastmod>2018-11-30T17:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/post/great-article-on-duck-typing-in-javascript/</loc>
-    <lastmod>2018-05-23T14:37:18+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/javascript/</loc>
-    <lastmod>2018-05-23T14:37:18+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/javascript/</loc>
-    <lastmod>2018-05-23T14:37:18+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/js/</loc>
-    <lastmod>2018-05-23T14:37:18+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/js/</loc>
-    <lastmod>2018-05-23T14:37:18+00:00</lastmod>
-  </url><url>
     <loc>https://DigitalRiver.blog/tags/jar/</loc>
-    <lastmod>2018-04-08T16:55:46+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/maven/</loc>
     <lastmod>2018-04-08T16:55:46+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/maven/</loc>
     <lastmod>2018-04-08T16:55:46+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/maven-shade-plugin/</loc>
+    <loc>https://DigitalRiver.blog/tags/maven/</loc>
     <lastmod>2018-04-08T16:55:46+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/maven-shade-plugin/</loc>
     <lastmod>2018-04-08T16:55:46+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/spring/</loc>
+    <loc>https://DigitalRiver.blog/tags/maven-shade-plugin/</loc>
     <lastmod>2018-04-08T16:55:46+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/spring/</loc>
+    <lastmod>2018-04-08T16:55:46+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/spring/</loc>
     <lastmod>2018-04-08T16:55:46+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/spring.handlers/</loc>
@@ -482,34 +449,34 @@
     <loc>https://DigitalRiver.blog/tags/spring.schemas/</loc>
     <lastmod>2018-04-08T16:55:46+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2018-04-08-spring.schemas-and-spring.handlers-when-creating-uber-jar/</loc>
+    <loc>https://DigitalRiver.blog/post/2018-04-08/</loc>
     <lastmod>2018-04-08T16:55:46+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/uber/</loc>
     <lastmod>2018-04-08T16:55:46+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/uber-jar/</loc>
-    <lastmod>2018-04-08T16:55:46+00:00</lastmod>
-  </url><url>
     <loc>https://DigitalRiver.blog/categories/uber-jar/</loc>
     <lastmod>2018-04-08T16:55:46+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/health/</loc>
-    <lastmod>2018-01-10T16:47:34-05:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/uber-jar/</loc>
+    <lastmod>2018-04-08T16:55:46+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/health/</loc>
     <lastmod>2018-01-10T16:47:34-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2018-01-10-mind-map-for-youtube-video-on-how-to-exercises-to-reduce-belly-fat/</loc>
+    <loc>https://DigitalRiver.blog/tags/health/</loc>
     <lastmod>2018-01-10T16:47:34-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2018-01-02-volvo-s60-2006-reset-service-reminder-message/</loc>
-    <lastmod>2018-01-02T17:14:16-05:00</lastmod>
+    <loc>https://DigitalRiver.blog/post/2018-01-10/</loc>
+    <lastmod>2018-01-10T16:47:34-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/misc/</loc>
+    <loc>https://DigitalRiver.blog/post/2018-01-02/</loc>
     <lastmod>2018-01-02T17:14:16-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/misc/</loc>
+    <lastmod>2018-01-02T17:14:16-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/misc/</loc>
     <lastmod>2018-01-02T17:14:16-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/reset/</loc>
@@ -530,7 +497,7 @@
     <loc>https://DigitalRiver.blog/tags/2018/</loc>
     <lastmod>2018-01-01T18:11:50-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2018-01-01-happy-new-year-2018/</loc>
+    <loc>https://DigitalRiver.blog/post/2018-01-01/</loc>
     <lastmod>2018-01-01T18:11:50-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/general/</loc>
@@ -542,31 +509,28 @@
     <loc>https://DigitalRiver.blog/tags/inspirational/</loc>
     <lastmod>2018-01-01T18:11:50-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2017-11-28-15-year-old-invents-device-to-detect-heart-attack-6-hours-before-it-occurs/</loc>
-    <lastmod>2017-11-28T18:22:13-05:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/in-the-news/</loc>
+    <loc>https://DigitalRiver.blog/post/2017-11-28/</loc>
     <lastmod>2017-11-28T18:22:13-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/in-the-news/</loc>
     <lastmod>2017-11-28T18:22:13-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/innovation/</loc>
+    <loc>https://DigitalRiver.blog/tags/in-the-news/</loc>
     <lastmod>2017-11-28T18:22:13-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/innovation/</loc>
     <lastmod>2017-11-28T18:22:13-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/inspiration/</loc>
+    <loc>https://DigitalRiver.blog/tags/innovation/</loc>
     <lastmod>2017-11-28T18:22:13-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/inspiration/</loc>
+    <loc>https://DigitalRiver.blog/tags/inspiration/</loc>
     <lastmod>2017-11-28T18:22:13-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/appreciate-life/</loc>
     <lastmod>2017-11-25T10:09:58-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2017-11-25-lifes-possibilities-with-desire-strength-and-determination/</loc>
+    <loc>https://DigitalRiver.blog/post/2017-11-25/</loc>
     <lastmod>2017-11-25T10:09:58-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/desire/</loc>
@@ -596,55 +560,55 @@
     <loc>https://DigitalRiver.blog/tags/strength/</loc>
     <lastmod>2017-11-25T10:09:58-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/firebase/</loc>
-    <lastmod>2017-11-24T15:50:58-05:00</lastmod>
-  </url><url>
     <loc>https://DigitalRiver.blog/categories/firebase/</loc>
     <lastmod>2017-11-24T15:50:58-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/firebase-tools/</loc>
+    <loc>https://DigitalRiver.blog/tags/firebase/</loc>
     <lastmod>2017-11-24T15:50:58-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/firebase-tools/</loc>
     <lastmod>2017-11-24T15:50:58-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2017-11-24-firebase-installation-error-root_does_not_have_permission/</loc>
+    <loc>https://DigitalRiver.blog/tags/firebase-tools/</loc>
     <lastmod>2017-11-24T15:50:58-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/installation/</loc>
+    <loc>https://DigitalRiver.blog/post/2017-11-24/</loc>
     <lastmod>2017-11-24T15:50:58-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/installation/</loc>
     <lastmod>2017-11-24T15:50:58-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/npm/</loc>
+    <loc>https://DigitalRiver.blog/tags/installation/</loc>
     <lastmod>2017-11-24T15:50:58-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/npm/</loc>
     <lastmod>2017-11-24T15:50:58-05:00</lastmod>
   </url><url>
+    <loc>https://DigitalRiver.blog/tags/npm/</loc>
+    <lastmod>2017-11-24T15:50:58-05:00</lastmod>
+  </url><url>
     <loc>https://DigitalRiver.blog/tags/application-context/</loc>
-    <lastmod>2017-11-24T13:28:10-05:00</lastmod>
+    <lastmod>2017-11-20T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/applicationcontext/</loc>
-    <lastmod>2017-11-24T13:28:10-05:00</lastmod>
+    <lastmod>2017-11-20T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/context/</loc>
-    <lastmod>2017-11-24T13:28:10-05:00</lastmod>
+    <lastmod>2017-11-20T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/programming/</loc>
-    <lastmod>2017-11-24T13:28:10-05:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/spring-framework/</loc>
-    <lastmod>2017-11-24T13:28:10-05:00</lastmod>
+    <lastmod>2017-11-20T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/spring-framework/</loc>
-    <lastmod>2017-11-24T13:28:10-05:00</lastmod>
+    <lastmod>2017-11-20T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2017-11-24-spring-framework-three-ways-to-application-context/</loc>
-    <lastmod>2017-11-24T13:28:10-05:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/spring-framework/</loc>
+    <lastmod>2017-11-20T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2017-10-16-enabling-jumbo-packets-for-your-devices/</loc>
+    <loc>https://DigitalRiver.blog/post/2017-11-20/</loc>
+    <lastmod>2017-11-20T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/post/2017-10-16/</loc>
     <lastmod>2017-10-16T13:22:49-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/jumbo/</loc>
@@ -674,28 +638,28 @@
     <loc>https://DigitalRiver.blog/categories/windows-tips/</loc>
     <lastmod>2017-10-16T13:22:49-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/blog/</loc>
-    <lastmod>2017-09-23T23:42:33+00:00</lastmod>
-  </url><url>
     <loc>https://DigitalRiver.blog/categories/blog/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2017-09-23-converting-wordpress-hosted-blog-to-hugo/</loc>
+    <loc>https://DigitalRiver.blog/tags/blog/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/design/</loc>
+    <loc>https://DigitalRiver.blog/post/2017-09-23/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/design/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
   </url><url>
+    <loc>https://DigitalRiver.blog/tags/design/</loc>
+    <lastmod>2017-09-23T23:42:33+00:00</lastmod>
+  </url><url>
     <loc>https://DigitalRiver.blog/tags/general/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/hugo/</loc>
+    <loc>https://DigitalRiver.blog/categories/hugo/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/hugo/</loc>
+    <loc>https://DigitalRiver.blog/tags/hugo/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/wordpress/</loc>
@@ -752,6 +716,9 @@
     <loc>https://DigitalRiver.blog/2017/08/31/how-to-create-jaw-dropping-data-visualizations-on-the-web-with-d3-js/</loc>
     <lastmod>2017-08-31T23:22:26+00:00</lastmod>
   </url><url>
+    <loc>https://DigitalRiver.blog/categories/javascript/</loc>
+    <lastmod>2017-08-31T23:22:26+00:00</lastmod>
+  </url><url>
     <loc>https://DigitalRiver.blog/categories/miscellaneous/</loc>
     <lastmod>2017-08-31T23:22:26+00:00</lastmod>
   </url><url>
@@ -761,29 +728,29 @@
     <loc>https://DigitalRiver.blog/tags/visuals/</loc>
     <lastmod>2017-08-31T23:22:26+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/graphic-design/</loc>
-    <lastmod>2017-08-29T21:13:51+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/logo/</loc>
-    <lastmod>2017-08-29T21:13:51+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/youtube/</loc>
-    <lastmod>2017-08-29T21:13:51+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/08/29/youtube-has-a-new-look-and-for-the-first-time-a-new-logo-repost/</loc>
-    <lastmod>2017-08-29T21:13:51+00:00</lastmod>
-  </url><url>
     <loc>https://DigitalRiver.blog/2017/08/29/create-versatile-visualizations-with-d3-and-angular-repost/</loc>
     <lastmod>2017-08-29T21:05:58+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/08/29/monitoring-linux-performance-with-grafana-repost/</loc>
-    <lastmod>2017-08-29T21:03:32+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/blockchain/</loc>
     <lastmod>2017-08-23T01:15:28+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2017/08/23/ibm-kroger-walmart-and-others-team-up-to-improve-food-safety-with-blockchains-techcrunch/</loc>
     <lastmod>2017-08-23T01:15:28+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/graphic-design/</loc>
+    <lastmod>2017-08-22T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/logo/</loc>
+    <lastmod>2017-08-22T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/youtube/</loc>
+    <lastmod>2017-08-22T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/08/22/youtube-has-a-new-look-and-for-the-first-time-a-new-logo-repost/</loc>
+    <lastmod>2017-08-22T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/08/21/monitoring-linux-performance-with-grafana-repost/</loc>
+    <lastmod>2017-08-21T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/history/</loc>
     <lastmod>2017-08-19T17:13:47+00:00</lastmod>
@@ -794,6 +761,9 @@
     <loc>https://DigitalRiver.blog/2017/08/18/the-origin-of-complex-life-snowball-earth-repost/</loc>
     <lastmod>2017-08-18T02:23:21+00:00</lastmod>
   </url><url>
+    <loc>https://DigitalRiver.blog/2017/08/15/mint-18-2-best-linux-alternative-to-windows-desktop-repost/</loc>
+    <lastmod>2017-08-15T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>https://DigitalRiver.blog/2017/08/14/all-the-details-on-the-upcoming-eclipse-over-the-american-sub-continent-repost/</loc>
     <lastmod>2017-08-14T19:31:54+00:00</lastmod>
   </url><url>
@@ -803,107 +773,182 @@
     <loc>https://DigitalRiver.blog/2017/08/12/choosing-the-right-db-for-your-various-tiers-of-your-application-stack-repost/</loc>
     <lastmod>2017-08-12T04:14:52+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/08/12/comparison-jax-rs-vs-spring-rest-repost/</loc>
-    <lastmod>2017-08-12T04:12:11+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/08/12/mint-18-2-best-linux-alternative-to-windows-desktop-repost/</loc>
-    <lastmod>2017-08-12T04:04:13+00:00</lastmod>
-  </url><url>
     <loc>https://DigitalRiver.blog/2017/08/11/malicious-dna-code-infects-computer-that-reads-it-repost/</loc>
     <lastmod>2017-08-11T02:14:48+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/08/04/good-balance-of-web-frameworks-in-python/</loc>
-    <lastmod>2017-08-04T10:56:39+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/2017/08/08/pattern-micro-services-mesh-repost/</loc>
+    <lastmod>2017-08-08T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/08/04/1540/Measuring-the-spectrum-of-light/</loc>
-    <lastmod>2017-08-04T10:21:43+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/2017/08/07/node-js-npm-crossenv-malware/</loc>
+    <lastmod>2017-08-07T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/08/04/node-js-npm-crossenv-malware/</loc>
-    <lastmod>2017-08-04T10:18:53+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/2017/08/06/1540/Measuring-the-spectrum-of-light/</loc>
+    <lastmod>2017-08-06T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/08/05/good-balance-of-web-frameworks-in-python/</loc>
+    <lastmod>2017-08-05T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2017/08/04/a5angular-5-beta-is-out/</loc>
     <lastmod>2017-08-04T10:16:33+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/08/04/pattern-micro-services-mesh-repost/</loc>
-    <lastmod>2017-08-04T05:22:44+00:00</lastmod>
-  </url><url>
     <loc>https://DigitalRiver.blog/2017/08/03/million-websockets-in-go-repost/</loc>
     <lastmod>2017-08-03T17:42:15+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/08/01/comparison-jax-rs-vs-spring-rest-repost/</loc>
+    <lastmod>2017-08-01T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2017/07/28/why-templates-are-dead-repost/</loc>
     <lastmod>2017-07-28T15:55:51+00:00</lastmod>
   </url><url>
+    <loc>https://DigitalRiver.blog/2017/07/26/shubhendu-sharma-how-to-grow-a-forest-in-your-backyard-ted-talk/</loc>
+    <lastmod>2017-07-26T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>https://DigitalRiver.blog/2017/07/25/rest-in-peace-apis-long-live-graphql-repost/</loc>
     <lastmod>2017-07-25T22:15:25+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/07/25/shubhendu-sharma-how-to-grow-a-forest-in-your-backyard-ted-talk/</loc>
-    <lastmod>2017-07-25T18:55:29+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2017/07/14/friday-jokes-in-case-of-fire/</loc>
     <lastmod>2017-07-14T17:04:35+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/07/12/article-javascript-spec-gets-strung-out-on-padding/</loc>
-    <lastmod>2017-07-12T21:02:16+00:00</lastmod>
-  </url><url>
     <loc>https://DigitalRiver.blog/2017/07/12/article-googles-artificial-intelligence-destroyed-the-worlds-best-go-player-then-he-gave-this-extraordinary-response/</loc>
     <lastmod>2017-07-12T20:58:51+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/07/12/cell-atlases-reveal-biologys-frontiers-quanta-magazine/</loc>
-    <lastmod>2017-07-12T19:18:22+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/07/12/coming-to-a-storage-near-you-scientists-upload-a-galloping-horse-gif-into-bacteria-with-crispr/</loc>
-    <lastmod>2017-07-12T19:17:37+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/2017/07/07/coming-to-a-storage-near-you-scientists-upload-a-galloping-horse-gif-into-bacteria-with-crispr/</loc>
+    <lastmod>2017-07-07T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2017/07/06/two-students-just-broke-a-quantum-computing-world-record/</loc>
     <lastmod>2017-07-06T01:21:39+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/fonts/</loc>
-    <lastmod>2017-07-04T16:20:29+00:00</lastmod>
+    <lastmod>2017-07-05T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/07/04/new-responsive-google-font-can-shapeshift-to-match-any-design/</loc>
-    <lastmod>2017-07-04T16:20:29+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/2017/07/05/new-responsive-google-font-can-shapeshift-to-match-any-design/</loc>
+    <lastmod>2017-07-05T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/parametric-fonts/</loc>
-    <lastmod>2017-07-04T16:20:29+00:00</lastmod>
+    <lastmod>2017-07-05T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/responsive-font/</loc>
-    <lastmod>2017-07-04T16:20:29+00:00</lastmod>
+    <lastmod>2017-07-05T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/how-to/</loc>
-    <lastmod>2017-05-11T23:39:48+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/2017/07/04/cell-atlases-reveal-biologys-frontiers-quanta-magazine/</loc>
+    <lastmod>2017-07-04T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/linux/</loc>
-    <lastmod>2017-05-11T23:39:48+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/2017/07/03/article-javascript-spec-gets-strung-out-on-padding/</loc>
+    <lastmod>2017-07-03T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2017-05-11-how-to-add-route-in-linux/</loc>
-    <lastmod>2017-05-11T23:39:48+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/networking/</loc>
-    <lastmod>2017-05-11T23:39:48+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/networking/</loc>
-    <lastmod>2017-05-11T23:39:48+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/route/</loc>
-    <lastmod>2017-05-11T23:39:48+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/embedded/</loc>
+    <lastmod>2017-05-19T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/iot/</loc>
-    <lastmod>2017-05-11T23:31:56+00:00</lastmod>
+    <lastmod>2017-05-19T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/particle/</loc>
-    <lastmod>2017-05-11T23:31:56+00:00</lastmod>
+    <lastmod>2017-05-19T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/particle-photon/</loc>
-    <lastmod>2017-05-11T23:31:56+00:00</lastmod>
+    <lastmod>2017-05-19T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/photon/</loc>
-    <lastmod>2017-05-11T23:31:56+00:00</lastmod>
+    <lastmod>2017-05-19T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/sensor/</loc>
-    <lastmod>2017-05-11T23:31:56+00:00</lastmod>
+    <lastmod>2017-05-19T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/05/11/synthetic-sensors-is-a-sensor-that-could-soon-make-homes-scary-smart-wired/</loc>
-    <lastmod>2017-05-11T23:31:56+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/2017/05/19/synthetic-sensors-is-a-sensor-that-could-soon-make-homes-scary-smart-wired/</loc>
+    <lastmod>2017-05-19T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/earth/</loc>
+    <lastmod>2017-05-18T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/jupiter/</loc>
+    <lastmod>2017-05-18T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/outdoors-amp-nature/</loc>
+    <lastmod>2017-05-18T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/similarities/</loc>
+    <lastmod>2017-05-18T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/05/18/stunning-image-of-jupiter-from-nasas-juno-spacecraft-is-simply-out-of-this-world-except-its-not/</loc>
+    <lastmod>2017-05-18T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/qbit-prgrammer/</loc>
+    <lastmod>2017-05-17T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/quantum/</loc>
+    <lastmod>2017-05-17T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/05/17/quantum-computing-demands-a-whole-new-kind-of-programmer/</loc>
+    <lastmod>2017-05-17T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/quantum-programmer/</loc>
+    <lastmod>2017-05-17T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/keeping-cool/</loc>
+    <lastmod>2017-05-16T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/nanofridge/</loc>
+    <lastmod>2017-05-16T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/05/11/nanofridge-could-keep-quantum-computers-cool-enough-to-calculate/</loc>
+    <lastmod>2017-05-16T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/quantum-computers/</loc>
+    <lastmod>2017-05-16T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/graphine/</loc>
+    <lastmod>2017-05-15T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/mit/</loc>
+    <lastmod>2017-05-15T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/05/11/mit-physicists-have-found-a-brand-new-way-to-unleash-graphenes-superconductive-power/</loc>
+    <lastmod>2017-05-15T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/superconductors/</loc>
+    <lastmod>2017-05-15T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/how-to/</loc>
+    <lastmod>2017-05-14T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/linux/</loc>
+    <lastmod>2017-05-14T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/post/2017-05-14/</loc>
+    <lastmod>2017-05-14T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/networking/</loc>
+    <lastmod>2017-05-14T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/networking/</loc>
+    <lastmod>2017-05-14T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/route/</loc>
+    <lastmod>2017-05-14T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/05/13/getting-to-grips-with-time-crystals-what-is-that-really/</loc>
+    <lastmod>2017-05-13T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/time-crystals/</loc>
+    <lastmod>2017-05-13T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/umcp/</loc>
+    <lastmod>2017-05-13T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/university-of-maryland/</loc>
+    <lastmod>2017-05-13T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/atomic-structure/</loc>
+    <lastmod>2017-05-12T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/education/</loc>
+    <lastmod>2017-05-12T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/05/12/everything-you-need-to-know-about-nuclear-physics/</loc>
+    <lastmod>2017-05-12T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/nuclear-physics/</loc>
+    <lastmod>2017-05-12T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/ancient/</loc>
     <lastmod>2017-05-11T01:41:43+00:00</lastmod>
@@ -917,97 +962,25 @@
     <loc>https://DigitalRiver.blog/tags/melting/</loc>
     <lastmod>2017-05-11T01:41:43+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/outdoors-amp-nature/</loc>
-    <lastmod>2017-05-11T01:41:43+00:00</lastmod>
-  </url><url>
     <loc>https://DigitalRiver.blog/tags/virus/</loc>
     <lastmod>2017-05-11T01:41:43+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/atomic-structure/</loc>
-    <lastmod>2017-05-11T01:37:03+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/education/</loc>
-    <lastmod>2017-05-11T01:37:03+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/05/11/everything-you-need-to-know-about-nuclear-physics/</loc>
-    <lastmod>2017-05-11T01:37:03+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/nuclear-physics/</loc>
-    <lastmod>2017-05-11T01:37:03+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/qbit-prgrammer/</loc>
-    <lastmod>2017-05-11T01:35:19+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/quantum/</loc>
-    <lastmod>2017-05-11T01:35:19+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/05/11/quantum-computing-demands-a-whole-new-kind-of-programmer/</loc>
-    <lastmod>2017-05-11T01:35:19+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/quantum-programmer/</loc>
-    <lastmod>2017-05-11T01:35:19+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/keeping-cool/</loc>
-    <lastmod>2017-05-11T01:31:47+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/nanofridge/</loc>
-    <lastmod>2017-05-11T01:31:47+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/05/11/nanofridge-could-keep-quantum-computers-cool-enough-to-calculate/</loc>
-    <lastmod>2017-05-11T01:31:47+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/quantum-computers/</loc>
-    <lastmod>2017-05-11T01:31:47+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/graphine/</loc>
-    <lastmod>2017-05-11T01:28:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/mit/</loc>
-    <lastmod>2017-05-11T01:28:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/05/11/mit-physicists-have-found-a-brand-new-way-to-unleash-graphenes-superconductive-power/</loc>
-    <lastmod>2017-05-11T01:28:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/superconductors/</loc>
-    <lastmod>2017-05-11T01:28:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/earth/</loc>
-    <lastmod>2017-05-11T01:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/jupiter/</loc>
-    <lastmod>2017-05-11T01:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/similarities/</loc>
-    <lastmod>2017-05-11T01:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/05/11/stunning-image-of-jupiter-from-nasas-juno-spacecraft-is-simply-out-of-this-world-except-its-not/</loc>
-    <lastmod>2017-05-11T01:23:34+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/05/11/getting-to-grips-with-time-crystals-what-is-that-really/</loc>
-    <lastmod>2017-05-11T01:20:13+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/time-crystals/</loc>
-    <lastmod>2017-05-11T01:20:13+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/umcp/</loc>
-    <lastmod>2017-05-11T01:20:13+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/university-of-maryland/</loc>
-    <lastmod>2017-05-11T01:20:13+00:00</lastmod>
-  </url><url>
     <loc>https://DigitalRiver.blog/tags/arrow-functions/</loc>
-    <lastmod>2017-05-03T19:23:37+00:00</lastmod>
+    <lastmod>2017-05-04T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2017-05-03-javascript-embrace-arrow-functions/</loc>
-    <lastmod>2017-05-03T19:23:37+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/javascript/</loc>
+    <lastmod>2017-05-04T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/software-development/</loc>
-    <lastmod>2017-05-03T19:23:37+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/post/2017-05-04/</loc>
+    <lastmod>2017-05-04T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/software-development/</loc>
-    <lastmod>2017-05-03T19:23:37+00:00</lastmod>
+    <lastmod>2017-05-04T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2017-05-03-elements-of-javascript-style-javascript-scene-medium/</loc>
+    <loc>https://DigitalRiver.blog/tags/software-development/</loc>
+    <lastmod>2017-05-04T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/post/2017-05-03/</loc>
     <lastmod>2017-05-03T19:07:30+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/cancer/</loc>
@@ -1043,25 +1016,25 @@
     <loc>https://DigitalRiver.blog/2017/04/22/researchers-unearthed-a-new-copy-of-the-declaration-of-independence/</loc>
     <lastmod>2017-04-22T22:53:21+00:00</lastmod>
   </url><url>
+    <loc>https://DigitalRiver.blog/2017/04/21/article-why-does-the-proton-spin-physics-holds-a-surprising-answer/</loc>
+    <lastmod>2017-04-21T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/spin/</loc>
+    <lastmod>2017-04-21T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>https://DigitalRiver.blog/2017/04/20/article-physicists-observe-negative-mass/</loc>
     <lastmod>2017-04-20T16:06:31+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/04/20/article-why-does-the-proton-spin-physics-holds-a-surprising-answer/</loc>
-    <lastmod>2017-04-20T16:04:10+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/spin/</loc>
-    <lastmod>2017-04-20T16:04:10+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/ai/</loc>
+    <loc>https://DigitalRiver.blog/categories/ai/</loc>
     <lastmod>2017-04-06T19:01:57+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/ai/</loc>
+    <loc>https://DigitalRiver.blog/tags/ai/</loc>
     <lastmod>2017-04-06T19:01:57+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/artificial-intelligence/</loc>
     <lastmod>2017-04-06T19:01:57+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2017-04-06-how-ai-algorithms-could-help-design-new-drugs-futurity/</loc>
+    <loc>https://DigitalRiver.blog/post/2017-04-06/</loc>
     <lastmod>2017-04-06T19:01:57+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/one-shot/</loc>
@@ -1070,10 +1043,10 @@
     <loc>https://DigitalRiver.blog/tags/one-shot-learning/</loc>
     <lastmod>2017-04-06T19:01:57+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/technology/</loc>
+    <loc>https://DigitalRiver.blog/categories/technology/</loc>
     <lastmod>2017-04-06T19:01:57+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/technology/</loc>
+    <loc>https://DigitalRiver.blog/tags/technology/</loc>
     <lastmod>2017-04-06T19:01:57+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/programming/</loc>
@@ -1082,7 +1055,7 @@
     <loc>https://DigitalRiver.blog/tags/uvloop/</loc>
     <lastmod>2017-04-01T16:26:27+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</loc>
+    <loc>https://DigitalRiver.blog/post/2017-04-01/</loc>
     <lastmod>2017-04-01T16:26:27+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/astrocytes/</loc>
@@ -1091,56 +1064,131 @@
     <loc>https://DigitalRiver.blog/2017/03/28/scientists-have-discovered-a-new-activity-in-brain-cells/</loc>
     <lastmod>2017-03-28T00:33:52+00:00</lastmod>
   </url><url>
+    <loc>https://DigitalRiver.blog/tags/amplifier/</loc>
+    <lastmod>2017-03-26T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/audiophonic/</loc>
+    <lastmod>2017-03-26T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/03/26/create-a-hifi-and-audiophonic-system-using-raspberry-pi/</loc>
+    <lastmod>2017-03-26T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/embedded-systems/</loc>
+    <lastmod>2017-03-26T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/raspberry-pi/</loc>
+    <lastmod>2017-03-26T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/ftrace/</loc>
+    <lastmod>2017-03-25T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/gdb/</loc>
+    <lastmod>2017-03-25T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/hypervisior-images/</loc>
+    <lastmod>2017-03-25T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/kernel-debugging/</loc>
+    <lastmod>2017-03-25T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/03/25/kernel-debugging-with-qemu-an-overview-of-tools-available/</loc>
+    <lastmod>2017-03-25T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>https://DigitalRiver.blog/2017/03/24/a-teenager-just-delighted-nasa-by-pointing-out-a-significant-error-in-their-data/</loc>
     <lastmod>2017-03-24T02:45:37+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/amplifier/</loc>
-    <lastmod>2017-03-24T02:41:52+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/disk-capacity/</loc>
+    <lastmod>2017-03-23T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/audiophonic/</loc>
-    <lastmod>2017-03-24T02:41:52+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/disk-growth-rate/</loc>
+    <lastmod>2017-03-23T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/03/24/create-a-hifi-and-audiophonic-system-using-raspberry-pi/</loc>
-    <lastmod>2017-03-24T02:41:52+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/2017/03/23/disk-space-monitoring-predict-when-full/</loc>
+    <lastmod>2017-03-23T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/embedded-systems/</loc>
-    <lastmod>2017-03-24T02:41:52+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/predict-when-full/</loc>
+    <lastmod>2017-03-23T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/raspberry-pi/</loc>
-    <lastmod>2017-03-24T02:41:52+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/categories/storage/</loc>
+    <lastmod>2017-03-23T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/password/</loc>
+    <lastmod>2017-03-22T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/security/</loc>
+    <lastmod>2017-03-22T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/03/22/your-password-is-probably-useless-says-coding-guru-jeff-atwood-heres-why-zdnet/</loc>
+    <lastmod>2017-03-22T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/apache/</loc>
+    <lastmod>2017-03-21T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/apache-openldap/</loc>
+    <lastmod>2017-03-21T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/ldap/</loc>
+    <lastmod>2017-03-21T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/openldap/</loc>
+    <lastmod>2017-03-21T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/03/21/spring-ldap-overview-baeldung/</loc>
+    <lastmod>2017-03-21T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/api/</loc>
+    <lastmod>2017-03-20T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/api-management/</loc>
+    <lastmod>2017-03-20T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/03/20/where-api-management-is-headed-in-2017-dzone-integration/</loc>
+    <lastmod>2017-03-20T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/bash/</loc>
+    <lastmod>2017-03-19T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/boot/</loc>
+    <lastmod>2017-03-19T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/centos-6.x/</loc>
+    <lastmod>2017-03-19T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/centos7/</loc>
+    <lastmod>2017-03-19T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/pxe/</loc>
+    <lastmod>2017-03-19T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/scripting/</loc>
+    <lastmod>2017-03-19T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/03/19/set-up-a-tftp-server-on-linux-linux-com/</loc>
+    <lastmod>2017-03-19T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/tftp/</loc>
+    <lastmod>2017-03-19T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/bash/</loc>
+    <lastmod>2017-03-18T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/history/</loc>
+    <lastmod>2017-03-18T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</loc>
+    <lastmod>2017-03-18T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/record-commands-in-ssh/</loc>
+    <lastmod>2017-03-18T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/ssh/</loc>
+    <lastmod>2017-03-18T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/terminal/</loc>
+    <lastmod>2017-03-18T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2017/03/17/ink-in-water-or-a-star-going-supernova/</loc>
     <lastmod>2017-03-17T23:39:40+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/disk-capacity/</loc>
-    <lastmod>2017-03-16T14:38:03+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/disk-growth-rate/</loc>
-    <lastmod>2017-03-16T14:38:03+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/03/16/disk-space-monitoring-predict-when-full/</loc>
-    <lastmod>2017-03-16T14:38:03+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/predict-when-full/</loc>
-    <lastmod>2017-03-16T14:38:03+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/storage/</loc>
-    <lastmod>2017-03-16T14:38:03+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/ftrace/</loc>
-    <lastmod>2017-03-16T01:19:15+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/gdb/</loc>
-    <lastmod>2017-03-16T01:19:15+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/hypervisior-images/</loc>
-    <lastmod>2017-03-16T01:19:15+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/kernel-debugging/</loc>
-    <lastmod>2017-03-16T01:19:15+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/03/16/kernel-debugging-with-qemu-an-overview-of-tools-available/</loc>
-    <lastmod>2017-03-16T01:19:15+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</loc>
     <lastmod>2017-03-16T00:49:33+00:00</lastmod>
@@ -1178,95 +1226,20 @@
     <loc>https://DigitalRiver.blog/2017/03/15/transmutation-of-the-storage-administrator-scotts-blog/</loc>
     <lastmod>2017-03-15T19:13:05+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/apache/</loc>
-    <lastmod>2017-03-14T02:26:09+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/apache-openldap/</loc>
-    <lastmod>2017-03-14T02:26:09+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/ldap/</loc>
-    <lastmod>2017-03-14T02:26:09+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/openldap/</loc>
-    <lastmod>2017-03-14T02:26:09+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/03/14/spring-ldap-overview-baeldung/</loc>
-    <lastmod>2017-03-14T02:26:09+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/bash/</loc>
-    <lastmod>2017-03-13T19:29:22+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/boot/</loc>
-    <lastmod>2017-03-13T19:29:22+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/centos-6.x/</loc>
-    <lastmod>2017-03-13T19:29:22+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/centos7/</loc>
-    <lastmod>2017-03-13T19:29:22+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/pxe/</loc>
-    <lastmod>2017-03-13T19:29:22+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/scripting/</loc>
-    <lastmod>2017-03-13T19:29:22+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/03/13/set-up-a-tftp-server-on-linux-linux-com/</loc>
-    <lastmod>2017-03-13T19:29:22+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/tftp/</loc>
-    <lastmod>2017-03-13T19:29:22+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/bash/</loc>
-    <lastmod>2017-03-13T19:27:16+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/history/</loc>
-    <lastmod>2017-03-13T19:27:16+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</loc>
-    <lastmod>2017-03-13T19:27:16+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/record-commands-in-ssh/</loc>
-    <lastmod>2017-03-13T19:27:16+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/ssh/</loc>
-    <lastmod>2017-03-13T19:27:16+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/terminal/</loc>
-    <lastmod>2017-03-13T19:27:16+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/api/</loc>
-    <lastmod>2017-03-13T14:21:54+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/api-management/</loc>
-    <lastmod>2017-03-13T14:21:54+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/03/13/where-api-management-is-headed-in-2017-dzone-integration/</loc>
-    <lastmod>2017-03-13T14:21:54+00:00</lastmod>
-  </url><url>
     <loc>https://DigitalRiver.blog/categories/angular/</loc>
-    <lastmod>2017-03-13T14:19:53+00:00</lastmod>
+    <lastmod>2017-03-14T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/03/13/angular-modules-vs-es6-modules-dzone-web-dev/</loc>
-    <lastmod>2017-03-13T14:19:53+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/2017/03/14/angular-modules-vs-es6-modules-dzone-web-dev/</loc>
+    <lastmod>2017-03-14T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/differences/</loc>
-    <lastmod>2017-03-13T14:19:53+00:00</lastmod>
+    <lastmod>2017-03-14T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/es6/</loc>
-    <lastmod>2017-03-13T14:19:53+00:00</lastmod>
+    <lastmod>2017-03-14T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/module/</loc>
-    <lastmod>2017-03-13T14:19:53+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/password/</loc>
-    <lastmod>2017-03-13T14:10:41+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/security/</loc>
-    <lastmod>2017-03-13T14:10:41+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/03/13/your-password-is-probably-useless-says-coding-guru-jeff-atwood-heres-why-zdnet/</loc>
-    <lastmod>2017-03-13T14:10:41+00:00</lastmod>
+    <lastmod>2017-03-14T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2017/03/13/an-insecure-mess-how-flawed-javascript-is-turning-web-into-a-hackers-playground-zdnet/</loc>
     <lastmod>2017-03-13T14:07:11+00:00</lastmod>
@@ -1280,29 +1253,29 @@
     <loc>https://DigitalRiver.blog/tags/vulnerability/</loc>
     <lastmod>2017-03-13T14:07:11+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/03/12/lichee-pi-zero-is-a-tiny-linux-computer-that-costs-just-6/</loc>
-    <lastmod>2017-03-12T18:39:38+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/caas/</loc>
-    <lastmod>2017-03-12T18:38:39+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/coding-as-a-service/</loc>
-    <lastmod>2017-03-12T18:38:39+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/03/12/the-future-of-web-development-coding-as-a-service/</loc>
-    <lastmod>2017-03-12T18:38:39+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2017/03/12/a-new-volumio-has-been-released-for-udoo-dual-quad-and-neo-udoo/</loc>
-    <lastmod>2017-03-12T18:36:46+00:00</lastmod>
-  </url><url>
     <loc>https://DigitalRiver.blog/2017/03/12/the-raspberry-pi-zero-w-is-your-key-to-the-hackable-future-wired/</loc>
     <lastmod>2017-03-12T18:36:27+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/03/12/how-to-recover-lost-python-source-code-if-its-still-resident-in-memory-c2b7-github/</loc>
-    <lastmod>2017-03-12T18:35:51+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/caas/</loc>
+    <lastmod>2017-03-11T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/03/12/bootstrapping-api-project-with-phoenix-1-3-phoenix-on-rails-blog-cloudless-studio/</loc>
-    <lastmod>2017-03-12T18:34:22+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/coding-as-a-service/</loc>
+    <lastmod>2017-03-11T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/03/11/the-future-of-web-development-coding-as-a-service/</loc>
+    <lastmod>2017-03-11T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/03/10/lichee-pi-zero-is-a-tiny-linux-computer-that-costs-just-6/</loc>
+    <lastmod>2017-03-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/03/09/how-to-recover-lost-python-source-code-if-its-still-resident-in-memory-c2b7-github/</loc>
+    <lastmod>2017-03-09T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/03/08/bootstrapping-api-project-with-phoenix-1-3-phoenix-on-rails-blog-cloudless-studio/</loc>
+    <lastmod>2017-03-08T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2017/03/07/a-new-volumio-has-been-released-for-udoo-dual-quad-and-neo-udoo/</loc>
+    <lastmod>2017-03-07T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/business/</loc>
     <lastmod>2017-02-19T02:25:41+00:00</lastmod>
@@ -1320,19 +1293,19 @@
     <lastmod>2017-02-16T18:49:41+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/chronicle/</loc>
-    <lastmod>2017-02-16T16:21:23+00:00</lastmod>
+    <lastmod>2017-02-15T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/02/16/going-off-heap-to-improve-latency-and-reduce-aws-bill-plumbr/</loc>
-    <lastmod>2017-02-16T16:21:23+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/2017/02/15/going-off-heap-to-improve-latency-and-reduce-aws-bill-plumbr/</loc>
+    <lastmod>2017-02-15T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/java/</loc>
-    <lastmod>2017-02-16T16:21:23+00:00</lastmod>
+    <lastmod>2017-02-15T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/memory-management/</loc>
-    <lastmod>2017-02-16T16:21:23+00:00</lastmod>
+    <lastmod>2017-02-15T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/off-heap/</loc>
-    <lastmod>2017-02-16T16:21:23+00:00</lastmod>
+    <lastmod>2017-02-15T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/bitcoin/</loc>
     <lastmod>2017-01-02T01:17:07+00:00</lastmod>
@@ -1349,575 +1322,14 @@
     <loc>https://DigitalRiver.blog/2017/01/02/what-is-blockchain-technology-a-step-by-step-guide-for-beginners/</loc>
     <lastmod>2017-01-02T01:17:07+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/happy-new-year-2017/</loc>
+    <loc>https://DigitalRiver.blog/2017/01/01/happy-new-year-2017/</loc>
     <lastmod>2017-01-01T15:11:33+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2017/01/01/happy-new-year-2017/</loc>
+    <loc>https://DigitalRiver.blog/tags/happy-new-year-2017/</loc>
     <lastmod>2017-01-01T15:11:33+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/life-101/</loc>
     <lastmod>2017-01-01T15:11:33+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/12/12/developing-email-applications-on-windows-targeted-for-linux-environment-email-mailx-sendmail/</loc>
-    <lastmod>2016-12-12T01:53:04+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/development-on-windows/</loc>
-    <lastmod>2016-12-12T01:53:04+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/email/</loc>
-    <lastmod>2016-12-12T01:53:04+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/grails/</loc>
-    <lastmod>2016-12-12T01:53:04+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/groovy/</loc>
-    <lastmod>2016-12-12T01:53:04+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/java-mail/</loc>
-    <lastmod>2016-12-12T01:53:04+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/mailx/</loc>
-    <lastmod>2016-12-12T01:53:04+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/sendmail/</loc>
-    <lastmod>2016-12-12T01:53:04+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/smtp/</loc>
-    <lastmod>2016-12-12T01:53:04+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/arp/</loc>
-    <lastmod>2016-12-09T21:17:09+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/12/09/centos7-missing-net-tools-package-and-why-you-should-not-install-it-moving-forward/</loc>
-    <lastmod>2016-12-09T21:17:09+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/ipconfig/</loc>
-    <lastmod>2016-12-09T21:17:09+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/iptunnel/</loc>
-    <lastmod>2016-12-09T21:17:09+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/iwconfig/</loc>
-    <lastmod>2016-12-09T21:17:09+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/missing/</loc>
-    <lastmod>2016-12-09T21:17:09+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/nameif/</loc>
-    <lastmod>2016-12-09T21:17:09+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/net-tools/</loc>
-    <lastmod>2016-12-09T21:17:09+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/netstat/</loc>
-    <lastmod>2016-12-09T21:17:09+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/where-are-the-network-tools/</loc>
-    <lastmod>2016-12-09T21:17:09+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/gradle/</loc>
-    <lastmod>2016-11-29T13:42:47+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/11/29/grails-no-profile-found-for-name-web-illegalstateexception/</loc>
-    <lastmod>2016-11-29T13:42:47+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/grails-profile/</loc>
-    <lastmod>2016-11-29T13:42:47+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/illegalstateexception/</loc>
-    <lastmod>2016-11-29T13:42:47+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/no-profile-found/</loc>
-    <lastmod>2016-11-29T13:42:47+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/web/</loc>
-    <lastmod>2016-11-29T13:42:47+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/filenotfoundexception/</loc>
-    <lastmod>2016-11-17T19:15:50+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/idrac7/</loc>
-    <lastmod>2016-11-17T19:15:50+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/11/17/mac-os-x-idrac7-filenotfoundexception-javadeploymentsecuritytrusted-certs/</loc>
-    <lastmod>2016-11-17T19:15:50+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/trusted.certs/</loc>
-    <lastmod>2016-11-17T19:15:50+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/centos/</loc>
-    <lastmod>2016-11-06T14:38:38+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/centos-6.8/</loc>
-    <lastmod>2016-11-06T14:38:38+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/11/06/centos-6-8-7-change-timezone/</loc>
-    <lastmod>2016-11-06T14:38:38+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/centos-7/</loc>
-    <lastmod>2016-11-06T14:38:38+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/change-timezone/</loc>
-    <lastmod>2016-11-06T14:38:38+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/timezone/</loc>
-    <lastmod>2016-11-06T14:38:38+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/clock/</loc>
-    <lastmod>2016-11-05T16:45:30+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/date/</loc>
-    <lastmod>2016-11-05T16:45:30+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/11/05/how-to-sync-your-date-when-you-restore-a-virtualbox-snapshot/</loc>
-    <lastmod>2016-11-05T16:45:30+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/hypervisor/</loc>
-    <lastmod>2016-11-05T16:45:30+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/kernel/</loc>
-    <lastmod>2016-11-05T16:45:30+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/ntp/</loc>
-    <lastmod>2016-11-05T16:45:30+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/bill-gates/</loc>
-    <lastmod>2016-11-05T14:46:31+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/foreign-aid/</loc>
-    <lastmod>2016-11-05T14:46:31+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/human-progress/</loc>
-    <lastmod>2016-11-05T14:46:31+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/malaria/</loc>
-    <lastmod>2016-11-05T14:46:31+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/11/05/republish-mapping-the-end-of-malaria/</loc>
-    <lastmod>2016-11-05T14:46:31+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/fatjar/</loc>
-    <lastmod>2016-11-03T20:47:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/11/03/gradle-spring-woes-issues-in-creating-single-jar-bundle-with-all-dependency-jars-nested-within/</loc>
-    <lastmod>2016-11-03T20:47:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/shadowjar/</loc>
-    <lastmod>2016-11-03T20:47:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/100g/</loc>
-    <lastmod>2016-10-20T22:49:54+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/100gbps/</loc>
-    <lastmod>2016-10-20T22:49:54+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/10/20/facebooks-100-gigabit-switch-design-is-out-in-the-open-and-promises-faster-speed/</loc>
-    <lastmod>2016-10-20T22:49:54+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/faster-networks/</loc>
-    <lastmod>2016-10-20T22:49:54+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/10/20/will-the-real-schrodingers-cat-please-stand-up-hackaday/</loc>
-    <lastmod>2016-10-20T02:45:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/10/20/systemd-progress-through-complexity-ocs-mag/</loc>
-    <lastmod>2016-10-20T02:35:18+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/10/16/programmer-levels-humor/</loc>
-    <lastmod>2016-10-16T18:37:43+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/basilica/</loc>
-    <lastmod>2016-10-14T20:54:33+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/divine/</loc>
-    <lastmod>2016-10-14T20:54:33+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/national-shrine/</loc>
-    <lastmod>2016-10-14T20:54:33+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/10/14/photos-from-the-basilica-of-the-national-shrine-of-the-immaculate-conception/</loc>
-    <lastmod>2016-10-14T20:54:33+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/travels/</loc>
-    <lastmod>2016-10-14T20:54:33+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/10/14/its-weekend/</loc>
-    <lastmod>2016-10-14T19:52:19+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/10/14/how-to-package-your-node-js-application-for-deploying-it-in-an-offline-environment/</loc>
-    <lastmod>2016-10-14T18:42:15+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/node-js/</loc>
-    <lastmod>2016-10-14T18:42:15+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/node.js/</loc>
-    <lastmod>2016-10-14T18:42:15+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/offline/</loc>
-    <lastmod>2016-10-14T18:42:15+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/pack-dependencies/</loc>
-    <lastmod>2016-10-14T18:42:15+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/busybox/</loc>
-    <lastmod>2016-10-04T18:12:22+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/c/c&#43;&#43;/</loc>
-    <lastmod>2016-10-04T18:12:22+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/freebsd/</loc>
-    <lastmod>2016-10-04T18:12:22+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/10/04/node-js-python-cc-ruby-php-development-from-a-tiny-linux-embedded-for-about-10/</loc>
-    <lastmod>2016-10-04T18:12:22+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/php/</loc>
-    <lastmod>2016-10-04T18:12:22+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/10/03/first-baseball-game-ever-at-yankees-stadium-bronx-yankees-vs-orioles/</loc>
-    <lastmod>2016-10-03T14:05:50+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/orioles/</loc>
-    <lastmod>2016-10-03T14:05:50+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/yankees/</loc>
-    <lastmod>2016-10-03T14:05:50+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/09/30/friday-humor-with-languages/</loc>
-    <lastmod>2016-09-30T18:25:16+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/joke/</loc>
-    <lastmod>2016-09-30T18:25:16+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/laugh/</loc>
-    <lastmod>2016-09-30T18:25:16+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/programming-languages-compared/</loc>
-    <lastmod>2016-09-30T18:25:16+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/pip/</loc>
-    <lastmod>2016-09-30T15:22:59+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/setup.py/</loc>
-    <lastmod>2016-09-30T15:22:59+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/uninstall/</loc>
-    <lastmod>2016-09-30T15:22:59+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/09/30/uninstall-python-eggs-that-you-installed-using-setup-py/</loc>
-    <lastmod>2016-09-30T15:22:59+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/09/03/forget-software-now-hackers-are-exploiting-physics-wired/</loc>
-    <lastmod>2016-09-03T21:05:01+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/camping/</loc>
-    <lastmod>2016-08-08T13:10:04+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/family/</loc>
-    <lastmod>2016-08-08T13:10:04+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/08/08/camping-in-the-midst-of-a-flood/</loc>
-    <lastmod>2016-08-08T13:10:04+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/rocky-gap/</loc>
-    <lastmod>2016-08-08T13:10:04+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/state-park/</loc>
-    <lastmod>2016-08-08T13:10:04+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/basement-walk-down-drain/</loc>
-    <lastmod>2016-08-07T21:21:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/basement-walk-up-drain/</loc>
-    <lastmod>2016-08-07T21:21:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/drain/</loc>
-    <lastmod>2016-08-07T21:21:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/ellicott-city/</loc>
-    <lastmod>2016-08-07T21:21:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/flooding/</loc>
-    <lastmod>2016-08-07T21:21:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/gutter-guard/</loc>
-    <lastmod>2016-08-07T21:21:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/08/07/horrific-floods-and-walk-up-walk-down-basement-drain-problem/</loc>
-    <lastmod>2016-08-07T21:21:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/07/28/families-can-now-share-all-their-google-play-purchases/</loc>
-    <lastmod>2016-07-28T02:16:46+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/centos-6/</loc>
-    <lastmod>2016-07-19T13:00:56+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/cheatsheet/</loc>
-    <lastmod>2016-07-19T13:00:56+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/systemd/</loc>
-    <lastmod>2016-07-19T13:00:56+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/sysv/</loc>
-    <lastmod>2016-07-19T13:00:56+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/sysv-init/</loc>
-    <lastmod>2016-07-19T13:00:56+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/07/19/two-useful-links-comparing-centos-6-xs-sysv-init-vs-centos-7-x-systemd-init-systems/</loc>
-    <lastmod>2016-07-19T13:00:56+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/07/18/tiny-storage-device-writes-information-atom-by-atom/</loc>
-    <lastmod>2016-07-18T23:28:55+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/port-bind/</loc>
-    <lastmod>2016-07-08T16:03:02+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/wait-until-port/</loc>
-    <lastmod>2016-07-08T16:03:02+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/waituntilport/</loc>
-    <lastmod>2016-07-08T16:03:02+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/07/08/waituntilportopens-how-to-wait-until-process-a-runs-and-binds-to-a-port-before-spawning-process-b/</loc>
-    <lastmod>2016-07-08T16:03:02+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/06/23/bash-generating-config-or-property-file-from-a-template-file-containing-variables/</loc>
-    <lastmod>2016-06-23T23:14:21+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/config/</loc>
-    <lastmod>2016-06-23T23:14:21+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/configuration/</loc>
-    <lastmod>2016-06-23T23:14:21+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/property/</loc>
-    <lastmod>2016-06-23T23:14:21+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/template/</loc>
-    <lastmod>2016-06-23T23:14:21+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/variable/</loc>
-    <lastmod>2016-06-23T23:14:21+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/06/18/bizarre-fourth-state-of-water-discovered/</loc>
-    <lastmod>2016-06-18T17:57:06+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/gas/</loc>
-    <lastmod>2016-06-18T17:57:06+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/liquid/</loc>
-    <lastmod>2016-06-18T17:57:06+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/solid/</loc>
-    <lastmod>2016-06-18T17:57:06+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/tunneling/</loc>
-    <lastmod>2016-06-18T17:57:06+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/water-states/</loc>
-    <lastmod>2016-06-18T17:57:06+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/06/18/article-the-spherical-genius-of-the-huttlin-kugelmotor/</loc>
-    <lastmod>2016-06-18T17:36:10+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/hybrid-motors/</loc>
-    <lastmod>2016-06-18T17:36:10+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/liquid-fuel-and-electric-hybrid/</loc>
-    <lastmod>2016-06-18T17:36:10+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/range-extender/</loc>
-    <lastmod>2016-06-18T17:36:10+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/06/14/appeals-court-hands-obama-administration-major-win-in-net-neutrality-case/</loc>
-    <lastmod>2016-06-14T15:36:28+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/net-neutralitity/</loc>
-    <lastmod>2016-06-14T15:36:28+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/paid-prioritization/</loc>
-    <lastmod>2016-06-14T15:36:28+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/06/13/new-superman-crystals-can-store-data-for-billions-of-years/</loc>
-    <lastmod>2016-06-13T14:54:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/storage/</loc>
-    <lastmod>2016-06-13T14:54:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/disk/</loc>
-    <lastmod>2016-06-13T14:52:05+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/06/13/intels-miracle-chip-could-make-your-gadgets-1000-times-faster/</loc>
-    <lastmod>2016-06-13T14:52:05+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/bootstrap/</loc>
-    <lastmod>2016-06-05T20:58:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/bootswatch/</loc>
-    <lastmod>2016-06-05T20:58:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/disqus/</loc>
-    <lastmod>2016-06-05T20:58:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/generate-static-blig/</loc>
-    <lastmod>2016-06-05T20:58:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/generate-static-wiki/</loc>
-    <lastmod>2016-06-05T20:58:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/hugo-bootswatch/</loc>
-    <lastmod>2016-06-05T20:58:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/markdown/</loc>
-    <lastmod>2016-06-05T20:58:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/static-blog/</loc>
-    <lastmod>2016-06-05T20:58:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/06/05/two-static-website-generators-explored-hugo-jekyll/</loc>
-    <lastmod>2016-06-05T20:58:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/wiki/</loc>
-    <lastmod>2016-06-05T20:58:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/06/04/googles-fair-use-victory-is-good-for-open-source-ars-technica/</loc>
-    <lastmod>2016-06-04T01:46:06+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/06/03/a-new-bionic-leaf-system-uses-solar-energy-to-produce-liquid-fuel/</loc>
-    <lastmod>2016-06-03T01:58:47+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/filesystem/</loc>
-    <lastmod>2016-06-02T17:43:45+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/zfs/</loc>
-    <lastmod>2016-06-02T17:43:45+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/06/02/zfs-finding-its-way-to-a-linux-near-you/</loc>
-    <lastmod>2016-06-02T17:43:45+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/06/01/article-beware-tech-world-easy-growth-is-behind-us-says-mary-meeker/</loc>
-    <lastmod>2016-06-01T20:47:12+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/healing/</loc>
-    <lastmod>2016-06-01T18:33:16+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/06/01/scientists-believe-they-have-found-a-way-to-make-a-universal-cancer-vaccine/</loc>
-    <lastmod>2016-06-01T18:33:16+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/acquisition/</loc>
-    <lastmod>2016-06-01T18:23:22+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/06/01/vista-equity-partners-is-acquiring-ping-identity/</loc>
-    <lastmod>2016-06-01T18:23:22+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/egypt/</loc>
-    <lastmod>2016-03-24T16:32:10+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/03/24/egyptian-history-as-we-know-today/</loc>
-    <lastmod>2016-03-24T16:32:10+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/great-belzoni/</loc>
-    <lastmod>2016-03-24T16:32:10+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/howard-carter/</loc>
-    <lastmod>2016-03-24T16:32:10+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/narrative/</loc>
-    <lastmod>2016-03-24T16:32:10+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/nile/</loc>
-    <lastmod>2016-03-24T16:32:10+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/nubia/</loc>
-    <lastmod>2016-03-24T16:32:10+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/pharaoh-ramses/</loc>
-    <lastmod>2016-03-24T16:32:10+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/03/24/merging-bash-ssh-session-history/</loc>
-    <lastmod>2016-03-24T14:56:03+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/03/23/centos-7-how-to-open-ports-in-firewalld/</loc>
-    <lastmod>2016-03-23T15:42:15+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/firewall/</loc>
-    <lastmod>2016-03-23T15:42:15+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/firewalld/</loc>
-    <lastmod>2016-03-23T15:42:15+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/open-ports/</loc>
-    <lastmod>2016-03-23T15:42:15+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/03/23/how-to-configure-opentsdb-or-any-process-as-a-service-in-centos-7/</loc>
-    <lastmod>2016-03-23T15:00:37+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/opentsdb/</loc>
-    <lastmod>2016-03-23T15:00:37+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/serviced/</loc>
-    <lastmod>2016-03-23T15:00:37+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/03/16/my-daughter-found-a-four-leaf-clover-the-day-before-saint-patricks-day/</loc>
-    <lastmod>2016-03-16T23:05:53+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/background/</loc>
-    <lastmod>2016-03-15T14:45:14+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/03/15/fixing-vim-editor-for-dark-backgrounds-so-comments-are-not-dark-blue/</loc>
-    <lastmod>2016-03-15T14:45:14+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/vim/</loc>
-    <lastmod>2016-03-15T14:45:14+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/bigdata/</loc>
-    <lastmod>2016-03-14T19:34:11+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/cassandra/</loc>
-    <lastmod>2016-03-14T19:34:11+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/kairosdb/</loc>
-    <lastmod>2016-03-14T19:34:11+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/03/14/kairosdb-cassandra-localhost9160-connection-refused/</loc>
-    <lastmod>2016-03-14T19:34:11+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/.gitignore/</loc>
-    <lastmod>2016-01-26T01:05:42+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/git/</loc>
-    <lastmod>2016-01-26T01:05:42+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/go/</loc>
-    <lastmod>2016-01-26T01:05:42+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/01/26/go-lang-revel-web-framework-gitignore-file-starter-sample/</loc>
-    <lastmod>2016-01-26T01:05:42+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/revel/</loc>
-    <lastmod>2016-01-26T01:05:42+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/revel-web-framework/</loc>
-    <lastmod>2016-01-26T01:05:42+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/alarm/</loc>
-    <lastmod>2016-01-04T23:37:50+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/carbon-monoxide/</loc>
-    <lastmod>2016-01-04T23:37:50+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/co614/</loc>
-    <lastmod>2016-01-04T23:37:50+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/first-alert/</loc>
-    <lastmod>2016-01-04T23:37:50+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2016/01/04/first-alert-carbon-monoxide-alarm-tear-down/</loc>
-    <lastmod>2016-01-04T23:37:50+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/tear-down/</loc>
-    <lastmod>2016-01-04T23:37:50+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/new-year/</loc>
     <lastmod>2015-12-31T17:05:18+00:00</lastmod>
@@ -1964,7 +1376,19 @@
     <loc>https://DigitalRiver.blog/tags/improving-the-world/</loc>
     <lastmod>2015-09-23T14:35:54+00:00</lastmod>
   </url><url>
+    <loc>https://DigitalRiver.blog/2015/09/08/solved-configure-error-cannot-run-c-compiled-programs/</loc>
+    <lastmod>2015-09-08T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>https://DigitalRiver.blog/categories/c---c&#43;&#43;---gcc---cpp/</loc>
+    <lastmod>2015-09-08T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/cannot-run-c-compiled-programs/</loc>
+    <lastmod>2015-09-08T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/kernel/</loc>
+    <lastmod>2015-09-08T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/centos/</loc>
     <lastmod>2015-09-07T02:02:54+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2015/09/07/how-to-install-and-configure-zeromq-libsodium-on-centos-6-7/</loc>
@@ -1981,12 +1405,6 @@
   </url><url>
     <loc>https://DigitalRiver.blog/categories/zeromq/</loc>
     <lastmod>2015-09-07T02:02:54+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2015/09/07/solved-configure-error-cannot-run-c-compiled-programs/</loc>
-    <lastmod>2015-09-07T01:11:46+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/cannot-run-c-compiled-programs/</loc>
-    <lastmod>2015-09-07T01:11:46+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/age-of-light/</loc>
     <lastmod>2015-08-27T17:29:45+00:00</lastmod>
@@ -2015,20 +1433,23 @@
     <loc>https://DigitalRiver.blog/2015/07/09/interesting-pics-from-our-trip-to-india/</loc>
     <lastmod>2015-07-09T15:50:51+00:00</lastmod>
   </url><url>
+    <loc>https://DigitalRiver.blog/categories/travels/</loc>
+    <lastmod>2015-07-09T15:50:51+00:00</lastmod>
+  </url><url>
     <loc>https://DigitalRiver.blog/tags/travels-india/</loc>
     <lastmod>2015-07-09T15:50:51+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/lugern/</loc>
-    <lastmod>2015-07-09T15:36:46+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/switzerland/</loc>
-    <lastmod>2015-07-09T15:36:46+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2015/07/09/valley-of-lugern-switzerland-great-place-to-wake-up-each-and-every-morning/</loc>
-    <lastmod>2015-07-09T15:36:46+00:00</lastmod>
-  </url><url>
     <loc>https://DigitalRiver.blog/2015/07/08/view-from-mount-titlis-switzerland/</loc>
     <lastmod>2015-07-08T20:20:48+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/lugern/</loc>
+    <lastmod>2015-07-06T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/switzerland/</loc>
+    <lastmod>2015-07-06T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2015/07/06/valley-of-lugern-switzerland-great-place-to-wake-up-each-and-every-morning/</loc>
+    <lastmod>2015-07-06T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/ac-dc-circuits/</loc>
     <lastmod>2014-09-29T01:25:33+00:00</lastmod>
@@ -2049,6 +1470,9 @@
     <lastmod>2014-09-29T01:25:33+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/philips-slimstyle-led-60w-bulb/</loc>
+    <lastmod>2014-09-29T01:25:33+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/tear-down/</loc>
     <lastmod>2014-09-29T01:25:33+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/teardown/</loc>
@@ -2111,8 +1535,23 @@
     <loc>https://DigitalRiver.blog/tags/wifi/</loc>
     <lastmod>2014-06-18T02:51:11+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2014/06/18/switching-back-to-wordpress-site/</loc>
-    <lastmod>2014-06-18T02:33:46+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/2014/06/17/switching-back-to-wordpress-site/</loc>
+    <lastmod>2014-06-17T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/grails/</loc>
+    <lastmod>2014-02-03T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2014/02/03/grails-adding-javascript-bottom-page/</loc>
+    <lastmod>2014-02-03T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/groovy/</loc>
+    <lastmod>2014-02-03T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/layoutbody/</loc>
+    <lastmod>2014-02-03T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/template/</loc>
+    <lastmod>2014-02-03T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2014/02/02/grails-2-3-5-grails-stop-app-stop-app-running-via-run-app/</loc>
     <lastmod>2014-02-02T19:40:57+00:00</lastmod>
@@ -2123,11 +1562,11 @@
     <loc>https://DigitalRiver.blog/tags/stop-app/</loc>
     <lastmod>2014-02-02T19:40:57+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2014/02/02/grails-adding-javascript-bottom-page/</loc>
-    <lastmod>2014-02-02T17:10:04+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/.gitignore/</loc>
+    <lastmod>2013-11-17T02:16:15+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/layoutbody/</loc>
-    <lastmod>2014-02-02T17:10:04+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/git/</loc>
+    <lastmod>2013-11-17T02:16:15+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2013/11/17/grails-2-x-gitignore-file/</loc>
     <lastmod>2013-11-17T02:16:15+00:00</lastmod>
@@ -2159,19 +1598,19 @@
     <loc>https://DigitalRiver.blog/2013/06/25/working-with-zeromq-0mq-java-jzmq-on-a-centos-platform/</loc>
     <lastmod>2013-06-25T03:36:43+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/async-programming/</loc>
-    <lastmod>2012-11-15T23:31:21+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</loc>
-    <lastmod>2012-11-15T23:31:21+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/categories/vertx/</loc>
-    <lastmod>2012-11-15T23:31:21+00:00</lastmod>
-  </url><url>
     <loc>https://DigitalRiver.blog/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js-2/</loc>
     <lastmod>2012-11-15T18:12:15+00:00</lastmod>
   </url><url>
+    <loc>https://DigitalRiver.blog/categories/node-js/</loc>
+    <lastmod>2012-11-15T18:12:15+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/node.js/</loc>
+    <lastmod>2012-11-15T18:12:15+00:00</lastmod>
+  </url><url>
     <loc>https://DigitalRiver.blog/tags/vert.io/</loc>
+    <lastmod>2012-11-15T18:12:15+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/categories/vertx/</loc>
     <lastmod>2012-11-15T18:12:15+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/vertx.io/</loc>
@@ -2181,6 +1620,9 @@
     <lastmod>2012-11-14T12:27:22+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/create-load/</loc>
+    <lastmod>2012-11-14T12:27:22+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/filesystem/</loc>
     <lastmod>2012-11-14T12:27:22+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/io/</loc>
@@ -2213,8 +1655,11 @@
     <loc>https://DigitalRiver.blog/categories/websockets/</loc>
     <lastmod>2012-11-13T19:26:39+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2012/10/31/welcome-to-the-new-home-digitalriver-com/</loc>
-    <lastmod>2012-10-31T13:55:18+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/tags/async-programming/</loc>
+    <lastmod>2012-11-12T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2012/11/12/getting-started-with-vertx-vert-io-an-alternative-to-node-js/</loc>
+    <lastmod>2012-11-12T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2012/10/31/digitalriver-has-moved-www-digitalriver-com/</loc>
     <lastmod>2012-10-31T13:31:13+00:00</lastmod>
@@ -2233,6 +1678,9 @@
   </url><url>
     <loc>https://DigitalRiver.blog/2012/10/30/wordpress-export-import-site-escaped-character-chellenges/</loc>
     <lastmod>2012-10-30T18:15:37+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2012/10/28/welcome-to-the-new-home-digitalriver-com/</loc>
+    <lastmod>2012-10-28T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2012/10/25/ingenious-idea-whitelines-iphone-great-wireframingdesign-tool-2/</loc>
     <lastmod>2012-10-25T20:49:10+00:00</lastmod>
@@ -2276,10 +1724,10 @@
     <loc>https://DigitalRiver.blog/tags/css/</loc>
     <lastmod>2012-03-01T17:53:35+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/django/</loc>
+    <loc>https://DigitalRiver.blog/categories/django/</loc>
     <lastmod>2012-03-01T17:53:35+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/django/</loc>
+    <loc>https://DigitalRiver.blog/tags/django/</loc>
     <lastmod>2012-03-01T17:53:35+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/images/</loc>
@@ -2302,6 +1750,9 @@
   </url><url>
     <loc>https://DigitalRiver.blog/tags/sample-index.html/</loc>
     <lastmod>2012-02-25T18:36:56+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/configuration/</loc>
+    <lastmod>2011-12-29T03:09:12+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2011/12/29/installing-mod_python-compile-error-apxserror-command-failed-with-rc65536/</loc>
     <lastmod>2011-12-29T03:09:12+00:00</lastmod>
@@ -2373,46 +1824,46 @@
     <lastmod>2011-08-28T22:14:37+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2011/07/14/desktop-timer-for-pomodoro-technique-users/</loc>
-    <lastmod>2011-07-14T12:43:51+00:00</lastmod>
+    <lastmod>2011-07-14T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/pomodoro/</loc>
-    <lastmod>2011-07-14T12:43:51+00:00</lastmod>
+    <lastmod>2011-07-14T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/pomodoro-technique/</loc>
-    <lastmod>2011-07-14T12:43:51+00:00</lastmod>
+    <lastmod>2011-07-14T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/code-analysis/</loc>
-    <lastmod>2011-07-14T11:50:57+00:00</lastmod>
+    <lastmod>2011-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2011/07/14/java-tools-for-source-code-optimization-and-analysis/</loc>
-    <lastmod>2011-07-14T11:50:57+00:00</lastmod>
+    <lastmod>2011-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/optimization/</loc>
-    <lastmod>2011-07-14T11:50:57+00:00</lastmod>
+    <lastmod>2011-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/source-code-analysis/</loc>
-    <lastmod>2011-07-14T11:50:57+00:00</lastmod>
+    <lastmod>2011-07-13T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/class-loader/</loc>
-    <lastmod>2011-07-01T17:34:46+00:00</lastmod>
+    <lastmod>2011-07-02T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/class-loading/</loc>
-    <lastmod>2011-07-01T17:34:46+00:00</lastmod>
+    <lastmod>2011-07-02T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/classnotfoundexception/</loc>
-    <lastmod>2011-07-01T17:34:46+00:00</lastmod>
+    <lastmod>2011-07-02T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/log4jconfiglistener/</loc>
-    <lastmod>2011-07-01T17:34:46+00:00</lastmod>
+    <lastmod>2011-07-02T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</loc>
-    <lastmod>2011-07-01T17:34:46+00:00</lastmod>
+    <lastmod>2011-07-02T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/tomcat/</loc>
-    <lastmod>2011-07-01T17:34:46+00:00</lastmod>
+    <lastmod>2011-07-02T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/web-development/</loc>
-    <lastmod>2011-07-01T17:34:46+00:00</lastmod>
+    <lastmod>2011-07-02T00:00:00-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/error-listnerstart/</loc>
     <lastmod>2011-07-01T17:10:55+00:00</lastmod>
@@ -2633,7 +2084,7 @@
     <loc>https://DigitalRiver.blog/2010/03/30/commonly-overlooked-feature-in-java-5-varargs/</loc>
     <lastmod>2010-03-30T14:16:09+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/post/2010-03-22-spring-application-context/</loc>
+    <loc>https://DigitalRiver.blog/post/2010-03-22/</loc>
     <lastmod>2010-03-22T17:09:21-04:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/brix-cms/</loc>
@@ -2645,14 +2096,14 @@
     <loc>https://DigitalRiver.blog/tags/wicket/</loc>
     <lastmod>2010-03-09T20:02:55+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2010/03/09/how-to-setup-brix-cms-with-apache-jackrabbit-as-a-cluster-part-1-of-3/</loc>
-    <lastmod>2010-03-09T04:37:11+00:00</lastmod>
+    <loc>https://DigitalRiver.blog/2010/03/08/how-to-setup-brix-cms-with-apache-jackrabbit-as-a-cluster-part-1-of-3/</loc>
+    <lastmod>2010-03-08T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/java-cms/</loc>
-    <lastmod>2010-03-09T04:37:11+00:00</lastmod>
+    <lastmod>2010-03-08T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/categories/wicket/</loc>
-    <lastmod>2010-03-09T04:37:11+00:00</lastmod>
+    <lastmod>2010-03-08T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2010/02/24/humor-of-the-day-on-fourier-transform/</loc>
     <lastmod>2010-02-24T22:00:51+00:00</lastmod>
@@ -2681,23 +2132,23 @@
     <loc>https://DigitalRiver.blog/2009/11/05/contextpath-in-apache-wicket/</loc>
     <lastmod>2009-11-05T17:31:07+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2009/11/04/first-date-with-intellij-community-edition-and-scala/</loc>
-    <lastmod>2009-11-04T17:20:52+00:00</lastmod>
-  </url><url>
     <loc>https://DigitalRiver.blog/tags/acrobat/</loc>
-    <lastmod>2009-11-04T16:33:38+00:00</lastmod>
+    <lastmod>2009-11-04T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/link/</loc>
-    <lastmod>2009-11-04T16:33:38+00:00</lastmod>
+    <lastmod>2009-11-04T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/open-links-in-windows/</loc>
-    <lastmod>2009-11-04T16:33:38+00:00</lastmod>
+    <lastmod>2009-11-04T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2009/11/04/opening-a-link-in-a-pdf-document-in-a-new-window/</loc>
-    <lastmod>2009-11-04T16:33:38+00:00</lastmod>
+    <lastmod>2009-11-04T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/pdf/</loc>
-    <lastmod>2009-11-04T16:33:38+00:00</lastmod>
+    <lastmod>2009-11-04T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/2009/11/04/first-date-with-intellij-community-edition-and-scala/</loc>
+    <lastmod>2009-11-03T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/about/</loc>
     <lastmod>2009-05-21T14:54:32+00:00</lastmod>

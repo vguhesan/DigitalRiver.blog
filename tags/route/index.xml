@@ -6,21 +6,14 @@
     <description>Recent content in Route on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 May 2017 23:39:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 May 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/route/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux Routes - How to use them?</title>
-      <link>https://DigitalRiver.blog/post/2017-05-11-how-to-add-route-in-linux/</link>
-      <pubDate>Thu, 11 May 2017 23:39:48 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/post/2017-05-11-how-to-add-route-in-linux/</guid>
-      <description> &amp;lt;img src=&amp;#34;/img/2017/05/route-command.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Examples of Route Command and it&amp;rsquo;s usage.&#xA;Source: 7 Linux Route Command Examples (How to Add Route in Linux) To learn the fundamentals of Routing, please visit the link below:&#xA;Fundamentals of Routing </description>
-    </item>
-    <item>
-      <title>CentOS7 missing Net-Tools Package and why you should not install it moving forward</title>
-      <link>https://DigitalRiver.blog/2016/12/09/centos7-missing-net-tools-package-and-why-you-should-not-install-it-moving-forward/</link>
-      <pubDate>Fri, 09 Dec 2016 21:17:09 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2016/12/09/centos7-missing-net-tools-package-and-why-you-should-not-install-it-moving-forward/</guid>
-      <description>&amp;lt;img src=&amp;#34;/img/2016/11/centos_logo.png&amp;#34; alt=&amp;#34;centos_logo&amp;#34;&amp;gt; In CentOS 7, a lot of the command-line utilities for configuring and troubleshooting network properties like arp, ifconfig, iptunnel, iwconfig, nameif, netstat, route - are no longer there in the new CentOS 7 version. While still included in many Linux Distributions, (and you may be tempted to run - &amp;lsquo;yum install net-tools&amp;rsquo; - to get them back into your Linux footprint). But they are considered deprecated and therefore should be phased out in favor of more modern replacements.</description>
+      <link>https://DigitalRiver.blog/post/2017-05-14/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 -0400</pubDate>
+      <guid>https://DigitalRiver.blog/post/2017-05-14/</guid>
+      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://www.thegeekstuff.com/2012/04/route-examples/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/05/route-command.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Examples of Route Command and it&amp;rsquo;s usage.&lt;/p&gt;&#xA;&lt;p&gt;Source: &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://www.thegeekstuff.com/2012/04/route-examples/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;7 Linux Route Command Examples (How to Add Route in Linux)&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;To learn the fundamentals of Routing, please visit the link below:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://www.thegeekstuff.com/2012/04/ip-routing-intro/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Fundamentals of Routing&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

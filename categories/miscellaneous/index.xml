@@ -13,21 +13,21 @@
       <link>https://DigitalRiver.blog/2017/08/31/how-to-create-jaw-dropping-data-visualizations-on-the-web-with-d3-js/</link>
       <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/31/how-to-create-jaw-dropping-data-visualizations-on-the-web-with-d3-js/</guid>
-      <description>Story telling using great visualizations.&#xA;Thus article goes into the details of creating great visuals leveraging D3 JavaScript library. It introduces the user into concepts provided by the D3 library.&#xA;Some of the steps includes:&#xA;Refreshing previous concepts of D3.js A glance at advanced concepts: Scales, Axes and Reading data from external sources Building basic charts and code reusability Line Chart Area Chart Chart as a modular structure Case Study Visualizing Game of Thrones Social Network – Force Directed Graph in action!</description>
-    </item>
-    <item>
-      <title>YouTube has a new look and, for the first time, a new logo (repost) </title>
-      <link>https://DigitalRiver.blog/2017/08/29/youtube-has-a-new-look-and-for-the-first-time-a-new-logo-repost/</link>
-      <pubDate>Tue, 29 Aug 2017 21:13:51 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2017/08/29/youtube-has-a-new-look-and-for-the-first-time-a-new-logo-repost/</guid>
-      <description> YouTube has a new look and, for the first time, a new logo (repost)&#xA;You get to see how Google works from a UI perspective https://www.theverge.com/2017/8/29/16216868/new-youtube-logo-redesign-font-color-app-design </description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/08/d3-visualization-example.jpg&#34; alt=&#34;D3-Visualization-Example&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Story telling using great visualizations.&lt;/p&gt;&#xA;&lt;p&gt;Thus article goes into the details of creating great visuals leveraging D3 JavaScript library. It introduces the user into concepts provided by the D3 library.&lt;/p&gt;&#xA;&lt;p&gt;Some of the steps includes:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Refreshing previous concepts of D3.js&lt;/li&gt;&#xA;&lt;li&gt;A glance at advanced concepts: Scales, Axes and Reading data from external sources&lt;/li&gt;&#xA;&lt;li&gt;Building basic charts and code reusability&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Line Chart&lt;/li&gt;&#xA;&lt;li&gt;Area Chart&lt;/li&gt;&#xA;&lt;li&gt;Chart as a modular structure&lt;/li&gt;&#xA;&lt;li&gt;Case Study&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Visualizing Game of Thrones Social Network  – Force Directed Graph in action!&lt;/li&gt;&#xA;&lt;li&gt;Case Studies – Some interesting charts built using D3.js&lt;/li&gt;&#xA;&lt;li&gt;Introduction to Dimple.js – D3 made easy!&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Definitely a great read if you are trying to learn the D3.js library or if you&amp;rsquo;re trying to learn some basics on creating stunning visuals speaking volumes on numbers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Create versatile visualizations with D3 and Angular (repost) </title>
       <link>https://DigitalRiver.blog/2017/08/29/create-versatile-visualizations-with-d3-and-angular-repost/</link>
       <pubDate>Tue, 29 Aug 2017 21:05:58 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/08/29/create-versatile-visualizations-with-d3-and-angular-repost/</guid>
-      <description>&#xA;Create versatile visualizations with D3 and Angular&#xA;Learn how to combine the D3 data visualization tool and the Angular cross-platform application development platform to create interactive visualizations. https://opensource.com/article/17/8/d3-angular </description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/08/d3-visualization-example.jpg&#34; alt=&#34;D3-Visualization-Example&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Create versatile visualizations with D3 and Angular&lt;/p&gt;&#xA;&lt;blockquote&gt;Learn how to combine the D3 data visualization tool and the Angular cross-platform application development platform to create interactive visualizations.&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://opensource.com/article/17/8/d3-angular&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;https://opensource.com/article/17/8/d3-angular&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>YouTube has a new look and, for the first time, a new logo (repost) </title>
+      <link>https://DigitalRiver.blog/2017/08/22/youtube-has-a-new-look-and-for-the-first-time-a-new-logo-repost/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 -0400</pubDate>
+      <guid>https://DigitalRiver.blog/2017/08/22/youtube-has-a-new-look-and-for-the-first-time-a-new-logo-repost/</guid>
+      <description>&lt;img &#xA;    &#xA;        src=&#34;https://DigitalRiver.blog/img/2017/08/graphicdesignatwork.jpg&#34; &#xA;    &#xA;    &#xA;        alt=&#34;GraphicDesignAtWork&#34;&#xA;    &#xA;     &#xA;        width=&#34;150&#34; &#xA;    &#xA;    &#xA;     &#xA;        align=&#34;left&#34; &#xA;    &#xA;    &#xA;        class=&#34;imgframe&#34; &#xA;    &#xA;    &gt;&#xA;&lt;p&gt;YouTube has a new look and, for the first time, a new logo (repost)&lt;/p&gt;&#xA;&lt;blockquote&gt;You get to see how Google works from a UI perspective&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://www.theverge.com/2017/8/29/16216868/new-youtube-logo-redesign-font-color-app-design&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;https://www.theverge.com/2017/8/29/16216868/new-youtube-logo-redesign-font-color-app-design&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

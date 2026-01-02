@@ -6,28 +6,28 @@
     <description>Recent content in Windows on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 -0500</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Remove .DS_Store and ._.DS_Store under Windows</title>
       <link>https://DigitalRiver.blog/post/2022-01-3/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 -0500</pubDate>
       <guid>https://DigitalRiver.blog/post/2022-01-3/</guid>
-      <description>What is this article about? When you move from a Mac OSX onto Windows, the file system will contain two files under every directory labeled &amp;ldquo;.DS_Store&amp;rdquo; and &amp;ldquo;._.DS_Store&amp;rdquo;. These files are not useful especially if you&amp;rsquo;re trying to commit code under a Git source control. It can sometime get very annoying and to eliminate this &amp;ldquo;noise&amp;rdquo; from your day to day development, you may want to remove these artifacts from your Windows system.</description>
+      <description>&lt;figure class=&#34;aligncenter round-img-border imgframe-left-pad&#34;&gt;&lt;img src=&#34;https://DigitalRiver.blog/post/2022-01-3/img/unsplash.jpg&#34; width=&#34;100%&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;what-is-this-article-about&#34;&gt;What is this article about?&lt;/h3&gt;&#xA;&lt;p&gt;When you move from a Mac OSX onto Windows, the file system will contain two files under every directory labeled &amp;ldquo;.DS_Store&amp;rdquo; and &amp;ldquo;._.DS_Store&amp;rdquo;. These files are not useful especially if you&amp;rsquo;re trying to commit code under a Git source control. It can sometime get very annoying and to eliminate this &amp;ldquo;noise&amp;rdquo; from your day to day development, you may want to remove these artifacts from your Windows system. This article will walk you through the simple steps of removing those files.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Configure Jumbo Packets for all your devices including Windows/Linux/Mac OS X on your network</title>
-      <link>https://DigitalRiver.blog/post/2017-10-16-enabling-jumbo-packets-for-your-devices/</link>
+      <link>https://DigitalRiver.blog/post/2017-10-16/</link>
       <pubDate>Mon, 16 Oct 2017 13:22:49 -0400</pubDate>
-      <guid>https://DigitalRiver.blog/post/2017-10-16-enabling-jumbo-packets-for-your-devices/</guid>
-      <description>Summary This article focus on how to setup Jumbo packets on all your various devices in your network. This includes Windows 10+, Linux, Mac OS X+.&#xA;What is Jumbo packet or Jumbo Frame? A jumbo frame is an Ethernet frame with a payload greater than the standard maximum transmission unit (MTU) of 1,500 bytes. Jumbo frames are used on local area networks that support at least 1 Gbps and can be as large as 9,000 bytes.</description>
+      <guid>https://DigitalRiver.blog/post/2017-10-16/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;This article focus on how to setup Jumbo packets on all your various devices in your network. This includes Windows 10+, Linux, Mac OS X+.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-jumbo-packet-or-jumbo-frame&#34;&gt;What is Jumbo packet or Jumbo Frame?&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;A jumbo frame is an Ethernet frame with a payload greater than the standard maximum transmission unit (MTU) of 1,500 bytes. Jumbo frames are used on local area networks that support at least 1 Gbps and can be as large as 9,000 bytes.&#xA;&amp;ndash; Definition from WhatIs.com&lt;/p&gt;</description>
     </item>
     <item>
       <title>Python pycharm - configuring remote interpreters from Windows to Linux</title>
       <link>https://DigitalRiver.blog/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</link>
       <pubDate>Fri, 20 Apr 2012 19:32:53 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</guid>
-      <description>If you are an avid Python developer, you may all be excited about the new features available in the Pycharm 2.5 release, especially the remote interpreters, virtualenv and setup.py support. You can read more about the new exciting features here .&#xA;But as I started to tinker with the &amp;ldquo;remote interpreter&amp;rdquo; feature - I stumbled upon some challenges and I thought I&amp;rsquo;d document them for other PyCharm users who might benefit from this blog entry.</description>
+      <description>&lt;p&gt;If you are an avid Python developer, you may all be excited about the new features available in the Pycharm 2.5 release, especially the remote interpreters, virtualenv and setup.py support. You can read more about the new exciting features &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://www.jetbrains.com/pycharm/whatsnew/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;here&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;But as I started to tinker with the &amp;ldquo;remote interpreter&amp;rdquo; feature - I stumbled upon some challenges and I thought I&amp;rsquo;d document them for other PyCharm users who might benefit from this blog entry.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

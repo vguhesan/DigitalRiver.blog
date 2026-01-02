@@ -6,28 +6,14 @@
     <description>Recent content in Bash on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Mar 2017 19:27:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Mar 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/bash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Record Everything You Do In Terminal - OSTechNix</title>
       <link>https://DigitalRiver.blog/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</link>
-      <pubDate>Mon, 13 Mar 2017 19:27:16 +0000</pubDate>
+      <pubDate>Sat, 18 Mar 2017 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/2017/03/13/how-to-record-everything-you-do-in-terminal-ostechnix/</guid>
-      <description> &amp;lt;img src=&amp;#34;/img/2017/03/record-everything-you-do-in-terminal.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; Synopsis:&#xA;script -a my_history mkdir test cd test touch hello_world.txt echo &#39;Hello World&#39; &gt; ./hello_world.txt # This closes the &#34;script -a my_history&#34; file exit Source: How To Record Everything You Do In Terminal - OSTechNix </description>
-    </item>
-    <item>
-      <title>bash script to generate config or property file from a template file containing variables</title>
-      <link>https://DigitalRiver.blog/2016/06/23/bash-generating-config-or-property-file-from-a-template-file-containing-variables/</link>
-      <pubDate>Thu, 23 Jun 2016 23:14:21 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2016/06/23/bash-generating-config-or-property-file-from-a-template-file-containing-variables/</guid>
-      <description>Sometimes we have configuration or properties file (as templates) such as httpd.conf or server.conf where we want to dynamically replace $variables with values before writing the output to a new file.&#xA;Example:&#xA;# httpd.conf.tmpl SetHandler server-status Order deny,allow Deny from all Allow from $MONITOR_IP We want to develop an install script in Bash such that it reads the httpd.conf.tmpl and replaces the $STATUS_URI and $MONITOR_IP with appropriate values (either passed in as script arguments or coded in the bash script) and then write out the resulting output to a new file such as /tmp/httpd.</description>
-    </item>
-    <item>
-      <title>merging bash ssh session history</title>
-      <link>https://DigitalRiver.blog/2016/03/24/merging-bash-ssh-session-history/</link>
-      <pubDate>Thu, 24 Mar 2016 14:56:03 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2016/03/24/merging-bash-ssh-session-history/</guid>
-      <description>&amp;lt;img src=&amp;#34;/img/2016/11/linuxlogo.png&amp;#34; alt=&amp;#34;linuxlogo&amp;#34;&amp;gt; You may have observed once in a while that when you SSH onto a server and you try to look up a command you ran earlier (maybe the previous day) in the &amp;ldquo;history&amp;rdquo; output but you do not see it. This is because of how a SSH session works! Each time you ssh into a server, it leverages a set of TTY screens to maintain an individual history for that session.</description>
+      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://www.ostechnix.com/record-everything-terminal/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/03/record-everything-you-do-in-terminal.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Synopsis:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code language=&#34;bash&#34;&gt;&#xA;&#xA;script -a my_history&#xA;&#xA;mkdir test&#xA;&#xA;cd test&#xA;&#xA;touch hello_world.txt&#xA;&#xA;echo &#39;Hello World&#39; &gt; ./hello_world.txt&#xA;&#xA;# This closes the &#34;script -a my_history&#34; file&#xA;exit&#xA;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Source: &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://www.ostechnix.com/record-everything-terminal/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;How To Record Everything You Do In Terminal - OSTechNix&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

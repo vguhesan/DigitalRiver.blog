@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</link>
       <pubDate>Fri, 01 Jul 2011 17:10:55 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</guid>
-      <description>I&amp;rsquo;m sure if you have been developing with Java and Tomcat for sometime, you are likely to run into the infamous debug error.&#xA;SEVERE: Error listenerStart&#xA;You will most likely start Googling it trying to find out what the heck is going on. And in trying to see the extended logging on what that &amp;ldquo;listenerStart&amp;rdquo; error means. After some lucky searches, you will see links asking you to drop a &amp;ldquo;log4j.</description>
+      <description>&lt;p&gt;I&amp;rsquo;m sure if you have been developing with Java and Tomcat for sometime, you are likely to run into the infamous debug error.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;SEVERE: Error listenerStart&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;You will most likely start Googling it trying to find out what the heck is going on. And in trying to see the extended logging on what that &amp;ldquo;listenerStart&amp;rdquo; error means. After some lucky searches, you will see links asking you to drop a &amp;ldquo;log4j.properties&amp;rdquo; file under &amp;lsquo;/WEB-INF/classes&amp;rsquo; directory inside your WAR to help debug which one of the listeners is throwing this crazy error.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

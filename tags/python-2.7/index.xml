@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2011/12/28/how-to-upgrade-to-python-2-7-on-centos/</link>
       <pubDate>Wed, 28 Dec 2011 17:58:32 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2011/12/28/how-to-upgrade-to-python-2-7-on-centos/</guid>
-      <description>If you tried upgrading to Python 2.7 on CentOS, you will quickly find out that the RPM&amp;rsquo;s don&amp;rsquo;t exist for this in the repos. So here&amp;rsquo;s a short summary of what I did to upgrade my Python to 2.7 on CentOS.&#xA;Based on a few Google searches&amp;hellip; I discovered that a few dependent packages are required before you try upgrading to Python 2.7.&#xA;[sourcecode]&#xA;yum -y groupinstall &amp;lsquo;Development Tools&amp;rsquo; yum -y install openssl-devel* ncurses-devel* zlib*.</description>
+      <description>&lt;p&gt;If you tried upgrading to Python 2.7 on CentOS, you will quickly find out that the RPM&amp;rsquo;s don&amp;rsquo;t exist for this in the repos. So here&amp;rsquo;s a short summary of what I did to upgrade my Python to 2.7 on CentOS.&lt;/p&gt;&#xA;&lt;p&gt;Based on a few Google searches&amp;hellip; I discovered that a few dependent packages are required before you try upgrading to Python 2.7.&lt;/p&gt;&#xA;&lt;p&gt;[sourcecode]&lt;/p&gt;&#xA;&lt;p&gt;yum -y groupinstall &amp;lsquo;Development Tools&amp;rsquo;&#xA;yum -y install openssl-devel* ncurses-devel* zlib*.x86_64&lt;/pre&gt;&#xA;yum -y install bzip2 bzip2-devel bzip2-libs&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

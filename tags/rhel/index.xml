@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2011/12/25/how-to-list-the-package-contents-of-a-yum-install/</link>
       <pubDate>Sun, 25 Dec 2011 16:43:03 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2011/12/25/how-to-list-the-package-contents-of-a-yum-install/</guid>
-      <description>Sometimes you need to see what&amp;rsquo;s installed as part of a package via yum. To see the package contents you can use a utility that&amp;rsquo;s available on the RHEL/CentOS.&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;$repoquery &amp;ndash;list packagename&#xA;[/sourcecode]&#xA;If you do not have this utility available, you can install it by using this command&#xA;[sourcecode]&#xA;$yum install yum-utils&#xA;[/sourcecode]&#xA;Here is a sample output from looking at the package contents of Apache httpd.</description>
+      <description>&lt;p&gt;Sometimes you need to see what&amp;rsquo;s installed as part of a package via yum. To see the package contents you can use a utility that&amp;rsquo;s available on the RHEL/CentOS.&lt;/p&gt;&#xA;&lt;p&gt;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&lt;/p&gt;&#xA;&lt;p&gt;$repoquery &amp;ndash;list &lt;strong&gt;packagename&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;[/sourcecode]&lt;/p&gt;&#xA;&lt;p&gt;If you do not have this utility available, you can install it by using this command&lt;/p&gt;&#xA;&lt;p&gt;[sourcecode]&lt;/p&gt;&#xA;&lt;p&gt;$yum install yum-utils&lt;/p&gt;&#xA;&lt;p&gt;[/sourcecode]&lt;/p&gt;&#xA;&lt;p&gt;Here is a sample output from looking at the package contents of Apache httpd.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

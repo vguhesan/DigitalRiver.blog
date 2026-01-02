@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/</link>
       <pubDate>Tue, 19 Sep 2017 02:06:43 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/</guid>
-      <description>If you do a screen recording on a Mac, you are most likely using the free Quicktime player that comes with Mac OS X. If you are lucky enough to own a Quicktime Pro then you can simply do an Export &amp;gt; Save-As MP4. For those of you that do not have a Quicktime Pro, then you can use this option.&#xA;brew install ffmpeg # After installation, you can traverse into the directory where you have the .</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/2016/11/macosx_blogarticle_100px.png&#34; alt=&#34;macosx_blogarticle_100px&#34;&gt;If you do a screen recording on a Mac, you are most likely using the free Quicktime player that comes with Mac OS X. If you are lucky enough to own a Quicktime Pro then you can simply do an Export &amp;gt; Save-As MP4. For those of you that do not have a Quicktime Pro, then you can use this option.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code class=&#34;language-bash line-numbers&#34;&gt;brew install ffmpeg&#xA;&#xA;# After installation, you can traverse into the directory where you have the .mov file and run the following&#xA;&#xA;ffmpeg -i input-file-name.mov output-file-name.mp4&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Not sure what Brew is? It&amp;rsquo;s the missing package package manager for Mac OS X.&#xA;Use the following link to learn more:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

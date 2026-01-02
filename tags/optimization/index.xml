@@ -6,14 +6,14 @@
     <description>Recent content in Optimization on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Jul 2011 11:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jul 2011 00:00:00 -0400</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java Tools for Source Code Optimization and Analysis</title>
       <link>https://DigitalRiver.blog/2011/07/14/java-tools-for-source-code-optimization-and-analysis/</link>
-      <pubDate>Thu, 14 Jul 2011 11:50:57 +0000</pubDate>
+      <pubDate>Wed, 13 Jul 2011 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/2011/07/14/java-tools-for-source-code-optimization-and-analysis/</guid>
-      <description>Below is a list of some tools that can help you examine your Java source code for potential problems:&#xA;1. PMD from http://pmd.sourceforge.net/ License: PMD is licensed under a &amp;ldquo;BSD-style&amp;rdquo; license&#xA;PMD scans Java source code and looks for potential problems like:&#xA;Possible bugs - empty try/catch/finally/switch statements Dead code - unused local variables, parameters and private methods Suboptimal code - wasteful String/StringBuffer usage Overcomplicated expressions - unnecessary if statements, for loops that could be while loops Duplicate code - copied/pasted code means copied/pasted bugs You can download everything from here, and you can get an overview of all the rules at the rulesets index page.</description>
+      <description>&lt;p&gt;Below is a list of some tools that can help you examine your Java source code for potential problems:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. PMD from &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://pmd.sourceforge.net/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;http://pmd.sourceforge.net/&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/strong&gt;&#xA;&lt;em&gt;License:&lt;/em&gt; PMD is licensed under a &amp;ldquo;BSD-style&amp;rdquo; license&lt;/p&gt;&#xA;&lt;p&gt;PMD scans Java source code and looks for potential problems like:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Possible bugs - empty try/catch/finally/switch statements&lt;/li&gt;&#xA;&lt;li&gt;Dead code - unused local variables, parameters and private methods&lt;/li&gt;&#xA;&lt;li&gt;Suboptimal code - wasteful String/StringBuffer usage&lt;/li&gt;&#xA;&lt;li&gt;Overcomplicated expressions - unnecessary if statements, for loops that could be while loops&lt;/li&gt;&#xA;&lt;li&gt;Duplicate code - copied/pasted code means copied/pasted bugs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;You can download everything from here, and you can get an overview of all the rules at the rulesets index page.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

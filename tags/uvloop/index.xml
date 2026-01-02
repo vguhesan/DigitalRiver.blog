@@ -10,10 +10,10 @@
     <atom:link href="https://DigitalRiver.blog/tags/uvloop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>uvloop - Python replacement for asyncio event loop</title>
-      <link>https://DigitalRiver.blog/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</link>
+      <link>https://DigitalRiver.blog/post/2017-04-01/</link>
       <pubDate>Sat, 01 Apr 2017 16:26:27 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/post/2017-04-01-uvloop-python-replacement-for-asyncio-event-loop/</guid>
-      <description>&amp;lt;img src=&amp;#34;/img/2016/09/python_logo.png&amp;#34; alt=&amp;#34;&amp;#34;&amp;gt; uvloop is a fast, drop-in replacement of the built-in asyncio event loop. uvloop is implemented in Cython and uses libuv under the hood.&#xA;Benefits: uvloop makes asyncio 2-4x faster.&#xA;Cons: uvloop is available from PyPI but it requires Python 3.5. (The reason for this is asyncio was introduced in Python 3.4 and above.) Unless your project is based on Python 3.4+ - you may not be able to leverage this library.</description>
+      <guid>https://DigitalRiver.blog/post/2017-04-01/</guid>
+      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2016/09/python_logo.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2016/09/python_logo.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;uvloop is a fast, drop-in replacement of the built-in asyncio event loop. uvloop is implemented in Cython and uses libuv under the hood.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;: uvloop makes asyncio 2-4x faster.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;: uvloop is available from PyPI but it requires Python 3.5. (The reason for this is asyncio was introduced in Python 3.4 and above.) Unless your project is based on Python 3.4+ - you may not be able to leverage this library.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

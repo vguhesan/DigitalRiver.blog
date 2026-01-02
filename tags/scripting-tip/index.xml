@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2011/06/25/tired-of-terminate-batch-job-yn-try-this/</link>
       <pubDate>Sat, 25 Jun 2011 03:56:13 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2011/06/25/tired-of-terminate-batch-job-yn-try-this/</guid>
-      <description>When you invoke a batch file or most applications in a command-prompt and when you wish to close the application by doing a CTRL+C, you get the annoying &amp;ldquo;Terminate batch job (Y/N)?&amp;rdquo; prompt. And in most cases, even if you type a &amp;ldquo;n&amp;rdquo;, it still kills the application. Example is the Tomcat startup. To avoid this, try this:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;YourScript.cmd &amp;lt; Nul&#xA;[/sourcecode]&#xA;This should no longer ask you with the annoying prompt &amp;ldquo;Terminate batch job (Y/N)?</description>
+      <description>&lt;p&gt;When you invoke a batch file or most applications in a command-prompt and when you wish to close the application by doing a CTRL+C, you get the annoying &amp;ldquo;Terminate batch job (Y/N)?&amp;rdquo; prompt. And in most cases, even if you type a &amp;ldquo;n&amp;rdquo;, it still kills the application. Example is the Tomcat startup. To avoid this, try this:&lt;/p&gt;&#xA;&lt;p&gt;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&lt;/p&gt;&#xA;&lt;p&gt;YourScript.cmd &amp;lt; Nul&lt;/p&gt;&#xA;&lt;p&gt;[/sourcecode]&lt;/p&gt;&#xA;&lt;p&gt;This should no longer ask you with the annoying prompt &amp;ldquo;Terminate batch job (Y/N)?&amp;rdquo;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

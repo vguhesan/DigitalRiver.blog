@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spring-Boot on Digital River</title>
+    <title>Spring Boot on Digital River</title>
     <link>https://DigitalRiver.blog/tags/spring-boot/</link>
-    <description>Recent content in Spring-Boot on Digital River</description>
+    <description>Recent content in Spring Boot on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Sep 2019 23:53:36 -0400</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/spring-boot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Microservices</title>
-      <link>https://DigitalRiver.blog/post/2019-09-06-understanding_microservices/</link>
+      <link>https://DigitalRiver.blog/post/2019-09-06/</link>
       <pubDate>Fri, 06 Sep 2019 23:53:36 -0400</pubDate>
-      <guid>https://DigitalRiver.blog/post/2019-09-06-understanding_microservices/</guid>
-      <description>tl;dr Understanding how we got here and the problem that it solves will help understand what Microservices is all about.&#xA;A few months back, I gave a presentation at Leidos Cloud User Group on the topic of &amp;ldquo;Understanding Microservices&amp;rdquo;. To my astonishment, we had about 123 folks that attended the presentation. I felt that it&amp;rsquo;s best that I share this knowledge with the world. I have also created a short (and sweet) implementation of Microservices using JavaScript Cote.</description>
+      <guid>https://DigitalRiver.blog/post/2019-09-06/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; Understanding how we got here and the problem that it solves will help understand what Microservices is all about.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&#xA;&lt;img &#xA;    &#xA;        src=&#34;https://DigitalRiver.blog/img/logo/microservices.png&#34; &#xA;    &#xA;    &#xA;        alt=&#34;Understanding Microservices&#34;&#xA;    &#xA;     &#xA;        width=&#34;150&#34; &#xA;    &#xA;    &#xA;     &#xA;        align=&#34;left&#34; &#xA;    &#xA;    &#xA;        class=&#34;imgframe&#34; &#xA;    &#xA;    &gt;&#xA;&lt;p&gt;A few months back, I gave a presentation at Leidos Cloud User Group on the topic of &amp;ldquo;Understanding Microservices&amp;rdquo;. To my astonishment, we had about 123 folks that attended the presentation. I felt that it&amp;rsquo;s best that I share this knowledge with the world. I have also created a short (and sweet) implementation of Microservices using JavaScript Cote.js library.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spring Framework - Application Context - three ways to get to the application context</title>
-      <link>https://DigitalRiver.blog/post/2017-11-24-spring-framework-three-ways-to-application-context/</link>
-      <pubDate>Fri, 24 Nov 2017 13:28:10 -0500</pubDate>
-      <guid>https://DigitalRiver.blog/post/2017-11-24-spring-framework-three-ways-to-application-context/</guid>
-      <description>This article shows you three different ways how to get to the Spring Framework Application Context in your code.&#xA;Summary (This is a repost of an older article I wrote in 2010). In searching Google for &amp;ldquo;Spring ApplicationContextAware &amp;rdquo;, you will come across a lot of recommendations and I also see a lot of folks continuing to complain saying that their setApplicationContext method does not get invoked. So to help clarify, I&amp;rsquo;m blogging a few notes in hope that it helps clarify how the context works.</description>
+      <link>https://DigitalRiver.blog/post/2017-11-20/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 -0500</pubDate>
+      <guid>https://DigitalRiver.blog/post/2017-11-20/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/logo/springframework.png&#34; alt=&#34;Semiconductor&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This article shows you three different ways how to get to the Spring Framework Application Context in your code.&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;(This is a repost of an older article I wrote in 2010).&#xA;In searching Google for &amp;ldquo;Spring &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContextAware.html&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;ApplicationContextAware&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&amp;rdquo;, you will come across a lot of recommendations and I also see a lot of folks continuing to complain saying that their setApplicationContext method does not get invoked. So to help clarify, I&amp;rsquo;m blogging a few notes in hope that it helps clarify how the context works.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spring Framework - Application Context - three ways to get to the application context</title>
-      <link>https://DigitalRiver.blog/post/2010-03-22-spring-application-context/</link>
+      <link>https://DigitalRiver.blog/post/2010-03-22/</link>
       <pubDate>Mon, 22 Mar 2010 17:09:21 -0400</pubDate>
-      <guid>https://DigitalRiver.blog/post/2010-03-22-spring-application-context/</guid>
-      <description>Summary This article shows you three different ways how to get to the Spring Framework Application Context in your code. test</description>
+      <guid>https://DigitalRiver.blog/post/2010-03-22/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;This article shows you three different ways how to get to the Spring Framework Application Context in your code. test&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

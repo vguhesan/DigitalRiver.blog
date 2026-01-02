@@ -6,14 +6,14 @@
     <description>Recent content in LayoutBody on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Feb 2014 17:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2014 00:00:00 -0500</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/tags/layoutbody/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grails - Adding JavaScript to bottom of page</title>
-      <link>https://DigitalRiver.blog/2014/02/02/grails-adding-javascript-bottom-page/</link>
-      <pubDate>Sun, 02 Feb 2014 17:10:04 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2014/02/02/grails-adding-javascript-bottom-page/</guid>
-      <description>In Grails using the templating (Sitemesh) if you were to include per-page JavaScript resources then it shows up much earlier in the layout content as part of the &amp;lt;g:layoutBody&amp;gt;&#xA;Here is an example illustrating the problem:&#xA;SamplePage.gsp [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; DigitalRiver.com Custom Page ... Some this page content [/sourcecode]&#xA;and the layout page (layoutPage.gsp) [sourcecode language=&amp;ldquo;html&amp;rdquo;]&#xA;&lt;!DOCTYPE html&gt; ... Some template (header) content [/sourcecode]&#xA;results in the following page in browser [sourcecode language=&amp;ldquo;html&amp;rdquo;]</description>
+      <link>https://DigitalRiver.blog/2014/02/03/grails-adding-javascript-bottom-page/</link>
+      <pubDate>Mon, 03 Feb 2014 00:00:00 -0500</pubDate>
+      <guid>https://DigitalRiver.blog/2014/02/03/grails-adding-javascript-bottom-page/</guid>
+      <description>&lt;p&gt;In Grails using the templating (Sitemesh) if you were to include per-page JavaScript resources then it shows up much earlier in the layout content as part of the &amp;lt;g:layoutBody&amp;gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is an example illustrating the problem:&lt;/p&gt;&#xA;&lt;p&gt;SamplePage.gsp&#xA;[sourcecode language=&amp;ldquo;html&amp;rdquo;]&lt;/p&gt;&#xA;&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&lt;head&gt;&#xA;&lt;meta name=&#34;layout&#34; content=&#34;layoutPage&#34;/&gt;&#xA;&lt;head&gt;DigitalRiver.com Custom Page&lt;/head&gt;&#xA;...&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;Some this page content&#xA;&lt;script type=&#34;text/javascript&#34; src=&#34;${request.contextPath}js/samplePage.js&#34;&gt;&lt;/script&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;&#xA;&lt;p&gt;[/sourcecode]&lt;/p&gt;&#xA;&lt;p&gt;and the layout page (layoutPage.gsp)&#xA;[sourcecode language=&amp;ldquo;html&amp;rdquo;]&lt;/p&gt;&#xA;&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&lt;head&gt;&#xA;&lt;title&gt;&lt;g:layoutTitle default=&#34;DigitalRiver.com&#34;/&gt;&lt;/title&gt;&#xA;...&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;&lt;div&gt;&#xA;Some template (header) content&#xA;&lt;g:layoutBody/&gt;&#xA;&lt;/div&gt;&#xA;&lt;!-- Common JS Files --&gt;&#xA;&lt;script type=&#34;text/javascript&#34; src=&#34;${request.contextPath}js/common.js&#34;&gt;&lt;/script&gt;&#xA;&lt;!-- Begin: Custom Page JavaScript Should Go Here --&gt;&#xA;&lt;!-- End: Custom Page JavaScript Should Go Here --&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;&#xA;&lt;p&gt;[/sourcecode]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

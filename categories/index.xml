@@ -6,124 +6,131 @@
     <description>Recent content in Categories on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 -0400</lastBuildDate>
     <atom:link href="https://DigitalRiver.blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MacOSX</title>
       <link>https://DigitalRiver.blog/categories/macosx/</link>
-      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/macosx/</guid>
       <description></description>
     </item>
     <item>
       <title>Ubuntu</title>
       <link>https://DigitalRiver.blog/categories/ubuntu/</link>
-      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/ubuntu/</guid>
       <description></description>
     </item>
     <item>
       <title>VirtualBox</title>
       <link>https://DigitalRiver.blog/categories/virtualbox/</link>
-      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/virtualbox/</guid>
       <description></description>
     </item>
     <item>
       <title>India 5G</title>
       <link>https://DigitalRiver.blog/categories/india-5g/</link>
-      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/india-5g/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Components</title>
       <link>https://DigitalRiver.blog/categories/web-components/</link>
-      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/web-components/</guid>
       <description></description>
     </item>
     <item>
       <title>Mac OS X</title>
       <link>https://DigitalRiver.blog/categories/mac-os-x/</link>
-      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 -0500</pubDate>
       <guid>https://DigitalRiver.blog/categories/mac-os-x/</guid>
       <description></description>
     </item>
     <item>
       <title>Humidifier</title>
       <link>https://DigitalRiver.blog/categories/humidifier/</link>
-      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 -0500</pubDate>
       <guid>https://DigitalRiver.blog/categories/humidifier/</guid>
       <description></description>
     </item>
     <item>
       <title>YAML</title>
       <link>https://DigitalRiver.blog/categories/yaml/</link>
-      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 -0500</pubDate>
       <guid>https://DigitalRiver.blog/categories/yaml/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
       <link>https://DigitalRiver.blog/categories/windows/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 -0500</pubDate>
       <guid>https://DigitalRiver.blog/categories/windows/</guid>
       <description></description>
     </item>
     <item>
       <title>Time Management</title>
       <link>https://DigitalRiver.blog/categories/time-management/</link>
-      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 -0500</pubDate>
       <guid>https://DigitalRiver.blog/categories/time-management/</guid>
       <description></description>
     </item>
     <item>
       <title>GoLang</title>
       <link>https://DigitalRiver.blog/categories/golang/</link>
-      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/golang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inspiration</title>
+      <link>https://DigitalRiver.blog/categories/inspiration/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 -0400</pubDate>
+      <guid>https://DigitalRiver.blog/categories/inspiration/</guid>
       <description></description>
     </item>
     <item>
       <title>DevOps</title>
       <link>https://DigitalRiver.blog/categories/devops/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/devops/</guid>
       <description></description>
     </item>
     <item>
       <title>GitOps</title>
       <link>https://DigitalRiver.blog/categories/gitops/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/gitops/</guid>
       <description></description>
     </item>
     <item>
       <title>Kubernetes</title>
       <link>https://DigitalRiver.blog/categories/kubernetes/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/kubernetes/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
       <link>https://DigitalRiver.blog/categories/python/</link>
-      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows 10</title>
       <link>https://DigitalRiver.blog/categories/windows-10/</link>
-      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/windows-10/</guid>
       <description></description>
     </item>
     <item>
       <title>Statistics</title>
       <link>https://DigitalRiver.blog/categories/statistics/</link>
-      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/statistics/</guid>
       <description></description>
     </item>
@@ -139,69 +146,6 @@
       <link>https://DigitalRiver.blog/categories/postgresql/</link>
       <pubDate>Thu, 05 Sep 2019 21:04:14 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/postgresql/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blink</title>
-      <link>https://DigitalRiver.blog/categories/blink/</link>
-      <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/blink/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blink Sync</title>
-      <link>https://DigitalRiver.blog/categories/blink-sync/</link>
-      <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/blink-sync/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Camera</title>
-      <link>https://DigitalRiver.blog/categories/camera/</link>
-      <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/camera/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Embedded</title>
-      <link>https://DigitalRiver.blog/categories/embedded/</link>
-      <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/embedded/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hardware</title>
-      <link>https://DigitalRiver.blog/categories/hardware/</link>
-      <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/hardware/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sync</title>
-      <link>https://DigitalRiver.blog/categories/sync/</link>
-      <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/sync/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Water-Proof</title>
-      <link>https://DigitalRiver.blog/categories/water-proof/</link>
-      <pubDate>Tue, 29 Jan 2019 17:23:34 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/water-proof/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>JavaScript</title>
-      <link>https://DigitalRiver.blog/categories/javascript/</link>
-      <pubDate>Wed, 23 May 2018 14:37:18 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/javascript/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>JS</title>
-      <link>https://DigitalRiver.blog/categories/js/</link>
-      <pubDate>Wed, 23 May 2018 14:37:18 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/js/</guid>
       <description></description>
     </item>
     <item>
@@ -268,13 +212,6 @@
       <description></description>
     </item>
     <item>
-      <title>Inspiration</title>
-      <link>https://DigitalRiver.blog/categories/inspiration/</link>
-      <pubDate>Tue, 28 Nov 2017 18:22:13 -0500</pubDate>
-      <guid>https://DigitalRiver.blog/categories/inspiration/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Humanity</title>
       <link>https://DigitalRiver.blog/categories/humanity/</link>
       <pubDate>Sat, 25 Nov 2017 10:09:58 -0500</pubDate>
@@ -319,14 +256,14 @@
     <item>
       <title>Programming</title>
       <link>https://DigitalRiver.blog/categories/programming/</link>
-      <pubDate>Fri, 24 Nov 2017 13:28:10 -0500</pubDate>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 -0500</pubDate>
       <guid>https://DigitalRiver.blog/categories/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring Framework</title>
       <link>https://DigitalRiver.blog/categories/spring-framework/</link>
-      <pubDate>Fri, 24 Nov 2017 13:28:10 -0500</pubDate>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 -0500</pubDate>
       <guid>https://DigitalRiver.blog/categories/spring-framework/</guid>
       <description></description>
     </item>
@@ -380,7 +317,7 @@
       <description></description>
     </item>
     <item>
-      <title>Wordpress</title>
+      <title>WordPress</title>
       <link>https://DigitalRiver.blog/categories/wordpress/</link>
       <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/wordpress/</guid>
@@ -408,6 +345,13 @@
       <description></description>
     </item>
     <item>
+      <title>Javascript</title>
+      <link>https://DigitalRiver.blog/categories/javascript/</link>
+      <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
+      <guid>https://DigitalRiver.blog/categories/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Miscellaneous</title>
       <link>https://DigitalRiver.blog/categories/miscellaneous/</link>
       <pubDate>Thu, 31 Aug 2017 23:22:26 +0000</pubDate>
@@ -429,51 +373,51 @@
       <description></description>
     </item>
     <item>
-      <title>How-To</title>
-      <link>https://DigitalRiver.blog/categories/how-to/</link>
-      <pubDate>Thu, 11 May 2017 23:39:48 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/how-to/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>https://DigitalRiver.blog/categories/linux/</link>
-      <pubDate>Thu, 11 May 2017 23:39:48 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/linux/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Networking</title>
-      <link>https://DigitalRiver.blog/categories/networking/</link>
-      <pubDate>Thu, 11 May 2017 23:39:48 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/networking/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>IoT</title>
       <link>https://DigitalRiver.blog/categories/iot/</link>
-      <pubDate>Thu, 11 May 2017 23:31:56 +0000</pubDate>
+      <pubDate>Fri, 19 May 2017 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/iot/</guid>
       <description></description>
     </item>
     <item>
       <title>Particle Photon</title>
       <link>https://DigitalRiver.blog/categories/particle-photon/</link>
-      <pubDate>Thu, 11 May 2017 23:31:56 +0000</pubDate>
+      <pubDate>Fri, 19 May 2017 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/particle-photon/</guid>
       <description></description>
     </item>
     <item>
       <title>Outdoors &amp;Amp; Nature</title>
       <link>https://DigitalRiver.blog/categories/outdoors-amp-nature/</link>
-      <pubDate>Thu, 11 May 2017 01:41:43 +0000</pubDate>
+      <pubDate>Thu, 18 May 2017 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/outdoors-amp-nature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How-To</title>
+      <link>https://DigitalRiver.blog/categories/how-to/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 -0400</pubDate>
+      <guid>https://DigitalRiver.blog/categories/how-to/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://DigitalRiver.blog/categories/linux/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 -0400</pubDate>
+      <guid>https://DigitalRiver.blog/categories/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>https://DigitalRiver.blog/categories/networking/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 -0400</pubDate>
+      <guid>https://DigitalRiver.blog/categories/networking/</guid>
       <description></description>
     </item>
     <item>
       <title>Software Development</title>
       <link>https://DigitalRiver.blog/categories/software-development/</link>
-      <pubDate>Wed, 03 May 2017 19:23:37 +0000</pubDate>
+      <pubDate>Thu, 04 May 2017 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/software-development/</guid>
       <description></description>
     </item>
@@ -508,85 +452,85 @@
     <item>
       <title>Embedded Systems</title>
       <link>https://DigitalRiver.blog/categories/embedded-systems/</link>
-      <pubDate>Fri, 24 Mar 2017 02:41:52 +0000</pubDate>
+      <pubDate>Sun, 26 Mar 2017 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/embedded-systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Raspberry Pi</title>
       <link>https://DigitalRiver.blog/categories/raspberry-pi/</link>
-      <pubDate>Fri, 24 Mar 2017 02:41:52 +0000</pubDate>
+      <pubDate>Sun, 26 Mar 2017 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/raspberry-pi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Storage</title>
-      <link>https://DigitalRiver.blog/categories/storage/</link>
-      <pubDate>Thu, 16 Mar 2017 14:38:03 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/storage/</guid>
       <description></description>
     </item>
     <item>
       <title>Hypervisior Images</title>
       <link>https://DigitalRiver.blog/categories/hypervisior-images/</link>
-      <pubDate>Thu, 16 Mar 2017 01:19:15 +0000</pubDate>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/hypervisior-images/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Storage</title>
+      <link>https://DigitalRiver.blog/categories/storage/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 -0400</pubDate>
+      <guid>https://DigitalRiver.blog/categories/storage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>https://DigitalRiver.blog/categories/security/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 -0400</pubDate>
+      <guid>https://DigitalRiver.blog/categories/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>API</title>
+      <link>https://DigitalRiver.blog/categories/api/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 -0400</pubDate>
+      <guid>https://DigitalRiver.blog/categories/api/</guid>
       <description></description>
     </item>
     <item>
       <title>Bash</title>
       <link>https://DigitalRiver.blog/categories/bash/</link>
-      <pubDate>Mon, 13 Mar 2017 19:29:22 +0000</pubDate>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/bash/</guid>
       <description></description>
     </item>
     <item>
       <title>CentOS 6.X</title>
       <link>https://DigitalRiver.blog/categories/centos-6.x/</link>
-      <pubDate>Mon, 13 Mar 2017 19:29:22 +0000</pubDate>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/centos-6.x/</guid>
       <description></description>
     </item>
     <item>
       <title>CentOS7</title>
       <link>https://DigitalRiver.blog/categories/centos7/</link>
-      <pubDate>Mon, 13 Mar 2017 19:29:22 +0000</pubDate>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/centos7/</guid>
       <description></description>
     </item>
     <item>
       <title>Scripting</title>
       <link>https://DigitalRiver.blog/categories/scripting/</link>
-      <pubDate>Mon, 13 Mar 2017 19:29:22 +0000</pubDate>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/scripting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>API</title>
-      <link>https://DigitalRiver.blog/categories/api/</link>
-      <pubDate>Mon, 13 Mar 2017 14:21:54 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/api/</guid>
       <description></description>
     </item>
     <item>
       <title>Angular</title>
       <link>https://DigitalRiver.blog/categories/angular/</link>
-      <pubDate>Mon, 13 Mar 2017 14:19:53 +0000</pubDate>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/angular/</guid>
       <description></description>
     </item>
     <item>
       <title>ES6</title>
       <link>https://DigitalRiver.blog/categories/es6/</link>
-      <pubDate>Mon, 13 Mar 2017 14:19:53 +0000</pubDate>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/es6/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Security</title>
-      <link>https://DigitalRiver.blog/categories/security/</link>
-      <pubDate>Mon, 13 Mar 2017 14:10:41 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/security/</guid>
       <description></description>
     </item>
     <item>
@@ -599,7 +543,7 @@
     <item>
       <title>Java</title>
       <link>https://DigitalRiver.blog/categories/java/</link>
-      <pubDate>Thu, 16 Feb 2017 16:21:23 +0000</pubDate>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 -0500</pubDate>
       <guid>https://DigitalRiver.blog/categories/java/</guid>
       <description></description>
     </item>
@@ -611,73 +555,17 @@
       <description></description>
     </item>
     <item>
-      <title>Grails</title>
-      <link>https://DigitalRiver.blog/categories/grails/</link>
-      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/grails/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Groovy</title>
-      <link>https://DigitalRiver.blog/categories/groovy/</link>
-      <pubDate>Mon, 12 Dec 2016 01:53:04 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/groovy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gradle</title>
-      <link>https://DigitalRiver.blog/categories/gradle/</link>
-      <pubDate>Tue, 29 Nov 2016 13:42:47 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/gradle/</guid>
+      <title>C - C&#43;&#43; - Gcc - Cpp</title>
+      <link>https://DigitalRiver.blog/categories/c---c&#43;&#43;---gcc---cpp/</link>
+      <pubDate>Tue, 08 Sep 2015 00:00:00 -0400</pubDate>
+      <guid>https://DigitalRiver.blog/categories/c---c&#43;&#43;---gcc---cpp/</guid>
       <description></description>
     </item>
     <item>
       <title>Kernel</title>
       <link>https://DigitalRiver.blog/categories/kernel/</link>
-      <pubDate>Sat, 05 Nov 2016 16:45:30 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2015 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/kernel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Travels</title>
-      <link>https://DigitalRiver.blog/categories/travels/</link>
-      <pubDate>Fri, 14 Oct 2016 20:54:33 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/travels/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Node JS</title>
-      <link>https://DigitalRiver.blog/categories/node-js/</link>
-      <pubDate>Fri, 14 Oct 2016 18:42:15 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/node-js/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wiki</title>
-      <link>https://DigitalRiver.blog/categories/wiki/</link>
-      <pubDate>Sun, 05 Jun 2016 20:58:17 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/wiki/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Revel Web Framework</title>
-      <link>https://DigitalRiver.blog/categories/revel-web-framework/</link>
-      <pubDate>Tue, 26 Jan 2016 01:05:42 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/revel-web-framework/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tear-Down</title>
-      <link>https://DigitalRiver.blog/categories/tear-down/</link>
-      <pubDate>Mon, 04 Jan 2016 23:37:50 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/tear-down/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>C - C&#43;&#43; - Gcc - Cpp</title>
-      <link>https://DigitalRiver.blog/categories/c---c&#43;&#43;---gcc---cpp/</link>
-      <pubDate>Mon, 07 Sep 2015 02:02:54 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/categories/c---c&#43;&#43;---gcc---cpp/</guid>
       <description></description>
     </item>
     <item>
@@ -688,10 +576,38 @@
       <description></description>
     </item>
     <item>
+      <title>Travels</title>
+      <link>https://DigitalRiver.blog/categories/travels/</link>
+      <pubDate>Thu, 09 Jul 2015 15:50:51 +0000</pubDate>
+      <guid>https://DigitalRiver.blog/categories/travels/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tear-Down</title>
+      <link>https://DigitalRiver.blog/categories/tear-down/</link>
+      <pubDate>Mon, 29 Sep 2014 01:25:33 +0000</pubDate>
+      <guid>https://DigitalRiver.blog/categories/tear-down/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>SparkCore - Arduino</title>
       <link>https://DigitalRiver.blog/categories/sparkcore---arduino/</link>
       <pubDate>Wed, 18 Jun 2014 02:51:11 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/sparkcore---arduino/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grails</title>
+      <link>https://DigitalRiver.blog/categories/grails/</link>
+      <pubDate>Mon, 03 Feb 2014 00:00:00 -0500</pubDate>
+      <guid>https://DigitalRiver.blog/categories/grails/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Groovy</title>
+      <link>https://DigitalRiver.blog/categories/groovy/</link>
+      <pubDate>Mon, 03 Feb 2014 00:00:00 -0500</pubDate>
+      <guid>https://DigitalRiver.blog/categories/groovy/</guid>
       <description></description>
     </item>
     <item>
@@ -709,9 +625,16 @@
       <description></description>
     </item>
     <item>
+      <title>Node JS</title>
+      <link>https://DigitalRiver.blog/categories/node-js/</link>
+      <pubDate>Thu, 15 Nov 2012 18:12:15 +0000</pubDate>
+      <guid>https://DigitalRiver.blog/categories/node-js/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>VertX</title>
       <link>https://DigitalRiver.blog/categories/vertx/</link>
-      <pubDate>Thu, 15 Nov 2012 23:31:21 +0000</pubDate>
+      <pubDate>Thu, 15 Nov 2012 18:12:15 +0000</pubDate>
       <guid>https://DigitalRiver.blog/categories/vertx/</guid>
       <description></description>
     </item>
@@ -760,28 +683,28 @@
     <item>
       <title>Pomodoro</title>
       <link>https://DigitalRiver.blog/categories/pomodoro/</link>
-      <pubDate>Thu, 14 Jul 2011 12:43:51 +0000</pubDate>
+      <pubDate>Thu, 14 Jul 2011 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/pomodoro/</guid>
       <description></description>
     </item>
     <item>
       <title>Code Analysis</title>
       <link>https://DigitalRiver.blog/categories/code-analysis/</link>
-      <pubDate>Thu, 14 Jul 2011 11:50:57 +0000</pubDate>
+      <pubDate>Wed, 13 Jul 2011 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/code-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Tomcat</title>
       <link>https://DigitalRiver.blog/categories/tomcat/</link>
-      <pubDate>Fri, 01 Jul 2011 17:34:46 +0000</pubDate>
+      <pubDate>Sat, 02 Jul 2011 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/tomcat/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
       <link>https://DigitalRiver.blog/categories/web-development/</link>
-      <pubDate>Fri, 01 Jul 2011 17:34:46 +0000</pubDate>
+      <pubDate>Sat, 02 Jul 2011 00:00:00 -0400</pubDate>
       <guid>https://DigitalRiver.blog/categories/web-development/</guid>
       <description></description>
     </item>
@@ -865,7 +788,7 @@
     <item>
       <title>Wicket</title>
       <link>https://DigitalRiver.blog/categories/wicket/</link>
-      <pubDate>Tue, 09 Mar 2010 04:37:11 +0000</pubDate>
+      <pubDate>Mon, 08 Mar 2010 00:00:00 -0500</pubDate>
       <guid>https://DigitalRiver.blog/categories/wicket/</guid>
       <description></description>
     </item>

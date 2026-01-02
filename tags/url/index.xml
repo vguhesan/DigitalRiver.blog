@@ -13,7 +13,7 @@
       <link>https://DigitalRiver.blog/2011/10/24/grails-groovy-alternative-to-httpbuilder-adding-headers-to-your-http-request/</link>
       <pubDate>Mon, 24 Oct 2011 16:37:56 +0000</pubDate>
       <guid>https://DigitalRiver.blog/2011/10/24/grails-groovy-alternative-to-httpbuilder-adding-headers-to-your-http-request/</guid>
-      <description>Developing with Grails and Groovy can be a blessing and and pain all at the same time. The development moves at a rapid rate but when you decide to include libraries that depend on other libraries, your pain starts to build up. For example, when you include the module &amp;ldquo;HttpBuilder&amp;quot;in your project you may run into issues with Xerces and xml-apis, especially when you attempt to deploy the WAR file under Tomcat.</description>
+      <description>&lt;p&gt;Developing with Grails and Groovy can be a blessing and and pain all at the same time. The development moves at a rapid rate but when you decide to include libraries that depend on other libraries, your pain starts to build up. For example, when you include the module &amp;ldquo;HttpBuilder&amp;quot;in your project you may run into issues with Xerces and xml-apis, especially when you attempt to deploy the WAR file under Tomcat. These libraries are included as part of Tomcat and so an older version of those classes may give you a heartburn.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

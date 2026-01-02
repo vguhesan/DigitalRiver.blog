@@ -10,10 +10,10 @@
     <atom:link href="https://DigitalRiver.blog/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Converted Wordpress.com Hosted Blog to Hugo Static Blog :-)</title>
-      <link>https://DigitalRiver.blog/post/2017-09-23-converting-wordpress-hosted-blog-to-hugo/</link>
+      <link>https://DigitalRiver.blog/post/2017-09-23/</link>
       <pubDate>Sat, 23 Sep 2017 23:42:33 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/post/2017-09-23-converting-wordpress-hosted-blog-to-hugo/</guid>
-      <description>Summary Thanks to Hugo Static Site generator written in GoLang and Mainroad Theme, I was able to port over my personal blog DigitalRiver as a static generated website.&#xA;Before and After Here is a screenshot of the belore site:&#xA;DigitalRiver under Wordpress hosting&#xA;Here is a screenshot of the belore site:&#xA;DigitalRiver under Wordpress hosting&#xA;I think it&amp;rsquo;s a move in the right direction. Putting me in complete control of the content, images and all artifacts that goes into bundling the site.</description>
+      <guid>https://DigitalRiver.blog/post/2017-09-23/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;Thanks to &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://gohugo.io/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Hugo&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; Static Site generator written in GoLang and &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://github.com/Vimux/Mainroad/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Mainroad&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; Theme, I was able to port over my personal blog &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://DigitalRiver.blog&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;DigitalRiver&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; as a static generated website.&lt;/p&gt;&#xA;&lt;h2 id=&#34;before-and-after&#34;&gt;Before and After&lt;/h2&gt;&#xA;&lt;p&gt;Here is a screenshot of the belore site:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
