@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Firefox on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/firefox/</link>
+    <link>http://0.0.0.0:1313/tags/firefox/</link>
     <description>Recent content in Firefox on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Nov 2012 19:26:39 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cross-Browser Testing for WebSockets</title>
-      <link>https://DigitalRiver.blog/2012/11/13/cross-browser-testing-for-websockets/</link>
+      <link>http://0.0.0.0:1313/2012/11/13/cross-browser-testing-for-websockets/</link>
       <pubDate>Tue, 13 Nov 2012 19:26:39 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2012/11/13/cross-browser-testing-for-websockets/</guid>
+      <guid>http://0.0.0.0:1313/2012/11/13/cross-browser-testing-for-websockets/</guid>
       <description>&lt;p&gt;The traditional way to test for websockets is this:&lt;/p&gt;&#xA;&lt;p&gt;[sourcecode]&#xA;function WebSocketTest()&#xA;{&#xA;if (&amp;ldquo;WebSocket&amp;rdquo; in window)&#xA;{&#xA;alert(&amp;ldquo;Browser supports websocket&amp;rdquo;);&#xA;}&#xA;else&#xA;{&#xA;alert(&amp;ldquo;Browser does not support websocket&amp;rdquo;);&#xA;}&#xA;}&#xA;&amp;hellip;&#xA;&lt;a&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Run WebSocket test&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&#xA;[/sourcecode]&lt;/p&gt;&#xA;&lt;p&gt;Although the above example will be technically correct for modern browsers it is important to consider some of the &amp;ldquo;experimental&amp;rdquo; implementation of this feature in earlier FireFox (Mozilla) browsers.&lt;/p&gt;&#xA;&lt;p&gt;In FireFox (Mozilla), experimental features (until they graduate) gets added with a prefix of &amp;ldquo;Moz&amp;rdquo;. This has been done for quite some time. So either a feature graduates from the Mozilla academy (which means that they no longer have the prefix of &amp;ldquo;Moz&amp;rdquo;) or they may get removed in future releases. This has been the case for WebSockets.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How-To: Turn off Firefox browser cache during development</title>
-      <link>https://DigitalRiver.blog/2011/06/22/how-to-turn-off-firefox-browser-cache-during-development/</link>
+      <link>http://0.0.0.0:1313/2011/06/22/how-to-turn-off-firefox-browser-cache-during-development/</link>
       <pubDate>Wed, 22 Jun 2011 14:13:36 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2011/06/22/how-to-turn-off-firefox-browser-cache-during-development/</guid>
+      <guid>http://0.0.0.0:1313/2011/06/22/how-to-turn-off-firefox-browser-cache-during-development/</guid>
       <description>&lt;p&gt;Sometimes (when your are developing) you may want to force fetching all content fresh all the time including images, resources such as style sheet etc. To facilitate this you can do the following:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Open a new window or tab in Firefox.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Type &lt;code&gt;about:config &lt;/code&gt;in the address bar.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Search for &amp;ldquo;cache&amp;rdquo; in the search bar and look for &lt;code&gt;network.http.use-cache&lt;/code&gt; in the filtered results.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Double-click it will toggle it from &amp;ldquo;true&amp;rdquo; to &amp;ldquo;false&amp;rdquo;. Default should be &amp;ldquo;true&amp;rdquo;.&lt;/p&gt;</description>
     </item>
   </channel>

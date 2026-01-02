@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FlyonUI on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/flyonui/</link>
+    <link>http://0.0.0.0:1313/tags/flyonui/</link>
     <description>Recent content in FlyonUI on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2026 00:00:00 -0500</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/flyonui/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/flyonui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Generate TailwindCSS, FlyonUI resources for your static or backend service that delivers your frontend dashboard</title>
-      <link>https://DigitalRiver.blog/post/2026-01-01/</link>
+      <link>http://0.0.0.0:1313/post/2026-01-01/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 -0500</pubDate>
-      <guid>https://DigitalRiver.blog/post/2026-01-01/</guid>
+      <guid>http://0.0.0.0:1313/post/2026-01-01/</guid>
       <description>&lt;br/&gt;&#xA;Source Artifacts: &lt;a href=&#34;[https://](https://github.com/vguhesan/tailwindcss-fly`onui-artifacts-extractor)&#34; target=&#34;_blank&#34;&gt;tailwindcss-flyonui-artifacts-extractor&lt;/a&gt;&#xA;&lt;p&gt;This project was created using &lt;code&gt;bun init&lt;/code&gt; in bun v1.3.5.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://bun.com&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Bun&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; is a fast all-in-one JavaScript runtime.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tldr&#34;&gt;tldr;&lt;/h2&gt;&#xA;&lt;p&gt;This project allows you to extract the stylesheets and JavaScript artifacts needed to power your own Golang or Python based backend server delivering your frontend dashboard as either a static or dynamic website.&lt;/p&gt;&#xA;&lt;p&gt;You cab grab the latest Flyonui, v2.4.1 artifacts here: &lt;a&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;./dist/FlyonUI-bundle.zip&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

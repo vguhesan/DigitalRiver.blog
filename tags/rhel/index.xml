@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RHEL on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/rhel/</link>
+    <link>http://0.0.0.0:1313/tags/rhel/</link>
     <description>Recent content in RHEL on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Dec 2011 16:43:03 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/rhel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/rhel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to list the package contents of a yum install?</title>
-      <link>https://DigitalRiver.blog/2011/12/25/how-to-list-the-package-contents-of-a-yum-install/</link>
+      <link>http://0.0.0.0:1313/2011/12/25/how-to-list-the-package-contents-of-a-yum-install/</link>
       <pubDate>Sun, 25 Dec 2011 16:43:03 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2011/12/25/how-to-list-the-package-contents-of-a-yum-install/</guid>
+      <guid>http://0.0.0.0:1313/2011/12/25/how-to-list-the-package-contents-of-a-yum-install/</guid>
       <description>&lt;p&gt;Sometimes you need to see what&amp;rsquo;s installed as part of a package via yum. To see the package contents you can use a utility that&amp;rsquo;s available on the RHEL/CentOS.&lt;/p&gt;&#xA;&lt;p&gt;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&lt;/p&gt;&#xA;&lt;p&gt;$repoquery &amp;ndash;list &lt;strong&gt;packagename&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;[/sourcecode]&lt;/p&gt;&#xA;&lt;p&gt;If you do not have this utility available, you can install it by using this command&lt;/p&gt;&#xA;&lt;p&gt;[sourcecode]&lt;/p&gt;&#xA;&lt;p&gt;$yum install yum-utils&lt;/p&gt;&#xA;&lt;p&gt;[/sourcecode]&lt;/p&gt;&#xA;&lt;p&gt;Here is a sample output from looking at the package contents of Apache httpd.&lt;/p&gt;</description>
     </item>
   </channel>

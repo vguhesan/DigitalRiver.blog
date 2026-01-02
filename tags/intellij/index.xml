@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IntelliJ on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/intellij/</link>
+    <link>http://0.0.0.0:1313/tags/intellij/</link>
     <description>Recent content in IntelliJ on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2011 18:42:58 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/intellij/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/intellij/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IntelliJ - Live Template - main() method generation</title>
-      <link>https://DigitalRiver.blog/2011/04/27/intellij-live-template-main-method-generation/</link>
+      <link>http://0.0.0.0:1313/2011/04/27/intellij-live-template-main-method-generation/</link>
       <pubDate>Wed, 27 Apr 2011 18:42:58 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2011/04/27/intellij-live-template-main-method-generation/</guid>
+      <guid>http://0.0.0.0:1313/2011/04/27/intellij-live-template-main-method-generation/</guid>
       <description>&lt;p&gt;IntelliJ - Live Template - main() method generation&lt;/p&gt;&#xA;&lt;p&gt;Type &amp;ldquo;psvm&amp;rdquo; Ctrl+J will generate the main method.&lt;/p&gt;&#xA;&lt;p&gt;Why &amp;ldquo;psvm&amp;rdquo;?&#xA;&amp;ldquo;public static void main&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;;-)&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Date with IntelliJ Community Edition and Scala</title>
-      <link>https://DigitalRiver.blog/2009/11/04/first-date-with-intellij-community-edition-and-scala/</link>
+      <link>http://0.0.0.0:1313/2009/11/04/first-date-with-intellij-community-edition-and-scala/</link>
       <pubDate>Tue, 03 Nov 2009 00:00:00 -0500</pubDate>
-      <guid>https://DigitalRiver.blog/2009/11/04/first-date-with-intellij-community-edition-and-scala/</guid>
+      <guid>http://0.0.0.0:1313/2009/11/04/first-date-with-intellij-community-edition-and-scala/</guid>
       <description>&lt;p&gt;Downloaded the &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://www.jetbrains.com/idea/nextversion/free_java_ide.html&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Community Edition of IntelliJ&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; a few days ago. Although most J2EE features are not available in the community edition, one of the features that did like was the &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://www.jetbrains.net/confluence/display/SCA/Scala&amp;#43;Plugin&amp;#43;for&amp;#43;IntelliJ&amp;#43;IDEA&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Scala Plugin&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;After I downloaded it and added the scala plug-in, I was very impressed with the tool. I have been using Eclipse (a little Netbeans) for most of my Java development and although I have tried the scala plugin that&amp;rsquo;s available for Eclipse, I wasn&amp;rsquo;t all that impressed. But the plug-in for IntelliJ was well worth the try.&lt;/p&gt;</description>
     </item>
   </channel>

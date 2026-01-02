@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spring on Digital River</title>
-    <link>https://DigitalRiver.blog/categories/spring/</link>
+    <link>http://0.0.0.0:1313/categories/spring/</link>
     <description>Recent content in Spring on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Apr 2018 16:55:46 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/categories/spring/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/categories/spring/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>spring.schemas and spring.handlers when creating Uber-Jar</title>
-      <link>https://DigitalRiver.blog/post/2018-04-08/</link>
+      <link>http://0.0.0.0:1313/post/2018-04-08/</link>
       <pubDate>Sun, 08 Apr 2018 16:55:46 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/post/2018-04-08/</guid>
+      <guid>http://0.0.0.0:1313/post/2018-04-08/</guid>
       <description>&lt;p&gt;When creating an uber-jar with all dependencies in one single-jar file, each of the spring dependency jar may contain schema and handlers that have the same name but different content. When you combine them into creating a single uber-jar, the uber-library will perform an overwrite since each of the Spring files for schema and handlers are the exact filename. So you end up overwriting the file where the last ubered file will remain.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spring LDAP Overview | Baeldung</title>
-      <link>https://DigitalRiver.blog/2017/03/21/spring-ldap-overview-baeldung/</link>
+      <link>http://0.0.0.0:1313/2017/03/21/spring-ldap-overview-baeldung/</link>
       <pubDate>Tue, 21 Mar 2017 00:00:00 -0400</pubDate>
-      <guid>https://DigitalRiver.blog/2017/03/21/spring-ldap-overview-baeldung/</guid>
-      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2016/11/springframework.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/03/springframework.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;Learn how to use the Spring LDAP APIs to authenticate and search for users, as well as to create and modify users in the directory server.&lt;/p&gt;&#xA;&lt;p&gt;Source: &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://www.baeldung.com/spring-ldap&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Spring LDAP Overview | Baeldung&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/2017/03/21/spring-ldap-overview-baeldung/</guid>
+      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2016/11/springframework.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2017/03/springframework.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;Learn how to use the Spring LDAP APIs to authenticate and search for users, as well as to create and modify users in the directory server.&lt;/p&gt;&#xA;&lt;p&gt;Source: &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://www.baeldung.com/spring-ldap&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Spring LDAP Overview | Baeldung&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tomcat 6&#43;: Infamous &#34;SEVERE: Error listenerStart&#34; message - How-To debug this error?</title>
-      <link>https://DigitalRiver.blog/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</link>
+      <link>http://0.0.0.0:1313/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</link>
       <pubDate>Fri, 01 Jul 2011 17:10:55 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</guid>
+      <guid>http://0.0.0.0:1313/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m sure if you have been developing with Java and Tomcat for sometime, you are likely to run into the infamous debug error.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;SEVERE: Error listenerStart&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;You will most likely start Googling it trying to find out what the heck is going on. And in trying to see the extended logging on what that &amp;ldquo;listenerStart&amp;rdquo; error means. After some lucky searches, you will see links asking you to drop a &amp;ldquo;log4j.properties&amp;rdquo; file under &amp;lsquo;/WEB-INF/classes&amp;rsquo; directory inside your WAR to help debug which one of the listeners is throwing this crazy error.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spring Framework Samples and Reference Implementations online in svn</title>
-      <link>https://DigitalRiver.blog/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</link>
+      <link>http://0.0.0.0:1313/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</link>
       <pubDate>Mon, 19 Apr 2010 14:30:39 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</guid>
+      <guid>http://0.0.0.0:1313/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</guid>
       <description>&lt;p&gt;Sometimes it&amp;rsquo;s good to look at the svn repository for the reference sample that Spring Framework provides.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a quick link for that URL:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://src.springframework.org/svn/spring-samples/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;https://src.springframework.org/svn/spring-samples/&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can traverse through it via a HTTP(s) browser or you can download the latest samples via tools like TortiseSVN.&lt;/p&gt;&#xA;&lt;p&gt;Here is a list of some of the projects samples that are available today:&lt;/p&gt;</description>
     </item>
   </channel>

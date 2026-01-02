@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Operating Systems on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/operating-systems/</link>
+    <link>http://0.0.0.0:1313/tags/operating-systems/</link>
     <description>Recent content in Operating Systems on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Mar 2017 19:13:05 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/operating-systems/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/operating-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transmutation of the Storage Administrator : Scott&#39;s Blog</title>
-      <link>https://DigitalRiver.blog/2017/03/15/transmutation-of-the-storage-administrator-scotts-blog/</link>
+      <link>http://0.0.0.0:1313/2017/03/15/transmutation-of-the-storage-administrator-scotts-blog/</link>
       <pubDate>Wed, 15 Mar 2017 19:13:05 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2017/03/15/transmutation-of-the-storage-administrator-scotts-blog/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/03/storageicon.png&#34; alt=&#34;StorageIcon&#34;&gt;This article discusses the evolution of the storage administrator in the era of cloud storage.&lt;/p&gt;&#xA;&lt;blockquote&gt;The job (storage administrator) role is changing, not only is there a need to understand storage devices and host connection technologies that knowledge scope is extending to include networking, operating systems and new storage access protocols (like Object)...IBM Spectrum Scale is the logical next step to help storage administrators expand their offering portfolio and provide additional value to their customers. Now instead of simply providing a volume with a capacity, reliability and performance characteristic they can provide a dynamic storage platform that can support, tiered storage, high performance backups, integrated archive and still provide the high performance demanded by their current block storage customers.&lt;/blockquote&gt;&#xA;&lt;p&gt;This article is a good read. It starts first by describing &amp;ldquo;what is a block storage?&amp;rdquo;. It then moves into the transformation happening with commoditization of storage into a cloud environment where you are moving from a typical SAN environment to a TCP/IP based storage clusters. And the article ends with how every tier in the data-management will become commoditized/virtualized in the cloud.&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/2017/03/15/transmutation-of-the-storage-administrator-scotts-blog/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://0.0.0.0:1313/img/2017/03/storageicon.png&#34; alt=&#34;StorageIcon&#34;&gt;This article discusses the evolution of the storage administrator in the era of cloud storage.&lt;/p&gt;&#xA;&lt;blockquote&gt;The job (storage administrator) role is changing, not only is there a need to understand storage devices and host connection technologies that knowledge scope is extending to include networking, operating systems and new storage access protocols (like Object)...IBM Spectrum Scale is the logical next step to help storage administrators expand their offering portfolio and provide additional value to their customers. Now instead of simply providing a volume with a capacity, reliability and performance characteristic they can provide a dynamic storage platform that can support, tiered storage, high performance backups, integrated archive and still provide the high performance demanded by their current block storage customers.&lt;/blockquote&gt;&#xA;&lt;p&gt;This article is a good read. It starts first by describing &amp;ldquo;what is a block storage?&amp;rdquo;. It then moves into the transformation happening with commoditization of storage into a cloud environment where you are moving from a typical SAN environment to a TCP/IP based storage clusters. And the article ends with how every tier in the data-management will become commoditized/virtualized in the cloud.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

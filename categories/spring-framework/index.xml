@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spring Framework on Digital River</title>
-    <link>https://DigitalRiver.blog/categories/spring-framework/</link>
+    <link>http://0.0.0.0:1313/categories/spring-framework/</link>
     <description>Recent content in Spring Framework on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Nov 2017 00:00:00 -0500</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/categories/spring-framework/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/categories/spring-framework/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spring Framework - Application Context - three ways to get to the application context</title>
-      <link>https://DigitalRiver.blog/post/2017-11-20/</link>
+      <link>http://0.0.0.0:1313/post/2017-11-20/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 -0500</pubDate>
-      <guid>https://DigitalRiver.blog/post/2017-11-20/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/logo/springframework.png&#34; alt=&#34;Semiconductor&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This article shows you three different ways how to get to the Spring Framework Application Context in your code.&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;(This is a repost of an older article I wrote in 2010).&#xA;In searching Google for &amp;ldquo;Spring &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContextAware.html&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;ApplicationContextAware&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&amp;rdquo;, you will come across a lot of recommendations and I also see a lot of folks continuing to complain saying that their setApplicationContext method does not get invoked. So to help clarify, I&amp;rsquo;m blogging a few notes in hope that it helps clarify how the context works.&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/post/2017-11-20/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://0.0.0.0:1313/img/logo/springframework.png&#34; alt=&#34;Semiconductor&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This article shows you three different ways how to get to the Spring Framework Application Context in your code.&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;(This is a repost of an older article I wrote in 2010).&#xA;In searching Google for &amp;ldquo;Spring &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContextAware.html&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;ApplicationContextAware&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&amp;rdquo;, you will come across a lot of recommendations and I also see a lot of folks continuing to complain saying that their setApplicationContext method does not get invoked. So to help clarify, I&amp;rsquo;m blogging a few notes in hope that it helps clarify how the context works.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spring LDAP Overview | Baeldung</title>
-      <link>https://DigitalRiver.blog/2017/03/21/spring-ldap-overview-baeldung/</link>
+      <link>http://0.0.0.0:1313/2017/03/21/spring-ldap-overview-baeldung/</link>
       <pubDate>Tue, 21 Mar 2017 00:00:00 -0400</pubDate>
-      <guid>https://DigitalRiver.blog/2017/03/21/spring-ldap-overview-baeldung/</guid>
-      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2016/11/springframework.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/03/springframework.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;Learn how to use the Spring LDAP APIs to authenticate and search for users, as well as to create and modify users in the directory server.&lt;/p&gt;&#xA;&lt;p&gt;Source: &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://www.baeldung.com/spring-ldap&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Spring LDAP Overview | Baeldung&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/2017/03/21/spring-ldap-overview-baeldung/</guid>
+      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2016/11/springframework.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2017/03/springframework.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;Learn how to use the Spring LDAP APIs to authenticate and search for users, as well as to create and modify users in the directory server.&lt;/p&gt;&#xA;&lt;p&gt;Source: &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://www.baeldung.com/spring-ldap&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Spring LDAP Overview | Baeldung&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tomcat 6&#43;: Infamous &#34;SEVERE: Error listenerStart&#34; message - How-To debug this error?</title>
-      <link>https://DigitalRiver.blog/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</link>
+      <link>http://0.0.0.0:1313/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</link>
       <pubDate>Fri, 01 Jul 2011 17:10:55 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</guid>
+      <guid>http://0.0.0.0:1313/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m sure if you have been developing with Java and Tomcat for sometime, you are likely to run into the infamous debug error.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;SEVERE: Error listenerStart&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;You will most likely start Googling it trying to find out what the heck is going on. And in trying to see the extended logging on what that &amp;ldquo;listenerStart&amp;rdquo; error means. After some lucky searches, you will see links asking you to drop a &amp;ldquo;log4j.properties&amp;rdquo; file under &amp;lsquo;/WEB-INF/classes&amp;rsquo; directory inside your WAR to help debug which one of the listeners is throwing this crazy error.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spring Framework Samples and Reference Implementations online in svn</title>
-      <link>https://DigitalRiver.blog/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</link>
+      <link>http://0.0.0.0:1313/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</link>
       <pubDate>Mon, 19 Apr 2010 14:30:39 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</guid>
+      <guid>http://0.0.0.0:1313/2010/04/19/spring-framework-samples-and-reference-implementations-online-in-svn/</guid>
       <description>&lt;p&gt;Sometimes it&amp;rsquo;s good to look at the svn repository for the reference sample that Spring Framework provides.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a quick link for that URL:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://src.springframework.org/svn/spring-samples/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;https://src.springframework.org/svn/spring-samples/&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can traverse through it via a HTTP(s) browser or you can download the latest samples via tools like TortiseSVN.&lt;/p&gt;&#xA;&lt;p&gt;Here is a list of some of the projects samples that are available today:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spring Framework - Application Context - three ways to get to the application context</title>
-      <link>https://DigitalRiver.blog/post/2010-03-22/</link>
+      <link>http://0.0.0.0:1313/post/2010-03-22/</link>
       <pubDate>Mon, 22 Mar 2010 17:09:21 -0400</pubDate>
-      <guid>https://DigitalRiver.blog/post/2010-03-22/</guid>
+      <guid>http://0.0.0.0:1313/post/2010-03-22/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;This article shows you three different ways how to get to the Spring Framework Application Context in your code. test&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;</description>
     </item>
   </channel>

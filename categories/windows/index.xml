@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on Digital River</title>
-    <link>https://DigitalRiver.blog/categories/windows/</link>
+    <link>http://0.0.0.0:1313/categories/windows/</link>
     <description>Recent content in Windows on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Jan 2022 00:00:00 -0500</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/categories/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Remove .DS_Store and ._.DS_Store under Windows</title>
-      <link>https://DigitalRiver.blog/post/2022-01-3/</link>
+      <link>http://0.0.0.0:1313/post/2022-01-3/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 -0500</pubDate>
-      <guid>https://DigitalRiver.blog/post/2022-01-3/</guid>
-      <description>&lt;figure class=&#34;aligncenter round-img-border imgframe-left-pad&#34;&gt;&lt;img src=&#34;https://DigitalRiver.blog/post/2022-01-3/img/unsplash.jpg&#34; width=&#34;100%&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;what-is-this-article-about&#34;&gt;What is this article about?&lt;/h3&gt;&#xA;&lt;p&gt;When you move from a Mac OSX onto Windows, the file system will contain two files under every directory labeled &amp;ldquo;.DS_Store&amp;rdquo; and &amp;ldquo;._.DS_Store&amp;rdquo;. These files are not useful especially if you&amp;rsquo;re trying to commit code under a Git source control. It can sometime get very annoying and to eliminate this &amp;ldquo;noise&amp;rdquo; from your day to day development, you may want to remove these artifacts from your Windows system. This article will walk you through the simple steps of removing those files.&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/post/2022-01-3/</guid>
+      <description>&lt;figure class=&#34;aligncenter round-img-border imgframe-left-pad&#34;&gt;&lt;img src=&#34;http://0.0.0.0:1313/post/2022-01-3/img/unsplash.jpg&#34; width=&#34;100%&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;what-is-this-article-about&#34;&gt;What is this article about?&lt;/h3&gt;&#xA;&lt;p&gt;When you move from a Mac OSX onto Windows, the file system will contain two files under every directory labeled &amp;ldquo;.DS_Store&amp;rdquo; and &amp;ldquo;._.DS_Store&amp;rdquo;. These files are not useful especially if you&amp;rsquo;re trying to commit code under a Git source control. It can sometime get very annoying and to eliminate this &amp;ldquo;noise&amp;rdquo; from your day to day development, you may want to remove these artifacts from your Windows system. This article will walk you through the simple steps of removing those files.&lt;/p&gt;</description>
     </item>
     <item>
       <title>**fix** VirtualBox installer fails on Windows 11 (program compatibility issue)</title>
-      <link>https://DigitalRiver.blog/post/2022-01-2/</link>
+      <link>http://0.0.0.0:1313/post/2022-01-2/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 -0500</pubDate>
-      <guid>https://DigitalRiver.blog/post/2022-01-2/</guid>
-      <description>&lt;figure class=&#34;aligncenter round-img-border imgframe-left-pad&#34;&gt;&lt;img src=&#34;https://DigitalRiver.blog/post/2022-01-2/img/unsplash.jpg&#34; width=&#34;100%&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;what-is-this-article-about&#34;&gt;What is this article about?&lt;/h3&gt;&#xA;&lt;p&gt;When you try to install VirtualBox v.6.1.30 on Windows 11, you will see the following error:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;This app can&#39;t run on this device:&#xA;&lt;p&gt;This app can&amp;rsquo;t run because it causes security performance issue on Windows. A new version may be available. Check with your software provider for an updated version that runs on this version of Windows.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;figure class=&#34;aligncenter round-img-border imgframe-left-pad&#34;&gt;&lt;img src=&#34;https://DigitalRiver.blog/post/2022-01-2/img/VirtualBoxWindowsCompatabilityError.png&#34; height=&#34;100%&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;It will further prevent you from executing the installer.&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/post/2022-01-2/</guid>
+      <description>&lt;figure class=&#34;aligncenter round-img-border imgframe-left-pad&#34;&gt;&lt;img src=&#34;http://0.0.0.0:1313/post/2022-01-2/img/unsplash.jpg&#34; width=&#34;100%&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;what-is-this-article-about&#34;&gt;What is this article about?&lt;/h3&gt;&#xA;&lt;p&gt;When you try to install VirtualBox v.6.1.30 on Windows 11, you will see the following error:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;This app can&#39;t run on this device:&#xA;&lt;p&gt;This app can&amp;rsquo;t run because it causes security performance issue on Windows. A new version may be available. Check with your software provider for an updated version that runs on this version of Windows.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;figure class=&#34;aligncenter round-img-border imgframe-left-pad&#34;&gt;&lt;img src=&#34;http://0.0.0.0:1313/post/2022-01-2/img/VirtualBoxWindowsCompatabilityError.png&#34; height=&#34;100%&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;It will further prevent you from executing the installer.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

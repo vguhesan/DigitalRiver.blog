@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weblogic on Digital River</title>
-    <link>https://DigitalRiver.blog/categories/weblogic/</link>
+    <link>http://0.0.0.0:1313/categories/weblogic/</link>
     <description>Recent content in Weblogic on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Sep 2010 18:08:52 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/categories/weblogic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/categories/weblogic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weblogic 10.3 Heap Size (does not allow 3072mb)</title>
-      <link>https://DigitalRiver.blog/2010/09/21/weblogic-10-3-heap-size-does-not-allow-3072mb/</link>
+      <link>http://0.0.0.0:1313/2010/09/21/weblogic-10-3-heap-size-does-not-allow-3072mb/</link>
       <pubDate>Tue, 21 Sep 2010 18:08:52 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2010/09/21/weblogic-10-3-heap-size-does-not-allow-3072mb/</guid>
+      <guid>http://0.0.0.0:1313/2010/09/21/weblogic-10-3-heap-size-does-not-allow-3072mb/</guid>
       <description>&lt;p&gt;Has anyone experienced a similar issue? In tuning Weblogic 10.3 R27.6.0-50 for Windows, we were trying various values for the heap size.&lt;/p&gt;&#xA;&lt;p&gt;Startup jRockit options:&lt;/p&gt;&#xA;&lt;p&gt;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;-Xms1024m -Xmx1024m&#xA;[/sourcecode]&lt;/p&gt;&#xA;&lt;p&gt;We were setting both values to the same.&lt;/p&gt;&#xA;&lt;p&gt;1024m = worked&#xA;2048m = worked&#xA;3072m = did not work&#xA;4096m = worked&lt;/p&gt;&#xA;&lt;p&gt;Did anyone experience a similar problem in allocating? Is there something special about 3072MB?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Update from Sept. 28th, 2010:&lt;/strong&gt;&#xA;When we tried this additional property in the start-up parameter the 3GB option works:&#xA;&lt;code&gt;-XxcompressedRefs=0&lt;/code&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Weblogic 10.3 - Using clear passwords while in production mode</title>
-      <link>https://DigitalRiver.blog/2010/07/23/weblogic-10-3-using-clear-passwords-while-in-production-mode/</link>
+      <link>http://0.0.0.0:1313/2010/07/23/weblogic-10-3-using-clear-passwords-while-in-production-mode/</link>
       <pubDate>Fri, 23 Jul 2010 20:39:34 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2010/07/23/weblogic-10-3-using-clear-passwords-while-in-production-mode/</guid>
+      <guid>http://0.0.0.0:1313/2010/07/23/weblogic-10-3-using-clear-passwords-while-in-production-mode/</guid>
       <description>&lt;p&gt;In Weblogic, (on your development server or workstation), you might want to run it in &amp;ldquo;production mode&amp;rdquo; but you don&amp;rsquo;t want to go through and encrypt all the database passwords in the JDBC files for your development database servers.&lt;/p&gt;&#xA;&lt;p&gt;Well, this article shows you how. Before you do this, make sure you are NOT doing this in a production environment. By doing this in a real-production environment, you may be compromising the security of  your production infrastructure. Also backup all files before modifying them so that if you run into any errors, you can revert back.&lt;/p&gt;</description>
     </item>
   </channel>

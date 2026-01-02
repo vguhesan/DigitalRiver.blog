@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pomodoro on Digital River</title>
-    <link>https://DigitalRiver.blog/categories/pomodoro/</link>
+    <link>http://0.0.0.0:1313/categories/pomodoro/</link>
     <description>Recent content in Pomodoro on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Jul 2011 00:00:00 -0400</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/categories/pomodoro/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/categories/pomodoro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desktop timer for Pomodoro Technique users</title>
-      <link>https://DigitalRiver.blog/2011/07/14/desktop-timer-for-pomodoro-technique-users/</link>
+      <link>http://0.0.0.0:1313/2011/07/14/desktop-timer-for-pomodoro-technique-users/</link>
       <pubDate>Thu, 14 Jul 2011 00:00:00 -0400</pubDate>
-      <guid>https://DigitalRiver.blog/2011/07/14/desktop-timer-for-pomodoro-technique-users/</guid>
+      <guid>http://0.0.0.0:1313/2011/07/14/desktop-timer-for-pomodoro-technique-users/</guid>
       <description>&lt;p&gt;If you are looking to improve your productivity when you are working on a mindful task then&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://www.pomodorotechnique.com/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9; Pomodoro Technique&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; is the way.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a technique where you sit for twenty-five minutes at a time focused on one task. At the end of the cycle, you take a &amp;ldquo;required&amp;rdquo; short break and then start on your next cycle.&lt;/p&gt;&#xA;&lt;p&gt;Why twenty-five minutes and not thirty? If you find out why, let me know.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/java/</link>
+    <link>http://0.0.0.0:1313/tags/java/</link>
     <description>Recent content in Java on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Sep 2019 23:53:36 -0400</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Microservices</title>
-      <link>https://DigitalRiver.blog/post/2019-09-06/</link>
+      <link>http://0.0.0.0:1313/post/2019-09-06/</link>
       <pubDate>Fri, 06 Sep 2019 23:53:36 -0400</pubDate>
-      <guid>https://DigitalRiver.blog/post/2019-09-06/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; Understanding how we got here and the problem that it solves will help understand what Microservices is all about.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&#xA;&lt;img &#xA;    &#xA;        src=&#34;https://DigitalRiver.blog/img/logo/microservices.png&#34; &#xA;    &#xA;    &#xA;        alt=&#34;Understanding Microservices&#34;&#xA;    &#xA;     &#xA;        width=&#34;150&#34; &#xA;    &#xA;    &#xA;     &#xA;        align=&#34;left&#34; &#xA;    &#xA;    &#xA;        class=&#34;imgframe&#34; &#xA;    &#xA;    &gt;&#xA;&lt;p&gt;A few months back, I gave a presentation at Leidos Cloud User Group on the topic of &amp;ldquo;Understanding Microservices&amp;rdquo;. To my astonishment, we had about 123 folks that attended the presentation. I felt that it&amp;rsquo;s best that I share this knowledge with the world. I have also created a short (and sweet) implementation of Microservices using JavaScript Cote.js library.&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/post/2019-09-06/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; Understanding how we got here and the problem that it solves will help understand what Microservices is all about.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&#xA;&lt;img &#xA;    &#xA;        src=&#34;http://0.0.0.0:1313/img/logo/microservices.png&#34; &#xA;    &#xA;    &#xA;        alt=&#34;Understanding Microservices&#34;&#xA;    &#xA;     &#xA;        width=&#34;150&#34; &#xA;    &#xA;    &#xA;     &#xA;        align=&#34;left&#34; &#xA;    &#xA;    &#xA;        class=&#34;imgframe&#34; &#xA;    &#xA;    &gt;&#xA;&lt;p&gt;A few months back, I gave a presentation at Leidos Cloud User Group on the topic of &amp;ldquo;Understanding Microservices&amp;rdquo;. To my astonishment, we had about 123 folks that attended the presentation. I felt that it&amp;rsquo;s best that I share this knowledge with the world. I have also created a short (and sweet) implementation of Microservices using JavaScript Cote.js library.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spring LDAP Overview | Baeldung</title>
-      <link>https://DigitalRiver.blog/2017/03/21/spring-ldap-overview-baeldung/</link>
+      <link>http://0.0.0.0:1313/2017/03/21/spring-ldap-overview-baeldung/</link>
       <pubDate>Tue, 21 Mar 2017 00:00:00 -0400</pubDate>
-      <guid>https://DigitalRiver.blog/2017/03/21/spring-ldap-overview-baeldung/</guid>
-      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2016/11/springframework.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/03/springframework.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;Learn how to use the Spring LDAP APIs to authenticate and search for users, as well as to create and modify users in the directory server.&lt;/p&gt;&#xA;&lt;p&gt;Source: &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://www.baeldung.com/spring-ldap&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Spring LDAP Overview | Baeldung&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/2017/03/21/spring-ldap-overview-baeldung/</guid>
+      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2016/11/springframework.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2017/03/springframework.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;Learn how to use the Spring LDAP APIs to authenticate and search for users, as well as to create and modify users in the directory server.&lt;/p&gt;&#xA;&lt;p&gt;Source: &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://www.baeldung.com/spring-ldap&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Spring LDAP Overview | Baeldung&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GreaseMonkey to the rescue - fixing Apache Jackrabbit Site</title>
-      <link>https://DigitalRiver.blog/2010/04/21/greasemonkey-to-the-rescue-fixing-apache-jackrabbit-site/</link>
+      <link>http://0.0.0.0:1313/2010/04/21/greasemonkey-to-the-rescue-fixing-apache-jackrabbit-site/</link>
       <pubDate>Wed, 21 Apr 2010 13:09:27 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2010/04/21/greasemonkey-to-the-rescue-fixing-apache-jackrabbit-site/</guid>
+      <guid>http://0.0.0.0:1313/2010/04/21/greasemonkey-to-the-rescue-fixing-apache-jackrabbit-site/</guid>
       <description>&lt;p&gt;Starting yesterday the &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://jackrabbit.apache.org/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Apache JackRabbit JCR&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; website had an interesting problem. Someone must have made a change to the base template such that they had removed the &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://alexgorbatchev.com/wiki/SyntaxHighlighter&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;SyntaxHighlighter&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; code that needs to be appended to the header. I&amp;rsquo;ve opened an issue in their jira issue tracker.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Contents of JIRA Issue &amp;raquo;&amp;raquo;&amp;raquo;&amp;raquo;&#xA;It started happening today. When I visit the website, for example:&#xA;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://jackrabbit.apache.org/node-type-notation.html&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;http://jackrabbit.apache.org/node-type-notation.html&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/ubuntu/</link>
+    <link>http://0.0.0.0:1313/tags/ubuntu/</link>
     <description>Recent content in Ubuntu on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Sep 2024 00:00:00 -0400</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing VirtualBox 7.1.0 on macOS and installing a Linux guest machine with Ubuntu 22.04.5 LTS</title>
-      <link>https://DigitalRiver.blog/post/2024-09-23/</link>
+      <link>http://0.0.0.0:1313/post/2024-09-23/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 -0400</pubDate>
-      <guid>https://DigitalRiver.blog/post/2024-09-23/</guid>
+      <guid>http://0.0.0.0:1313/post/2024-09-23/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/center-theme-image.png&#34; alt=&#34;Center Theme Image&#34; title=&#34;Center Theme Image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Gist: Developer Notes: Installing VirtualBox 7.1.0 on macOS and installing a Linux guest machine with Ubuntu 22.04.5 LTS&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;img/agenda.jpg&#34; alt=&#34;Agenda&#34; title=&#34;Agenda&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Rather than cloning the changes in two different places, I&amp;rsquo;m linking the developer notes shared on my GitHub repository here:&#xA;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://github.com/vguhesan/devnotes-virtualbox&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;https://github.com/vguhesan/devnotes-virtualbox&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Presentation Slides: &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://github.com/vguhesan/devnotes-virtualbox/blob/main/VirtualBox-for-local-development-v1.pptx&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;PowerPoint version&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; | &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://github.com/vguhesan/devnotes-virtualbox/blob/main/VirtualBox-for-local-development-v1.pdf&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;PDF version&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

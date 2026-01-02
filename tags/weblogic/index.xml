@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weblogic on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/weblogic/</link>
+    <link>http://0.0.0.0:1313/tags/weblogic/</link>
     <description>Recent content in Weblogic on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 May 2010 15:40:45 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/weblogic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/weblogic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>where is the javax.servlet jar in Weblogic 10.3 and up?</title>
-      <link>https://DigitalRiver.blog/2010/05/20/where-is-the-javax-servlet-jar-in-weblogic-10-3-and-up/</link>
+      <link>http://0.0.0.0:1313/2010/05/20/where-is-the-javax-servlet-jar-in-weblogic-10-3-and-up/</link>
       <pubDate>Thu, 20 May 2010 15:40:45 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2010/05/20/where-is-the-javax-servlet-jar-in-weblogic-10-3-and-up/</guid>
+      <guid>http://0.0.0.0:1313/2010/05/20/where-is-the-javax-servlet-jar-in-weblogic-10-3-and-up/</guid>
       <description>&lt;p&gt;With the 10.3 release, Weblogic has split the javax.servlet and others out of weblogic.jar. I&amp;rsquo;m blogging it in hopes that if others are looking for it, this entry would help them.&lt;/p&gt;&#xA;&lt;p&gt;You can find javax.servlet and other jars under &amp;ldquo;&amp;lt;BEA_HOME&amp;gt;\modules&amp;quot; folder. In my specific build, I have the servlet jar file as &amp;ldquo;&amp;lt;BEA_HOME&amp;gt;\modules\javax.servlet_1.0.0.0_2-5.jar&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;So if you are looking for it that&amp;rsquo;s where it is and no need to go and download the servlet.jar from Tomcat to include within your resource in your project\IDE.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Brix-cms and Weblogic 10.3 - Content Length Error - Didn&#39;t meet stated Content-Length</title>
-      <link>https://DigitalRiver.blog/2010/03/09/brix-cms-and-weblogic-10-3-content-length-error-didnt-meet-stated-content-length/</link>
+      <link>http://0.0.0.0:1313/2010/03/09/brix-cms-and-weblogic-10-3-content-length-error-didnt-meet-stated-content-length/</link>
       <pubDate>Tue, 09 Mar 2010 20:02:55 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2010/03/09/brix-cms-and-weblogic-10-3-content-length-error-didnt-meet-stated-content-length/</guid>
+      <guid>http://0.0.0.0:1313/2010/03/09/brix-cms-and-weblogic-10-3-content-length-error-didnt-meet-stated-content-length/</guid>
       <description>&lt;p&gt;When you deploy Brix-cms under Weblogic you will encounter the following issue or error:&lt;/p&gt;&#xA;&lt;blockquote&gt;&lt;Mar 4, 2010 11:56:35 AM EST&gt; &lt;Error&gt; &lt;HTTP&gt; &lt;BEA-101104&gt; &lt;Servlet execution in servlet context &#34;weblogic.servlet.internal.WebAppServletContext@5470a0 - appName : &#39;brixdemo&#39;, name: &#39;BPortal.war&#39;, context-path: &#39;/BPortal&#39;, spec-version: &#39;null&#39;&#34; failed, java.net.ProtocolException: Didn&#39;t meet stated Content-Length, wrote: &#39;0&#39; bytes instead of stated: &#39;318&#39; bytes..&#xA;java.net.ProtocolException: Didn&#39;t meet stated Content-Length, wrote: &#39;0&#39; bytes instead of stated: &#39;318&#39; bytes.&#xA;at weblogic.servlet.internal.ServletOutputStreamImpl.ensureContentLength(ServletOutputStreamImpl.java:422)&#xA;at weblogic.servlet.internal.ServletResponseImpl.ensureContentLength(ServletResponseImpl.java:1416)&#xA;at weblogic.servlet.internal.ServletResponseImpl.send(ServletResponseImpl.java:1459)&#xA;at weblogic.servlet.internal.ServletRequestImpl.run(ServletRequestImpl.java:1415)&#xA;at weblogic.work.ExecuteThread.execute(ExecuteThread.java:201)&#xA;Truncated. see log file for complete stacktrace&#xA;&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Details of the error are documented &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://groups.google.com/group/brix-cms-discuss/browse_thread/thread/e5c20a2f03f07dd7?hl=en&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;here&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

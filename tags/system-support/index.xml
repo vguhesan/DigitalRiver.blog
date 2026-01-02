@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>System Support on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/system-support/</link>
+    <link>http://0.0.0.0:1313/tags/system-support/</link>
     <description>Recent content in System Support on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Apr 2020 00:00:00 -0400</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/system-support/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/system-support/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Finding your Windows-10 Product Key and tips to upgrade your hardware</title>
-      <link>https://DigitalRiver.blog/post/2020-04-19/</link>
+      <link>http://0.0.0.0:1313/post/2020-04-19/</link>
       <pubDate>Sun, 19 Apr 2020 00:00:00 -0400</pubDate>
-      <guid>https://DigitalRiver.blog/post/2020-04-19/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; Easiest way to find out your Windows 10 Product Key for reinstallation or reimaging your computer. As an added bonus, I&amp;rsquo;ll talk about two tips on how you can upgrade your computers hardware to give it a second life.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;figure class=&#34;alignleft round-img-border imgframe-left-pad&#34;&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/logo/windows10.png&#34; width=&#34;150&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Lately for adults, &amp;ldquo;work from home&amp;rdquo; (WFH) has become the new norm and with kids attending classes online - having a good, clean setup of your laptop or computer has become a necessity. And so a lot of folks are trying to reinstall Windows onto their computers and get rid of all the malware and spam window pop-ups to give it a fresh start. Or you may be trying to take inventory of your system to know which computer or laptop has a certain Windows license applied. In either case, the first step is to inventory your current setup to find out the Windows 10 product key so that you can use the same key to reinstall. This will save you some money from having to buy another license of Windows when you already have a licensed version tied to your computer.&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/post/2020-04-19/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; Easiest way to find out your Windows 10 Product Key for reinstallation or reimaging your computer. As an added bonus, I&amp;rsquo;ll talk about two tips on how you can upgrade your computers hardware to give it a second life.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;figure class=&#34;alignleft round-img-border imgframe-left-pad&#34;&gt;&lt;img src=&#34;http://0.0.0.0:1313/img/logo/windows10.png&#34; width=&#34;150&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Lately for adults, &amp;ldquo;work from home&amp;rdquo; (WFH) has become the new norm and with kids attending classes online - having a good, clean setup of your laptop or computer has become a necessity. And so a lot of folks are trying to reinstall Windows onto their computers and get rid of all the malware and spam window pop-ups to give it a fresh start. Or you may be trying to take inventory of your system to know which computer or laptop has a certain Windows license applied. In either case, the first step is to inventory your current setup to find out the Windows 10 product key so that you can use the same key to reinstall. This will save you some money from having to buy another license of Windows when you already have a licensed version tied to your computer.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

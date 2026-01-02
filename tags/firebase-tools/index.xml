@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Firebase-Tools on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/firebase-tools/</link>
+    <link>http://0.0.0.0:1313/tags/firebase-tools/</link>
     <description>Recent content in Firebase-Tools on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Nov 2017 15:50:58 -0500</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/firebase-tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/firebase-tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>firebase-tools install throws &#39;root does not have permission&#39; error repeatedly</title>
-      <link>https://DigitalRiver.blog/post/2017-11-24/</link>
+      <link>http://0.0.0.0:1313/post/2017-11-24/</link>
       <pubDate>Fri, 24 Nov 2017 15:50:58 -0500</pubDate>
-      <guid>https://DigitalRiver.blog/post/2017-11-24/</guid>
+      <guid>http://0.0.0.0:1313/post/2017-11-24/</guid>
       <description>&lt;p&gt;During installtion of firebase-tools, you see a repeated output about &amp;lsquo;root does not have permission&amp;rsquo; error. This is one way to fix that issue.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code class=&#34;language-bash line-numbers&#34;&gt;sudo npm install -g firebase-tools&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;&lt;em&gt;Error/Warning&lt;/em&gt;&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code class=&#34;language-bash line-numbers&#34;&gt;gyp WARN EACCES user &#34;root&#34; does not have permission to access the dev dir &#34;/usr/local/lib/node_modules/firebase-tools/node_modules/grpc/.node-gyp/8.9.1&#34;&#xA;gyp WARN EACCES attempting to reinstall using temporary dev dir &#34;/usr/local/lib/node_modules/firebase-tools/node_modules/grpc/.node-gyp&#34;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Here is what I did to avoid this:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code class=&#34;language-bash line-numbers&#34;&gt;sudo mkdir -p /usr/local/lib/node_modules/firebase-tools/node_modules/grpc/.node-gyp/8.9.1/&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;This creates an empty directory with the path specified then rerun the following:&lt;/p&gt;</description>
     </item>
   </channel>

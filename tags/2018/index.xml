@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2018 on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/2018/</link>
+    <link>http://0.0.0.0:1313/tags/2018/</link>
     <description>Recent content in 2018 on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 18:11:50 -0500</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/2018/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/2018/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dear Readers, Happy New Year - 2018</title>
-      <link>https://DigitalRiver.blog/post/2018-01-01/</link>
+      <link>http://0.0.0.0:1313/post/2018-01-01/</link>
       <pubDate>Mon, 01 Jan 2018 18:11:50 -0500</pubDate>
-      <guid>https://DigitalRiver.blog/post/2018-01-01/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/2018/01/Happy-New-Year-Images-2018.jpg&#34; alt=&#34;Inspire&#34; title=&#34;Happy New Year 2018!&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For all of my wonderful blog readers out there, I want to say &amp;ldquo;THANK YOU&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wishing You All A Happy New Year!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;May your 2018 be the best year ever!&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/post/2018-01-01/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://0.0.0.0:1313/img/2018/01/Happy-New-Year-Images-2018.jpg&#34; alt=&#34;Inspire&#34; title=&#34;Happy New Year 2018!&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For all of my wonderful blog readers out there, I want to say &amp;ldquo;THANK YOU&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wishing You All A Happy New Year!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;May your 2018 be the best year ever!&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

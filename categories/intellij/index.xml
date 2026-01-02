@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IntelliJ on Digital River</title>
-    <link>https://DigitalRiver.blog/categories/intellij/</link>
+    <link>http://0.0.0.0:1313/categories/intellij/</link>
     <description>Recent content in IntelliJ on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Feb 2011 16:37:46 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/categories/intellij/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/categories/intellij/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IntelliJ - serialVersionUID - enabling</title>
-      <link>https://DigitalRiver.blog/2011/02/18/intellij-serialversionuid-enabling/</link>
+      <link>http://0.0.0.0:1313/2011/02/18/intellij-serialversionuid-enabling/</link>
       <pubDate>Fri, 18 Feb 2011 16:37:46 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2011/02/18/intellij-serialversionuid-enabling/</guid>
-      <description>&lt;p&gt;If you are wondering why when you make a POJO bean to implement Serializable, IntelliJ does not throw any warnings to create the serialVersionUID variable&amp;hellip; It&amp;rsquo;s because you need to enable it. Here&amp;rsquo;s how:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2011/02/intellij-enablingserialization.jpg&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2011/02/intellij-enablingserialization.jpg&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cheers!&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/2011/02/18/intellij-serialversionuid-enabling/</guid>
+      <description>&lt;p&gt;If you are wondering why when you make a POJO bean to implement Serializable, IntelliJ does not throw any warnings to create the serialVersionUID variable&amp;hellip; It&amp;rsquo;s because you need to enable it. Here&amp;rsquo;s how:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2011/02/intellij-enablingserialization.jpg&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2011/02/intellij-enablingserialization.jpg&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cheers!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

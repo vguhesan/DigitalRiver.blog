@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Class Loading on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/class-loading/</link>
+    <link>http://0.0.0.0:1313/tags/class-loading/</link>
     <description>Recent content in Class Loading on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Jul 2011 00:00:00 -0400</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/class-loading/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/class-loading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Not all Tomcat 6 classloaders must be equal</title>
-      <link>https://DigitalRiver.blog/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</link>
+      <link>http://0.0.0.0:1313/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</link>
       <pubDate>Sat, 02 Jul 2011 00:00:00 -0400</pubDate>
-      <guid>https://DigitalRiver.blog/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</guid>
+      <guid>http://0.0.0.0:1313/2011/07/01/not-all-tomcat-6-classloaders-must-be-equal/</guid>
       <description>&lt;p&gt;Today, while doing some Grails development I came across a peculiar issue that perplexed me and I&amp;rsquo;m documenting it for all others to benefit. (Also see my other blog from today for the issue that started this journey).&lt;/p&gt;&#xA;&lt;p&gt;Here are my specifications:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Development Machine&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Windows-7, 64-bit&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;java version &amp;ldquo;1.6.0_24&amp;rdquo;&#xA;Java(TM) SE Runtime Environment (build 1.6.0_24-b07)&#xA;Java HotSpot(TM) &lt;strong&gt;64-Bit Server VM&lt;/strong&gt; (build 19.1-b02, mixed mode)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Grails 1.4.0.M1&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Tomcat - apache-tomcat64-6.0.32&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Local Deployment Server&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

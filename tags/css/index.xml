@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Css on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/css/</link>
+    <link>http://0.0.0.0:1313/tags/css/</link>
     <description>Recent content in Css on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Mar 2012 17:53:35 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configure static resources in Django - Python</title>
-      <link>https://DigitalRiver.blog/2012/03/01/configure-static-resources-in-django-python/</link>
+      <link>http://0.0.0.0:1313/2012/03/01/configure-static-resources-in-django-python/</link>
       <pubDate>Thu, 01 Mar 2012 17:53:35 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2012/03/01/configure-static-resources-in-django-python/</guid>
+      <guid>http://0.0.0.0:1313/2012/03/01/configure-static-resources-in-django-python/</guid>
       <description>&lt;p&gt;Working on a Django project, one of the first things that one would encounter is configuring Django for static resources such as &amp;ldquo;css&amp;rdquo;, &amp;ldquo;images&amp;rdquo;, &amp;ldquo;jpeg&amp;rdquo; and &amp;ldquo;js&amp;rdquo;. In looking at the &amp;ldquo;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://docs.djangoproject.com/en/dev/howto/static-files/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;StaticResources&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&amp;rdquo; link that&amp;rsquo;s part of the Django documentation, it&amp;rsquo;s a bit cryptic for someone who&amp;rsquo;s starting out in Django and Python. So here&amp;rsquo;s a step-by-step on two ways to configure your static-resources in a Django project.&lt;/p&gt;</description>
     </item>
   </channel>

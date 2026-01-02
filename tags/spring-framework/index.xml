@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spring Framework on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/spring-framework/</link>
+    <link>http://0.0.0.0:1313/tags/spring-framework/</link>
     <description>Recent content in Spring Framework on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Nov 2017 00:00:00 -0500</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/spring-framework/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/spring-framework/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spring Framework - Application Context - three ways to get to the application context</title>
-      <link>https://DigitalRiver.blog/post/2017-11-20/</link>
+      <link>http://0.0.0.0:1313/post/2017-11-20/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 -0500</pubDate>
-      <guid>https://DigitalRiver.blog/post/2017-11-20/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/logo/springframework.png&#34; alt=&#34;Semiconductor&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This article shows you three different ways how to get to the Spring Framework Application Context in your code.&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;(This is a repost of an older article I wrote in 2010).&#xA;In searching Google for &amp;ldquo;Spring &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContextAware.html&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;ApplicationContextAware&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&amp;rdquo;, you will come across a lot of recommendations and I also see a lot of folks continuing to complain saying that their setApplicationContext method does not get invoked. So to help clarify, I&amp;rsquo;m blogging a few notes in hope that it helps clarify how the context works.&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/post/2017-11-20/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://0.0.0.0:1313/img/logo/springframework.png&#34; alt=&#34;Semiconductor&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This article shows you three different ways how to get to the Spring Framework Application Context in your code.&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;(This is a repost of an older article I wrote in 2010).&#xA;In searching Google for &amp;ldquo;Spring &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContextAware.html&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;ApplicationContextAware&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&amp;rdquo;, you will come across a lot of recommendations and I also see a lot of folks continuing to complain saying that their setApplicationContext method does not get invoked. So to help clarify, I&amp;rsquo;m blogging a few notes in hope that it helps clarify how the context works.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GWT and Spring Integration - java.net.InetAddress is a restricted class</title>
-      <link>https://DigitalRiver.blog/2010/09/13/gwt-and-spring-integration-java-net-inetaddress-is-a-restricted-class/</link>
+      <link>http://0.0.0.0:1313/2010/09/13/gwt-and-spring-integration-java-net-inetaddress-is-a-restricted-class/</link>
       <pubDate>Mon, 13 Sep 2010 02:05:51 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2010/09/13/gwt-and-spring-integration-java-net-inetaddress-is-a-restricted-class/</guid>
+      <guid>http://0.0.0.0:1313/2010/09/13/gwt-and-spring-integration-java-net-inetaddress-is-a-restricted-class/</guid>
       <description>&lt;p&gt;When trying to integrate both Spring and GWT, one might encounter the following error in the Spring Eclipse IDE:&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;java.net.InetAddress is a restricted class&amp;rdquo;. The problem happens when you try to use Spring configuration for your database. In my case, I was using Spring to update data back to a H2 database.&lt;/p&gt;&#xA;&lt;p&gt;Well, here&amp;rsquo;s one way to deal with this issue. Disable the &amp;ldquo;Google App Engine&amp;rdquo;. Yes, based on my research, if you&amp;rsquo;re using  GWT, you can disable Google App Engine and still continue your development with GWT.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spring Framework - Application Context - three ways to get to the application context</title>
-      <link>https://DigitalRiver.blog/post/2010-03-22/</link>
+      <link>http://0.0.0.0:1313/post/2010-03-22/</link>
       <pubDate>Mon, 22 Mar 2010 17:09:21 -0400</pubDate>
-      <guid>https://DigitalRiver.blog/post/2010-03-22/</guid>
+      <guid>http://0.0.0.0:1313/post/2010-03-22/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;This article shows you three different ways how to get to the Spring Framework Application Context in your code. test&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;</description>
     </item>
   </channel>

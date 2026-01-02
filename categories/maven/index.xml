@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maven on Digital River</title>
-    <link>https://DigitalRiver.blog/categories/maven/</link>
+    <link>http://0.0.0.0:1313/categories/maven/</link>
     <description>Recent content in Maven on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Apr 2018 16:55:46 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/categories/maven/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/categories/maven/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>spring.schemas and spring.handlers when creating Uber-Jar</title>
-      <link>https://DigitalRiver.blog/post/2018-04-08/</link>
+      <link>http://0.0.0.0:1313/post/2018-04-08/</link>
       <pubDate>Sun, 08 Apr 2018 16:55:46 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/post/2018-04-08/</guid>
+      <guid>http://0.0.0.0:1313/post/2018-04-08/</guid>
       <description>&lt;p&gt;When creating an uber-jar with all dependencies in one single-jar file, each of the spring dependency jar may contain schema and handlers that have the same name but different content. When you combine them into creating a single uber-jar, the uber-library will perform an overwrite since each of the Spring files for schema and handlers are the exact filename. So you end up overwriting the file where the last ubered file will remain.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Add custom jars under &#34;\WEB-INF\lib&#34; in a Maven project</title>
-      <link>https://DigitalRiver.blog/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</link>
+      <link>http://0.0.0.0:1313/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</link>
       <pubDate>Sat, 02 Oct 2010 18:28:00 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</guid>
+      <guid>http://0.0.0.0:1313/2010/10/02/adding-custom-jars-under-web-inflib-in-a-maven-project/</guid>
       <description>&lt;p&gt;The answer is a lot simpler than you think. But before we explore the answer, I should warn you that this approach is not what is recommended by Maven. Maven builds upon consistency and structure and this process goes away from that methodology. In Maven, you can take each of your jars\libraries and add them to your local repository and then include them as needed in your projects. If you want to go the proper route &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://maven.apache.org/general.html#importing-jars&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;here’s how you do it&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;. This keeps a consistent version in all your projects and can allow you to gracefully update the library as new versions become available.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maven - GWT - Vaadin - including additional custom jars in a maven project under &#34;\web-inf\lib&#34;</title>
-      <link>https://DigitalRiver.blog/2010/09/15/maven-gwt-vaadin-including-additional-custom-jars-in-a-maven-project/</link>
+      <link>http://0.0.0.0:1313/2010/09/15/maven-gwt-vaadin-including-additional-custom-jars-in-a-maven-project/</link>
       <pubDate>Wed, 15 Sep 2010 18:50:21 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2010/09/15/maven-gwt-vaadin-including-additional-custom-jars-in-a-maven-project/</guid>
+      <guid>http://0.0.0.0:1313/2010/09/15/maven-gwt-vaadin-including-additional-custom-jars-in-a-maven-project/</guid>
       <description>&lt;p&gt;With a lot of folks trying &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://code.google.com/webtoolkit/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Google Web Toolkit (GWT)&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; and\or &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://vaadin.com/home&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Vaadin&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; (combined with Maven), one of the problems that they might encounter is this:&lt;/p&gt;&#xA;&lt;blockquote&gt;How do I get my custom Vaadin themes or GWT jar files included under my &#34;\web-inf\lib&#34; folder inside the war&lt;/blockquote&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://stackoverflow.com/questions/2008821/how-do-i-get-maven-managed-dependencies-copied-into-war-web-inf-lib-so-i-can-run/3720589#3720589&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;link&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; to the such a question in detail.&lt;/p&gt;</description>
     </item>
   </channel>

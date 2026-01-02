@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mod_python Setup on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/mod_python-setup/</link>
+    <link>http://0.0.0.0:1313/tags/mod_python-setup/</link>
     <description>Recent content in Mod_python Setup on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Dec 2011 03:09:12 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/mod_python-setup/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/mod_python-setup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How-To Install mod_python and the compile error - apxs:Error: Command failed with rc=65536</title>
-      <link>https://DigitalRiver.blog/2011/12/29/installing-mod_python-compile-error-apxserror-command-failed-with-rc65536/</link>
+      <link>http://0.0.0.0:1313/2011/12/29/installing-mod_python-compile-error-apxserror-command-failed-with-rc65536/</link>
       <pubDate>Thu, 29 Dec 2011 03:09:12 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2011/12/29/installing-mod_python-compile-error-apxserror-command-failed-with-rc65536/</guid>
+      <guid>http://0.0.0.0:1313/2011/12/29/installing-mod_python-compile-error-apxserror-command-failed-with-rc65536/</guid>
       <description>&lt;p&gt;Below are my steps to installing mod_python under Apache HTTPD in CentOS 6.2.&lt;/p&gt;&#xA;&lt;p&gt;Download mod_python-3.3.1.tgz or a later version of mod_python available here:&#xA;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://archive.apache.org/dist/httpd/modpython/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;http://archive.apache.org/dist/httpd/modpython/&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;[sourcecode]&#xA;curl -O &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://archive.apache.org/dist/httpd/modpython/mod_python-3.3.1.tgz&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;http://archive.apache.org/dist/httpd/modpython/mod_python-3.3.1.tgz&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&#xA;tar zxvf mod_python-3.3.1.tgz&#xA;cd mod_python-3.3.1&#xA;./configure&#xA;make&#xA;[/sourcecode]&lt;/p&gt;&#xA;&lt;p&gt;You may encounter the following error at this point:&#xA;apxs:Error: Command failed with rc=65536&lt;/p&gt;</description>
     </item>
   </channel>

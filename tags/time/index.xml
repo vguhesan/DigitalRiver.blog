@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Time on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/time/</link>
+    <link>http://0.0.0.0:1313/tags/time/</link>
     <description>Recent content in Time on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jan 2022 00:00:00 -0500</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/time/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/time/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Managing your time - Time-Block Method with free Templates (revised)</title>
-      <link>https://DigitalRiver.blog/post/2022-01-1/</link>
+      <link>http://0.0.0.0:1313/post/2022-01-1/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 -0500</pubDate>
-      <guid>https://DigitalRiver.blog/post/2022-01-1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Updates:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Compiled a series of q&amp;amp;a asked by blog readers over the year in hopes that my answers help others. The questions and answers are at the bottom of this article.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;figure class=&#34;aligncenter round-img-border imgframe-left-pad&#34;&gt;&lt;img src=&#34;https://DigitalRiver.blog/post/2022-01-1/img/tm-banner3.jpg&#34; width=&#34;640&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;what-is-this-article-about&#34;&gt;What is this article about?&lt;/h3&gt;&#xA;&lt;p&gt;There is an Eastern philosophy that summarizes the importance of time management. And it goes something link this:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;How we spend our day is how we spend our lives.&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;and another philosophy that summarizes the value of time&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/post/2022-01-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Updates:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Compiled a series of q&amp;amp;a asked by blog readers over the year in hopes that my answers help others. The questions and answers are at the bottom of this article.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;figure class=&#34;aligncenter round-img-border imgframe-left-pad&#34;&gt;&lt;img src=&#34;http://0.0.0.0:1313/post/2022-01-1/img/tm-banner3.jpg&#34; width=&#34;640&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;what-is-this-article-about&#34;&gt;What is this article about?&lt;/h3&gt;&#xA;&lt;p&gt;There is an Eastern philosophy that summarizes the importance of time management. And it goes something link this:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;How we spend our day is how we spend our lives.&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;and another philosophy that summarizes the value of time&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

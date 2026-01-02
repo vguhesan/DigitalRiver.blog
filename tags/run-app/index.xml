@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Run-App on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/run-app/</link>
+    <link>http://0.0.0.0:1313/tags/run-app/</link>
     <description>Recent content in Run-App on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Feb 2014 19:40:57 +0000</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/run-app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/run-app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grails 2.3.5 - grails stop-app - does not stop the app running via run-app</title>
-      <link>https://DigitalRiver.blog/2014/02/02/grails-2-3-5-grails-stop-app-stop-app-running-via-run-app/</link>
+      <link>http://0.0.0.0:1313/2014/02/02/grails-2-3-5-grails-stop-app-stop-app-running-via-run-app/</link>
       <pubDate>Sun, 02 Feb 2014 19:40:57 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2014/02/02/grails-2-3-5-grails-stop-app-stop-app-running-via-run-app/</guid>
+      <guid>http://0.0.0.0:1313/2014/02/02/grails-2-3-5-grails-stop-app-stop-app-running-via-run-app/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re using Grails 2.3.X and you&amp;rsquo;re developing, most likely you&amp;rsquo;re running your app like this:&lt;/p&gt;&#xA;&lt;p&gt;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;grails run-app&#xA;#in one command-prompt/shell-terminal and&#xA;grails stop-app&#xA;#in another command-prompt/shell-terminal&#xA;[/sourcecode]&lt;/p&gt;&#xA;&lt;p&gt;With the latest version of Grails (version 2.3.5), the stop-app say:&lt;/p&gt;&#xA;&lt;p&gt;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&#xA;grails stop-app&#xA;| Server Stopped&lt;/p&gt;&#xA;&lt;h1 id=&#34;but-nothing-happens-and-the-server-process-continues-to-run&#34;&gt;But nothing happens and the server-process continues to run#&lt;/h1&gt;&#xA;&lt;p&gt;[/sourcecode]&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s an undocumented fix that can come in handy:&lt;/p&gt;&#xA;&lt;p&gt;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&lt;/p&gt;&#xA;&lt;h1 id=&#34;on-terminalcommand-prompt-1&#34;&gt;On terminal/command-prompt #1&lt;/h1&gt;&#xA;&lt;h1 id=&#34;run-the-way-you-do-today&#34;&gt;Run the way you do today&lt;/h1&gt;&#xA;&lt;p&gt;grails run-app&lt;/p&gt;</description>
     </item>
   </channel>

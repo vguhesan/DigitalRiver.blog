@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chronicle on Digital River</title>
-    <link>https://DigitalRiver.blog/tags/chronicle/</link>
+    <link>http://0.0.0.0:1313/tags/chronicle/</link>
     <description>Recent content in Chronicle on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Feb 2017 00:00:00 -0500</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/tags/chronicle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/tags/chronicle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Going off-heap to improve latency and reduce AWS bill</title>
-      <link>https://DigitalRiver.blog/2017/02/15/going-off-heap-to-improve-latency-and-reduce-aws-bill-plumbr/</link>
+      <link>http://0.0.0.0:1313/2017/02/15/going-off-heap-to-improve-latency-and-reduce-aws-bill-plumbr/</link>
       <pubDate>Wed, 15 Feb 2017 00:00:00 -0500</pubDate>
-      <guid>https://DigitalRiver.blog/2017/02/15/going-off-heap-to-improve-latency-and-reduce-aws-bill-plumbr/</guid>
-      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2017/02/java_logo_2b.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/02/java_logo_2b.png&#34; alt=&#34;java_logo_2b&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;Great read - shows you the power of Java and Chronicle Map.&lt;/p&gt;&#xA;&lt;p&gt;Describing how going off-heap with the help of Chronicle Map helped us to get rid of the latency hiccups and cut our Amazon AWS bill in half.&lt;/p&gt;&#xA;&lt;p&gt;Source: &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://plumbr.eu/blog/java/going-off-heap-to-improve-latency-and-reduce-aws-bill&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Going off-heap to improve latency and reduce AWS bill – Plumbr&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Caution&lt;/strong&gt;: Before you go diving into using the open source version of Chronicle Map, there are some gotchas to be aware of from a features point-of-view.&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/2017/02/15/going-off-heap-to-improve-latency-and-reduce-aws-bill-plumbr/</guid>
+      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2017/02/java_logo_2b.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2017/02/java_logo_2b.png&#34; alt=&#34;java_logo_2b&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;Great read - shows you the power of Java and Chronicle Map.&lt;/p&gt;&#xA;&lt;p&gt;Describing how going off-heap with the help of Chronicle Map helped us to get rid of the latency hiccups and cut our Amazon AWS bill in half.&lt;/p&gt;&#xA;&lt;p&gt;Source: &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://plumbr.eu/blog/java/going-off-heap-to-improve-latency-and-reduce-aws-bill&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Going off-heap to improve latency and reduce AWS bill – Plumbr&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Caution&lt;/strong&gt;: Before you go diving into using the open source version of Chronicle Map, there are some gotchas to be aware of from a features point-of-view.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

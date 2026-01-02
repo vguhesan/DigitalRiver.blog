@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Embedded Systems on Digital River</title>
-    <link>https://DigitalRiver.blog/categories/embedded-systems/</link>
+    <link>http://0.0.0.0:1313/categories/embedded-systems/</link>
     <description>Recent content in Embedded Systems on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Mar 2017 00:00:00 -0400</lastBuildDate>
-    <atom:link href="https://DigitalRiver.blog/categories/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0:1313/categories/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create a HiFi and audiophonic system using Raspberry pi</title>
-      <link>https://DigitalRiver.blog/2017/03/26/create-a-hifi-and-audiophonic-system-using-raspberry-pi/</link>
+      <link>http://0.0.0.0:1313/2017/03/26/create-a-hifi-and-audiophonic-system-using-raspberry-pi/</link>
       <pubDate>Sun, 26 Mar 2017 00:00:00 -0400</pubDate>
-      <guid>https://DigitalRiver.blog/2017/03/26/create-a-hifi-and-audiophonic-system-using-raspberry-pi/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/03/raspberrypiicon5.png?w=1056&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Create a HiFi and audiophonic system using Raspberry pi&#xA;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://plus.google.com/&amp;#43;AudiophonicsFr-audio/posts/cbW5L9tkfRL?_utm_source=1-2-2&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;https://plus.google.com/+AudiophonicsFr-audio/posts/cbW5L9tkfRL?_utm_source=1-2-2&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/2017/03/26/create-a-hifi-and-audiophonic-system-using-raspberry-pi/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://0.0.0.0:1313/img/2017/03/raspberrypiicon5.png?w=1056&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Create a HiFi and audiophonic system using Raspberry pi&#xA;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://plus.google.com/&amp;#43;AudiophonicsFr-audio/posts/cbW5L9tkfRL?_utm_source=1-2-2&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;https://plus.google.com/+AudiophonicsFr-audio/posts/cbW5L9tkfRL?_utm_source=1-2-2&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Philips SlimStyle 60W LED bulb teardown</title>
-      <link>https://DigitalRiver.blog/2014/09/29/philips-slimstyle-60w-led-bulb-teardown/</link>
+      <link>http://0.0.0.0:1313/2014/09/29/philips-slimstyle-60w-led-bulb-teardown/</link>
       <pubDate>Mon, 29 Sep 2014 01:25:33 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2014/09/29/philips-slimstyle-60w-led-bulb-teardown/</guid>
+      <guid>http://0.0.0.0:1313/2014/09/29/philips-slimstyle-60w-led-bulb-teardown/</guid>
       <description>&lt;p&gt;While I was visiting Home Depot, I saw a Philips SlimStyle 60W LED bulb on clearance for two-dollars. I could not resist buying it for a tear-down to see how it&amp;rsquo;s built. I always wondered how they convert the 120VAC to a regulated DC voltage with high-current feed for lighting up those LED&amp;rsquo;s. So here is the first version of the tear-down showing you what&amp;rsquo;s inside the bulb. I will blog more about the current and voltage at the LED junction on a subsequent blog.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello World with SparkCore</title>
-      <link>https://DigitalRiver.blog/2014/06/18/hello-world-with-sparkcore/</link>
+      <link>http://0.0.0.0:1313/2014/06/18/hello-world-with-sparkcore/</link>
       <pubDate>Wed, 18 Jun 2014 02:51:11 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2014/06/18/hello-world-with-sparkcore/</guid>
-      <description>&lt;p&gt;Finally got my &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://www.spark.io/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;SparkCore&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;, an Arduino built with on-board WiFi (no need for a Arduino WiFi shield). This version is a different take on the &amp;ldquo;Internet of Things&amp;rdquo; and &amp;ldquo;Build internet-connected hardware&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a picture of the Spark connected to the WiFi running my first HelloWorld app downloaded directly from the Spark IDE to the core.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2014/06/sparkcore1-updated.jpg&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2014/06/sparkcore1-updated.jpg&#34; alt=&#34;Spark Core&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/2014/06/18/hello-world-with-sparkcore/</guid>
+      <description>&lt;p&gt;Finally got my &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://www.spark.io/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;SparkCore&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;, an Arduino built with on-board WiFi (no need for a Arduino WiFi shield). This version is a different take on the &amp;ldquo;Internet of Things&amp;rdquo; and &amp;ldquo;Build internet-connected hardware&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a picture of the Spark connected to the WiFi running my first HelloWorld app downloaded directly from the Spark IDE to the core.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2014/06/sparkcore1-updated.jpg&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2014/06/sparkcore1-updated.jpg&#34; alt=&#34;Spark Core&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cubieboard2 with ARM AllWinner Processor - A20 finally arrived</title>
-      <link>https://DigitalRiver.blog/2013/11/03/cubieboard2-arm-allwinner-processor-a20-finally-arrived/</link>
+      <link>http://0.0.0.0:1313/2013/11/03/cubieboard2-arm-allwinner-processor-a20-finally-arrived/</link>
       <pubDate>Sun, 03 Nov 2013 20:43:57 +0000</pubDate>
-      <guid>https://DigitalRiver.blog/2013/11/03/cubieboard2-arm-allwinner-processor-a20-finally-arrived/</guid>
-      <description>&lt;p&gt;Cubieboard2 with ARM AllWinner Processor - A20 finally arrived. Pretty excited about building my ARM Linux embedded system.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2013/11/imag0775.jpg&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2013/11/imag0775.jpg&#34; alt=&#34;CubieTruck&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Learn more about Cubieboard &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://cubieboard.org/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;here&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://0.0.0.0:1313/2013/11/03/cubieboard2-arm-allwinner-processor-a20-finally-arrived/</guid>
+      <description>&lt;p&gt;Cubieboard2 with ARM AllWinner Processor - A20 finally arrived. Pretty excited about building my ARM Linux embedded system.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2013/11/imag0775.jpg&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2013/11/imag0775.jpg&#34; alt=&#34;CubieTruck&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Learn more about Cubieboard &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://cubieboard.org/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;here&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
