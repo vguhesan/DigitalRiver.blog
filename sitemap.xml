@@ -662,10 +662,10 @@
     <loc>https://DigitalRiver.blog/tags/hugo/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/categories/wordpress/</loc>
+    <loc>https://DigitalRiver.blog/tags/wordpress/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/wordpress/</loc>
+    <loc>https://DigitalRiver.blog/categories/wordpress/</loc>
     <lastmod>2017-09-23T23:42:33+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2017/09/20/mind-map-a-method-to-x100-your-productivity-robin-sharma/</loc>
@@ -1337,25 +1337,25 @@
     <loc>https://DigitalRiver.blog/2015/12/31/wishing-everyone-a-happy-new-year/</loc>
     <lastmod>2015-12-31T17:05:18+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/%23chennairains/</loc>
+    <loc>https://DigitalRiver.blog/tags/chennairains/</loc>
     <lastmod>2015-12-03T18:59:05+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/%23chennairainshelp/</loc>
+    <loc>https://DigitalRiver.blog/tags/chennairainshelp/</loc>
     <lastmod>2015-12-03T18:59:05+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/%23chennairescue/</loc>
+    <loc>https://DigitalRiver.blog/tags/chennairescue/</loc>
     <lastmod>2015-12-03T18:59:05+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/%23chennaivolunteer/</loc>
-    <lastmod>2015-12-03T18:59:05+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/%23mealsforchennai/</loc>
-    <lastmod>2015-12-03T18:59:05+00:00</lastmod>
-  </url><url>
-    <loc>https://DigitalRiver.blog/tags/%23ndtvfeverfmchennai/</loc>
+    <loc>https://DigitalRiver.blog/tags/chennaivolunteer/</loc>
     <lastmod>2015-12-03T18:59:05+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2015/12/03/massive-floods-in-chennai-2-million-people-displaced-how-can-you-help/</loc>
+    <lastmod>2015-12-03T18:59:05+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/mealsforchennai/</loc>
+    <lastmod>2015-12-03T18:59:05+00:00</lastmod>
+  </url><url>
+    <loc>https://DigitalRiver.blog/tags/ndtvfeverfmchennai/</loc>
     <lastmod>2015-12-03T18:59:05+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</loc>
@@ -1364,10 +1364,10 @@
     <loc>https://DigitalRiver.blog/tags/xcode/ios-license/</loc>
     <lastmod>2015-09-24T19:10:17+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/%23freshbladefeeling/</loc>
+    <loc>https://DigitalRiver.blog/2015/09/23/email-sent-to-harrys-shave-club-today/</loc>
     <lastmod>2015-09-23T14:35:54+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/2015/09/23/email-sent-to-harrys-shave-club-today/</loc>
+    <loc>https://DigitalRiver.blog/tags/freshbladefeeling/</loc>
     <lastmod>2015-09-23T14:35:54+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/tags/harrys/</loc>
@@ -1562,10 +1562,10 @@
     <loc>https://DigitalRiver.blog/tags/stop-app/</loc>
     <lastmod>2014-02-02T19:40:57+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/.gitignore/</loc>
+    <loc>https://DigitalRiver.blog/tags/git/</loc>
     <lastmod>2013-11-17T02:16:15+00:00</lastmod>
   </url><url>
-    <loc>https://DigitalRiver.blog/tags/git/</loc>
+    <loc>https://DigitalRiver.blog/tags/gitignore/</loc>
     <lastmod>2013-11-17T02:16:15+00:00</lastmod>
   </url><url>
     <loc>https://DigitalRiver.blog/2013/11/17/grails-2-x-gitignore-file/</loc>
