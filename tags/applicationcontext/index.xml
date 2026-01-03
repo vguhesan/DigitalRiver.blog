@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ApplicationContext on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/applicationcontext/</link>
+    <link>https://DigitalRiver.blog/tags/applicationcontext/</link>
     <description>Recent content in ApplicationContext on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Nov 2017 00:00:00 -0500</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/applicationcontext/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/applicationcontext/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spring Framework - Application Context - three ways to get to the application context</title>
-      <link>http://0.0.0.0:1313/post/2017-11-20/</link>
+      <link>https://DigitalRiver.blog/post/2017-11-20/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 -0500</pubDate>
-      <guid>http://0.0.0.0:1313/post/2017-11-20/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://0.0.0.0:1313/img/logo/springframework.png&#34; alt=&#34;Semiconductor&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This article shows you three different ways how to get to the Spring Framework Application Context in your code.&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;(This is a repost of an older article I wrote in 2010).&#xA;In searching Google for &amp;ldquo;Spring &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContextAware.html&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;ApplicationContextAware&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&amp;rdquo;, you will come across a lot of recommendations and I also see a lot of folks continuing to complain saying that their setApplicationContext method does not get invoked. So to help clarify, I&amp;rsquo;m blogging a few notes in hope that it helps clarify how the context works.&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/post/2017-11-20/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/logo/springframework.png&#34; alt=&#34;Semiconductor&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This article shows you three different ways how to get to the Spring Framework Application Context in your code.&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;(This is a repost of an older article I wrote in 2010).&#xA;In searching Google for &amp;ldquo;Spring &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContextAware.html&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;ApplicationContextAware&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&amp;rdquo;, you will come across a lot of recommendations and I also see a lot of folks continuing to complain saying that their setApplicationContext method does not get invoked. So to help clarify, I&amp;rsquo;m blogging a few notes in hope that it helps clarify how the context works.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spring Framework - Application Context - three ways to get to the application context</title>
-      <link>http://0.0.0.0:1313/post/2010-03-22/</link>
+      <link>https://DigitalRiver.blog/post/2010-03-22/</link>
       <pubDate>Mon, 22 Mar 2010 17:09:21 -0400</pubDate>
-      <guid>http://0.0.0.0:1313/post/2010-03-22/</guid>
+      <guid>https://DigitalRiver.blog/post/2010-03-22/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;This article shows you three different ways how to get to the Spring Framework Application Context in your code. test&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;</description>
     </item>
   </channel>

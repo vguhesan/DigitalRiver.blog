@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Script on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/script/</link>
+    <link>https://DigitalRiver.blog/tags/script/</link>
     <description>Recent content in Script on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Nov 2010 23:08:37 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/script/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/script/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Extract all images in PDF file in a directory (batch extract images)</title>
-      <link>http://0.0.0.0:1313/2010/11/28/extract-all-images-in-pdf-file-in-a-directory-batch-extract-images/</link>
+      <link>https://DigitalRiver.blog/2010/11/28/extract-all-images-in-pdf-file-in-a-directory-batch-extract-images/</link>
       <pubDate>Sun, 28 Nov 2010 23:08:37 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2010/11/28/extract-all-images-in-pdf-file-in-a-directory-batch-extract-images/</guid>
+      <guid>https://DigitalRiver.blog/2010/11/28/extract-all-images-in-pdf-file-in-a-directory-batch-extract-images/</guid>
       <description>&lt;p&gt;Sometimes you need a way to extract all images in a PDF but then you have a directory of files and you need to extract them iteratively.&lt;/p&gt;&#xA;&lt;p&gt;Prerequisites:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Install &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://www.cygwin.com/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Cygwin&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; or linux environment with Perl support.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Install &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://www.imagemagick.org/script/index.php&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;ImageMagick&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Install &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://pages.cs.wisc.edu/~ghost/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;GhostScript&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

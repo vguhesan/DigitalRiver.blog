@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New Year on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/new-year/</link>
+    <link>https://DigitalRiver.blog/tags/new-year/</link>
     <description>Recent content in New Year on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Dec 2015 17:05:18 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/new-year/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/new-year/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wishing everyone a Happy New Year</title>
-      <link>http://0.0.0.0:1313/2015/12/31/wishing-everyone-a-happy-new-year/</link>
+      <link>https://DigitalRiver.blog/2015/12/31/wishing-everyone-a-happy-new-year/</link>
       <pubDate>Thu, 31 Dec 2015 17:05:18 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2015/12/31/wishing-everyone-a-happy-new-year/</guid>
-      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2015/12/happynewyear.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2015/12/happynewyear.png&#34; alt=&#34;HappyNewYear&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Wishing everyone a Happy New Year. Please feel free to copy the banner and use it on your site or share with others!&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/2015/12/31/wishing-everyone-a-happy-new-year/</guid>
+      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2015/12/happynewyear.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2015/12/happynewyear.png&#34; alt=&#34;HappyNewYear&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Wishing everyone a Happy New Year. Please feel free to copy the banner and use it on your site or share with others!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

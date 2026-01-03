@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java CMS on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/java-cms/</link>
+    <link>https://DigitalRiver.blog/tags/java-cms/</link>
     <description>Recent content in Java CMS on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Mar 2010 00:00:00 -0500</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/java-cms/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/java-cms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to setup Brix-cms (with Apache Jackrabbit as a cluster) - Part 1 of 3</title>
-      <link>http://0.0.0.0:1313/2010/03/08/how-to-setup-brix-cms-with-apache-jackrabbit-as-a-cluster-part-1-of-3/</link>
+      <link>https://DigitalRiver.blog/2010/03/08/how-to-setup-brix-cms-with-apache-jackrabbit-as-a-cluster-part-1-of-3/</link>
       <pubDate>Mon, 08 Mar 2010 00:00:00 -0500</pubDate>
-      <guid>http://0.0.0.0:1313/2010/03/08/how-to-setup-brix-cms-with-apache-jackrabbit-as-a-cluster-part-1-of-3/</guid>
+      <guid>https://DigitalRiver.blog/2010/03/08/how-to-setup-brix-cms-with-apache-jackrabbit-as-a-cluster-part-1-of-3/</guid>
       <description>&lt;p&gt;PS: This tutorial assumes that you are familiar with deploying applications (war files) in Tomcat, setting up datasource\connection pooling using Apache DBCP and in using H2 Database.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Setup two instances of Brix-cms backed by a clustered Jackrabbit JCR on the back-end persisted onto a H2 database.&lt;/p&gt;&#xA;&lt;p&gt;Because there is so much to cover, I will cover the pieces in three installments.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Installment #1:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;What and why of Brix-cms.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Intro into why we care about Brix and JCR.&lt;/p&gt;</description>
     </item>
   </channel>

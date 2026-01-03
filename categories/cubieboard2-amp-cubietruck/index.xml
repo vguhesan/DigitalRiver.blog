@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CubieBoard2 &amp;Amp; CubieTruck on Digital River</title>
-    <link>http://0.0.0.0:1313/categories/cubieboard2-amp-cubietruck/</link>
+    <link>https://DigitalRiver.blog/categories/cubieboard2-amp-cubietruck/</link>
     <description>Recent content in CubieBoard2 &amp;Amp; CubieTruck on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Nov 2013 20:43:57 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/categories/cubieboard2-amp-cubietruck/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/categories/cubieboard2-amp-cubietruck/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cubieboard2 with ARM AllWinner Processor - A20 finally arrived</title>
-      <link>http://0.0.0.0:1313/2013/11/03/cubieboard2-arm-allwinner-processor-a20-finally-arrived/</link>
+      <link>https://DigitalRiver.blog/2013/11/03/cubieboard2-arm-allwinner-processor-a20-finally-arrived/</link>
       <pubDate>Sun, 03 Nov 2013 20:43:57 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2013/11/03/cubieboard2-arm-allwinner-processor-a20-finally-arrived/</guid>
-      <description>&lt;p&gt;Cubieboard2 with ARM AllWinner Processor - A20 finally arrived. Pretty excited about building my ARM Linux embedded system.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2013/11/imag0775.jpg&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2013/11/imag0775.jpg&#34; alt=&#34;CubieTruck&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Learn more about Cubieboard &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://cubieboard.org/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;here&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/2013/11/03/cubieboard2-arm-allwinner-processor-a20-finally-arrived/</guid>
+      <description>&lt;p&gt;Cubieboard2 with ARM AllWinner Processor - A20 finally arrived. Pretty excited about building my ARM Linux embedded system.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2013/11/imag0775.jpg&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2013/11/imag0775.jpg&#34; alt=&#34;CubieTruck&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Learn more about Cubieboard &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://cubieboard.org/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;here&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

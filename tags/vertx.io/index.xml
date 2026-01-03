@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vertx.io on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/vertx.io/</link>
+    <link>https://DigitalRiver.blog/tags/vertx.io/</link>
     <description>Recent content in Vertx.io on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Nov 2012 18:12:15 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/vertx.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/vertx.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting started with vertx (vert.io) - an alternative to node.js</title>
-      <link>http://0.0.0.0:1313/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js-2/</link>
+      <link>https://DigitalRiver.blog/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js-2/</link>
       <pubDate>Thu, 15 Nov 2012 18:12:15 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js-2/</guid>
+      <guid>https://DigitalRiver.blog/2012/11/15/getting-started-with-vertx-vert-io-an-alternative-to-node-js-2/</guid>
       <description>&lt;p&gt;Lately there has been a lot of synergy and publicity around node.js (especially if you want to utilize the robust features of a JavaScript language on the server-side). If you are not familiar with this, I would suggest you look at the following link:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://nodejs.org/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Node.js&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; - Event-driven I/O server-side &lt;em&gt;JavaScript&lt;/em&gt; environment based on V8.&lt;/p&gt;&#xA;&lt;p&gt;If you are a Java developer and as you try out the examples, you will notice how this will be a great addition into your infrastructure. But then as you delve deeper, you may notice some of the short comings such as having to support another full stack of package manager (Node uses &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://npmjs.org/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;NPM&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; as it&amp;rsquo;s package manager) and it has it&amp;rsquo;s own deployment, unit testing, etc. to support. And then the thought might occur that - what-if I had the same infrastructure available natively in the Java stack??? Would that not solve a lot of the logistical challenges? If your answer is &amp;ldquo;yes&amp;rdquo;, then you should look at this library&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>

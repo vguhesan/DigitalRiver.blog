@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantum on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/quantum/</link>
+    <link>https://DigitalRiver.blog/tags/quantum/</link>
     <description>Recent content in Quantum on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 May 2017 00:00:00 -0400</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/quantum/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/quantum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quantum Computing Demands a Whole New Kind of Programmer</title>
-      <link>http://0.0.0.0:1313/2017/05/17/quantum-computing-demands-a-whole-new-kind-of-programmer/</link>
+      <link>https://DigitalRiver.blog/2017/05/17/quantum-computing-demands-a-whole-new-kind-of-programmer/</link>
       <pubDate>Wed, 17 May 2017 00:00:00 -0400</pubDate>
-      <guid>http://0.0.0.0:1313/2017/05/17/quantum-computing-demands-a-whole-new-kind-of-programmer/</guid>
+      <guid>https://DigitalRiver.blog/2017/05/17/quantum-computing-demands-a-whole-new-kind-of-programmer/</guid>
       <description>&lt;blockquote&gt;[![](/img/2017/05/quantum-computing-whole-new-kind-of-programmer-1-1068x601.jpg)](https://singularityhub.com/2017/05/09/quantum-computing-demands-a-whole-new-kind-of-programmer/)Quantum computers finally seem to be coming of age with promises of “quantum supremacy” by the end of the year. But there’s a problem—very few people know how to work them. The bold claim of achieving &#34;quantum supremacy&#34; came on the back of Google unveiling a new quantum chip design. The hyperbolic phrase essentially means building a quantum device that can perform a calculation impossible for any conventional computer.&#xA;&lt;p&gt;The technology has a major challenge to overcome. Programming these devices is much harder than programming conventional computers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nanofridge could keep quantum computers cool enough to calculate</title>
-      <link>http://0.0.0.0:1313/2017/05/11/nanofridge-could-keep-quantum-computers-cool-enough-to-calculate/</link>
+      <link>https://DigitalRiver.blog/2017/05/11/nanofridge-could-keep-quantum-computers-cool-enough-to-calculate/</link>
       <pubDate>Tue, 16 May 2017 00:00:00 -0400</pubDate>
-      <guid>http://0.0.0.0:1313/2017/05/11/nanofridge-could-keep-quantum-computers-cool-enough-to-calculate/</guid>
-      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://www.newscientist.com/article/2130210-nanofridge-could-keep-quantum-computers-cool-enough-to-calculate/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2017/05/lead_fig2.jpg&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;Quantum computers need to be kept cool, just like regular computers, but an ordinary fan won’t cut it. A nanofridge that sorts electrons by temperature just might keep it cool enough to allow quantum compute.&lt;/p&gt;&#xA;&lt;blockquote&gt;Classical computers require built-in fans and other ways to dissipate heat, and quantum computers are no different. Instead of working with bits of information that can be either 0 or 1, as in a classical machine, a quantum computer relies on “qubits”, which can be in both states simultaneously – called a superposition – thanks to the quirks of quantum mechanics. Those qubits must be shielded from all external noise, since the slightest interference will destroy the superposition, resulting in calculation errors. Well-isolated qubits heat up easily, so keeping them cool is a challenge.&#xA;&lt;p&gt;&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/2017/05/11/nanofridge-could-keep-quantum-computers-cool-enough-to-calculate/</guid>
+      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://www.newscientist.com/article/2130210-nanofridge-could-keep-quantum-computers-cool-enough-to-calculate/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/05/lead_fig2.jpg&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;Quantum computers need to be kept cool, just like regular computers, but an ordinary fan won’t cut it. A nanofridge that sorts electrons by temperature just might keep it cool enough to allow quantum compute.&lt;/p&gt;&#xA;&lt;blockquote&gt;Classical computers require built-in fans and other ways to dissipate heat, and quantum computers are no different. Instead of working with bits of information that can be either 0 or 1, as in a classical machine, a quantum computer relies on “qubits”, which can be in both states simultaneously – called a superposition – thanks to the quirks of quantum mechanics. Those qubits must be shielded from all external noise, since the slightest interference will destroy the superposition, resulting in calculation errors. Well-isolated qubits heat up easily, so keeping them cool is a challenge.&#xA;&lt;p&gt;&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

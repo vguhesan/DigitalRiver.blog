@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ffmpeg on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/ffmpeg/</link>
+    <link>https://DigitalRiver.blog/tags/ffmpeg/</link>
     <description>Recent content in Ffmpeg on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Sep 2017 02:06:43 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/ffmpeg/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/ffmpeg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create MP4 video file from Quicktime Mov file on a Mac OS X</title>
-      <link>http://0.0.0.0:1313/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/</link>
+      <link>https://DigitalRiver.blog/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/</link>
       <pubDate>Tue, 19 Sep 2017 02:06:43 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://0.0.0.0:1313/img/2016/11/macosx_blogarticle_100px.png&#34; alt=&#34;macosx_blogarticle_100px&#34;&gt;If you do a screen recording on a Mac, you are most likely using the free Quicktime player that comes with Mac OS X. If you are lucky enough to own a Quicktime Pro then you can simply do an Export &amp;gt; Save-As MP4. For those of you that do not have a Quicktime Pro, then you can use this option.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code class=&#34;language-bash line-numbers&#34;&gt;brew install ffmpeg&#xA;&#xA;# After installation, you can traverse into the directory where you have the .mov file and run the following&#xA;&#xA;ffmpeg -i input-file-name.mov output-file-name.mp4&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Not sure what Brew is? It&amp;rsquo;s the missing package package manager for Mac OS X.&#xA;Use the following link to learn more:&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/2017/09/19/create-mp4-video-file-from-quicktime-mov-file-on-a-mac-os-x/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/2016/11/macosx_blogarticle_100px.png&#34; alt=&#34;macosx_blogarticle_100px&#34;&gt;If you do a screen recording on a Mac, you are most likely using the free Quicktime player that comes with Mac OS X. If you are lucky enough to own a Quicktime Pro then you can simply do an Export &amp;gt; Save-As MP4. For those of you that do not have a Quicktime Pro, then you can use this option.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code class=&#34;language-bash line-numbers&#34;&gt;brew install ffmpeg&#xA;&#xA;# After installation, you can traverse into the directory where you have the .mov file and run the following&#xA;&#xA;ffmpeg -i input-file-name.mov output-file-name.mp4&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Not sure what Brew is? It&amp;rsquo;s the missing package package manager for Mac OS X.&#xA;Use the following link to learn more:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

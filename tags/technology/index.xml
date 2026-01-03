@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/technology/</link>
+    <link>https://DigitalRiver.blog/tags/technology/</link>
     <description>Recent content in Technology on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Apr 2017 19:01:57 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How AI algorithms could help design new drugs? - Futurity</title>
-      <link>http://0.0.0.0:1313/post/2017-04-06/</link>
+      <link>https://DigitalRiver.blog/post/2017-04-06/</link>
       <pubDate>Thu, 06 Apr 2017 19:01:57 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/post/2017-04-06/</guid>
-      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2017/04/ai.jpg&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2017/04/ai.jpg&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;A new kind of AI algorithm—designed to work with a small amount of data—may be able to assist in the early stages of drug development. Artificial intelligence doesn’t work all that well in situations where there is very little data, such as drug development.&#xA;&lt;p&gt;A new technique called one-shot learning, that requires only a small number of data points might be a solution to that low-data problem.&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/post/2017-04-06/</guid>
+      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2017/04/ai.jpg&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/04/ai.jpg&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;A new kind of AI algorithm—designed to work with a small amount of data—may be able to assist in the early stages of drug development. Artificial intelligence doesn’t work all that well in situations where there is very little data, such as drug development.&#xA;&lt;p&gt;A new technique called one-shot learning, that requires only a small number of data points might be a solution to that low-data problem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Future of Web Development: Coding as a Service</title>
-      <link>http://0.0.0.0:1313/2017/03/11/the-future-of-web-development-coding-as-a-service/</link>
+      <link>https://DigitalRiver.blog/2017/03/11/the-future-of-web-development-coding-as-a-service/</link>
       <pubDate>Sat, 11 Mar 2017 00:00:00 -0500</pubDate>
-      <guid>http://0.0.0.0:1313/2017/03/11/the-future-of-web-development-coding-as-a-service/</guid>
-      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2017/03/webdevelopment2.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2017/03/webdevelopment2.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;The article talks about the comoditization of web development as a service (Coding as a Service - CaaS).&lt;/p&gt;&#xA;&lt;blockquote&gt;For the price of two Venti Iced Caramel Macchiatos per month you can run a respectable website with little to no technical experience... Artificial Intelligence will enable more complex combinations of code to be fit together through an automated process... The quantity and quality of customization with AI will be staggering. And for the end user this means it will be at once simpler and cheaper... CaaS via AI will not be limited to people making ‘interesting’ websites. Ultimately CaaS will drive down the time and money necessary for new capabilities in spaces from enterprise to social. But in the near term CaaS will affect programmers who complete relatively simple or scripted tasks, like querying databases for example. No longer will we need armies of coders who expertly understand how to fit if else statements within loops, whether to use Ruby or Angular. AI will be able to do this much faster, with fewer errors, and a greater understanding of system requirements.&lt;/blockquote&gt;&#xA;&lt;p&gt;Read more about it at the link below:&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/2017/03/11/the-future-of-web-development-coding-as-a-service/</guid>
+      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2017/03/webdevelopment2.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/03/webdevelopment2.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;The article talks about the comoditization of web development as a service (Coding as a Service - CaaS).&lt;/p&gt;&#xA;&lt;blockquote&gt;For the price of two Venti Iced Caramel Macchiatos per month you can run a respectable website with little to no technical experience... Artificial Intelligence will enable more complex combinations of code to be fit together through an automated process... The quantity and quality of customization with AI will be staggering. And for the end user this means it will be at once simpler and cheaper... CaaS via AI will not be limited to people making ‘interesting’ websites. Ultimately CaaS will drive down the time and money necessary for new capabilities in spaces from enterprise to social. But in the near term CaaS will affect programmers who complete relatively simple or scripted tasks, like querying databases for example. No longer will we need armies of coders who expertly understand how to fit if else statements within loops, whether to use Ruby or Angular. AI will be able to do this much faster, with fewer errors, and a greater understanding of system requirements.&lt;/blockquote&gt;&#xA;&lt;p&gt;Read more about it at the link below:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Python pycharm - configuring remote interpreters from Windows to Linux</title>
-      <link>http://0.0.0.0:1313/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</link>
+      <link>https://DigitalRiver.blog/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</link>
       <pubDate>Fri, 20 Apr 2012 19:32:53 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</guid>
+      <guid>https://DigitalRiver.blog/2012/04/20/python-pycharm-configuring-remote-interpreters-from-windows-to-linux/</guid>
       <description>&lt;p&gt;If you are an avid Python developer, you may all be excited about the new features available in the Pycharm 2.5 release, especially the remote interpreters, virtualenv and setup.py support. You can read more about the new exciting features &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://www.jetbrains.com/pycharm/whatsnew/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;here&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;But as I started to tinker with the &amp;ldquo;remote interpreter&amp;rdquo; feature - I stumbled upon some challenges and I thought I&amp;rsquo;d document them for other PyCharm users who might benefit from this blog entry.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GoLang on Digital River</title>
-    <link>http://0.0.0.0:1313/categories/golang/</link>
+    <link>https://DigitalRiver.blog/categories/golang/</link>
     <description>Recent content in GoLang on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Sep 2020 00:00:00 -0400</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GoLang: Reader-Writer implemented via bufio library to copy file</title>
-      <link>http://0.0.0.0:1313/post/2020-12-03/</link>
+      <link>https://DigitalRiver.blog/post/2020-12-03/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 -0400</pubDate>
-      <guid>http://0.0.0.0:1313/post/2020-12-03/</guid>
+      <guid>https://DigitalRiver.blog/post/2020-12-03/</guid>
       <description>&lt;h3 id=&#34;how-to-copy-a-file-in-small-portions-into-a-target-file&#34;&gt;How to copy a file in small portions into a target file?&lt;/h3&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s talk about the why?&lt;/p&gt;&#xA;&lt;p&gt;When you copy large files, you want to ensure that you are copying it piece by piece to avoid out-of-memory errors. As a good practice, it&amp;rsquo;s best to consider optimizations during development to avoid edge cases that might creep up in production.&lt;/p&gt;&#xA;&lt;p&gt;Imagine a scenario where your copy file has been working flawlessly until one fine day when a 5GB file is thrown at it to be copied from one location to another. If memory is a problem, then it will throw a out-of-memory and crash.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A URL Shortener Service using Go, Iris and Bolt – Medium</title>
-      <link>http://0.0.0.0:1313/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</link>
+      <link>https://DigitalRiver.blog/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</link>
       <pubDate>Thu, 16 Mar 2017 00:49:33 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://0.0.0.0:1313/img/2016/11/goframework.png?w=1056&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Go (cross-platform language/compiler)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Iris  (web framework in Go)  + Bolt (embedded key-value DB) = one powerful combination&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Read more at&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://medium.com/@kataras/a-url-shortener-service-using-go-iris-and-bolt-4182f0b00ae7#.8ltduw3kf&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;https://medium.com/@kataras/a-url-shortener-service-using-go-iris-and-bolt-4182f0b00ae7#.8ltduw3kf&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/2016/11/goframework.png?w=1056&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Go (cross-platform language/compiler)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Iris  (web framework in Go)  + Bolt (embedded key-value DB) = one powerful combination&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Read more at&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://medium.com/@kataras/a-url-shortener-service-using-go-iris-and-bolt-4182f0b00ae7#.8ltduw3kf&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;https://medium.com/@kataras/a-url-shortener-service-using-go-iris-and-bolt-4182f0b00ae7#.8ltduw3kf&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

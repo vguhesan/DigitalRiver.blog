@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J2EE on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/j2ee/</link>
+    <link>https://DigitalRiver.blog/tags/j2ee/</link>
     <description>Recent content in J2EE on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Sep 2019 23:53:36 -0400</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/j2ee/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/j2ee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Microservices</title>
-      <link>http://0.0.0.0:1313/post/2019-09-06/</link>
+      <link>https://DigitalRiver.blog/post/2019-09-06/</link>
       <pubDate>Fri, 06 Sep 2019 23:53:36 -0400</pubDate>
-      <guid>http://0.0.0.0:1313/post/2019-09-06/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; Understanding how we got here and the problem that it solves will help understand what Microservices is all about.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&#xA;&lt;img &#xA;    &#xA;        src=&#34;http://0.0.0.0:1313/img/logo/microservices.png&#34; &#xA;    &#xA;    &#xA;        alt=&#34;Understanding Microservices&#34;&#xA;    &#xA;     &#xA;        width=&#34;150&#34; &#xA;    &#xA;    &#xA;     &#xA;        align=&#34;left&#34; &#xA;    &#xA;    &#xA;        class=&#34;imgframe&#34; &#xA;    &#xA;    &gt;&#xA;&lt;p&gt;A few months back, I gave a presentation at Leidos Cloud User Group on the topic of &amp;ldquo;Understanding Microservices&amp;rdquo;. To my astonishment, we had about 123 folks that attended the presentation. I felt that it&amp;rsquo;s best that I share this knowledge with the world. I have also created a short (and sweet) implementation of Microservices using JavaScript Cote.js library.&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/post/2019-09-06/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; Understanding how we got here and the problem that it solves will help understand what Microservices is all about.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&#xA;&lt;img &#xA;    &#xA;        src=&#34;https://DigitalRiver.blog/img/logo/microservices.png&#34; &#xA;    &#xA;    &#xA;        alt=&#34;Understanding Microservices&#34;&#xA;    &#xA;     &#xA;        width=&#34;150&#34; &#xA;    &#xA;    &#xA;     &#xA;        align=&#34;left&#34; &#xA;    &#xA;    &#xA;        class=&#34;imgframe&#34; &#xA;    &#xA;    &gt;&#xA;&lt;p&gt;A few months back, I gave a presentation at Leidos Cloud User Group on the topic of &amp;ldquo;Understanding Microservices&amp;rdquo;. To my astonishment, we had about 123 folks that attended the presentation. I felt that it&amp;rsquo;s best that I share this knowledge with the world. I have also created a short (and sweet) implementation of Microservices using JavaScript Cote.js library.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

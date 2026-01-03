@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hypervisior Images on Digital River</title>
-    <link>http://0.0.0.0:1313/categories/hypervisior-images/</link>
+    <link>https://DigitalRiver.blog/categories/hypervisior-images/</link>
     <description>Recent content in Hypervisior Images on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Mar 2017 00:00:00 -0400</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/categories/hypervisior-images/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/categories/hypervisior-images/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kernel debugging with QEMU: An overview of tools available</title>
-      <link>http://0.0.0.0:1313/2017/03/25/kernel-debugging-with-qemu-an-overview-of-tools-available/</link>
+      <link>https://DigitalRiver.blog/2017/03/25/kernel-debugging-with-qemu-an-overview-of-tools-available/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 -0400</pubDate>
-      <guid>http://0.0.0.0:1313/2017/03/25/kernel-debugging-with-qemu-an-overview-of-tools-available/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://0.0.0.0:1313/img/2017/03/script1.png?w=1056&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Good article on leveraging tools such as kmemleak, gdb, printk, ftrace.&#xA;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://dalleau.re/post/qemu_debugging/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;http://dalleau.re/post/qemu_debugging/&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/2017/03/25/kernel-debugging-with-qemu-an-overview-of-tools-available/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/03/script1.png?w=1056&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Good article on leveraging tools such as kmemleak, gdb, printk, ftrace.&#xA;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://dalleau.re/post/qemu_debugging/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;http://dalleau.re/post/qemu_debugging/&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Set Up a TFTP Server on Linux | Linux.com</title>
-      <link>http://0.0.0.0:1313/2017/03/19/set-up-a-tftp-server-on-linux-linux-com/</link>
+      <link>https://DigitalRiver.blog/2017/03/19/set-up-a-tftp-server-on-linux-linux-com/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 -0400</pubDate>
-      <guid>http://0.0.0.0:1313/2017/03/19/set-up-a-tftp-server-on-linux-linux-com/</guid>
-      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2016/11/linuxlogo.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2017/03/linuxlogo.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;Most users are familiar with FTP, but if you want to kickstart Red Hat installs, PXE boot systems, auto-provision VoIP phones or unbrick a Linux-based router, you want a Trivial File Transfer Protocol (TFTP) server. Setting one up on Linux is easy, and a perfect project to take on over the weekend.&lt;/p&gt;&#xA;&lt;p&gt;Source: &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://www.linux.com/learn/weekend-project-set-tftp-server-linux&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Weekend Project: Set Up a TFTP Server on Linux | Linux.com | The source for Linux information&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/2017/03/19/set-up-a-tftp-server-on-linux-linux-com/</guid>
+      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2016/11/linuxlogo.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/03/linuxlogo.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;Most users are familiar with FTP, but if you want to kickstart Red Hat installs, PXE boot systems, auto-provision VoIP phones or unbrick a Linux-based router, you want a Trivial File Transfer Protocol (TFTP) server. Setting one up on Linux is easy, and a perfect project to take on over the weekend.&lt;/p&gt;&#xA;&lt;p&gt;Source: &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://www.linux.com/learn/weekend-project-set-tftp-server-linux&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Weekend Project: Set Up a TFTP Server on Linux | Linux.com | The source for Linux information&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

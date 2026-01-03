@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xcode/IOS License on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/xcode/ios-license/</link>
+    <link>https://DigitalRiver.blog/tags/xcode/ios-license/</link>
     <description>Recent content in Xcode/IOS License on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Sep 2015 19:10:17 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/xcode/ios-license/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/xcode/ios-license/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solved: git status failed with code 69 error when opening SourceTree in Mac OS X</title>
-      <link>http://0.0.0.0:1313/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</link>
+      <link>https://DigitalRiver.blog/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</link>
       <pubDate>Thu, 24 Sep 2015 19:10:17 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</guid>
-      <description>&lt;p&gt;If you receive the following error when opening SourceTree or other applications installed in your Mac OS X, then here is how you can solve it. Sometimes people make things more cryptic than it needs to be.&lt;/p&gt;&#xA;&lt;blockquote&gt;Error encountered&#xA;&lt;p&gt;&amp;lsquo;git status&amp;rsquo; failed with code 69:&amp;rsquo;&lt;/p&gt;&#xA;&lt;p&gt;Agreeing to the Xcode/iOS license requires admin privileges, please re-run as root via sudo.&lt;/blockquote&gt;&lt;/p&gt;&#xA;&lt;p&gt;and here is the example of the screenshot:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2015/09/2015-09-24_14-50-56.jpg&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2015/09/2015-09-24_14-50-56.jpg&#34; alt=&#34;2015-09-24_14-50-56&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/2015/09/24/solved-git-status-failed-with-code-69-error-when-opening-sourcetree-in-mac-os-x/</guid>
+      <description>&lt;p&gt;If you receive the following error when opening SourceTree or other applications installed in your Mac OS X, then here is how you can solve it. Sometimes people make things more cryptic than it needs to be.&lt;/p&gt;&#xA;&lt;blockquote&gt;Error encountered&#xA;&lt;p&gt;&amp;lsquo;git status&amp;rsquo; failed with code 69:&amp;rsquo;&lt;/p&gt;&#xA;&lt;p&gt;Agreeing to the Xcode/iOS license requires admin privileges, please re-run as root via sudo.&lt;/blockquote&gt;&lt;/p&gt;&#xA;&lt;p&gt;and here is the example of the screenshot:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2015/09/2015-09-24_14-50-56.jpg&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2015/09/2015-09-24_14-50-56.jpg&#34; alt=&#34;2015-09-24_14-50-56&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

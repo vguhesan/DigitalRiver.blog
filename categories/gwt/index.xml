@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GWT on Digital River</title>
-    <link>http://0.0.0.0:1313/categories/gwt/</link>
+    <link>https://DigitalRiver.blog/categories/gwt/</link>
     <description>Recent content in GWT on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jul 2011 17:10:55 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/categories/gwt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/categories/gwt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tomcat 6&#43;: Infamous &#34;SEVERE: Error listenerStart&#34; message - How-To debug this error?</title>
-      <link>http://0.0.0.0:1313/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</link>
+      <link>https://DigitalRiver.blog/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</link>
       <pubDate>Fri, 01 Jul 2011 17:10:55 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</guid>
+      <guid>https://DigitalRiver.blog/2011/07/01/tomcat-6-infamous-severe-error-listenerstart-message-how-to-debug-this-error/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m sure if you have been developing with Java and Tomcat for sometime, you are likely to run into the infamous debug error.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;SEVERE: Error listenerStart&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;You will most likely start Googling it trying to find out what the heck is going on. And in trying to see the extended logging on what that &amp;ldquo;listenerStart&amp;rdquo; error means. After some lucky searches, you will see links asking you to drop a &amp;ldquo;log4j.properties&amp;rdquo; file under &amp;lsquo;/WEB-INF/classes&amp;rsquo; directory inside your WAR to help debug which one of the listeners is throwing this crazy error.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maven - GWT - Vaadin - including additional custom jars in a maven project under &#34;\web-inf\lib&#34;</title>
-      <link>http://0.0.0.0:1313/2010/09/15/maven-gwt-vaadin-including-additional-custom-jars-in-a-maven-project/</link>
+      <link>https://DigitalRiver.blog/2010/09/15/maven-gwt-vaadin-including-additional-custom-jars-in-a-maven-project/</link>
       <pubDate>Wed, 15 Sep 2010 18:50:21 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2010/09/15/maven-gwt-vaadin-including-additional-custom-jars-in-a-maven-project/</guid>
+      <guid>https://DigitalRiver.blog/2010/09/15/maven-gwt-vaadin-including-additional-custom-jars-in-a-maven-project/</guid>
       <description>&lt;p&gt;With a lot of folks trying &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://code.google.com/webtoolkit/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Google Web Toolkit (GWT)&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; and\or &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://vaadin.com/home&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Vaadin&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; (combined with Maven), one of the problems that they might encounter is this:&lt;/p&gt;&#xA;&lt;blockquote&gt;How do I get my custom Vaadin themes or GWT jar files included under my &#34;\web-inf\lib&#34; folder inside the war&lt;/blockquote&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://stackoverflow.com/questions/2008821/how-do-i-get-maven-managed-dependencies-copied-into-war-web-inf-lib-so-i-can-run/3720589#3720589&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;link&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt; to the such a question in detail.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GWT and Spring Integration - java.net.InetAddress is a restricted class</title>
-      <link>http://0.0.0.0:1313/2010/09/13/gwt-and-spring-integration-java-net-inetaddress-is-a-restricted-class/</link>
+      <link>https://DigitalRiver.blog/2010/09/13/gwt-and-spring-integration-java-net-inetaddress-is-a-restricted-class/</link>
       <pubDate>Mon, 13 Sep 2010 02:05:51 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2010/09/13/gwt-and-spring-integration-java-net-inetaddress-is-a-restricted-class/</guid>
+      <guid>https://DigitalRiver.blog/2010/09/13/gwt-and-spring-integration-java-net-inetaddress-is-a-restricted-class/</guid>
       <description>&lt;p&gt;When trying to integrate both Spring and GWT, one might encounter the following error in the Spring Eclipse IDE:&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;java.net.InetAddress is a restricted class&amp;rdquo;. The problem happens when you try to use Spring configuration for your database. In my case, I was using Spring to update data back to a H2 database.&lt;/p&gt;&#xA;&lt;p&gt;Well, here&amp;rsquo;s one way to deal with this issue. Disable the &amp;ldquo;Google App Engine&amp;rdquo;. Yes, based on my research, if you&amp;rsquo;re using  GWT, you can disable Google App Engine and still continue your development with GWT.&lt;/p&gt;</description>
     </item>
   </channel>

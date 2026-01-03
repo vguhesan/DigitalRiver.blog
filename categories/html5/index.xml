@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HTML5 on Digital River</title>
-    <link>http://0.0.0.0:1313/categories/html5/</link>
+    <link>https://DigitalRiver.blog/categories/html5/</link>
     <description>Recent content in HTML5 on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Feb 2012 18:36:56 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/categories/html5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/categories/html5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Minimal Maintainable HTML5 Page - Template - index.html</title>
-      <link>http://0.0.0.0:1313/2012/02/25/minimal-maintainable-html5-page-template-index-html/</link>
+      <link>https://DigitalRiver.blog/2012/02/25/minimal-maintainable-html5-page-template-index-html/</link>
       <pubDate>Sat, 25 Feb 2012 18:36:56 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2012/02/25/minimal-maintainable-html5-page-template-index-html/</guid>
+      <guid>https://DigitalRiver.blog/2012/02/25/minimal-maintainable-html5-page-template-index-html/</guid>
       <description>&lt;p&gt;Sometimes I keep searching for a starter HTML5 &amp;ldquo;hello-world&amp;rdquo; - index.html page. So I thought I&amp;rsquo;d blog about it so that others who need it can also take advantage of it.&lt;/p&gt;&#xA;&lt;pre&gt;&#xA;&lt;code class=&#34;language-html line-numbers&#34;&gt;&#xA;&amp;lt;!DOCTYPE html&amp;gt;&#xA;&amp;lt;html lang=en&amp;gt;&#xA;&amp;lt;head&amp;gt;&#xA;&amp;lt;meta charset=utf-8&amp;gt;&#xA;&amp;lt;title&amp;gt;Sample HTML5 index.html from DigitalRiver&amp;lt;/title&amp;gt;&#xA;&amp;lt;/head&amp;gt;&#xA;&amp;lt;body&amp;gt;&#xA;&amp;lt;p&amp;gt;Sample HTML5 index.html from DigitalRiver.wordpress.com&amp;lt;/p&amp;gt;&#xA;&amp;lt;/body&amp;gt;&#xA;&amp;lt;/html&amp;gt;&#xA;&lt;/code&gt;&#xA;&lt;/pre&gt;&#xA;&lt;p&gt;Feel free to copy and use as needed.&lt;/p&gt;&#xA;&lt;p&gt;At some point of time, you&amp;rsquo;re going to need something more than a &amp;lsquo;hello-world&amp;rsquo; and when you cross that road go download the &amp;ldquo;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://html5boilerplate.com/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;HTML5 Boilerplate&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&amp;rdquo;. Below is a quote from their site on what it&amp;rsquo;s all about.&lt;/p&gt;</description>
     </item>
   </channel>

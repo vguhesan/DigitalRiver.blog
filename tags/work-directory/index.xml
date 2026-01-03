@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work Directory on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/work-directory/</link>
+    <link>https://DigitalRiver.blog/tags/work-directory/</link>
     <description>Recent content in Work Directory on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Jun 2011 21:14:22 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/work-directory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/work-directory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How-To: Change Grails User work and cache directory under windows</title>
-      <link>http://0.0.0.0:1313/2011/06/10/how-to-grails-user-work-and-cache-directory-under-windows/</link>
+      <link>https://DigitalRiver.blog/2011/06/10/how-to-grails-user-work-and-cache-directory-under-windows/</link>
       <pubDate>Fri, 10 Jun 2011 21:14:22 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2011/06/10/how-to-grails-user-work-and-cache-directory-under-windows/</guid>
+      <guid>https://DigitalRiver.blog/2011/06/10/how-to-grails-user-work-and-cache-directory-under-windows/</guid>
       <description>&lt;p&gt;The directions below will help you move the Grails user work and cache directory to a different location.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Why?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sometimes your default &amp;ldquo;primary drive&amp;rdquo; may be running out of space and you need to move your workspace else where.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;How?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Create a file called &amp;ldquo;settings.groovy&amp;rdquo; under &amp;ldquo;C:/Users/.grails&amp;rdquo; directory.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Edit this file and add the following line:&#xA;[sourcecode language=&amp;ldquo;jscript&amp;rdquo;]&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;grails.work.dir=&amp;ldquo;D:/grailswork&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;[/sourcecode]&lt;/p&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Make sure that the defined folder exists.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Remove all other content, files and folders in the &amp;ldquo;.grails&amp;rdquo; folder.&lt;/p&gt;</description>
     </item>
   </channel>

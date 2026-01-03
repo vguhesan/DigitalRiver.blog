@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Generate TailwindCSS, FlyonUI resources for your static or backend service that delivers your frontend dashboard - Digital River</title>
+	<title>Node-Free Modern UI: Extracting TailwindCSS and FlyonUI for Go and Python Backends - Digital River</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
-	<meta name="description" content="This article shows you how to extract the stylesheets and JavaScript artifacts needed to power your own Golang or Python based backend server delivering your frontend dashboard as either a static or dynamic website.">
-		<meta property="og:url" content="http://0.0.0.0:1313/post/2026-01-01/">
+	<meta name="description" content="In this guide, I demonstrate how to extract standalone TailwindCSS and FlyonUI artifacts using Bun and PostCSS so you can serve modern, interactive dashboards directly from your Go or Python backend without a dedicated Node.js server.">
+		<meta property="og:url" content="https://DigitalRiver.blog/post/2026-01-01/">
   <meta property="og:site_name" content="Digital River">
-  <meta property="og:title" content="Generate TailwindCSS, FlyonUI resources for your static or backend service that delivers your frontend dashboard">
-  <meta property="og:description" content="This article shows you how to extract the stylesheets and JavaScript artifacts needed to power your own Golang or Python based backend server delivering your frontend dashboard as either a static or dynamic website.">
+  <meta property="og:title" content="Node-Free Modern UI: Extracting TailwindCSS and FlyonUI for Go and Python Backends">
+  <meta property="og:description" content="In this guide, I demonstrate how to extract standalone TailwindCSS and FlyonUI artifacts using Bun and PostCSS so you can serve modern, interactive dashboards directly from your Go or Python backend without a dedicated Node.js server.">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="post">
@@ -39,6 +39,7 @@
 	
 
 	<link rel="shortcut icon" href="/favicon.ico">
+		
 		
 
 
@@ -255,8 +256,8 @@
 <main class="main" role="main">
 	<article class="post" data-pagefind-body>
 		<header class="post__header">
-			<h1 class="post__title">Generate TailwindCSS, FlyonUI resources for your static or backend service that delivers your frontend dashboard</h1>
-			<p class="post__lead">This article shows you how to extract the stylesheets and JavaScript artifacts needed to power your own Golang or Python based backend server delivering your frontend dashboard as either a static or dynamic website.</p>
+			<h1 class="post__title">Node-Free Modern UI: Extracting TailwindCSS and FlyonUI for Go and Python Backends</h1>
+			<p class="post__lead">In this guide, I demonstrate how to extract standalone TailwindCSS and FlyonUI artifacts using Bun and PostCSS so you can serve modern, interactive dashboards directly from your Go or Python backend without a dedicated Node.js server.</p>
 			
 		</header>
 
@@ -278,9 +279,10 @@
 
 		<div class="content post__content clearfix">
 			<br/>
-Source Artifacts: <a href="[https://](https://github.com/vguhesan/tailwindcss-fly`onui-artifacts-extractor)" target="_blank">tailwindcss-flyonui-artifacts-extractor</a>
-<p>This project was created using <code>bun init</code> in bun v1.3.5.</p>
-<p><a
+Source Artifacts: <a href="https://github.com/vguhesan/tailwindcss-flyonui-artifacts-extractor" target="_blank">tailwindcss-flyonui-artifacts-extractor</a>.
+<br/><br/>
+<p><em>This project was created using</em> <code class="language-js">Bun v1.3.5</code>. <em>But you can use</em> <code class="language-js">Node/Npm</code> <em>combination as an alternative. Detailed step-by-step contains both.</em></p>
+<p><em>What is Bun?</em> <a
 
 	
 	
@@ -303,53 +305,208 @@ Source Artifacts: <a href="[https://](https://github.com/vguhesan/tailwindcss-fl
 
 </a> is a fast all-in-one JavaScript runtime.</p>
 <h2 id="tldr">tldr;</h2>
-<p>This project allows you to extract the stylesheets and JavaScript artifacts needed to power your own Golang or Python based backend server delivering your frontend dashboard as either a static or dynamic website.</p>
-<p>You cab grab the latest Flyonui, v2.4.1 artifacts here: <a
-
-	
-
-	
-
-	>
-	
-	<span>
-		./dist/FlyonUI-bundle.zip
-	</span>
-
-</a></p>
-<p>But if you want to build your own using the latest TailwindCSS and FlyonUI, then follow the step by step below to generate your own custom artifacts under the <a
+<p>In this guide, I make getting started with <strong>FlyonUI</strong> as painless as possible.</p>
+<p>Right up front, you’ll find a <a
 
 	
 	
-		href = "#summary"
+		href = "https://github.com/vguhesan/tailwindcss-flyonui-artifacts-extractor/tree/main/dist"
 
 		
 
 	
 
-	>
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
 	
 	<span>
-		Summary
+		quick-download link
 	</span>
 
-</a> section below.</p>
-<p>But on the other hand, if you want to fully understand how the generator works then read the full step-by-step instructions below.</p>
+</a> for the pre-built static FlyonUI stylesheet and JavaScript files — so you can grab them, drop them into your project, and start building a beautiful dashboard in minutes.</p>
+<p>Want the freshest version possible? I’ll show you how to simply clone my Git repository [<a
+
+	
+	
+		href = "https://github.com/vguhesan/tailwindcss-flyonui-artifacts-extractor"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		vguhesan/tailwindcss-flyonui-artifacts-extractor
+	</span>
+
+</a> ] and run just a few commands to generate your own up-to-date CSS and JS artifacts using the latest source code.</p>
+<p><strong>Then we dive into the magic</strong>: I explain exactly how to extract and bundle standalone CSS and JavaScript from <strong>Tailwind CSS and FlyonUI</strong> frameworks. This process was created specifically for <strong>backend developers</strong> working with <strong>Go, Python</strong>, or similar languages who want modern, interactive dashboards without spinning up a full Node.js frontend environment.</p>
+<p>Using the lightning-fast <strong>Bun runtime and PostCSS</strong>, I walk you through generating a custom, optimized bundle that you can serve directly as <strong>static files</strong> from your backend server.</p>
+<p>Follow along with my clear <strong>step-by-step workflow</strong>: start from a basic HTML file and end up with a fully styled, feature-rich interface packed with interactive components.</p>
+<p>The payoff? You get to bring <strong>semantic UI classes</strong> and powerful <strong>headless plugins</strong> into your traditional server-side web apps—keeping everything simple, fast, and free of heavy frontend tooling.</p>
+<p>Ready to jump in? Download the ready-to-go static FlyonUI files and start building your dashboard today!</p>
 <p>To learn more about the dashboard templating system visit the following resources:</p>
 <ul>
-<li><a href="https://flyonui.com/" target="_blank">FlyonUI Dashboards</a></li>
-<li><a href="https://tailwindcss.com/" target="_blank">TailwindCSS Design System</a></li>
+<li><a href="https://github.com/vguhesan/tailwindcss-flyonui-artifacts-extractor/tree/main/dist" target="_blank">Downloadable Artifacts from Repo</a></li>
+<li><a href="https://github.com/vguhesan/tailwindcss-flyonui-artifacts-extractor/" target="_blank">GitHub vguhesan/tailwindcss-flyonui-artifacts-extractor source repository</a></li>
+<li><a href="https://flyonui.com/" target="_blank">Learn more about FlyonUI Dashboards</a></li>
+<li><a href="https://tailwindcss.com/" target="_blank">Learn more about TailwindCSS Design System</a></li>
 </ul>
 <h2 id="why">Why?</h2>
-<p>If you are a frontend developer using either a Python Flask/Django  or a Golang http/Fiber/Gin (or other similar Golang frameworks), and do not see a need for a frontend server delivered via a Node (TypeScript or JavaScript) framework but like the UI framework and design offered by TailwindCSS and FlyonUI then you need a way to extract out the generated styles and dependent scripts for using in your backend framework that pushes the content for your frontend website.</p>
-<p>Below is a typical deployment pattern where this would be useful:</p>
+<p>If you are a developer building applications with <strong>Python (Flask/Django) or Golang (http/Fiber/Gin)</strong>, you might find yourself in a common dilemma: you want the professional, modern aesthetic of <strong>TailwindCSS and FlyonUI</strong>, but you don’t want the complexity of a dedicated Node.js frontend server.</p>
+<p>Many of us prefer to serve our content directly from our backend frameworks as either static or dynamic websites for performance reasons (or moving away from the SPA paradigm or prefer using <a href="https://htmx.org/" target="_blank">HTMX</a>). However, modern UI frameworks are often tightly coupled with the Node ecosystem. <strong>I created this process</strong> because there is a clear need for a bridge: a way to extract the generated styles and dependent scripts so they can be served as simple static assets by a backend that isn&rsquo;t running JavaScript.</p>
+<p>By using this extraction method, you get the best of both worlds:</p>
+<ul>
+<li><strong>The Power of TailwindCSS</strong>: You retain the utility-first design system that makes building beautiful websites easier.</li>
+<li><strong>The Richness of FlyonUI</strong>: You can leverage <strong>daisyUI’s semantic classes</strong> and <strong>Preline’s interactive headless JavaScript plugins</strong> for accessible, responsive UI components without a full React or Vue setup.</li>
+<li><strong>Architectural Simplicity</strong>: You avoid the overhead of a frontend-only server while still delivering high-quality, <strong>interactive dashboards</strong> powered by professional-grade CSS and JS artifacts.</li>
+</ul>
+<p>Ultimately, this allows you to focus on your <strong>Go or Python backend</strong> logic while ensuring your frontend remains modern, responsive, and visually stunning.</p>
+<p>The diagram below shows you the typical deployment pattern that we will be working towards:</p>
 <p><img src="./img/tier-1-deployment-pattern.png" alt="delivering your frontend via Golang or Python backend" title="delivering your frontend via Golang or Python backend"></p>
-<h2 id="base-setup">Base setup</h2>
-<h3 id="pre-requisites">Pre-requisites:</h3>
+<h2 id="option-1-grab-n-go-option">Option-1: Grab-n-go Option</h2>
+<p>Use this option if all you want is a <strong>pre-built static FlyonUI stylesheet and JavaScript</strong> files — so you can grab them, drop them into your project, and start building a beautiful dashboard in minutes.</p>
+<p>You can download the bundle here:
+<a href="https://github.com/vguhesan/tailwindcss-flyonui-artifacts-extractor/tree/main/dist" target="_blank">Downloadable Artifacts from Repo</a></p>
+<p>Please note that as of writing this article, here are the latest version of the stack:</p>
+<ul>
+<li><a
+
+	
+	
+		href = "https://tailwindcss.com/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		TailwindCSS
+	</span>
+
+</a> (v4.1.18)</li>
+<li><a
+
+	
+	
+		href = "https://flyonui.com/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		FlyonUI
+	</span>
+
+</a> (v2.4.1)</li>
+<li><a
+
+	
+	
+		href = "https://icon-sets.iconify.design/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		Iconify
+	</span>
+
+</a> (v1.2.0)</li>
+</ul>
+<p>If you need a more recent version of the resources, then try Option-2 or Option-3 below.</p>
+<h2 id="option-2-generate-fresh-copies">Option-2: Generate fresh copies</h2>
+<p>Want the freshest version possible? Then follow this option.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>cd <span style="color:#f92672">{</span>your-temp-folder<span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Clone the repository locally</span>
+</span></span><span style="display:flex;"><span>git clone https://github.com/vguhesan/tailwindcss-flyonui-artifacts-extractor.git
+</span></span><span style="display:flex;"><span>cd tailwindcss-flyonui-artifacts-extractor
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Clean up old assets</span>
+</span></span><span style="display:flex;"><span>rm -rf ./<span style="color:#f92672">{</span>dist,target<span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>mkdir -p ./<span style="color:#f92672">{</span>dist,target<span style="color:#f92672">}</span>/<span style="color:#f92672">{</span>js,css<span style="color:#f92672">}</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Install your dependencies (you need npm or bun)</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># This brings down the latest versions of all the dev dependencies </span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># npm install</span>
+</span></span><span style="display:flex;"><span>bun install
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Sample output, yours may vary</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># + @iconify/json@2.2.424</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># + @iconify/tailwind4@1.2.0</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># + @tailwindcss/postcss@4.1.18</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># + @types/bun@1.3.5</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># + autoprefixer@10.4.23</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># + flyonui@2.4.1</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># + postcss@8.5.6</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># + postcss-cli@11.0.1</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># + postcss-import@16.1.1</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># + tailwindcss@4.1.18</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># + typescript@5.9.3</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Place the latest FlyonUI JavaScript file (to create the full-bundle)</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Copy `flyonui.js` from node_modules source folder</span>
+</span></span><span style="display:flex;"><span>cp ./node_modules/flyonui/flyonui.js ./target/js/flyonui.js
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Generate your static resources for FlyonUI</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># npx postcss src/css/main.css --output target/css/tailwind-plus-flyonui.css</span>
+</span></span><span style="display:flex;"><span>bunx  postcss src/css/main.css --output target/css/tailwind-plus-flyonui.css
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Copy artifacts from /target to /dist folder</span>
+</span></span><span style="display:flex;"><span>cp ./target/css/tailwind-plus-flyonui.css ./dist/css/;
+</span></span><span style="display:flex;"><span>cp ./target/js/flyonui.js ./dist/js/;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Let&#39;s bundle it for your use in your project</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># tar -czvf ./dist/flyonui-static-resources.tar.gz ./dist/</span>
+</span></span><span style="display:flex;"><span>zip -r ./dist/flyonui-static-resources.zip ./dist/
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Depending upon if you used zip or tar you will </span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># find the end result in one of the two bundles:</span>
+</span></span><span style="display:flex;"><span>./dist/flyonui-static-resources.zip 
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># or</span>
+</span></span><span style="display:flex;"><span>./dist/flyonui-static-resources.tar.gz
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Rinse and repeat as needed</span>
+</span></span></code></pre></div><h2 id="option-3-full-explanation-with-step-by-step">Option-3: Full explanation with step-by-step</h2>
+<p>In this option, we dive into the magic: I will explain exactly how to extract and bundle standalone CSS and JavaScript from Tailwind CSS and FlyonUI frameworks.</p>
+<h3 id="base-setup">Base setup</h3>
+<h4 id="pre-requisites">Pre-requisites:</h4>
 <ol>
-<li>Install Bun</li>
-<li>Install npm</li>
-<li>Install caddy for our webserver (only used for verification).</li>
+<li>Install <a href="https://bun.com/docs/pm/cli/install" target="_blank">Bun</a>.</li>
+<li>Install <a href="https://nodejs.org/en/download" target="_blank">npm</a>.</li>
+<li>Install <a href="https://caddyserver.com/docs/install" target="_blank">caddy</a> for our temporary standalone webserver (only used for verification).</li>
 </ol>
 <p>During my setup, here are the versions that I had on my system:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell-session" data-lang="shell-session"><span style="display:flex;"><span>bun --version
@@ -358,7 +515,7 @@ Source Artifacts: <a href="[https://](https://github.com/vguhesan/tailwindcss-fl
 </span></span><span style="display:flex;"><span>11.6.2
 </span></span><span style="display:flex;"><span>node --version
 </span></span><span style="display:flex;"><span>v24.12.0
-</span></span></code></pre></div><h3 id="scaffolding-setup">Scaffolding setup</h3>
+</span></span></code></pre></div><h4 id="scaffolding-setup">Scaffolding setup</h4>
 <ol>
 <li>Create a bun &lt;blank&gt; project.</li>
 </ol>
@@ -473,7 +630,7 @@ EOF
 </span></span></code></pre></div><p>In a browser open and visit: <code>https://localhost/</code>.</p>
 <p><strong>NOTE: You should see an unstyled page where the buttons will look like plain unstyled HTML page.</strong></p>
 <p><img src="./img/starter-site-no-styles.png" alt="Starter Page with no styles rendered" title="Starter Page with no styles rendered"></p>
-<h2 id="adding-the-styles">Adding the styles</h2>
+<h4 id="adding-the-styles">Adding the styles</h4>
 <ol start="4">
 <li>Install preprocessor/dependent  packages:</li>
 </ol>
@@ -497,7 +654,7 @@ EOF
 </span></span><span style="display:flex;"><span><span style="color:#a6e22e">EOF</span>
 </span></span></code></pre></div><p>This configures the postcss with the three plugins (import, autoprefixer, tailwindcss/postcss)</p>
 <p>Let&rsquo;s begin generating the stylesheets.</p>
-<h2 id="generating-the-tailwindcss-style-sheets">Generating the TailwindCSS style sheets.</h2>
+<h4 id="generating-the-tailwindcss-style-sheets">Generating the TailwindCSS style sheets.</h4>
 <p>Create a <code>\src\css\main.css</code> with the needed &lsquo;@import&rsquo; for TailwindCSS.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>cat <span style="color:#e6db74">&lt;&lt;EOF &gt; ./src/main.css
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">@import &#34;tailwindcss&#34;;
@@ -510,7 +667,7 @@ EOF
 <p><img src="./img/generated-tailwindcss-stylesheet.png" alt="Generated Tailwindcss Stylesheet" title="Generated Tailwindcss Stylesheet"></p>
 <p>As of writing this article, Tailwindcss does not have any JavaScript scripts that are utilized for any front-end. Therefore no JS is generated.</p>
 <p>Onto generating the FlyonUI parts.</p>
-<h3 id="lets-verify-what-we-get">Let&rsquo;s verify what we get.</h3>
+<h4 id="lets-verify-what-we-get">Let&rsquo;s verify what we get.</h4>
 <p>Let&rsquo;s add the newly generated stylesheet to the <code>index.html</code> file.</p>
 <p>In this step, we are simply adding in one stylesheet reference to the HTML:</p>
 <p><code>&lt;link href=&quot;/target/css/tailwind-only.css&quot; rel=&quot;stylesheet&quot;&gt;</code></p>
@@ -560,7 +717,7 @@ EOF
 </span></span></span><span style="display:flex;"><span><span style="color:#e6db74">EOF</span>
 </span></span></code></pre></div><p>Now if you reload the site in your browser, you should see the change with TailwindCSS now rendering correctly (as shown below)</p>
 <p><img src="./img/sample-site-with-tailwindcss.png" alt="Sample page with Tailwindcss parts working" title="Sample page with Tailwindcss parts working"></p>
-<h2 id="generating-the-flyonui-stylesheet-and-javascript">Generating the FlyonUI stylesheet and JavaScript</h2>
+<h4 id="generating-the-flyonui-stylesheet-and-javascript">Generating the FlyonUI stylesheet and JavaScript</h4>
 <p>As of writing this article, FlyonUI combines three other frameworks:</p>
 <p>From the <a href="https://flyonui.com/docs/getting-started/quick-start/?theme=light" target="_blank">FlyonUI website</a>:</p>
 <blockquote>
@@ -594,7 +751,7 @@ Under the hood, it uses the strengths of:
 <p>Let&rsquo;s generate the Tailwind plus FlyonUI artifacts:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span><span style="color:#75715e"># npx postcss src/css/main.css --output target/css/tailwind-plus-flyonui.css</span>
 </span></span><span style="display:flex;"><span>bunx  postcss src/css/main.css --output target/css/tailwind-plus-flyonui.css
-</span></span></code></pre></div><h3 id="lets-verify-what-we-get-1">Let&rsquo;s verify what we get.</h3>
+</span></span></code></pre></div><h4 id="lets-verify-what-we-get-1">Let&rsquo;s verify what we get.</h4>
 <p>Let&rsquo;s add the newly generated stylesheet to the <code>index.html</code> file along with the dependent <code>flyonui.js</code></p>
 <p>In this step, we are simply adding in one stylesheet reference to the HTML:</p>
 <p><code>&lt;link href=&quot;/target/css/tailwind-plus-flyonui.css&quot; rel=&quot;stylesheet&quot;&gt;</code> and <code>&lt;script src=&quot;/target/js/flyonui.js&quot;&gt;&lt;/script&gt;</code></p>
@@ -648,28 +805,80 @@ Under the hood, it uses the strengths of:
 </span></span></code></pre></div><p>Now if you reload the site in your browser, you should see the change with TailwindCSS now rendering correctly (as shown below)</p>
 <p><img src="./img/sample-site-with-tailwindcss-and-flyonui.png" alt="Sample page with Tailwindcss and FlyonUI parts working" title="Sample page with Tailwindcss and FlyonUI parts working"></p>
 <h1 id="summary">Summary</h1>
-<p>In this article, we started with a plain static HTML and we first integrated Tailwindcss. We then integrated Tailwindcss plus FlyonUI artifacts.</p>
-<p>At this point, you can simply copy the pieces you need into your Golang or Python back-end where it serves the artifacts as part of your front-end dashboard development.</p>
-<p>As of this article, here are the versions of each of the generated artifacts that are used:</p>
+<p>In this guide, <strong>I have walked you through the journey</strong> of transforming a plain static HTML file into a professional dashboard by <strong>integrating TailwindCSS and FlyonUI artifacts</strong>. My goal was to provide a clear pathway for <strong>Go and Python developers</strong> to leverage modern UI frameworks without the burden of a dedicated Node.js frontend server.</p>
+<p>By following <strong>my extraction process</strong>, you now have the standalone stylesheets and JavaScript files needed to power your backend-driven website. This setup specifically utilizes the following versions to deliver a rich, interactive experience:</p>
 <ul>
-<li>Tailwindcss, v4.1.18</li>
-<li>Flyonui, v2.4.1</li>
-<li>Iconify, v1.2.0</li>
+<li><a
+
+	
+	
+		href = "https://tailwindcss.com/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		TailwindCSS
+	</span>
+
+</a> (v4.1.18) for utility-first styling.</li>
+<li><a
+
+	
+	
+		href = "https://flyonui.com/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		FlyonUI
+	</span>
+
+</a> (v2.4.1) for semantic components.</li>
+<li><a
+
+	
+	
+		href = "https://icon-sets.iconify.design/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		>
+	
+	<span>
+		Iconify
+	</span>
+
+</a> (v1.2.0) for integrated iconography.</li>
 </ul>
-<p>If you would like to rebulil them with the latest versions of those artifact, you simply need to run the following steps:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span><span style="color:#75715e"># npm install</span>
-</span></span><span style="display:flex;"><span>bun install
-</span></span></code></pre></div><p>Then rebuild the FlyonUI artifacts:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span><span style="color:#75715e"># npx postcss src/css/main.css --output target/css/tailwind-plus-flyonui.css</span>
-</span></span><span style="display:flex;"><span>bunx  postcss src/css/main.css --output target/css/tailwind-plus-flyonui.css
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Grab the latest FlyonUI JavaScript file.</span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Copy `flyonui.js` from node_modules source folder</span>
-</span></span><span style="display:flex;"><span>cp ./node_modules/flyonui/flyonui.js ./target/js/flyonui.js
-</span></span></code></pre></div><p>That&rsquo;s it!</p>
-<p>I hope this article has been useful for you. If you like this article, please consider subscribing and re-share this article in your favorite social post. The blog I run can be found here:
-<a href="https://DigitalRiver.blog/" target="_blank">DigitalRiver.blog</a></p>
-<p>Thanks for checking out.</p>
+<p>If you need to update your UI resources in the future, I have outlined how to easily rebuild them using the Bun runtime and PostCSS. This ensures that your project stays current while your deployment architecture remains simple, efficient, and focused on your primary backend logic.</p>
+<p>I hope this article has been useful for you. If you like this article, please consider resharing this article in your favorite social post.</p>
+<p>The blog I run can be found here: <a href="https://DigitalRiver.blog/" target="_blank">DigitalRiver.blog</a></p>
+<p>Thanks for checking out. Cheers.</p>
 
 		</div>
 		<footer class="post__footer">
@@ -779,7 +988,7 @@ Under the hood, it uses the strengths of:
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
-			<li class="widget__item"><a class="widget__link" href="/post/2026-01-01/">Generate TailwindCSS, FlyonUI resources for your static or backend service that delivers your frontend dashboard</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2026-01-01/">Node-Free Modern UI: Extracting TailwindCSS and FlyonUI for Go and Python Backends</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2024-09-23/">Installing VirtualBox 7.1.0 on macOS and installing a Linux guest machine with Ubuntu 22.04.5 LTS</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2024-07-12/">Airtel / International Roaming / Not receiving OTPs or SMS from India while abroad or in USA?</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2024-03-17/">How to resolve the blob: (blocked:csp) Error?</a></li>
@@ -1139,7 +1348,7 @@ Under the hood, it uses the strengths of:
 		<a class="widget-taglist__link widget__link btn" href="/tags/coding-as-a-service/" title="Coding as a Service">Coding as a Service</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/configuration/" title="Configuration">Configuration</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/containers/" title="Containers">Containers</a>
-		<a class="widget-taglist__link widget__link btn" href="/tags/content-security-policy/" title="Content Security Policy">Content Security Policy</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/content-security-policy/" title="Content-Security-Policy">Content-Security-Policy</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/context/" title="Context">Context</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/context-path/" title="Context Path">Context Path</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/contextpath/" title="ContextPath">ContextPath</a>
@@ -1257,7 +1466,7 @@ Under the hood, it uses the strengths of:
 		<a class="widget-taglist__link widget__link btn" href="/tags/java/" title="Java">Java</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/java-cms/" title="Java CMS">Java CMS</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/java-mvc/" title="Java MVC">Java MVC</a>
-		<a class="widget-taglist__link widget__link btn" href="/tags/javascript/" title="Javascript">Javascript</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/javascript/" title="JavaScript">JavaScript</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/javascript-security/" title="Javascript Security">Javascript Security</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/javascript-window/" title="Javascript Window">Javascript Window</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/javax.servlet/" title="Javax.servlet">Javax.servlet</a>
@@ -1326,7 +1535,7 @@ Under the hood, it uses the strengths of:
 		<a class="widget-taglist__link widget__link btn" href="/tags/operating-systems/" title="Operating Systems">Operating Systems</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/optimization/" title="Optimization">Optimization</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/os-x/" title="OS X">OS X</a>
-		<a class="widget-taglist__link widget__link btn" href="/tags/osx/" title="OSX">OSX</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/osx/" title="Osx">Osx</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/otp/" title="OTP">OTP</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/package/" title="Package">Package</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/packet-size/" title="Packet Size">Packet Size</a>

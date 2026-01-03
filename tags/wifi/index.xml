@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WiFi on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/wifi/</link>
+    <link>https://DigitalRiver.blog/tags/wifi/</link>
     <description>Recent content in WiFi on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Jun 2014 02:51:11 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World with SparkCore</title>
-      <link>http://0.0.0.0:1313/2014/06/18/hello-world-with-sparkcore/</link>
+      <link>https://DigitalRiver.blog/2014/06/18/hello-world-with-sparkcore/</link>
       <pubDate>Wed, 18 Jun 2014 02:51:11 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2014/06/18/hello-world-with-sparkcore/</guid>
-      <description>&lt;p&gt;Finally got my &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://www.spark.io/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;SparkCore&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;, an Arduino built with on-board WiFi (no need for a Arduino WiFi shield). This version is a different take on the &amp;ldquo;Internet of Things&amp;rdquo; and &amp;ldquo;Build internet-connected hardware&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a picture of the Spark connected to the WiFi running my first HelloWorld app downloaded directly from the Spark IDE to the core.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2014/06/sparkcore1-updated.jpg&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2014/06/sparkcore1-updated.jpg&#34; alt=&#34;Spark Core&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/2014/06/18/hello-world-with-sparkcore/</guid>
+      <description>&lt;p&gt;Finally got my &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://www.spark.io/&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;SparkCore&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;, an Arduino built with on-board WiFi (no need for a Arduino WiFi shield). This version is a different take on the &amp;ldquo;Internet of Things&amp;rdquo; and &amp;ldquo;Build internet-connected hardware&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a picture of the Spark connected to the WiFi running my first HelloWorld app downloaded directly from the Spark IDE to the core.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2014/06/sparkcore1-updated.jpg&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2014/06/sparkcore1-updated.jpg&#34; alt=&#34;Spark Core&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

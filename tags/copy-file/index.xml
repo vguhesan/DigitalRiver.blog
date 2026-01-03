@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Copy File on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/copy-file/</link>
+    <link>https://DigitalRiver.blog/tags/copy-file/</link>
     <description>Recent content in Copy File on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Sep 2020 00:00:00 -0400</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/copy-file/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/copy-file/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GoLang: Reader-Writer implemented via bufio library to copy file</title>
-      <link>http://0.0.0.0:1313/post/2020-12-03/</link>
+      <link>https://DigitalRiver.blog/post/2020-12-03/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 -0400</pubDate>
-      <guid>http://0.0.0.0:1313/post/2020-12-03/</guid>
+      <guid>https://DigitalRiver.blog/post/2020-12-03/</guid>
       <description>&lt;h3 id=&#34;how-to-copy-a-file-in-small-portions-into-a-target-file&#34;&gt;How to copy a file in small portions into a target file?&lt;/h3&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s talk about the why?&lt;/p&gt;&#xA;&lt;p&gt;When you copy large files, you want to ensure that you are copying it piece by piece to avoid out-of-memory errors. As a good practice, it&amp;rsquo;s best to consider optimizations during development to avoid edge cases that might creep up in production.&lt;/p&gt;&#xA;&lt;p&gt;Imagine a scenario where your copy file has been working flawlessly until one fine day when a 5GB file is thrown at it to be copied from one location to another. If memory is a problem, then it will throw a out-of-memory and crash.&lt;/p&gt;</description>
     </item>
   </channel>

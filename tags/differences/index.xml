@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Differences on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/differences/</link>
+    <link>https://DigitalRiver.blog/tags/differences/</link>
     <description>Recent content in Differences on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Mar 2017 00:00:00 -0400</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/differences/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/differences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Angular Modules vs ES6 Modules - DZone Web Dev</title>
-      <link>http://0.0.0.0:1313/2017/03/14/angular-modules-vs-es6-modules-dzone-web-dev/</link>
+      <link>https://DigitalRiver.blog/2017/03/14/angular-modules-vs-es6-modules-dzone-web-dev/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 -0400</pubDate>
-      <guid>http://0.0.0.0:1313/2017/03/14/angular-modules-vs-es6-modules-dzone-web-dev/</guid>
-      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2017/03/angularicon1.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2017/03/angularicon1.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;In this post, you&amp;rsquo;ll find a quick tutorial explaining the difference between Angular Module and ESG Modules, and how to best use each of these platforms.&lt;/p&gt;&#xA;&lt;p&gt;Here is a quick summary:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;ES6 Module Example:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code language=&#34;JavaScript&#34;&gt;&#xA;&#xA;import { sqrt } from &#39;math-utils&#39;;&#xA;&#xA;const addition = (val1, val2) =&amp;gt; val1 + val2;&#xA;const subtraction = (val1, val2) =&amp;gt; val1 - val2;&#xA;const multiplication = (val1, val2) =&amp;gt; val1 * val2;&#xA;const calculateSquareRoot = (val) =&amp;gt; sqrt(val);&#xA;&#xA;export { addition, multiplication }&#xA;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;&lt;strong&gt;Angular Module Example:&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/2017/03/14/angular-modules-vs-es6-modules-dzone-web-dev/</guid>
+      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2017/03/angularicon1.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/03/angularicon1.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;In this post, you&amp;rsquo;ll find a quick tutorial explaining the difference between Angular Module and ESG Modules, and how to best use each of these platforms.&lt;/p&gt;&#xA;&lt;p&gt;Here is a quick summary:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;ES6 Module Example:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code language=&#34;JavaScript&#34;&gt;&#xA;&#xA;import { sqrt } from &#39;math-utils&#39;;&#xA;&#xA;const addition = (val1, val2) =&amp;gt; val1 + val2;&#xA;const subtraction = (val1, val2) =&amp;gt; val1 - val2;&#xA;const multiplication = (val1, val2) =&amp;gt; val1 * val2;&#xA;const calculateSquareRoot = (val) =&amp;gt; sqrt(val);&#xA;&#xA;export { addition, multiplication }&#xA;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;&lt;strong&gt;Angular Module Example:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

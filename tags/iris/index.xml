@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iris on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/iris/</link>
+    <link>https://DigitalRiver.blog/tags/iris/</link>
     <description>Recent content in Iris on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Mar 2017 00:49:33 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/iris/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/iris/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A URL Shortener Service using Go, Iris and Bolt – Medium</title>
-      <link>http://0.0.0.0:1313/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</link>
+      <link>https://DigitalRiver.blog/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</link>
       <pubDate>Thu, 16 Mar 2017 00:49:33 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://0.0.0.0:1313/img/2016/11/goframework.png?w=1056&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Go (cross-platform language/compiler)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Iris  (web framework in Go)  + Bolt (embedded key-value DB) = one powerful combination&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Read more at&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://medium.com/@kataras/a-url-shortener-service-using-go-iris-and-bolt-4182f0b00ae7#.8ltduw3kf&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;https://medium.com/@kataras/a-url-shortener-service-using-go-iris-and-bolt-4182f0b00ae7#.8ltduw3kf&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/2017/03/16/a-url-shortener-service-using-go-iris-and-bolt-medium/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/2016/11/goframework.png?w=1056&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Go (cross-platform language/compiler)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Iris  (web framework in Go)  + Bolt (embedded key-value DB) = one powerful combination&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Read more at&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;https://medium.com/@kataras/a-url-shortener-service-using-go-iris-and-bolt-4182f0b00ae7#.8ltduw3kf&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;https://medium.com/@kataras/a-url-shortener-service-using-go-iris-and-bolt-4182f0b00ae7#.8ltduw3kf&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

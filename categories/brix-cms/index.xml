@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brix-Cms on Digital River</title>
-    <link>http://0.0.0.0:1313/categories/brix-cms/</link>
+    <link>https://DigitalRiver.blog/categories/brix-cms/</link>
     <description>Recent content in Brix-Cms on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Mar 2010 20:02:55 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/categories/brix-cms/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/categories/brix-cms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brix-cms and Weblogic 10.3 - Content Length Error - Didn&#39;t meet stated Content-Length</title>
-      <link>http://0.0.0.0:1313/2010/03/09/brix-cms-and-weblogic-10-3-content-length-error-didnt-meet-stated-content-length/</link>
+      <link>https://DigitalRiver.blog/2010/03/09/brix-cms-and-weblogic-10-3-content-length-error-didnt-meet-stated-content-length/</link>
       <pubDate>Tue, 09 Mar 2010 20:02:55 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2010/03/09/brix-cms-and-weblogic-10-3-content-length-error-didnt-meet-stated-content-length/</guid>
+      <guid>https://DigitalRiver.blog/2010/03/09/brix-cms-and-weblogic-10-3-content-length-error-didnt-meet-stated-content-length/</guid>
       <description>&lt;p&gt;When you deploy Brix-cms under Weblogic you will encounter the following issue or error:&lt;/p&gt;&#xA;&lt;blockquote&gt;&lt;Mar 4, 2010 11:56:35 AM EST&gt; &lt;Error&gt; &lt;HTTP&gt; &lt;BEA-101104&gt; &lt;Servlet execution in servlet context &#34;weblogic.servlet.internal.WebAppServletContext@5470a0 - appName : &#39;brixdemo&#39;, name: &#39;BPortal.war&#39;, context-path: &#39;/BPortal&#39;, spec-version: &#39;null&#39;&#34; failed, java.net.ProtocolException: Didn&#39;t meet stated Content-Length, wrote: &#39;0&#39; bytes instead of stated: &#39;318&#39; bytes..&#xA;java.net.ProtocolException: Didn&#39;t meet stated Content-Length, wrote: &#39;0&#39; bytes instead of stated: &#39;318&#39; bytes.&#xA;at weblogic.servlet.internal.ServletOutputStreamImpl.ensureContentLength(ServletOutputStreamImpl.java:422)&#xA;at weblogic.servlet.internal.ServletResponseImpl.ensureContentLength(ServletResponseImpl.java:1416)&#xA;at weblogic.servlet.internal.ServletResponseImpl.send(ServletResponseImpl.java:1459)&#xA;at weblogic.servlet.internal.ServletRequestImpl.run(ServletRequestImpl.java:1415)&#xA;at weblogic.work.ExecuteThread.execute(ExecuteThread.java:201)&#xA;Truncated. see log file for complete stacktrace&#xA;&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Details of the error are documented &lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;http://groups.google.com/group/brix-cms-discuss/browse_thread/thread/e5c20a2f03f07dd7?hl=en&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#x9;target = &#34;_blank&#34;&#xA;&#x9;&#x9;rel = &#34;nofollow noopener noreferrer&#34;&#xA;&#xA;&#x9;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;here&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to setup Brix-cms (with Apache Jackrabbit as a cluster) - Part 1 of 3</title>
-      <link>http://0.0.0.0:1313/2010/03/08/how-to-setup-brix-cms-with-apache-jackrabbit-as-a-cluster-part-1-of-3/</link>
+      <link>https://DigitalRiver.blog/2010/03/08/how-to-setup-brix-cms-with-apache-jackrabbit-as-a-cluster-part-1-of-3/</link>
       <pubDate>Mon, 08 Mar 2010 00:00:00 -0500</pubDate>
-      <guid>http://0.0.0.0:1313/2010/03/08/how-to-setup-brix-cms-with-apache-jackrabbit-as-a-cluster-part-1-of-3/</guid>
+      <guid>https://DigitalRiver.blog/2010/03/08/how-to-setup-brix-cms-with-apache-jackrabbit-as-a-cluster-part-1-of-3/</guid>
       <description>&lt;p&gt;PS: This tutorial assumes that you are familiar with deploying applications (war files) in Tomcat, setting up datasource\connection pooling using Apache DBCP and in using H2 Database.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Objective&lt;/strong&gt;: Setup two instances of Brix-cms backed by a clustered Jackrabbit JCR on the back-end persisted onto a H2 database.&lt;/p&gt;&#xA;&lt;p&gt;Because there is so much to cover, I will cover the pieces in three installments.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Installment #1:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;What and why of Brix-cms.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Intro into why we care about Brix and JCR.&lt;/p&gt;</description>
     </item>
   </channel>

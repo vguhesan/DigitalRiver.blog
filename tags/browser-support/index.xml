@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Browser Support on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/browser-support/</link>
+    <link>https://DigitalRiver.blog/tags/browser-support/</link>
     <description>Recent content in Browser Support on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Nov 2012 19:26:39 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/browser-support/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/browser-support/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cross-Browser Testing for WebSockets</title>
-      <link>http://0.0.0.0:1313/2012/11/13/cross-browser-testing-for-websockets/</link>
+      <link>https://DigitalRiver.blog/2012/11/13/cross-browser-testing-for-websockets/</link>
       <pubDate>Tue, 13 Nov 2012 19:26:39 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2012/11/13/cross-browser-testing-for-websockets/</guid>
+      <guid>https://DigitalRiver.blog/2012/11/13/cross-browser-testing-for-websockets/</guid>
       <description>&lt;p&gt;The traditional way to test for websockets is this:&lt;/p&gt;&#xA;&lt;p&gt;[sourcecode]&#xA;function WebSocketTest()&#xA;{&#xA;if (&amp;ldquo;WebSocket&amp;rdquo; in window)&#xA;{&#xA;alert(&amp;ldquo;Browser supports websocket&amp;rdquo;);&#xA;}&#xA;else&#xA;{&#xA;alert(&amp;ldquo;Browser does not support websocket&amp;rdquo;);&#xA;}&#xA;}&#xA;&amp;hellip;&#xA;&lt;a&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;Run WebSocket test&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&#xA;[/sourcecode]&lt;/p&gt;&#xA;&lt;p&gt;Although the above example will be technically correct for modern browsers it is important to consider some of the &amp;ldquo;experimental&amp;rdquo; implementation of this feature in earlier FireFox (Mozilla) browsers.&lt;/p&gt;&#xA;&lt;p&gt;In FireFox (Mozilla), experimental features (until they graduate) gets added with a prefix of &amp;ldquo;Moz&amp;rdquo;. This has been done for quite some time. So either a feature graduates from the Mozilla academy (which means that they no longer have the prefix of &amp;ldquo;Moz&amp;rdquo;) or they may get removed in future releases. This has been the case for WebSockets.&lt;/p&gt;</description>
     </item>
   </channel>

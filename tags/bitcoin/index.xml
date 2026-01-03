@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bitcoin on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/bitcoin/</link>
+    <link>https://DigitalRiver.blog/tags/bitcoin/</link>
     <description>Recent content in Bitcoin on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Jan 2017 01:17:07 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/bitcoin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/bitcoin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Blockchain Technology? A Step-by-Step Guide For Beginners</title>
-      <link>http://0.0.0.0:1313/2017/01/02/what-is-blockchain-technology-a-step-by-step-guide-for-beginners/</link>
+      <link>https://DigitalRiver.blog/2017/01/02/what-is-blockchain-technology-a-step-by-step-guide-for-beginners/</link>
       <pubDate>Mon, 02 Jan 2017 01:17:07 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2017/01/02/what-is-blockchain-technology-a-step-by-step-guide-for-beginners/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://0.0.0.0:1313/img/2017/01/blockchain_sml.png&#34; alt=&#34;blockchain_sml&#34;&gt;Blockchain technology is not a technology solely for Bitcoin but rather a creative way to keep a digital ledger of economic transactions. This technology can be applied in a variety of fields such that the chain cannot be owned by a single entity and has no single point of failure. It provides a backbone with transparency and incorruptibility. Imagine a world where every transaction, whether it is a real-estate property transaction or a work-contract or an acknowledgement receipt of a email or an acceptance of work or payment or a medication delivery system releasing a medication into a patients blood-stream can be recorded such that it is indisputable and irrevocable. Furthermore, tampering a single unit or transaction in this chain of information will require a huge amount of computing power.&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/2017/01/02/what-is-blockchain-technology-a-step-by-step-guide-for-beginners/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/01/blockchain_sml.png&#34; alt=&#34;blockchain_sml&#34;&gt;Blockchain technology is not a technology solely for Bitcoin but rather a creative way to keep a digital ledger of economic transactions. This technology can be applied in a variety of fields such that the chain cannot be owned by a single entity and has no single point of failure. It provides a backbone with transparency and incorruptibility. Imagine a world where every transaction, whether it is a real-estate property transaction or a work-contract or an acknowledgement receipt of a email or an acceptance of work or payment or a medication delivery system releasing a medication into a patients blood-stream can be recorded such that it is indisputable and irrevocable. Furthermore, tampering a single unit or transaction in this chain of information will require a huge amount of computing power.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

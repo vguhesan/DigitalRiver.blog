@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javascript Security on Digital River</title>
-    <link>http://0.0.0.0:1313/tags/javascript-security/</link>
+    <link>https://DigitalRiver.blog/tags/javascript-security/</link>
     <description>Recent content in Javascript Security on Digital River</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Mar 2017 14:07:11 +0000</lastBuildDate>
-    <atom:link href="http://0.0.0.0:1313/tags/javascript-security/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DigitalRiver.blog/tags/javascript-security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An insecure mess: How flawed JavaScript is turning web into a hacker&#39;s playground | ZDNet</title>
-      <link>http://0.0.0.0:1313/2017/03/13/an-insecure-mess-how-flawed-javascript-is-turning-web-into-a-hackers-playground-zdnet/</link>
+      <link>https://DigitalRiver.blog/2017/03/13/an-insecure-mess-how-flawed-javascript-is-turning-web-into-a-hackers-playground-zdnet/</link>
       <pubDate>Mon, 13 Mar 2017 14:07:11 +0000</pubDate>
-      <guid>http://0.0.0.0:1313/2017/03/13/an-insecure-mess-how-flawed-javascript-is-turning-web-into-a-hackers-playground-zdnet/</guid>
-      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2017/03/hackericon1.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2017/03/hackericon1.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2017/03/javascripticon.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;http://0.0.0.0:1313/img/2017/03/javascripticon.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&#xA;Researchers say tens of thousands of sites are using JavaScript libraries that are years old and contain publicly known vulnerabilities.&lt;/p&gt;&#xA;&lt;blockquote&gt;An analysis of over 133,000 websites has found that 37 percent of them have at least one JavaScript library with a known vulnerability.&#xA;&lt;p&gt;There are no reliable vulnerability databases, no security mailing lists maintained by library vendors, few or no details on security issues in release notes, and often, it is difficult to determine which versions of a library are affected by a specific reported vulnerability.&lt;/blockquote&gt;&lt;/p&gt;</description>
+      <guid>https://DigitalRiver.blog/2017/03/13/an-insecure-mess-how-flawed-javascript-is-turning-web-into-a-hackers-playground-zdnet/</guid>
+      <description>&lt;p&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2017/03/hackericon1.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/03/hackericon1.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&lt;a&#xA;&#xA;&#x9;&#xA;&#x9;&#xA;&#x9;&#x9;href = &#34;/img/2017/03/javascripticon.png&#34;&#xA;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&#xA;&#xA;&#x9;&gt;&#xA;&#x9;&#xA;&#x9;&lt;span&gt;&#xA;&#x9;&#x9;&lt;img src=&#34;https://DigitalRiver.blog/img/2017/03/javascripticon.png&#34; alt=&#34;&#34;&gt;&#xA;&#x9;&lt;/span&gt;&#xA;&#xA;&lt;/a&gt;&#xA;Researchers say tens of thousands of sites are using JavaScript libraries that are years old and contain publicly known vulnerabilities.&lt;/p&gt;&#xA;&lt;blockquote&gt;An analysis of over 133,000 websites has found that 37 percent of them have at least one JavaScript library with a known vulnerability.&#xA;&lt;p&gt;There are no reliable vulnerability databases, no security mailing lists maintained by library vendors, few or no details on security issues in release notes, and often, it is difficult to determine which versions of a library are affected by a specific reported vulnerability.&lt;/blockquote&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
